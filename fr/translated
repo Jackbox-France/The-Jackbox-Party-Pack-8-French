@@ -1,102 +1,3754 @@
 {
- "content": [
-  {
-   "firstPrompt": "J'AI {{BLANK}}",
-   "id": "85487",
-   "isValid": "",
-   "secondPrompt": "J'AI besoin de {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE SUIS {{BLANK}}",
-   "id": "85488",
-   "isValid": "",
-   "secondPrompt": "JE VEUX {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE VAIS {{BLANK}}",
-   "id": "85489",
-   "isValid": "",
-   "secondPrompt": "JE NE VAIS PAS {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE DONNE {{BLANK}}",
-   "id": "85490",
-   "isValid": "",
-   "secondPrompt": "JE PRENDS {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE PEUX {{BLANK}}",
-   "id": "85491",
-   "isValid": "",
-   "secondPrompt": "JE NE PEUX PAS {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "J'ESPERE {{BLANK}}",
-   "id": "85492",
-   "isValid": "",
-   "secondPrompt": "JE SAIS {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE DIS {{BLANK}}",
-   "id": "85493",
-   "isValid": "",
-   "secondPrompt": "JE FAIS {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE CREE {{BLANK}}",
-   "id": "85494",
-   "isValid": "",
-   "secondPrompt": "JE DETRUITS {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE CHERCHE {{BLANK}}",
-   "id": "85495",
-   "isValid": "",
-   "secondPrompt": "JE TROUVE {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE MERITE {{BLANK}}",
-   "id": "85496",
-   "isValid": "",
-   "secondPrompt": "JE RECOIS {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE REVE {{BLANK}}",
-   "id": "85497",
-   "isValid": "",
-   "secondPrompt": "J'AI PEUR {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE PROMETS {{BLANK}}",
-   "id": "85498",
-   "isValid": "",
-   "secondPrompt": "JE DELIVRE {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "JE CROIS {{BLANK}}",
-   "id": "85499",
-   "isValid": "",
-   "secondPrompt": "JE NE CROIS PAS {{BLANK}}",
-   "x": false
-  },
-  {
-   "firstPrompt": "J'ADORE {{BLANK}}",
-   "id": "85500",
-   "isValid": "",
-   "secondPrompt": "JE DETESTE {{BLANK}}",
-   "x": false
-  }
- ]
+  "content": [
+    {
+      "id": "76147",
+      "isValid": "",
+      "prompt": "Quelle est une terrible devise de vie à avoir ?",
+      "x": false
+    },
+    {
+      "id": "76148",
+      "isValid": "",
+      "prompt": "Décrivez votre couleur préférée sans dire de quoi il s'agit.",
+      "x": false
+    },
+    {
+      "id": "76149",
+      "isValid": "",
+      "prompt": "Quel conseil avez-vous reçu récemment ?",
+      "x": false
+    },
+    {
+      "id": "76150",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous diriez à votre jeune vous ?",
+      "x": false
+    },
+    {
+      "id": "76151",
+      "isValid": "",
+      "prompt": "Décrivez une étape d'une recette que vous aimez cuisiner (réelle ou imaginaire).",
+      "x": false
+    },
+    {
+      "id": "76152",
+      "isValid": "",
+      "prompt": "Décrivez un merveilleux parfum de bougie.",
+      "x": false
+    },
+    {
+      "id": "76153",
+      "isValid": "",
+      "prompt": "Qu'avez-vous dit à voix haute récemment ?",
+      "x": false
+    },
+    {
+      "id": "76154",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous avez déjà entendu quelqu'un dire ?",
+      "x": false
+    },
+    {
+      "id": "76155",
+      "isValid": "",
+      "prompt": "Quelle serait une citation mémorable à se rappeler pendant votre parcours scolaire ?",
+      "x": false
+    },
+    {
+      "id": "76156",
+      "isValid": "",
+      "prompt": "Décrivez la texture de votre collation préférée.",
+      "x": false
+    },
+    {
+      "id": "76157",
+      "isValid": "",
+      "prompt": "Décrivez une activité que vous aimiez faire quand vous étiez enfant.",
+      "x": false
+    },
+    {
+      "id": "76158",
+      "isValid": "",
+      "prompt": "Récemment, qu'elle est la chose où vous avez eu des ennuis car vous l'avez fait?",
+      "x": false
+    },
+    {
+      "id": "76159",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous devriez faire sans jamais vous en soucier ?",
+      "x": false
+    },
+    {
+      "id": "76161",
+      "isValid": "",
+      "prompt": "Que faites-vous habituellement le weekend?",
+      "x": false
+    },
+    {
+      "id": "76162",
+      "isValid": "",
+      "prompt": "Que pensez-vous du camping ?",
+      "x": false
+    },
+    {
+      "id": "76163",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous devriez éviter de faire lors d'un premier rendez-vous ?",
+      "x": true
+    },
+    {
+      "id": "76164",
+      "isValid": "",
+      "prompt": "Décrivez la sensation de se faire nettoyer les dents chez le dentiste.",
+      "x": false
+    },
+    {
+      "id": "76165",
+      "isValid": "",
+      "prompt": "Décrivez une étape pour arriver à votre maison.",
+      "x": false
+    },
+    {
+      "id": "76166",
+      "isValid": "",
+      "prompt": "Décrivez un pas d'une danse que vous aimez (réelle ou imaginaire).",
+      "x": false
+    },
+    {
+      "id": "76168",
+      "isValid": "",
+      "prompt": "Quelle est la première chose que vous feriez si vous perdiez votre portefeuille ?",
+      "x": false
+    },
+    {
+      "id": "76169",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous gagniez à la loterie ?",
+      "x": false
+    },
+    {
+      "id": "76170",
+      "isValid": "",
+      "prompt": "Quelle question poseriez-vous à votre célébrité préférée ?",
+      "x": false
+    },
+    {
+      "id": "76171",
+      "isValid": "",
+      "prompt": "Décrivez votre chanson préférée sans utiliser le titre.",
+      "x": false
+    },
+    {
+      "id": "76172",
+      "isValid": "",
+      "prompt": "Décrivez votre film préféré sans utiliser le titre.",
+      "x": false
+    },
+    {
+      "id": "76173",
+      "isValid": "",
+      "prompt": "Décrivez ce qui se passe dans une émission de télévision que vous avez regardée.",
+      "x": false
+    },
+    {
+      "id": "76174",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui vous est arrivé d'embarrassant ?",
+      "x": false
+    },
+    {
+      "id": "76175",
+      "isValid": "",
+      "prompt": "Décrivez votre possession physique préférée.",
+      "x": false
+    },
+    {
+      "id": "76176",
+      "isValid": "",
+      "prompt": "Décrivez vos goûts en matière de meubles.",
+      "x": false
+    },
+    {
+      "id": "76177",
+      "isValid": "",
+      "prompt": "Qu'est-ce que les autres font qui vous agace vraiment ?",
+      "x": false
+    },
+    {
+      "id": "76244",
+      "isValid": "",
+      "prompt": "Décrivez une photo ou une affiche accrochée dans la chambre de votre enfance.",
+      "x": false
+    },
+    {
+      "id": "76245",
+      "isValid": "",
+      "prompt": "Quel jingle commercial vous reste en tête ?",
+      "x": false
+    },
+    {
+      "id": "76246",
+      "isValid": "",
+      "prompt": "Que faites-vous lors d'une journée idéale de vacances?",
+      "x": false
+    },
+    {
+      "id": "76247",
+      "isValid": "",
+      "prompt": "Que vous dirait un pigeon s'il pouvait parler ?",
+      "x": false
+    },
+    {
+      "id": "76248",
+      "isValid": "",
+      "prompt": "Décrivez la sensation d'être réveillé d'une sieste.",
+      "x": false
+    },
+    {
+      "id": "76249",
+      "isValid": "",
+      "prompt": "Décrivez ce qui s'est passé dans un rêve que vous avez fait.",
+      "x": false
+    },
+    {
+      "id": "76250",
+      "isValid": "",
+      "prompt": "Quel est un mauvais conseil pour un jeune diplômé universitaire ?",
+      "x": false
+    },
+    {
+      "id": "76251",
+      "isValid": "",
+      "prompt": "Si un chien pouvait écrire, qu'est-ce qu'il vous enverrait un texto pendant que vous êtes au travail ?",
+      "x": false
+    },
+    {
+      "id": "76252",
+      "isValid": "",
+      "prompt": "Décrivez une image que vous avez vue (ou aimeriez voir) sur un puzzle.",
+      "x": false
+    },
+    {
+      "id": "76253",
+      "isValid": "",
+      "prompt": "Quelle est la première chose que vous feriez si vous rencontriez Beyoncé de manière inattendue ?",
+      "x": false
+    },
+    {
+      "id": "76263",
+      "isValid": "",
+      "prompt": "Décrivez le processus de construction d'un nouveau sandwich. (Créez-en un nouveau.)",
+      "x": false
+    },
+    {
+      "id": "76264",
+      "isValid": "",
+      "prompt": "Quelles mesures prendriez-vous pour effrayer un ours en colère ?",
+      "x": false
+    },
+    {
+      "id": "76265",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous faites de bien pour vous-même quand vous avez le cafard ?",
+      "x": false
+    },
+    {
+      "id": "76266",
+      "isValid": "",
+      "prompt": "Quand vous aviez neuf ans, quel était, pour vous, le vendredi soir parfait ?",
+      "x": false
+    },
+    {
+      "id": "76267",
+      "isValid": "",
+      "prompt": "Prenez une citation de film que vous aimez et changez un mot.",
+      "x": false
+    },
+    {
+      "id": "76268",
+      "isValid": "",
+      "prompt": "Quel est un slogan passionnant pour un ustensile de cuisine commun ?",
+      "x": false
+    },
+    {
+      "id": "76269",
+      "isValid": "",
+      "prompt": "Créez une devise d'état pour un état que vous ne connaissez pas beaucoup.",
+      "x": false
+    },
+    {
+      "id": "76271",
+      "isValid": "",
+      "prompt": "Si vous vous réveilliez dans un corps différent, comment convainqueriez-vous vos amis et votre famille que c'était vous ?",
+      "x": false
+    },
+    {
+      "id": "76273",
+      "isValid": "",
+      "prompt": "Quelle est votre stratégie habituelle dans les escape rooms (ou toute activité de groupe collaboratif) ?",
+      "x": false
+    },
+    {
+      "id": "76282",
+      "isValid": "",
+      "prompt": "Si on vous demandait de redécorer cette pièce, quelle serait la première chose que vous feriez ?",
+      "x": false
+    },
+    {
+      "id": "76286",
+      "isValid": "",
+      "prompt": "Quelle est la meilleure façon de passer le temps un jour de pluie ?",
+      "x": false
+    },
+    {
+      "id": "76288",
+      "isValid": "",
+      "prompt": "Décrivez la ville où vous avez grandi.",
+      "x": false
+    },
+    {
+      "id": "76289",
+      "isValid": "",
+      "prompt": "Quel serait le titre de votre autobiographie ?",
+      "x": false
+    },
+    {
+      "id": "76290",
+      "isValid": "",
+      "prompt": "Si vous deviez vous faire un nouveau tatouage, quelle phrase voudriez-vous sur votre bras ?",
+      "x": false
+    },
+    {
+      "id": "76294",
+      "isValid": "",
+      "prompt": "Racontez une une citation étrange que vous avez rencontré ?",
+      "x": true
+    },
+    {
+      "id": "76296",
+      "isValid": "",
+      "prompt": "Quelles paroles de chanson vous vous chantiez au lycée ?",
+      "x": false
+    },
+    {
+      "id": "76297",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui vous empêche de dormir lorsque vous essayez de dormir ?",
+      "x": false
+    },
+    {
+      "id": "76299",
+      "isValid": "",
+      "prompt": "À quoi ressemblerait votre paradis personnel ?",
+      "x": false
+    },
+    {
+      "id": "76300",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous avez fait d'effrayant sur un coup de tête ou par défi ?",
+      "x": false
+    },
+    {
+      "id": "76301",
+      "isValid": "",
+      "prompt": "Quelle est la chose la plus étrange que vous ayez jamais vue faire sur scène ?",
+      "x": false
+    },
+    {
+      "id": "76302",
+      "isValid": "",
+      "prompt": "Quelle est la chose la plus mignonne que vous ayez jamais vue faire à un bébé ? (Inventez quelque chose si vous n'avez jamais vu de bébé.)",
+      "x": false
+    },
+    {
+      "id": "76303",
+      "isValid": "",
+      "prompt": "Vous êtes à une fête. Votre chanson préférée arrive. Que faises-vous?",
+      "x": false
+    },
+    {
+      "id": "76304",
+      "isValid": "",
+      "prompt": "Comment passez-vous le temps sur les longs trajets en voiture ?",
+      "x": false
+    },
+    {
+      "id": "76322",
+      "isValid": "",
+      "prompt": "Quel est le moment amusant d'un film auquel vous pensez encore ?",
+      "x": false
+    },
+    {
+      "id": "76323",
+      "isValid": "",
+      "prompt": "Pourquoi pensez-vous que l'état de Floride est si étrange ?",
+      "x": false
+    },
+    {
+      "id": "76324",
+      "isValid": "",
+      "prompt": "Si vous trouviez cent dollars, que feriez-vous avec ?",
+      "x": false
+    },
+    {
+      "id": "76325",
+      "isValid": "",
+      "prompt": "Que voudriez-vous dire à un escroc téléphonique ?",
+      "x": false
+    },
+    {
+      "id": "76326",
+      "isValid": "",
+      "prompt": "Si vous rencontriez votre sosie, que lui diriez-vous ?",
+      "x": false
+    },
+    {
+      "id": "76327",
+      "isValid": "",
+      "prompt": "Décrivez ce que c'est que d'assister à une fête où vous ne connaissez personne.",
+      "x": false
+    },
+    {
+      "id": "76328",
+      "isValid": "",
+      "prompt": "Quelle est votre opinion avec laquelle personne n'est d'accord ?",
+      "x": false
+    },
+    {
+      "id": "76329",
+      "isValid": "",
+      "prompt": "Décrivez ce qui arrive à votre corps lorsque vous mangez quelque chose de beaucoup trop épicé.",
+      "x": false
+    },
+    {
+      "id": "76331",
+      "isValid": "",
+      "prompt": "Si vous étiez un détective télé super cool, quel serait votre slogan ?",
+      "x": false
+    },
+    {
+      "id": "76332",
+      "isValid": "",
+      "prompt": "Quelle est une façon plus amusante de dire : « Je te verrai plus tard. »",
+      "x": false
+    },
+    {
+      "id": "76335",
+      "isValid": "",
+      "prompt": "Pourquoi pensez-vous que tant de gens aiment le bowling ?",
+      "x": false
+    },
+    {
+      "id": "76336",
+      "isValid": "",
+      "prompt": "Quelle phrase votre parent préféré utiliserait-il pour vous décrire ?",
+      "x": false
+    },
+    {
+      "id": "76338",
+      "isValid": "",
+      "prompt": "Quel est le commentaire typique que vos enseignants du primaire ont fait sur vos bulletins ?",
+      "x": false
+    },
+    {
+      "id": "76339",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui vous réveille le matin ?",
+      "x": false
+    },
+    {
+      "id": "76365",
+      "isValid": "",
+      "prompt": "Si vous étiez une affiche de motivation, quelle serait votre légende ?",
+      "x": false
+    },
+    {
+      "id": "76453",
+      "isValid": "",
+      "prompt": "Décrivez un premier rendez-vous assez solide.",
+      "x": false
+    },
+    {
+      "id": "76454",
+      "isValid": "",
+      "prompt": "À votre avis, qu'est-ce qu'un ours polaire fait en une journée ?",
+      "x": false
+    },
+    {
+      "id": "76455",
+      "isValid": "",
+      "prompt": "Que faire si vous voyez un loup en randonnée ?",
+      "x": false
+    },
+    {
+      "id": "76456",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous obteniez 10 000 $ et que vous deviez les dépenser aujourd'hui ?",
+      "x": false
+    },
+    {
+      "id": "76457",
+      "isValid": "",
+      "prompt": "Que devrait figurer sur le drapeau officiel de votre état/province/ville ?",
+      "x": false
+    },
+    {
+      "id": "76458",
+      "isValid": "",
+      "prompt": "Décrivez comment vous sortiriez des sables mouvants.",
+      "x": false
+    },
+    {
+      "id": "76459",
+      "isValid": "",
+      "prompt": "Quelle est la dernière question que vous avez recherchée en ligne ? (Ou quelque chose que vous vouliez rechercher.)",
+      "x": false
+    },
+    {
+      "id": "76460",
+      "isValid": "",
+      "prompt": "Décrivez votre buffet idéal.",
+      "x": false
+    },
+    {
+      "id": "76461",
+      "isValid": "",
+      "prompt": "Décrivez une publicité dont vous vous souvenez depuis votre enfance.",
+      "x": false
+    },
+    {
+      "id": "76462",
+      "isValid": "",
+      "prompt": "Quel serait le slogan d'un film sur votre vie ?",
+      "x": false
+    },
+    {
+      "id": "76473",
+      "isValid": "",
+      "prompt": "Que recherchez-vous dans un hôtel de luxe ?",
+      "x": false
+    },
+    {
+      "id": "76474",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'un monstre effrayant pourrait faire de terrifiant ?",
+      "x": false
+    },
+    {
+      "id": "76475",
+      "isValid": "",
+      "prompt": "Quelle est la morale de votre livre pour enfants préféré ?",
+      "x": false
+    },
+    {
+      "id": "76476",
+      "isValid": "",
+      "prompt": "Comment voudriez-vous commettre le meurtre parfait ?",
+      "x": true
+    },
+    {
+      "id": "76477",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui vous arrête en premier lors d'un premier rendez-vous ?",
+      "x": true
+    },
+    {
+      "id": "76478",
+      "isValid": "",
+      "prompt": "Décrivez ce qui se passe dans votre vidéo musicale préférée.",
+      "x": false
+    },
+    {
+      "id": "76479",
+      "isValid": "",
+      "prompt": "Quelle est la pire blague de papa que vous connaissez ?",
+      "x": false
+    },
+    {
+      "id": "76480",
+      "isValid": "",
+      "prompt": "Décrivez comment vous êtes sur la piste de danse.",
+      "x": false
+    },
+    {
+      "id": "76481",
+      "isValid": "",
+      "prompt": "Comment décririez-vous votre sens de la mode ?",
+      "x": false
+    },
+    {
+      "id": "76482",
+      "isValid": "",
+      "prompt": "Quelle est la chose la plus inquiétante qu'une diseuse de bonne aventure puisse vous dire ?",
+      "x": false
+    },
+    {
+      "id": "76483",
+      "isValid": "",
+      "prompt": "Décrivez en détail comment vous mangez de la pizza.",
+      "x": false
+    },
+    {
+      "id": "76485",
+      "isValid": "",
+      "prompt": "Quelle est votre phrase secrète pour saluer les autres espions ? (Comme \"La dinde vole à minuit.\")",
+      "x": false
+    },
+    {
+      "id": "76486",
+      "isValid": "",
+      "prompt": "Décrivez votre plat préféré à un extraterrestre qui n'a jamais vu de nourriture auparavant.",
+      "x": false
+    },
+    {
+      "id": "76491",
+      "isValid": "",
+      "prompt": "Quelle phrase inspirante utiliseriez-vous pour donner un discours d'encouragement à une équipe de football ?",
+      "x": false
+    },
+    {
+      "id": "76493",
+      "isValid": "",
+      "prompt": "Quelles sont les étapes pour faire fonctionner un extincteur? (Inventez-les si vous n'êtes pas sûr.)",
+      "x": false
+    },
+    {
+      "id": "76494",
+      "isValid": "",
+      "prompt": "Quel conseil votre famille vous a-t-elle donné que vous ne transmettrez PAS ?",
+      "x": false
+    },
+    {
+      "id": "76499",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui pend à cette grande tige de fer dans votre jardin ?",
+      "x": false
+    },
+    {
+      "id": "76500",
+      "isValid": "",
+      "prompt": "Comment décririez-vous un vin aromatisé à votre personnalité ?",
+      "x": false
+    },
+    {
+      "id": "76501",
+      "isValid": "",
+      "prompt": "Au sujet de quoi auriez-vous aimé que les gens soient honnêtes avec vous au lycée ?",
+      "x": false
+    },
+    {
+      "id": "76502",
+      "isValid": "",
+      "prompt": "Quelle est l'age requis pour regarder le film de votre vie, et pourquoi ?",
+      "x": true
+    },
+    {
+      "id": "76505",
+      "isValid": "",
+      "prompt": "Que se passe-t-il dans votre tableau préféré ?",
+      "x": false
+    },
+    {
+      "id": "76506",
+      "isValid": "",
+      "prompt": "Décrivez un hibou à quelqu'un qui n'en a jamais vu.",
+      "x": false
+    },
+    {
+      "id": "76507",
+      "isValid": "",
+      "prompt": "Quel est le meilleur slogan de film ? (N'hésitez pas à en inventer un.)",
+      "x": false
+    },
+    {
+      "id": "76508",
+      "isValid": "",
+      "prompt": "Quelle est votre excuse préférée pour sortir des occasions sociales ?",
+      "x": false
+    },
+    {
+      "id": "76511",
+      "isValid": "",
+      "prompt": "Décrivez votre situation relationnelle actuelle en six mots.",
+      "x": true
+    },
+    {
+      "id": "76513",
+      "isValid": "",
+      "prompt": "Décrivez une scène de film que vous trouvez vraiment effrayante",
+      "x": false
+    },
+    {
+      "id": "76515",
+      "isValid": "",
+      "prompt": "Comment exactement un avion peut-il voler ? (N'hésitez pas à raconter n'importe quoi !)",
+      "x": false
+    },
+    {
+      "id": "76516",
+      "isValid": "",
+      "prompt": "Pourquoi feriez-vous un bon leader mondial ?",
+      "x": false
+    },
+    {
+      "id": "76517",
+      "isValid": "",
+      "prompt": "Que pouvez-vous faire mieux que n'importe qui d'autre ?",
+      "x": false
+    },
+    {
+      "id": "76518",
+      "isValid": "",
+      "prompt": "Que se passe-t-il dans votre publicité préférée ?",
+      "x": false
+    },
+    {
+      "id": "76545",
+      "isValid": "",
+      "prompt": "Quelle est la dernière ligne de votre autobiographie ?",
+      "x": false
+    },
+    {
+      "id": "76594",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous feriez d'excitant si vous gagniez 100 millions de dollars ?",
+      "x": false
+    },
+    {
+      "id": "76595",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous devez faire tous les matins ?",
+      "x": false
+    },
+    {
+      "id": "76596",
+      "isValid": "",
+      "prompt": "Mon cousin part en voyage dans le Maine. Vous avez des idées sur ce qu'ils devraient faire là-bas ?",
+      "x": false
+    },
+    {
+      "id": "76597",
+      "isValid": "",
+      "prompt": "Si vous deveniez un montagnard grisonnant, dans quelle activité pensez-vous exceller ?",
+      "x": false
+    },
+    {
+      "id": "76598",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous faites ce week-end ?",
+      "x": false
+    },
+    {
+      "id": "76599",
+      "isValid": "",
+      "prompt": "Quel est un moyen rapide de vous mettre dans l'embarras dans un nouvel emploi ?",
+      "x": false
+    },
+    {
+      "id": "76600",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous aimez faire pour vous détendre ?",
+      "x": false
+    },
+    {
+      "id": "76601",
+      "isValid": "",
+      "prompt": "Quel conseil donneriez-vous à un extraterrestre qui essaie de se fondre dans la masse sur Terre ?",
+      "x": false
+    },
+    {
+      "id": "76602",
+      "isValid": "",
+      "prompt": "Que doit faire un politicien pour obtenir votre vote ?",
+      "x": false
+    },
+    {
+      "id": "76603",
+      "isValid": "",
+      "prompt": "Quelle est la première chose que vous feriez si vous pouviez revenir cinq ans en arrière ?",
+      "x": false
+    },
+    {
+      "id": "76608",
+      "isValid": "",
+      "prompt": "Quelle est la meilleure façon de quitter une fête ?",
+      "x": false
+    },
+    {
+      "id": "76611",
+      "isValid": "",
+      "prompt": "Comment feriez-vous pour sortir une souris de votre maison?",
+      "x": false
+    },
+    {
+      "id": "76612",
+      "isValid": "",
+      "prompt": "Quelle nouvelle loi votre pays devrait-il mettre en œuvre ?",
+      "x": false
+    },
+    {
+      "id": "76613",
+      "isValid": "",
+      "prompt": "Comment transformer un ennemi en ami ?",
+      "x": false
+    },
+    {
+      "id": "76614",
+      "isValid": "",
+      "prompt": "Quel est un projet mémorable que vous avez fait à l'école?",
+      "x": false
+    },
+    {
+      "id": "76615",
+      "isValid": "",
+      "prompt": "Qu'est-ce que quelqu'un pourrait faire pour se faire expulser d'une réception de mariage ?",
+      "x": false
+    },
+    {
+      "id": "76616",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous attendez de la « meilleure grand-mère du monde » ?",
+      "x": false
+    },
+    {
+      "id": "76618",
+      "isValid": "",
+      "prompt": "Que feraient les oiseaux s'ils avaient des mains humaines ?",
+      "x": false
+    },
+    {
+      "id": "76619",
+      "isValid": "",
+      "prompt": "Quel est votre personnage de fiction préféré et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "76620",
+      "isValid": "",
+      "prompt": "Que faisiez-vous à cette époque l'année dernière ?",
+      "x": false
+    },
+    {
+      "id": "76621",
+      "isValid": "",
+      "prompt": "Si une vidéo de vous devenait virale, que voudriez-vous y faire ?",
+      "x": false
+    },
+    {
+      "id": "76625",
+      "isValid": "",
+      "prompt": "Comment tricheriez-vous aux cartes sans vous faire prendre ?",
+      "x": false
+    },
+    {
+      "id": "76639",
+      "isValid": "",
+      "prompt": "Comment passeriez-vous une heure en apesanteur ?",
+      "x": false
+    },
+    {
+      "id": "76640",
+      "isValid": "",
+      "prompt": "Si vous étiez un combattant de MMA, quel serait votre meilleur coup ?",
+      "x": false
+    },
+    {
+      "id": "76641",
+      "isValid": "",
+      "prompt": "Si vous aviez une « danse nuptiale », à quoi ressemblerait-elle ?",
+      "x": true
+    },
+    {
+      "id": "76675",
+      "isValid": "",
+      "prompt": "Quelles sont les parties essentielles d'un moment de bain parfait ?",
+      "x": false
+    },
+    {
+      "id": "76676",
+      "isValid": "",
+      "prompt": "Que faites-vous au lieu de répondre à cet e-mail important ?",
+      "x": true
+    },
+    {
+      "id": "76677",
+      "isValid": "",
+      "prompt": "Quelle est la chose la plus susceptible de vous mettre à regarder BFM-TV ?",
+      "x": false
+    },
+    {
+      "id": "76680",
+      "isValid": "",
+      "prompt": "Quel compliment voudriez-vous recevoir de votre médecin ?",
+      "x": true
+    },
+    {
+      "id": "76681",
+      "isValid": "",
+      "prompt": "Comment décririez-vous votre parcours scolaire ?",
+      "x": true
+    },
+    {
+      "id": "76682",
+      "isValid": "",
+      "prompt": "Comment feriez-vous pour gagner le pactole au casino ?",
+      "x": true
+    },
+    {
+      "id": "76684",
+      "isValid": "",
+      "prompt": "Pouvez-vous décrire la météo d'aujourd'hui... sensuellement ?",
+      "x": true
+    },
+    {
+      "id": "76685",
+      "isValid": "",
+      "prompt": "Pourquoi étiez-vous malheureusement connu au collège ?",
+      "x": false
+    },
+    {
+      "id": "76686",
+      "isValid": "",
+      "prompt": "Décrivez votre journée idéale de congé.",
+      "x": false
+    },
+    {
+      "id": "76687",
+      "isValid": "",
+      "prompt": "Décrivez ce que vous feriez dans un rodéo.",
+      "x": false
+    },
+    {
+      "id": "76688",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous faites toujours avant de partir pour l'aéroport ? (Ou quelque chose que vous aimeriez faire.)",
+      "x": false
+    },
+    {
+      "id": "76689",
+      "isValid": "",
+      "prompt": "Quelle est la fin réconfortante du film sur votre vie ?",
+      "x": false
+    },
+    {
+      "id": "76690",
+      "isValid": "",
+      "prompt": "Que pouvez-vous faire pour adoucir le coup lorsque vous annoncez des mauvaises nouvelles ?",
+      "x": false
+    },
+    {
+      "id": "76692",
+      "isValid": "",
+      "prompt": "Quelle est la première chose que vous feriez si vous deveniez soudain tout-puissant ?",
+      "x": false
+    },
+    {
+      "id": "76706",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous découvriez un monstre sous votre lit ?",
+      "x": false
+    },
+    {
+      "id": "76708",
+      "isValid": "",
+      "prompt": "Quelle est la meilleure façon de vous garantir le poste de président de la république ?",
+      "x": false
+    },
+    {
+      "id": "76709",
+      "isValid": "",
+      "prompt": "Résumez votre chanson préférée en une phrase. (Ou celui que vous souhaiteriez exister.)",
+      "x": false
+    },
+    {
+      "id": "76710",
+      "isValid": "",
+      "prompt": "Que feriez-vous avec votre partenaire lors d'un troisième rendez-vous parfait ?",
+      "x": true
+    },
+    {
+      "id": "76711",
+      "isValid": "",
+      "prompt": "Expliquez en quoi vous ressemblez (ou ne ressemblez pas) à votre animal préféré.",
+      "x": false
+    },
+    {
+      "id": "76712",
+      "isValid": "",
+      "prompt": "Quelle est cette petite habitude que vous n'arrivez tout simplement pas à briser ?",
+      "x": false
+    },
+    {
+      "id": "76714",
+      "isValid": "",
+      "prompt": "Que pourriez-vous faire pour vous préparer à une conversation embarrassante ?",
+      "x": false
+    },
+    {
+      "id": "76716",
+      "isValid": "",
+      "prompt": "Expliquez mal votre livre préféré.",
+      "x": false
+    },
+    {
+      "id": "76718",
+      "isValid": "",
+      "prompt": "Quelle bêtise as-tu tenté étant enfant ?",
+      "x": false
+    },
+    {
+      "id": "76720",
+      "isValid": "",
+      "prompt": "Quel passe-temps avez-vous dont vous êtes un peu gêné de parler à qui que ce soit ?",
+      "x": false
+    },
+    {
+      "id": "76721",
+      "isValid": "",
+      "prompt": "Dans un futur apocalyptique, pourquoi tout le monde viendra-t-il dans votre bunker ?",
+      "x": false
+    },
+    {
+      "id": "76723",
+      "isValid": "",
+      "prompt": "Quelle est la meilleure façon de gâcher un repas de famille ?",
+      "x": false
+    },
+    {
+      "id": "76724",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous avez repoussé depuis bien trop longtemps ?",
+      "x": false
+    },
+    {
+      "id": "76740",
+      "isValid": "",
+      "prompt": "Quelle serait une première phrase bizarre qu'un bambim peut dire ?",
+      "x": false
+    },
+    {
+      "id": "76741",
+      "isValid": "",
+      "prompt": "Qu'elle est une phrase relativement normale à dire lors d'un massage ?",
+      "x": true
+    },
+    {
+      "id": "76743",
+      "isValid": "",
+      "prompt": "Décrivez ce que vous feriez généralement à une danse à l'école.",
+      "x": false
+    },
+    {
+      "id": "76745",
+      "isValid": "",
+      "prompt": "Que se passerait-il lors de votre 90e anniversaire idéal ?",
+      "x": false
+    },
+    {
+      "id": "76746",
+      "isValid": "",
+      "prompt": "Que demanderiez-vous à votre arrière arrière grand-mère, si vous pouviez la rencontrer ?",
+      "x": false
+    },
+    {
+      "id": "76747",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'une chose très clichée à dire dans une lettre de mariage ?",
+      "x": false
+    },
+    {
+      "id": "76748",
+      "isValid": "",
+      "prompt": "Décrivez ce qui se passe dans un match de basket à quelqu'un qui n'en a jamais vu.",
+      "x": false
+    },
+    {
+      "id": "76808",
+      "isValid": "",
+      "prompt": "Décrivez comment vous feriez pour grimper à un palmier.",
+      "x": false
+    },
+    {
+      "id": "76809",
+      "isValid": "",
+      "prompt": "Quels sont les signes qu'une plante a besoin d'eau ?",
+      "x": false
+    },
+    {
+      "id": "76810",
+      "isValid": "",
+      "prompt": "Si vous quittiez votre maison/appartement, que feriez-vous juste avant de partir ?",
+      "x": false
+    },
+    {
+      "id": "76811",
+      "isValid": "",
+      "prompt": "Si vous vous sentez grincheux, que pouvez-vous faire ?",
+      "x": false
+    },
+    {
+      "id": "76812",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous aviez deux fois plus d'énergie que d'habitude ?",
+      "x": false
+    },
+    {
+      "id": "76813",
+      "isValid": "",
+      "prompt": "Quelle est la manière spéciale d'accueillir quelqu'un à l'aéroport ?",
+      "x": false
+    },
+    {
+      "id": "76814",
+      "isValid": "",
+      "prompt": "Décrivez une farce facile dont vous avez entendu parler. (Ou que vous avez testé vous-même !)",
+      "x": false
+    },
+    {
+      "id": "76815",
+      "isValid": "",
+      "prompt": "Décrivez un tour de magie classique.",
+      "x": false
+    },
+    {
+      "id": "76816",
+      "isValid": "",
+      "prompt": "Quel est le devoir le plus important de la demoiselle d'honneur ?",
+      "x": false
+    },
+    {
+      "id": "76817",
+      "isValid": "",
+      "prompt": "Décrivez votre campagne pour devenir président.",
+      "x": false
+    },
+    {
+      "id": "76818",
+      "isValid": "",
+      "prompt": "Quel est un conseil (ou deux) pour surmonter le décalage horaire ?",
+      "x": false
+    },
+    {
+      "id": "76819",
+      "isValid": "",
+      "prompt": "Si vous deviez deviner, quelles sont les deux règles du rugby ? (Ou deux règles que vous souhaiteriez exister.)",
+      "x": false
+    },
+    {
+      "id": "76820",
+      "isValid": "",
+      "prompt": "Quelles sont les étapes nécessaires pour faire des œufs brouillés ?",
+      "x": false
+    },
+    {
+      "id": "76833",
+      "isValid": "",
+      "prompt": "Que pensez-vous des voitures autonomes ?",
+      "x": false
+    },
+    {
+      "id": "76834",
+      "isValid": "",
+      "prompt": "Veuillez expliquer la gravité. (Les mauvaises réponses sont encouragées.)",
+      "x": false
+    },
+    {
+      "id": "76835",
+      "isValid": "",
+      "prompt": "Quel est le problème courant dans les vieilles maisons ?",
+      "x": false
+    },
+    {
+      "id": "76836",
+      "isValid": "",
+      "prompt": "Que pensez-vous que les chirurgiens font toute la journée?",
+      "x": false
+    },
+    {
+      "id": "76837",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui serait une farce amusante pour un camp d'été ?",
+      "x": false
+    },
+    {
+      "id": "76838",
+      "isValid": "",
+      "prompt": "Que pensez-vous que les agriculteurs font pour s'amuser?",
+      "x": false
+    },
+    {
+      "id": "76839",
+      "isValid": "",
+      "prompt": "Que peut faire un chien quand personne ne le regarde ?",
+      "x": false
+    },
+    {
+      "id": "76840",
+      "isValid": "",
+      "prompt": "Qu'est-ce que Shakespeare pourrait dire à propos de la crème glacée ?",
+      "x": false
+    },
+    {
+      "id": "76841",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'un météorologue peut dire d'effrayant lors d'un bulletin météorologique ?",
+      "x": false
+    },
+    {
+      "id": "76842",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous trouviez un gâteau d'anniversaire intact à votre porte ?",
+      "x": false
+    },
+    {
+      "id": "76843",
+      "isValid": "",
+      "prompt": "Que faites-vous lorsque vous êtes nerveux ?",
+      "x": false
+    },
+    {
+      "id": "76844",
+      "isValid": "",
+      "prompt": "Décrivez comment vous pensez que les poulets flirtent.",
+      "x": false
+    },
+    {
+      "id": "76847",
+      "isValid": "",
+      "prompt": "Quelle est une ligne d'une comptine dont vous pensez vous souvenir ?",
+      "x": false
+    },
+    {
+      "id": "76885",
+      "isValid": "",
+      "prompt": "Parlez-moi d'un de vos meilleurs amis.",
+      "x": false
+    },
+    {
+      "id": "76886",
+      "isValid": "",
+      "prompt": "Parlez-moi d'un de vos voisins.",
+      "x": false
+    },
+    {
+      "id": "76887",
+      "isValid": "",
+      "prompt": "Parlez-moi de quelque chose que vous faites le matin.",
+      "x": false
+    },
+    {
+      "id": "76888",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'un pirate pourrait dire en commandant de la nourriture ?",
+      "x": false
+    },
+    {
+      "id": "76889",
+      "isValid": "",
+      "prompt": "Parlez-moi de votre journée parfaite au centre commercial.",
+      "x": false
+    },
+    {
+      "id": "76890",
+      "isValid": "",
+      "prompt": "Comment allez-vous aborder (ou ruiner) votre prochain projet de rénovation de votre maison ?",
+      "x": false
+    },
+    {
+      "id": "76891",
+      "isValid": "",
+      "prompt": "Racontez-moi un souvenir de l'école primaire. (En une phrase.)",
+      "x": false
+    },
+    {
+      "id": "76892",
+      "isValid": "",
+      "prompt": "Dites-moi comment vous montrez au caissier d'un magasin de bricolage que vous savez ce que vous faites. (Ou comment vous ne l'avez pas fait.)",
+      "x": false
+    },
+    {
+      "id": "76893",
+      "isValid": "",
+      "prompt": "Comment avez-vous obtenu votre bijou préféré ?",
+      "x": false
+    },
+    {
+      "id": "76894",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'un dauphin pourrait dire à sa petite amie ?",
+      "x": false
+    },
+    {
+      "id": "76895",
+      "isValid": "",
+      "prompt": "Racontez-moi l'histoire de votre premier baiser. (En une phrase.)",
+      "x": true
+    },
+    {
+      "id": "76896",
+      "isValid": "",
+      "prompt": "Quel titre d'une vidéo vous ferait immédiatement cliquer sur son lien ?",
+      "x": false
+    },
+    {
+      "id": "76897",
+      "isValid": "",
+      "prompt": "Parlez-moi de votre pire Halloween.",
+      "x": false
+    },
+    {
+      "id": "76898",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous aimeriez pouvoir refaire ?",
+      "x": false
+    },
+    {
+      "id": "76899",
+      "isValid": "",
+      "prompt": "Quelle serait votre approche pour vous couper les cheveux ?",
+      "x": false
+    },
+    {
+      "id": "76900",
+      "isValid": "",
+      "prompt": "Parlez-moi d'un bon chien.",
+      "x": false
+    },
+    {
+      "id": "76901",
+      "isValid": "",
+      "prompt": "Comment votre mère vous décrit-elle à ses amis ?",
+      "x": false
+    },
+    {
+      "id": "76902",
+      "isValid": "",
+      "prompt": "Parlez-moi de votre premier concert.",
+      "x": false
+    },
+    {
+      "id": "76903",
+      "isValid": "",
+      "prompt": "Résumez un documentaire que vous avez vu. (Ou que vous souhaitez voir.)",
+      "x": false
+    },
+    {
+      "id": "76904",
+      "isValid": "",
+      "prompt": "Quelle est la règle que vous vous êtes imposée ? (Ou n'importe quelle règle !)",
+      "x": false
+    },
+    {
+      "id": "76905",
+      "isValid": "",
+      "prompt": "Parlez-moi de quelqu'un que vous avez connu au lycée.",
+      "x": false
+    },
+    {
+      "id": "76939",
+      "isValid": "",
+      "prompt": "Spoiler alerte! Décrivez la fin d'un film/série sans parler de son histoire.",
+      "x": false
+    },
+    {
+      "id": "76944",
+      "isValid": "",
+      "prompt": "Quelle est la première chose que vous faites lorsque vous arrivez à l'épicerie?",
+      "x": false
+    },
+    {
+      "id": "76945",
+      "isValid": "",
+      "prompt": "À votre avis, que font les chats quand personne ne regarde ?",
+      "x": false
+    },
+    {
+      "id": "76946",
+      "isValid": "",
+      "prompt": "Décrivez comment vous avez subi votre dernière blessure. (Ou inventez un mensonge vraiment cool à propos d'un.)",
+      "x": false
+    },
+    {
+      "id": "76948",
+      "isValid": "",
+      "prompt": "Quelle leçon avez-vous tirée de la télévision ?",
+      "x": false
+    },
+    {
+      "id": "76949",
+      "isValid": "",
+      "prompt": "Que faites-vous dans les chambres d'hôtel que vous ne faites pas habituellement à la maison ?",
+      "x": false
+    },
+    {
+      "id": "76953",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous essayiez de paraître « cool » ?",
+      "x": false
+    },
+    {
+      "id": "76956",
+      "isValid": "",
+      "prompt": "Décrivez les étapes d'une « mission secrète » que vous avez effectuée. (Ou aimeriez faire.)",
+      "x": false
+    },
+    {
+      "id": "77419",
+      "isValid": "",
+      "prompt": "Quelles sont les choses qui peuvent arriver dans une chanson de country ?",
+      "x": false
+    },
+    {
+      "id": "77420",
+      "isValid": "",
+      "prompt": "Quel genre de choses ferait un très mauvais chien ?",
+      "x": false
+    },
+    {
+      "id": "77421",
+      "isValid": "",
+      "prompt": "Veuillez résumer un livre que vous n'avez jamais lu.",
+      "x": false
+    },
+    {
+      "id": "77422",
+      "isValid": "",
+      "prompt": "Vous distribuez des échantillons de nourriture et vous êtes autorisé à faire [i]TOUT[/i] pour attirer l'attention des acheteurs. Que faites-vous?",
+      "x": false
+    },
+    {
+      "id": "77423",
+      "isValid": "",
+      "prompt": "Le zoo vous demande de remonter le moral d'un panda déprimé. Que faites-vous?",
+      "x": false
+    },
+    {
+      "id": "77426",
+      "isValid": "",
+      "prompt": "Vous êtes normalement un Bad Cop, mais aujourd'hui, vous devez être un Good Cop. Quels genres de choses allez-vous faire ?",
+      "x": false
+    },
+    {
+      "id": "77692",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui a rendu les plus belles vacances de votre vie encore plus spéciales ?",
+      "x": false
+    },
+    {
+      "id": "77694",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous diriez certainement dans votre discours de remerciement d'un diplome ?",
+      "x": false
+    },
+    {
+      "id": "77695",
+      "isValid": "",
+      "prompt": "Quelle est l'expérience sur laquelle vous ferez toujours des folies ?",
+      "x": false
+    },
+    {
+      "id": "77696",
+      "isValid": "",
+      "prompt": "Décrivez le mariage de vos rêves. (Ou celui de quelqu'un d'autre.)",
+      "x": false
+    },
+    {
+      "id": "77697",
+      "isValid": "",
+      "prompt": "Décrivez le processus d'achat d'une maison. (Si vous n'êtes pas sûr,dites n'importe quoi.)",
+      "x": false
+    },
+    {
+      "id": "77698",
+      "isValid": "",
+      "prompt": "Quelle est votre citation préférée que vous avez mémorisée ? (Ou faites une citation qui semble importante.)",
+      "x": false
+    },
+    {
+      "id": "77700",
+      "isValid": "",
+      "prompt": "Quelle est votre opinion sur les végétariens?",
+      "x": false
+    },
+    {
+      "id": "77701",
+      "isValid": "",
+      "prompt": "Expliquez les impôts comme si vous parliez à un enfant.",
+      "x": false
+    },
+    {
+      "id": "77702",
+      "isValid": "",
+      "prompt": "En élevant des enfants, que feriez-vous différemment de vos parents ?",
+      "x": false
+    },
+    {
+      "id": "77703",
+      "isValid": "",
+      "prompt": "Faites de votre mieux pour décrire ce que fait réellement une friteuse à air.",
+      "x": false
+    },
+    {
+      "id": "77704",
+      "isValid": "",
+      "prompt": "Quelle est la première chose que vous feriez si vous vous rendiez compte qu'une apocalypse zombie commençait ?",
+      "x": false
+    },
+    {
+      "id": "77711",
+      "isValid": "",
+      "prompt": "Décrivez votre pire Saint-Valentin. (Ou en inventer une.)",
+      "x": false
+    },
+    {
+      "id": "77715",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous espérez que quelqu'un dise de vous à vos funérailles ?",
+      "x": true
+    },
+    {
+      "id": "77736",
+      "isValid": "",
+      "prompt": "Quel est votre projet de rêve à un million de dollars ?",
+      "x": false
+    },
+    {
+      "id": "77801",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vos parents ont probablement fait pendant que vous n'étiez pas à la maison ?",
+      "x": false
+    },
+    {
+      "id": "77802",
+      "isValid": "",
+      "prompt": "Vous avez une machine à remonter le temps ! Que faites-vous lors de votre DEUXIÈME arrêt ?",
+      "x": false
+    },
+    {
+      "id": "77803",
+      "isValid": "",
+      "prompt": "Pourquoi les humains se donnent-ils des diamants ?",
+      "x": false
+    },
+    {
+      "id": "77804",
+      "isValid": "",
+      "prompt": "Expliquez comment fonctionne le rein. (Ou comment vous pensez que cela fonctionne.)",
+      "x": false
+    },
+    {
+      "id": "77805",
+      "isValid": "",
+      "prompt": "Comment avez-vous préparé votre meilleure photo de classe? (Ou qu'est-ce que vous auriez aimé faire ?)",
+      "x": false
+    },
+    {
+      "id": "77807",
+      "isValid": "",
+      "prompt": "Quelle est la chose la plus super-vilaine que vous ayez faite récemment ? (Ou que vous auriez aimer faire.)",
+      "x": false
+    },
+    {
+      "id": "77809",
+      "isValid": "",
+      "prompt": "Comment avez-vous acquis votre bien le plus précieux ?",
+      "x": false
+    },
+    {
+      "id": "77810",
+      "isValid": "",
+      "prompt": "Décrivez brièvement votre pire expérience d'achat. (Ou en inventer une.)",
+      "x": false
+    },
+    {
+      "id": "77811",
+      "isValid": "",
+      "prompt": "Expliquez comment vous éteindriez un feu sur votre manche.",
+      "x": false
+    },
+    {
+      "id": "77812",
+      "isValid": "",
+      "prompt": "Expliquez brièvement l'intrigue d'une chanson que vous avez entendue. (Ou en inventer une.)",
+      "x": false
+    },
+    {
+      "id": "77813",
+      "isValid": "",
+      "prompt": "Quel est votre fantasme secret lors d'une soirée bien alcoolisée",
+      "x": false
+    },
+    {
+      "id": "77814",
+      "isValid": "",
+      "prompt": "Quelle serait la dernière ligne de votre discours de départ en retraite ?",
+      "x": false
+    },
+    {
+      "id": "77815",
+      "isValid": "",
+      "prompt": "Respectueusement... quelle est votre routine lorsque vous vous douchez ?",
+      "x": true
+    },
+    {
+      "id": "77816",
+      "isValid": "",
+      "prompt": "Décrivez un voyage mémorable que vous avez effectué.",
+      "x": false
+    },
+    {
+      "id": "77817",
+      "isValid": "",
+      "prompt": "Décrivez ce pour quoi votre célébrité préférée est connue sans la nommer.",
+      "x": false
+    },
+    {
+      "id": "77818",
+      "isValid": "",
+      "prompt": "Rapidement ! Dites-moi un mensonge!",
+      "x": false
+    },
+    {
+      "id": "77819",
+      "isValid": "",
+      "prompt": "Comment fonctionne la pluie ? (Invente quelque chose si tu ne sais pas !)",
+      "x": false
+    },
+    {
+      "id": "77820",
+      "isValid": "",
+      "prompt": "Décrivez une fois où vous étiez vraiment fier de quelqu'un d'autre.",
+      "x": false
+    },
+    {
+      "id": "77827",
+      "isValid": "",
+      "prompt": "Expliquez comment les volcans éclatent. (Si vous ne le savez pas, inventez-le.)",
+      "x": false
+    },
+    {
+      "id": "77828",
+      "isValid": "",
+      "prompt": "Expliquez pourquoi les loups hurlent à la lune. (Faites votre meilleure estimation.)",
+      "x": false
+    },
+    {
+      "id": "77829",
+      "isValid": "",
+      "prompt": "Décrivez une personne qui pourrait vivre dans les murs de votre maison.",
+      "x": false
+    },
+    {
+      "id": "77831",
+      "isValid": "",
+      "prompt": "Quelle est la meilleure partie de votre trajet du matin? (Ou votre routine avant le travail.)",
+      "x": false
+    },
+    {
+      "id": "77832",
+      "isValid": "",
+      "prompt": "Que feriez-vous si un oiseau vous volait votre montre ?",
+      "x": false
+    },
+    {
+      "id": "77833",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'une salamandre aime probablement faire pour s'amuser ?",
+      "x": false
+    },
+    {
+      "id": "77834",
+      "isValid": "",
+      "prompt": "Vous êtes chargé de créer une fresque publique géante. Quelle scène peignez-vous ?",
+      "x": false
+    },
+    {
+      "id": "77835",
+      "isValid": "",
+      "prompt": "Si vous étiez un personnage dans un film d'horreur, comment pensez-vous que vous mourriez (ou survivriez) ?",
+      "x": false
+    },
+    {
+      "id": "77836",
+      "isValid": "",
+      "prompt": "Quelle est la meilleure lorsque vous vous déplacez à travers le pays?",
+      "x": false
+    },
+    {
+      "id": "77837",
+      "isValid": "",
+      "prompt": "Comment un poète décrirait-il votre dessert préféré ?",
+      "x": false
+    },
+    {
+      "id": "77838",
+      "isValid": "",
+      "prompt": "Pourquoi ne devrions-nous plus nous laver ?",
+      "x": false
+    },
+    {
+      "id": "77839",
+      "isValid": "",
+      "prompt": "Décrivez comment vous marcheriez sur une planète faite de pop-corn.",
+      "x": false
+    },
+    {
+      "id": "77840",
+      "isValid": "",
+      "prompt": "Comment un cow-boy appelle un taxi ?",
+      "x": false
+    },
+    {
+      "id": "77841",
+      "isValid": "",
+      "prompt": "Décrivez le Michael Jordan des brigadiers.",
+      "x": false
+    },
+    {
+      "id": "77842",
+      "isValid": "",
+      "prompt": "Quels conseils donneriez-vous à votre enfant de six ans ?",
+      "x": false
+    },
+    {
+      "id": "77927",
+      "isValid": "",
+      "prompt": "Décrivez ce qui se passe dans votre livre préféré lors de votre enfance.",
+      "x": false
+    },
+    {
+      "id": "77928",
+      "isValid": "",
+      "prompt": "Décrivez une fois où vous avez dû mentir.",
+      "x": false
+    },
+    {
+      "id": "77930",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui vous manquera de faire sur Terre lorsque nous partirons tous vivre sur la Lune ?",
+      "x": false
+    },
+    {
+      "id": "77931",
+      "isValid": "",
+      "prompt": "Décrivez un souvenir que vous avez lorsque vous étiez très jeune.",
+      "x": false
+    },
+    {
+      "id": "77932",
+      "isValid": "",
+      "prompt": "Que feriez-vous de votre temps si vous étiez riche de manière indépendante et n'aviez pas à travailler ?",
+      "x": false
+    },
+    {
+      "id": "77933",
+      "isValid": "",
+      "prompt": "Si vous deviez monter un animal autre qu'un cheval comme moyen de transport principal, que monteriez-vous et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "77935",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'une personne pourrait faire pour garantir qu'elle serait votre ennemi mortel à vie ?",
+      "x": false
+    },
+    {
+      "id": "77936",
+      "isValid": "",
+      "prompt": "Si vous deviez écrire un roman, de quoi parleriez-vous ?",
+      "x": false
+    },
+    {
+      "id": "77937",
+      "isValid": "",
+      "prompt": "Décrivez quelque chose qui s'est passé lors d'une sortie scolaire. (Ou quelque chose que vous souhaiteriez qu'il se produise.)",
+      "x": false
+    },
+    {
+      "id": "77939",
+      "isValid": "",
+      "prompt": "Décrivez le processus de fabrication des raviolis selon vous.",
+      "x": false
+    },
+    {
+      "id": "77940",
+      "isValid": "",
+      "prompt": "Quelle est la chose qu'un nouveau parent devrait faire pour se préparer à son premier enfant ?",
+      "x": false
+    },
+    {
+      "id": "77941",
+      "isValid": "",
+      "prompt": "Décrivez ce que vous faites lors d'une « soirée » typique.",
+      "x": false
+    },
+    {
+      "id": "77942",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui s'est passé dans une terrible émission de télévision que vous avez vue ?",
+      "x": false
+    },
+    {
+      "id": "77944",
+      "isValid": "",
+      "prompt": "Quelle est une chose soi-disant amusante que vous ayez faite et que vous ne referiez plus jamais ? (Ou quelque chose que vous n'essaierez jamais en premier lieu.)",
+      "x": false
+    },
+    {
+      "id": "78030",
+      "isValid": "",
+      "prompt": "Théoriquement... comment cacheriez-vous un cadavre ?",
+      "x": true
+    },
+    {
+      "id": "78032",
+      "isValid": "",
+      "prompt": "Décrivez les étapes physiques impliquées dans votre pose de yoga préférée. (Ou en inventer un !)",
+      "x": false
+    },
+    {
+      "id": "78033",
+      "isValid": "",
+      "prompt": "Que dites-vous pour démarrer une baston en pleine soirée ?",
+      "x": false
+    },
+    {
+      "id": "78037",
+      "isValid": "",
+      "prompt": "Comment vous débarrasseriez-vous d'une citrouille si vous n'aviez que 30 secondes ?",
+      "x": false
+    },
+    {
+      "id": "78038",
+      "isValid": "",
+      "prompt": "Sans le nommer, décrivez votre œuvre d'art préférée. (Ou une pièce que vous souhaiteriez exister.)",
+      "x": false
+    },
+    {
+      "id": "78042",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'une VRAIE petite chose qui te rend VRAIMENT heureux ?",
+      "x": false
+    },
+    {
+      "id": "78068",
+      "isValid": "",
+      "prompt": "Quelle est la dernière phrase de votre histoire effrayante préférée? (N'hésitez pas à en créer une !)",
+      "x": false
+    },
+    {
+      "id": "78069",
+      "isValid": "",
+      "prompt": "Décrivez la pire robe de demoiselle d'honneur possible.",
+      "x": false
+    },
+    {
+      "id": "78070",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous étiez enfermé dans un zoo pendant la nuit ? (Et votre sécurité personnelle était-elle garantie ?)",
+      "x": false
+    },
+    {
+      "id": "78072",
+      "isValid": "",
+      "prompt": "Que font les gens qui travaillent dans un sous-marin toute la journée ?",
+      "x": false
+    },
+    {
+      "id": "78073",
+      "isValid": "",
+      "prompt": "Décrivez un événement qui pourrait faire pleurer un apiculteur.",
+      "x": false
+    },
+    {
+      "id": "78074",
+      "isValid": "",
+      "prompt": "Vous venez d'apprendre que Bigfoot est réel. Que faites-vous ?",
+      "x": false
+    },
+    {
+      "id": "78075",
+      "isValid": "",
+      "prompt": "Vous voulez faire un grand geste romantique. Que faites-vous ?",
+      "x": false
+    },
+    {
+      "id": "78077",
+      "isValid": "",
+      "prompt": "Quelle serait une nouvelle règle amusante pour dans ce jeu ?",
+      "x": false
+    },
+    {
+      "id": "78090",
+      "isValid": "",
+      "prompt": "Que pensez-vous de ce jeu ?",
+      "x": false
+    },
+    {
+      "id": "78107",
+      "isValid": "",
+      "prompt": "A votre avis, à quoi ressemble l'au-delà ?",
+      "x": true
+    },
+    {
+      "id": "78110",
+      "isValid": "",
+      "prompt": "Si vous deviez donner un discourd, de quoi parleriez-vous et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "78116",
+      "isValid": "",
+      "prompt": "Décrivez brièvement votre premier coup de cœur. (Ou en inventer un !)",
+      "x": false
+    },
+    {
+      "id": "78118",
+      "isValid": "",
+      "prompt": "Décrivez votre routine nocturne avant d'aller au lit.",
+      "x": false
+    },
+    {
+      "id": "78120",
+      "isValid": "",
+      "prompt": "Que diriez-vous à un enfant qui a poussé son frère ou sa sœur ?",
+      "x": false
+    },
+    {
+      "id": "78122",
+      "isValid": "",
+      "prompt": "Que considéreriez-vous comme une soirée parfaite entre amis ?",
+      "x": false
+    },
+    {
+      "id": "78239",
+      "isValid": "",
+      "prompt": "Comment aimez-vous passer vos vacances préférées ?",
+      "x": false
+    },
+    {
+      "id": "78240",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui s'est passé lors de votre fête d'anniversaire la plus mémorable ?",
+      "x": false
+    },
+    {
+      "id": "78246",
+      "isValid": "",
+      "prompt": "Décrivez un événement météorologique intéressant dont vous avez été témoin. (Ou entendu parler!)",
+      "x": false
+    },
+    {
+      "id": "78248",
+      "isValid": "",
+      "prompt": "Donnez un bref résumé d'un conte de fées.",
+      "x": false
+    },
+    {
+      "id": "78249",
+      "isValid": "",
+      "prompt": "Décrivez ce qui se passe dans une comptine dont vous vous souvenez.",
+      "x": false
+    },
+    {
+      "id": "78250",
+      "isValid": "",
+      "prompt": "Décrivez votre vêtement préféré.",
+      "x": false
+    },
+    {
+      "id": "78251",
+      "isValid": "",
+      "prompt": "Si tu courais... comment ça se passerait ?",
+      "x": false
+    },
+    {
+      "id": "78253",
+      "isValid": "",
+      "prompt": "Quelle est la meilleure chose que quelqu'un ait écrite dans votre annuaire ? (Ou vous aimeriez qu'ils écrivent.)",
+      "x": false
+    },
+    {
+      "id": "78254",
+      "isValid": "",
+      "prompt": "Que faites-vous pour préparer un voyage à la plage?",
+      "x": false
+    },
+    {
+      "id": "78291",
+      "isValid": "",
+      "prompt": "Décrivez une fois où vous avez tenu tête à une figure d'autorité. (Ou souhaite que vous l'ayez fait au moins une fois.)",
+      "x": false
+    },
+    {
+      "id": "78292",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous rencontriez un ours ?",
+      "x": false
+    },
+    {
+      "id": "78294",
+      "isValid": "",
+      "prompt": "Quelle est quelque chose que vous avez fait et dont vous êtes vraiment fier ? (Grand ou petit!)",
+      "x": false
+    },
+    {
+      "id": "78296",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous avez vu qui vous a inspiré récemment ?",
+      "x": false
+    },
+    {
+      "id": "78451",
+      "isValid": "",
+      "prompt": "Comment devient-on astronaute ? (Devinez si vous ne savez pas.)",
+      "x": false
+    },
+    {
+      "id": "78452",
+      "isValid": "",
+      "prompt": "Comment pensez-vous que la crème glacée est faite?",
+      "x": false
+    },
+    {
+      "id": "78453",
+      "isValid": "",
+      "prompt": "Décrivez brièvement une grande scène d'un film que vous avez vu.",
+      "x": false
+    },
+    {
+      "id": "78454",
+      "isValid": "",
+      "prompt": "Quelle est votre activité préférée dans un parc d'attractions ?",
+      "x": false
+    },
+    {
+      "id": "78455",
+      "isValid": "",
+      "prompt": "Si Mozart avait voyagé dans le temps jusqu'à nos jours, que pensez-vous qu'il ferait en premier ?",
+      "x": false
+    },
+    {
+      "id": "78456",
+      "isValid": "",
+      "prompt": "Comment fonctionne une horloge ? (Faites votre meilleure estimation.)",
+      "x": false
+    },
+    {
+      "id": "78457",
+      "isValid": "",
+      "prompt": "Comment faire du guacamole ? (Si vous ne savez pas, devinez.)",
+      "x": false
+    },
+    {
+      "id": "78458",
+      "isValid": "",
+      "prompt": "Quel est le meilleur endroit pour se garer au centre commercial et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "78459",
+      "isValid": "",
+      "prompt": "Que font les fantômes quand ils sont seuls ?",
+      "x": false
+    },
+    {
+      "id": "78460",
+      "isValid": "",
+      "prompt": "Que pensez-vous que les chefs culinaire font pendant leur jour de congé ?",
+      "x": false
+    },
+    {
+      "id": "79040",
+      "isValid": "",
+      "prompt": "Expliquez-moi le cycle de l'eau comme si j'avais cinq ans.",
+      "x": false
+    },
+    {
+      "id": "79041",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous aimeriez faire avant de mourir ?",
+      "x": true
+    },
+    {
+      "id": "79043",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui pourrait vous arriver pour vous faire penser « J'ai enfin réussi » ?",
+      "x": false
+    },
+    {
+      "id": "79280",
+      "isValid": "",
+      "prompt": "Décrivez ce que vous feriez si vous vous réveilliez un matin et deveniez un grizzli.",
+      "x": false
+    },
+    {
+      "id": "79286",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous changiez de place comme par magie avec un milliardaire ?",
+      "x": false
+    },
+    {
+      "id": "79290",
+      "isValid": "",
+      "prompt": "Je viens de me réveiller d'un coma. Comment expliqueriez-vous de manière concise les événements des cinq dernières années ?",
+      "x": false
+    },
+    {
+      "id": "79291",
+      "isValid": "",
+      "prompt": "Si votre moitié inférieure pouvait être un animal autre qu'un humain, quel serait-il et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "79292",
+      "isValid": "",
+      "prompt": "Quel événement plausible pourrait vous arriver qui vous ferait vaporiser du champagne sur vos proches ?",
+      "x": true
+    },
+    {
+      "id": "79322",
+      "isValid": "",
+      "prompt": "Parlez-moi un peu de l'endroit que vous considérez comme votre \"ville natale\".",
+      "x": false
+    },
+    {
+      "id": "79511",
+      "isValid": "",
+      "prompt": "Quel est un bon souvenir que vous avez qui implique des bonbons?",
+      "x": false
+    },
+    {
+      "id": "79514",
+      "isValid": "",
+      "prompt": "Quelle scène apparaît dans BEAUCOUP trop de films ?",
+      "x": false
+    },
+    {
+      "id": "79518",
+      "isValid": "",
+      "prompt": "Quelle était la cause de votre dernier combat vraiment stupide ?",
+      "x": false
+    },
+    {
+      "id": "79520",
+      "isValid": "",
+      "prompt": "Quelle est la tradition amusante de votre famille ou de votre groupe d'amis ? (Ou celui que vous aimeriez commencer.)",
+      "x": false
+    },
+    {
+      "id": "79524",
+      "isValid": "",
+      "prompt": "Si vous ne jouiez pas à ce jeu, que feriez-vous en ce moment ?",
+      "x": false
+    },
+    {
+      "id": "79549",
+      "isValid": "",
+      "prompt": "Décrivez la meilleure façon de garer une voiture en parallèle. (Inventez-le si vous ne savais pas !)",
+      "x": false
+    },
+    {
+      "id": "79550",
+      "isValid": "",
+      "prompt": "Comment fonctionne le nettoyage à sec (ou comment pensez-vous que cela fonctionne) ?",
+      "x": false
+    },
+    {
+      "id": "79551",
+      "isValid": "",
+      "prompt": "Quelle est la meilleure chose à voir ou à faire au cirque ?",
+      "x": false
+    },
+    {
+      "id": "79552",
+      "isValid": "",
+      "prompt": "Décrivez un cauchemar qu'un chat pourrait avoir.",
+      "x": false
+    },
+    {
+      "id": "79553",
+      "isValid": "",
+      "prompt": "Décrivez une nuit typique que vous pourriez passer au bowling.",
+      "x": false
+    },
+    {
+      "id": "79554",
+      "isValid": "",
+      "prompt": "Qu'aimez-vous toujours faire pendant que vous attendez votre vol à l'aéroport ?",
+      "x": false
+    },
+    {
+      "id": "79555",
+      "isValid": "",
+      "prompt": "Quelles sont les choses que vous aimez faire pour vous sentir mieux lorsque vous êtes malade ?",
+      "x": false
+    },
+    {
+      "id": "79556",
+      "isValid": "",
+      "prompt": "Décrivez comment vous donneriez une coupe de cheveux à un lion.",
+      "x": false
+    },
+    {
+      "id": "79557",
+      "isValid": "",
+      "prompt": "Quel est un fait scientifique intéressant dont vous vous souvenez avoir appris ?",
+      "x": false
+    },
+    {
+      "id": "80039",
+      "isValid": "",
+      "prompt": "Décrivez quelque chose d'ennuyeux qui vous est arrivé dans un avion. (Ou inventer quelque chose.)",
+      "x": false
+    },
+    {
+      "id": "80042",
+      "isValid": "",
+      "prompt": "Expliquez-moi, simplement, ce que fait un plombier.",
+      "x": false
+    },
+    {
+      "id": "80044",
+      "isValid": "",
+      "prompt": "Comment jouez-vous à votre jeu de voiture préféré ? (Ou n'importe quel jeu !)",
+      "x": false
+    },
+    {
+      "id": "80048",
+      "isValid": "",
+      "prompt": "Si vous aviez soudain la voix d'Adèle, que diriez-vous ?",
+      "x": false
+    },
+    {
+      "id": "80053",
+      "isValid": "",
+      "prompt": "Décrivez une urgence mineure qui s'est produite dans votre vie.",
+      "x": false
+    },
+    {
+      "id": "80054",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous faisiez quand vous vous ennuyiez en classe ?",
+      "x": false
+    },
+    {
+      "id": "80060",
+      "isValid": "",
+      "prompt": "Comment avez-vous passé la majeure partie de votre enfance ?",
+      "x": false
+    },
+    {
+      "id": "80066",
+      "isValid": "",
+      "prompt": "Décrivez quelque chose qu'un ami vous a donné.",
+      "x": false
+    },
+    {
+      "id": "80067",
+      "isValid": "",
+      "prompt": "Que s'est-il passé lors du dernier voyage que vous avez effectué avec un membre de votre famille ?",
+      "x": false
+    },
+    {
+      "id": "80109",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous le concept de conduire une voiture à un enfant ?",
+      "x": false
+    },
+    {
+      "id": "80110",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous le concept de payer un loyer à un enfant ?",
+      "x": false
+    },
+    {
+      "id": "80111",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous le concept de se saouler à un extraterrestre qui n'en a jamais entendu parler ?",
+      "x": true
+    },
+    {
+      "id": "80112",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous le concept de traire une vache à un enfant ?",
+      "x": false
+    },
+    {
+      "id": "80113",
+      "isValid": "",
+      "prompt": "Décrivez comment les dinosaures ont disparu. (N'hésitez pas à inventer quelque chose !)",
+      "x": false
+    },
+    {
+      "id": "80114",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous le concept de braquage de banque à un enfant ?",
+      "x": true
+    },
+    {
+      "id": "80115",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous le concept des contraventions de stationnement à un enfant ?",
+      "x": false
+    },
+    {
+      "id": "80116",
+      "isValid": "",
+      "prompt": "À quoi servent exactement les sables mouvants ? (Inventez-le si vous ne savez pas.)",
+      "x": false
+    },
+    {
+      "id": "80117",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous un tourne-disque à un enfant ? (Inventez-le si vous ne savais pas.)",
+      "x": false
+    },
+    {
+      "id": "80118",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous le miracle de la naissance à un enfant ?",
+      "x": true
+    },
+    {
+      "id": "80119",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous le vieillissement à un enfant ?",
+      "x": false
+    },
+    {
+      "id": "80120",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous comment le café est fait à un enfant ? (Invente-le si vous ne savez pas.)",
+      "x": false
+    },
+    {
+      "id": "80121",
+      "isValid": "",
+      "prompt": "Comment avertiriez-vous un enfant des piqûres d'abeilles ?",
+      "x": false
+    },
+    {
+      "id": "80122",
+      "isValid": "",
+      "prompt": "Décrivez un costume que vous portiez autrefois sans nommer le personnage sous lequel vous étiez habillé.",
+      "x": false
+    },
+    {
+      "id": "80123",
+      "isValid": "",
+      "prompt": "Quelle est quelque chose de vraiment dégoûtant que vous avez vu quelqu'un d'autre faire ? (Ou faites vous-même...)",
+      "x": false
+    },
+    {
+      "id": "80124",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui est probablement le pire dans le fait d'être une araignée ?",
+      "x": false
+    },
+    {
+      "id": "80125",
+      "isValid": "",
+      "prompt": "Quelle est probablement la meilleure partie d'être un facteur?",
+      "x": false
+    },
+    {
+      "id": "80126",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui est probablement le pire dans le fait d'être un avocat spécialisé dans le divorce ?",
+      "x": true
+    },
+    {
+      "id": "80127",
+      "isValid": "",
+      "prompt": "Quelle est probablement la meilleure partie d'être extrêmement grand?",
+      "x": false
+    },
+    {
+      "id": "80128",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui est probablement le pire dans le travail sur un bateau de croisière ?",
+      "x": false
+    },
+    {
+      "id": "80129",
+      "isValid": "",
+      "prompt": "Comment diriez-vous doucement à quelqu'un que son chat s'est enfui ?",
+      "x": false
+    },
+    {
+      "id": "80130",
+      "isValid": "",
+      "prompt": "Comment diriez-vous gentiment à quelqu'un qu'il a été laissé à l'autel ?",
+      "x": true
+    },
+    {
+      "id": "80131",
+      "isValid": "",
+      "prompt": "Comment diriez-vous doucement à quelqu'un que ses peintures sont terribles ?",
+      "x": false
+    },
+    {
+      "id": "80132",
+      "isValid": "",
+      "prompt": "Comment diriez-vous gentiment à quelqu'un qu'il s'est fait une mauvaise coupe de cheveux ?",
+      "x": false
+    },
+    {
+      "id": "80190",
+      "isValid": "",
+      "prompt": "Si vous étiez élu Empereur du Monde, quel serait votre premier acte ?",
+      "x": false
+    },
+    {
+      "id": "80191",
+      "isValid": "",
+      "prompt": "Que pensez-vous que vos jouets d'enfance feraient s'ils prenaient vie ?",
+      "x": false
+    },
+    {
+      "id": "80192",
+      "isValid": "",
+      "prompt": "Que pensez-vous faire le premier jour d'école de bûcheron ?",
+      "x": false
+    },
+    {
+      "id": "80193",
+      "isValid": "",
+      "prompt": "Parlez-moi de votre pire expérience de concert. (Ou en inventer une.)",
+      "x": false
+    },
+    {
+      "id": "80195",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous trouviez un bébé tortue dans votre maison ?",
+      "x": false
+    },
+    {
+      "id": "80197",
+      "isValid": "",
+      "prompt": "Raconte-moi un fait intéressant sur l'océan. (Ou en inventer un.)",
+      "x": false
+    },
+    {
+      "id": "80199",
+      "isValid": "",
+      "prompt": "Quel est le sport le plus difficile à pratiquer et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "80201",
+      "isValid": "",
+      "prompt": "Quel est le secret pour passer une bonne nuit de sommeil ?",
+      "x": false
+    },
+    {
+      "id": "80208",
+      "isValid": "",
+      "prompt": "Si vous vous réveilliez avec une super force, que feriez-vous en premier ?",
+      "x": false
+    },
+    {
+      "id": "80474",
+      "isValid": "",
+      "prompt": "Si vous étiez emporté par un ballon à l'hélium, que crieriez-vous du ciel ?",
+      "x": false
+    },
+    {
+      "id": "80945",
+      "isValid": "",
+      "prompt": "Décrivez une fois où vous avez eu un contact avec une personne célèbre. (Ou inventer quelque chose !)",
+      "x": false
+    },
+    {
+      "id": "80947",
+      "isValid": "",
+      "prompt": "Quelle est votre combinaison d'aliments étranges préférée et comment l'avez-vous découverte ?",
+      "x": false
+    },
+    {
+      "id": "80950",
+      "isValid": "",
+      "prompt": "Vous pouvez avoir un personnage historique comme parrain fée. Qui choisiriez-vous et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "80952",
+      "isValid": "",
+      "prompt": "Quelle est l'histoire de votre cicatrice la plus folle ? (Ou en inventer une.)",
+      "x": false
+    },
+    {
+      "id": "80954",
+      "isValid": "",
+      "prompt": "Nommez une caractéristique unique que vous ajouteriez à la maison de vos rêves.",
+      "x": false
+    },
+    {
+      "id": "80955",
+      "isValid": "",
+      "prompt": "Décrivez un fait banal que vous voudriez que les gens dans 100 ans connaissent sur la vie d'aujourd'hui.",
+      "x": false
+    },
+    {
+      "id": "80959",
+      "isValid": "",
+      "prompt": "Comment commenceriez-vous votre discours de super-vilain à l'ONU ?",
+      "x": false
+    },
+    {
+      "id": "80960",
+      "isValid": "",
+      "prompt": "Si tu étais un démon, que faudrait-il faire pour t'invoquer ?",
+      "x": false
+    },
+    {
+      "id": "80961",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui vous manquera le plus lorsque vous quitterez ce plan terrestre ?",
+      "x": true
+    },
+    {
+      "id": "80962",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui sépare les équipes sportives gagnantes des perdantes ?",
+      "x": false
+    },
+    {
+      "id": "80963",
+      "isValid": "",
+      "prompt": "Décrivez ce que vous feriez dans un ring de catch ?",
+      "x": false
+    },
+    {
+      "id": "80965",
+      "isValid": "",
+      "prompt": "Quelle est votre astuce de vie préférée ?",
+      "x": false
+    },
+    {
+      "id": "80966",
+      "isValid": "",
+      "prompt": "Que se passe-t-il dans votre abri antiaérien ?",
+      "x": true
+    },
+    {
+      "id": "80967",
+      "isValid": "",
+      "prompt": "Décrivez votre sens du style lorsque vous étiez adolescent.",
+      "x": false
+    },
+    {
+      "id": "80968",
+      "isValid": "",
+      "prompt": "Comment attirer l'attention de la personne séduisante à l'autre bout du bar ?",
+      "x": true
+    },
+    {
+      "id": "80969",
+      "isValid": "",
+      "prompt": "Comment passeriez-vous un week-end à Las Vegas ?",
+      "x": false
+    },
+    {
+      "id": "80970",
+      "isValid": "",
+      "prompt": "Décrivez votre talent caché.",
+      "x": false
+    },
+    {
+      "id": "80971",
+      "isValid": "",
+      "prompt": "Décrivez une fois où vous avez tellement ri que vous avez failli pleurer, ou avez pleuré. Qu'est-ce qui était si drôle ?",
+      "x": false
+    },
+    {
+      "id": "81030",
+      "isValid": "",
+      "prompt": "Décrivez une belle nuit d'été.",
+      "x": false
+    },
+    {
+      "id": "81031",
+      "isValid": "",
+      "prompt": "Décrivez un moment où vous avez été incommodé.",
+      "x": false
+    },
+    {
+      "id": "81032",
+      "isValid": "",
+      "prompt": "Quand vous sentez-vous le plus puissant ?",
+      "x": false
+    },
+    {
+      "id": "81033",
+      "isValid": "",
+      "prompt": "Décrivez une tenue agréable et confortable.",
+      "x": false
+    },
+    {
+      "id": "81035",
+      "isValid": "",
+      "prompt": "Comment abordez-vous une liste de choses à faire ?",
+      "x": false
+    },
+    {
+      "id": "81039",
+      "isValid": "",
+      "prompt": "Que feriez-vous avec 25 $ de plus ?",
+      "x": false
+    },
+    {
+      "id": "81119",
+      "isValid": "",
+      "prompt": "Quelle situation nécessite une soupe et une tasse de chocolat chaud ?",
+      "x": false
+    },
+    {
+      "id": "81122",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous la Saint-Valentin à un extraterrestre ?",
+      "x": false
+    },
+    {
+      "id": "81123",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui est probablement le pire dans le fait d'être une ballerine dans [i]Casse-Noisette[/i] ?",
+      "x": false
+    },
+    {
+      "id": "81124",
+      "isValid": "",
+      "prompt": "Quelle est une célébrité que vous considérez comme sous-estimée et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "81126",
+      "isValid": "",
+      "prompt": "Préféreriez-vous n'avoir aucun sourcils ou aucune chevilles et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "81127",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous crieriez pour motiver un poney lors d'un spectacle ?",
+      "x": false
+    },
+    {
+      "id": "81128",
+      "isValid": "",
+      "prompt": "Quel est probablement le pire aspect d'être un apiculteur indépendant ?",
+      "x": false
+    },
+    {
+      "id": "81129",
+      "isValid": "",
+      "prompt": "Expliquez brièvement pourquoi vous devriez mettre le lait avant les céréales (ou vice versa).",
+      "x": false
+    },
+    {
+      "id": "81130",
+      "isValid": "",
+      "prompt": "Quel animal marin est probablement le plus populaire dans l'océan, et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "81132",
+      "isValid": "",
+      "prompt": "Si on vous demandait de faire une lasagne aux quatre fromages, que feriez-vous en premier ?",
+      "x": false
+    },
+    {
+      "id": "81133",
+      "isValid": "",
+      "prompt": "Décrivez la dernière émission que vous avez regardée en rafale.",
+      "x": false
+    },
+    {
+      "id": "81135",
+      "isValid": "",
+      "prompt": "Vous tombez sur une mallette pleine d'argent et de bonbons. Quelle est votre prochaine étape ?",
+      "x": false
+    },
+    {
+      "id": "81138",
+      "isValid": "",
+      "prompt": "Quelle est votre commande de restauration rapide préférée ? Des détails s'il vous plait !",
+      "x": false
+    },
+    {
+      "id": "81139",
+      "isValid": "",
+      "prompt": "Résumez un livre ennuyeux que vous avez dû lire au lycée.",
+      "x": false
+    },
+    {
+      "id": "81140",
+      "isValid": "",
+      "prompt": "Faites la liste de toutes les activités que vous avez déjà pratiquées dans une piscine.",
+      "x": false
+    },
+    {
+      "id": "81142",
+      "isValid": "",
+      "prompt": "Décrivez comment vous vous prépareriez pour vos premiers Jeux olympiques !",
+      "x": false
+    },
+    {
+      "id": "81143",
+      "isValid": "",
+      "prompt": "Décrivez comment vous feriez gentiment pour qu'une vieille dame arrête de presser tous les produits à l'épicerie.",
+      "x": false
+    },
+    {
+      "id": "81144",
+      "isValid": "",
+      "prompt": "Décrivez à quoi ressembleront les téléphones portables en 2100.",
+      "x": false
+    },
+    {
+      "id": "81146",
+      "isValid": "",
+      "prompt": "Décrivez votre rêve le plus mémorable au sujet d'une célébrité.",
+      "x": false
+    },
+    {
+      "id": "81147",
+      "isValid": "",
+      "prompt": "Résumez une histoire effrayante de votre enfance qui vous fait encore un peu peur.",
+      "x": false
+    },
+    {
+      "id": "81149",
+      "isValid": "",
+      "prompt": "Surexpliquer le maïs.",
+      "x": false
+    },
+    {
+      "id": "81155",
+      "isValid": "",
+      "prompt": "Décrivez le vendredi soir moyen d'un zombie.",
+      "x": false
+    },
+    {
+      "id": "81157",
+      "isValid": "",
+      "prompt": "Faites l'avocat du diable s'il le faut, mais donnez-moi un avis controversé sur le thon.",
+      "x": false
+    },
+    {
+      "id": "81158",
+      "isValid": "",
+      "prompt": "Décrivez votre première impression de l'un des autres joueurs.",
+      "x": false
+    },
+    {
+      "id": "81159",
+      "isValid": "",
+      "prompt": "Expliquez les piñatas.",
+      "x": false
+    },
+    {
+      "id": "81160",
+      "isValid": "",
+      "prompt": "Comment prépareriez-vous un dessert pour deux si vous n'aviez que 30 secondes ?",
+      "x": false
+    },
+    {
+      "id": "81163",
+      "isValid": "",
+      "prompt": "Décrivez à quoi ressembleront les parcs d'attractions à l'avenir.",
+      "x": false
+    },
+    {
+      "id": "81164",
+      "isValid": "",
+      "prompt": "Adoptez une position ferme sur le régime paléo.",
+      "x": true
+    },
+    {
+      "id": "81165",
+      "isValid": "",
+      "prompt": "Décrivez votre journée parfaite dans l'espace.",
+      "x": false
+    },
+    {
+      "id": "81166",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui vous fait peur alors que cela ne devrait vraiment pas être le cas ?",
+      "x": false
+    },
+    {
+      "id": "81169",
+      "isValid": "",
+      "prompt": "Écrivez la première phrase d'une lettre de refus de collège.",
+      "x": false
+    },
+    {
+      "id": "81170",
+      "isValid": "",
+      "prompt": "Selon vous, à quoi ressembleront les chaussures dans le futur ?",
+      "x": false
+    },
+    {
+      "id": "81171",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous la pizza surgelée à un enfant de l'ère victorienne ?",
+      "x": false
+    },
+    {
+      "id": "81172",
+      "isValid": "",
+      "prompt": "Quelle est une chose surprenante mais parfaitement raisonnable qu'un enseignant pourrait dire pour arrêter une bataille de nourriture ?",
+      "x": false
+    },
+    {
+      "id": "81174",
+      "isValid": "",
+      "prompt": "Faites la liste de certaines choses que vous avez faites dans une cafétéria scolaire.",
+      "x": false
+    },
+    {
+      "id": "81175",
+      "isValid": "",
+      "prompt": "Qu'aimeriez-vous vraiment dire à un ancien enseignant ?",
+      "x": false
+    },
+    {
+      "id": "81176",
+      "isValid": "",
+      "prompt": "Quel est un de tes secrets banals que tu gardes sans raison ?",
+      "x": false
+    },
+    {
+      "id": "81178",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'il est bon de crier lors d'un petit match de foot ?",
+      "x": false
+    },
+    {
+      "id": "81179",
+      "isValid": "",
+      "prompt": "Que crieriez-vous pour arrêter un fantôme ?",
+      "x": false
+    },
+    {
+      "id": "81182",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous l'agriculture à un enfant ?",
+      "x": false
+    },
+    {
+      "id": "81183",
+      "isValid": "",
+      "prompt": "Que diriez-vous si quelqu'un vous surprenait en train de manger de la nourriture qui tombait par terre ?",
+      "x": false
+    },
+    {
+      "id": "81184",
+      "isValid": "",
+      "prompt": "Vous venez de découvrir que votre chien peut parler. Que faites-vous ?",
+      "x": false
+    },
+    {
+      "id": "81185",
+      "isValid": "",
+      "prompt": "Vous venez d'apprendre que des extraterrestres arrivent sur Terre dans 15 minutes. Que faites-vous ?",
+      "x": false
+    },
+    {
+      "id": "81186",
+      "isValid": "",
+      "prompt": "Vous vous réveillez et vos cheveux sont concés dans un grille-pain. Que faites-vous ?",
+      "x": false
+    },
+    {
+      "id": "81187",
+      "isValid": "",
+      "prompt": "Quelle est probablement la partie la plus importante lorsque vous êtes un danceur ?",
+      "x": false
+    },
+    {
+      "id": "81188",
+      "isValid": "",
+      "prompt": "Quelle est une façon plus amusante de dire « Bonjour ! Comment allez-vous ? »",
+      "x": false
+    },
+    {
+      "id": "81190",
+      "isValid": "",
+      "prompt": "Comment un chat vous décrirait-il probablement en tant que personne ?",
+      "x": false
+    },
+    {
+      "id": "81191",
+      "isValid": "",
+      "prompt": "Selon vous, quelle est la meilleure partie d'être un pêcheur?",
+      "x": false
+    },
+    {
+      "id": "81192",
+      "isValid": "",
+      "prompt": "Qu'est-ce que tu regrettes d'avoir dit lors d'une fête ?",
+      "x": false
+    },
+    {
+      "id": "81194",
+      "isValid": "",
+      "prompt": "Parlez-moi d'un sandwich que vous voudriez bien manger tous les jours.",
+      "x": false
+    },
+    {
+      "id": "81195",
+      "isValid": "",
+      "prompt": "Décrivez la pire journée que vous pourriez avoir à la plage.",
+      "x": false
+    },
+    {
+      "id": "81197",
+      "isValid": "",
+      "prompt": "Racontez-moi à quoi ressemblent les vacances chez vous.",
+      "x": false
+    },
+    {
+      "id": "81198",
+      "isValid": "",
+      "prompt": "Que pourriez-vous dire pour impressionner un bibliothécaire ?",
+      "x": false
+    },
+    {
+      "id": "81199",
+      "isValid": "",
+      "prompt": "Qu'est-ce qu'il ne faut jamais crier lorsqu'un avion décolle ?",
+      "x": false
+    },
+    {
+      "id": "81200",
+      "isValid": "",
+      "prompt": "Écrivez un compliment sur l'un des autres joueurs.",
+      "x": false
+    },
+    {
+      "id": "81201",
+      "isValid": "",
+      "prompt": "Que diriez-vous dans un discours pour empêcher votre véritable amour d'épouser quelqu'un d'autre ?",
+      "x": false
+    },
+    {
+      "id": "81202",
+      "isValid": "",
+      "prompt": "Écrivez une nouvelle loi que chaque chef dans le monde doit respecter.",
+      "x": false
+    },
+    {
+      "id": "81203",
+      "isValid": "",
+      "prompt": "Résumez les événements de votre week-end prolongé le plus récent.",
+      "x": false
+    },
+    {
+      "id": "81204",
+      "isValid": "",
+      "prompt": "Expliquez pourquoi la vinaigrette ranch est meilleure que la vinaigrette balsamique (ou vice versa).",
+      "x": false
+    },
+    {
+      "id": "81205",
+      "isValid": "",
+      "prompt": "Écrivez une opinion impopulaire sur les patates douces.",
+      "x": false
+    },
+    {
+      "id": "81206",
+      "isValid": "",
+      "prompt": "Écrivez une opinion impopulaire sur les paons au zoo.",
+      "x": false
+    },
+    {
+      "id": "81207",
+      "isValid": "",
+      "prompt": "Quelle est une opinion controversée sur les musées d'art?",
+      "x": false
+    },
+    {
+      "id": "81208",
+      "isValid": "",
+      "prompt": "Expliquez pourquoi les planchers de bois sont meilleurs que les tapis (ou vice versa).",
+      "x": false
+    },
+    {
+      "id": "81209",
+      "isValid": "",
+      "prompt": "Vous venez de découvrir que votre famille est une famille d'espion. Que faites-vous ?",
+      "x": false
+    },
+    {
+      "id": "81210",
+      "isValid": "",
+      "prompt": "Qu'avez-vous fait d'inhabituel dans un véhicule en mouvement ?",
+      "x": false
+    },
+    {
+      "id": "81212",
+      "isValid": "",
+      "prompt": "Que dire à la fin d'un mauvais rendez-vous à l'aveugle ?",
+      "x": true
+    },
+    {
+      "id": "81213",
+      "isValid": "",
+      "prompt": "Que diriez-vous si vous étiez sur le Titanic pendant qu'il coulait ?",
+      "x": false
+    },
+    {
+      "id": "81214",
+      "isValid": "",
+      "prompt": "Quelle est une bonne excuse pour oublier l'anniversaire de votre grand-tante ?",
+      "x": false
+    },
+    {
+      "id": "81215",
+      "isValid": "",
+      "prompt": "Quelle est une bonne excuse pour cambrioler un atelier de création de porte-clef ?",
+      "x": false
+    },
+    {
+      "id": "81216",
+      "isValid": "",
+      "prompt": "Faites une liste de mots que vous avez du mal à épeler correctement.",
+      "x": false
+    },
+    {
+      "id": "81217",
+      "isValid": "",
+      "prompt": "Nommez un objet que vous souhaiteriez fonctionner sur piles et expliquez pourquoi.",
+      "x": false
+    },
+    {
+      "id": "81219",
+      "isValid": "",
+      "prompt": "Vous venez d'apprendre que vous avez été cambriolé ! Quelle est la première chose que vous faites ?",
+      "x": false
+    },
+    {
+      "id": "81220",
+      "isValid": "",
+      "prompt": "Quelle est probablement la pire chose à propos d'être une rockstar ?",
+      "x": false
+    },
+    {
+      "id": "81221",
+      "isValid": "",
+      "prompt": "Quelle est probablement la meilleure chose à propos d'avoir un doigt supplémentaire sur chaque main ?",
+      "x": false
+    },
+    {
+      "id": "81224",
+      "isValid": "",
+      "prompt": "Que diriez-vous à quelqu'un pour l'amener à arrêter de fumer ?",
+      "x": true
+    },
+    {
+      "id": "81225",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous les règles des dames à un enfant ?",
+      "x": false
+    },
+    {
+      "id": "81226",
+      "isValid": "",
+      "prompt": "Expliquez le jeu du loup touche-touche.",
+      "x": false
+    },
+    {
+      "id": "81227",
+      "isValid": "",
+      "prompt": "Quel est le moyen le plus simple d'attraper Bigfoot que tout le monde ignore ?",
+      "x": false
+    },
+    {
+      "id": "81228",
+      "isValid": "",
+      "prompt": "Quelle est une bonne excuse à donner pour avoir raté votre anniversaire ?",
+      "x": false
+    },
+    {
+      "id": "81229",
+      "isValid": "",
+      "prompt": "Quelle est une bonne excuse à donner à quelqu'un pour avoir raté sa fête d'anniversaire ?",
+      "x": false
+    },
+    {
+      "id": "81230",
+      "isValid": "",
+      "prompt": "Que diriez-vous à votre conjoint si vous manquiez la naissance de votre enfant ?",
+      "x": false
+    },
+    {
+      "id": "81231",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous la Saint-Sylvestre à un extraterrestre ?",
+      "x": false
+    },
+    {
+      "id": "81233",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous enterriez dans une capsule temporelle pour que les générations futures puissent en profiter, et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "81235",
+      "isValid": "",
+      "prompt": "Si vous pouviez passer une journée avec votre personnage de fiction préféré, que feriez-vous ensemble ?",
+      "x": false
+    },
+    {
+      "id": "81236",
+      "isValid": "",
+      "prompt": "Quelle est la meilleure fin pour un film ou un livre célèbre ?",
+      "x": false
+    },
+    {
+      "id": "81237",
+      "isValid": "",
+      "prompt": "Résumez les événements de vos dernières vacances.",
+      "x": false
+    },
+    {
+      "id": "81239",
+      "isValid": "",
+      "prompt": "Décrivez à quoi pourraient ressembler les restaurants de restauration rapide à l'avenir ?",
+      "x": false
+    },
+    {
+      "id": "81240",
+      "isValid": "",
+      "prompt": "Quel compliment passif-agressif pourriez-vous faire à un oiseau exotique ?",
+      "x": false
+    },
+    {
+      "id": "81241",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous pourriez crier pour empêcher un enfant de vous asperger avec un tuyau ?",
+      "x": false
+    },
+    {
+      "id": "81242",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous l'expérience d'un restaurant gastronomique à un extraterrestre ?",
+      "x": false
+    },
+    {
+      "id": "81243",
+      "isValid": "",
+      "prompt": "Qu'y a-t-il sur la page de dédicace de votre roman à succès ?",
+      "x": false
+    },
+    {
+      "id": "81244",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous pourriez dire d'apaisant pour empêcher un enfant de casser un vase coûteux ?",
+      "x": false
+    },
+    {
+      "id": "81245",
+      "isValid": "",
+      "prompt": "Quelle belle épitaphe voudriez-vous écrire sur votre pierre tombale ?",
+      "x": true
+    },
+    {
+      "id": "81249",
+      "isValid": "",
+      "prompt": "Si vous construisiez un monument, à qui serait-il destiné et que feraient-ils ?",
+      "x": false
+    },
+    {
+      "id": "81250",
+      "isValid": "",
+      "prompt": "Adoptez une position ferme sur les pirates !",
+      "x": false
+    },
+    {
+      "id": "81251",
+      "isValid": "",
+      "prompt": "Comment proposeriez-vous à une araignée de faire un rendez-vous romantique ?",
+      "x": false
+    },
+    {
+      "id": "81252",
+      "isValid": "",
+      "prompt": "Comment proposeriez-vous à George Clooney de faire un rendez-vous romantique ?",
+      "x": false
+    },
+    {
+      "id": "81253",
+      "isValid": "",
+      "prompt": "Expliquez le concept de manger.",
+      "x": false
+    },
+    {
+      "id": "81254",
+      "isValid": "",
+      "prompt": "Décrivez la plus belle tenue que vous ayez jamais vue dans la vraie vie.",
+      "x": false
+    },
+    {
+      "id": "81255",
+      "isValid": "",
+      "prompt": "Quel est le meilleur compliment que vous ayez reçu qui ne concerne PAS votre apparence ?",
+      "x": false
+    },
+    {
+      "id": "81256",
+      "isValid": "",
+      "prompt": "Comment attraperiez-vous un poulet en fuite?",
+      "x": false
+    },
+    {
+      "id": "81257",
+      "isValid": "",
+      "prompt": "Que pourriez-vous dire pour faire raccrocher un télévendeur immédiatement ?",
+      "x": false
+    },
+    {
+      "id": "81258",
+      "isValid": "",
+      "prompt": "Comment pourriez-vous convaincre quelqu'un que vous avez vraiment été enlevé par des extraterrestres ?",
+      "x": false
+    },
+    {
+      "id": "81259",
+      "isValid": "",
+      "prompt": "Qu'est-ce que c'est que quelque chose de fou auquel vous croyiez quand vous étiez enfant ?",
+      "x": false
+    },
+    {
+      "id": "81261",
+      "isValid": "",
+      "prompt": "Adoptez une position ferme sur les oiseaux!",
+      "x": false
+    },
+    {
+      "id": "81262",
+      "isValid": "",
+      "prompt": "Décrivez-moi les dragons.",
+      "x": false
+    },
+    {
+      "id": "81263",
+      "isValid": "",
+      "prompt": "Expliquez-moi [i]Pokémon[/i]. Si vous n'avez aucune idée de ce que c'est, inventez quelque chose.",
+      "x": false
+    },
+    {
+      "id": "81264",
+      "isValid": "",
+      "prompt": "Comment complimenteriez-vous un fantôme ?",
+      "x": false
+    },
+    {
+      "id": "81265",
+      "isValid": "",
+      "prompt": "Pourquoi devrions-nous tous vivre en rampant ?",
+      "x": false
+    },
+    {
+      "id": "81266",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui vous teniez éveillé la nuit quand vous étiez enfant ?",
+      "x": false
+    },
+    {
+      "id": "81267",
+      "isValid": "",
+      "prompt": "Décrivez votre emoji préféré avec autant de détails que possible.",
+      "x": false
+    },
+    {
+      "id": "81268",
+      "isValid": "",
+      "prompt": "Dites-moi un fait étrange que vous connaissez !",
+      "x": false
+    },
+    {
+      "id": "81269",
+      "isValid": "",
+      "prompt": "Si vous étiez un dieu grec, comment les mortels pourraient-ils gagner votre faveur divine ?",
+      "x": false
+    },
+    {
+      "id": "81270",
+      "isValid": "",
+      "prompt": "Que feriez-vous si des branchies poussaient soudainement sur vous ?",
+      "x": false
+    },
+    {
+      "id": "81271",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous étiez maire pour la journée ?",
+      "x": false
+    },
+    {
+      "id": "81273",
+      "isValid": "",
+      "prompt": "Décrivez le plus bel oiseau que vous ayez jamais vu.",
+      "x": false
+    },
+    {
+      "id": "81280",
+      "isValid": "",
+      "prompt": "Comment un adolescent te décrirait-il ?",
+      "x": false
+    },
+    {
+      "id": "81281",
+      "isValid": "",
+      "prompt": "Quel texte enverriez-vous pour détendre l'atmosphère ?",
+      "x": false
+    },
+    {
+      "id": "81282",
+      "isValid": "",
+      "prompt": "Dis-moi quelque chose d'un peu effrayant.",
+      "x": false
+    },
+    {
+      "id": "81283",
+      "isValid": "",
+      "prompt": "Parlez-moi d'un animal étrange que vous avez vu.",
+      "x": false
+    },
+    {
+      "id": "81284",
+      "isValid": "",
+      "prompt": "Comment votre mère vous décrirait-elle ?",
+      "x": false
+    },
+    {
+      "id": "81285",
+      "isValid": "",
+      "prompt": "Parlez-moi d'une fois où vous avez été légèrement blessé.",
+      "x": false
+    },
+    {
+      "id": "81286",
+      "isValid": "",
+      "prompt": "Donnez-moi un avis sur le petit-déjeuner... n'importe quel avis !",
+      "x": false
+    },
+    {
+      "id": "81287",
+      "isValid": "",
+      "prompt": "Comment vous présenteriez-vous aux parents d'un partenaire ?",
+      "x": true
+    },
+    {
+      "id": "81288",
+      "isValid": "",
+      "prompt": "Décrivez ce que porte l'un de vos collègues au travail.",
+      "x": false
+    },
+    {
+      "id": "81292",
+      "isValid": "",
+      "prompt": "Décrivez une soirée de week-end assez normale pour vous.",
+      "x": false
+    },
+    {
+      "id": "81293",
+      "isValid": "",
+      "prompt": "Décrivez ce que vous pensez qu'il arrive aux ordures après qu'elles quittent la maison.",
+      "x": false
+    },
+    {
+      "id": "81294",
+      "isValid": "",
+      "prompt": "Écrivez une phrase qui, selon vous, intéresserait un élève de cinquième année.",
+      "x": false
+    },
+    {
+      "id": "81295",
+      "isValid": "",
+      "prompt": "Dites-moi comment vous pensez que la nourriture se transforme en énergie.",
+      "x": false
+    },
+    {
+      "id": "81296",
+      "isValid": "",
+      "prompt": "Quelle observation avez-vous faite sur un film ? (N'importe quel film !)",
+      "x": false
+    },
+    {
+      "id": "81297",
+      "isValid": "",
+      "prompt": "Dites-moi quelque chose que vous diriez de façon réaliste à votre meilleur ami.",
+      "x": false
+    },
+    {
+      "id": "81360",
+      "isValid": "",
+      "prompt": "Quel est le plus beau compliment qu'on vous ait jamais fait ?",
+      "x": false
+    },
+    {
+      "id": "81361",
+      "isValid": "",
+      "prompt": "Si les éléphants pouvaient parler, comment vous décriraient-ils ?",
+      "x": false
+    },
+    {
+      "id": "81362",
+      "isValid": "",
+      "prompt": "Si quelqu'un vous demandait de construire un bateau, que feriez-vous en premier ?",
+      "x": false
+    },
+    {
+      "id": "81363",
+      "isValid": "",
+      "prompt": "Décrivez comment vous pensez que les gens s'entraînent pour devenir majordomes.",
+      "x": false
+    },
+    {
+      "id": "81364",
+      "isValid": "",
+      "prompt": "Quelles sont les choses que vous pensez que les chefs français aiment faire en vacances ?",
+      "x": false
+    },
+    {
+      "id": "81721",
+      "isValid": "",
+      "prompt": "Comment le pain devient-il du pain grillé ?",
+      "x": false
+    },
+    {
+      "id": "81722",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous avez toujours voulu dire à votre pire colocataire (ou collègue de bureau) ?",
+      "x": false
+    },
+    {
+      "id": "81723",
+      "isValid": "",
+      "prompt": "Pourquoi pensez-vous que certaines voitures peuvent aller très vite, alors que d'autres voitures ne peuvent aller que lentement ?",
+      "x": false
+    },
+    {
+      "id": "81724",
+      "isValid": "",
+      "prompt": "Que feriez-vous si quelqu'un vous offrait un cadeau que vous détestez ?",
+      "x": false
+    },
+    {
+      "id": "81725",
+      "isValid": "",
+      "prompt": "Décrivez à quoi ressembleront les piscines publiques à l'avenir.",
+      "x": false
+    },
+    {
+      "id": "81728",
+      "isValid": "",
+      "prompt": "À votre avis, pourquoi les gens aiment-ils applaudir à la fin d'un vol ?",
+      "x": false
+    },
+    {
+      "id": "81729",
+      "isValid": "",
+      "prompt": "Décrivez la meilleure stratégie pour gagner une chasse aux œufs de Pâques.",
+      "x": false
+    },
+    {
+      "id": "81730",
+      "isValid": "",
+      "prompt": "Comment se préparer pour une grande soirée ?",
+      "x": false
+    },
+    {
+      "id": "81731",
+      "isValid": "",
+      "prompt": "Qu'avez-vous vu d'étrange en vente dans une station-service ou un dépanneur ?",
+      "x": false
+    },
+    {
+      "id": "81732",
+      "isValid": "",
+      "prompt": "Décrivez tout ce dont vous avez besoin pour une sieste parfaite.",
+      "x": false
+    },
+    {
+      "id": "81857",
+      "isValid": "",
+      "prompt": "Comment démêleriez-vous un long serpent qui s'était noué ?",
+      "x": false
+    },
+    {
+      "id": "81858",
+      "isValid": "",
+      "prompt": "Pourquoi pensez-vous que de nombreux adultes sont intimidés par des adolescents cool ?",
+      "x": false
+    },
+    {
+      "id": "81868",
+      "isValid": "",
+      "prompt": "Expliquez comment vous pensez que la compote de pommes est faite.",
+      "x": false
+    },
+    {
+      "id": "81877",
+      "isValid": "",
+      "prompt": "Qu'aimez-vous faire pour vous occuper pendant un long trajet en voiture ?",
+      "x": false
+    },
+    {
+      "id": "81878",
+      "isValid": "",
+      "prompt": "Quelle stratégie utiliseriez-vous pour naviguer avec succès dans un labyrinthe de haies ?",
+      "x": false
+    },
+    {
+      "id": "81879",
+      "isValid": "",
+      "prompt": "Si vous aviez votre propre yacht privé, à quoi voudriez-vous que les uniformes de votre personnel ressemblent ?",
+      "x": false
+    },
+    {
+      "id": "81880",
+      "isValid": "",
+      "prompt": "Décrivez un moment de votre vie où vous vous êtes senti trahi.",
+      "x": false
+    },
+    {
+      "id": "81881",
+      "isValid": "",
+      "prompt": "Selon vous, quel est le secret d'une composition florale parfaite ?",
+      "x": false
+    },
+    {
+      "id": "81882",
+      "isValid": "",
+      "prompt": "Comment, exactement, cherche-t-on de l'or ?",
+      "x": false
+    },
+    {
+      "id": "81883",
+      "isValid": "",
+      "prompt": "Comment pensez-vous que la soupe a été inventée?",
+      "x": false
+    },
+    {
+      "id": "81962",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous pourriez raisonnablement dire à un serveur ?",
+      "x": false
+    },
+    {
+      "id": "81963",
+      "isValid": "",
+      "prompt": "Qu'est-ce qui s'est passé la dernière fois que vous êtes sorti ?",
+      "x": false
+    },
+    {
+      "id": "81964",
+      "isValid": "",
+      "prompt": "Décrivez ce qui arrive aux aliments lorsqu'ils pénètrent dans votre corps. (Du mieux que vous pouvez !)",
+      "x": false
+    },
+    {
+      "id": "81965",
+      "isValid": "",
+      "prompt": "Décrivez une expérience de coupe de cheveux que vous avez eue, bonne ou mauvaise.",
+      "x": false
+    },
+    {
+      "id": "81966",
+      "isValid": "",
+      "prompt": "Que faites-vous généralement lors d'une longue réunion?",
+      "x": false
+    },
+    {
+      "id": "81967",
+      "isValid": "",
+      "prompt": "Expliquez ce que vous pensez qui se passe dans une ferme.",
+      "x": false
+    },
+    {
+      "id": "81970",
+      "isValid": "",
+      "prompt": "Parlez-moi de la dernière fois que vous étiez dans un parc à thème. (Ou inventer quelque chose.)",
+      "x": false
+    },
+    {
+      "id": "81972",
+      "isValid": "",
+      "prompt": "Dites-moi comment vous pensez qu'une ampoule fonctionne.",
+      "x": false
+    },
+    {
+      "id": "81973",
+      "isValid": "",
+      "prompt": "Comment vous présenterais-vous à une personne cool ?",
+      "x": false
+    },
+    {
+      "id": "81974",
+      "isValid": "",
+      "prompt": "Qu'est-ce que vous pourriez envoyer par SMS à votre meilleur ami ?",
+      "x": false
+    },
+    {
+      "id": "81975",
+      "isValid": "",
+      "prompt": "Comment se sentir mieux après une dure journée ?",
+      "x": false
+    },
+    {
+      "id": "81977",
+      "isValid": "",
+      "prompt": "Que pourriez-vous dire pour susciter l'intérêt d'un scientifique ?",
+      "x": false
+    },
+    {
+      "id": "82411",
+      "isValid": "",
+      "prompt": "Que pensez-vous que les chiens et les chats aiment font la nuit lorsque leurs propriétaires dorment ?",
+      "x": false
+    },
+    {
+      "id": "82412",
+      "isValid": "",
+      "prompt": "Quel est un rassemblement scolaire dont vous vous souvenez de votre enfance ?",
+      "x": false
+    },
+    {
+      "id": "82413",
+      "isValid": "",
+      "prompt": "Quelle est une bonne stratégie pour obtenir le meilleur bonbon dans un paquet ?",
+      "x": false
+    },
+    {
+      "id": "82414",
+      "isValid": "",
+      "prompt": "Comment est fabriqué le déodorant ? (Ou comment pensez-vous que c'est fait) ?",
+      "x": false
+    },
+    {
+      "id": "82415",
+      "isValid": "",
+      "prompt": "Quel est votre moment de la journée préféré et pourquoi ?",
+      "x": false
+    },
+    {
+      "id": "82416",
+      "isValid": "",
+      "prompt": "Quelles sont les deux choses que vous pourriez faire avec un artichaut?",
+      "x": false
+    },
+    {
+      "id": "82417",
+      "isValid": "",
+      "prompt": "Décrivez comment vous pensez qu'un chevalier médiéval s'est préparé pour une joute.",
+      "x": false
+    },
+    {
+      "id": "82418",
+      "isValid": "",
+      "prompt": "Si vous étiez en charge du spectacle de la mi-temps du Super Bowl, quel genre de spectacle feriez-vous ?",
+      "x": false
+    },
+    {
+      "id": "82486",
+      "isValid": "",
+      "prompt": "Comment pensez-vous que le pot-pourri est fait?",
+      "x": false
+    },
+    {
+      "id": "82487",
+      "isValid": "",
+      "prompt": "Si vos plantes d'intérieur pouvaient parler, que diraient-elles de vous ?",
+      "x": false
+    },
+    {
+      "id": "82488",
+      "isValid": "",
+      "prompt": "Quel est le secret pour construire le feu de camp parfait ? (Ou que pensez-vous que c'est?)",
+      "x": false
+    },
+    {
+      "id": "82490",
+      "isValid": "",
+      "prompt": "Pourquoi certaines chaussures grincent-elles plus que d'autres ?",
+      "x": false
+    },
+    {
+      "id": "82497",
+      "isValid": "",
+      "prompt": "Que feriez-vous si vous voyiez un vampire réel ?",
+      "x": false
+    },
+    {
+      "id": "82504",
+      "isValid": "",
+      "prompt": "Comment expliqueriez-vous les chevaux à un chien ?",
+      "x": false
+    },
+    {
+      "id": "82521",
+      "isValid": "",
+      "prompt": "Pourquoi y a-t-il toujours une longue file d'attente à la pharmacie?",
+      "x": false
+    },
+    {
+      "id": "82524",
+      "isValid": "",
+      "prompt": "Dites-moi ce que vous pensez des montagnes russes.",
+      "x": false
+    },
+    {
+      "id": "82527",
+      "isValid": "",
+      "prompt": "Décrivez brièvement à quoi ressemble la [i]Mona Lisa[/i].",
+      "x": false
+    },
+    {
+      "id": "82528",
+      "isValid": "",
+      "prompt": "Parlez-moi de la maison la plus en désordre dans laquelle vous ayez été.",
+      "x": false
+    },
+    {
+      "id": "82530",
+      "isValid": "",
+      "prompt": "Voudriez-vous un pied supplémentaire? Pourquoi ou pourquoi pas?",
+      "x": false
+    },
+    {
+      "id": "82531",
+      "isValid": "",
+      "prompt": "Si quelqu'un vous donnait un singe dressé, que feriez-vous en premier ?",
+      "x": false
+    },
+    {
+      "id": "82533",
+      "isValid": "",
+      "prompt": "Comment réagiriez-vous si vous perdiez une importante partie d'échecs ?",
+      "x": false
+    },
+    {
+      "id": "82534",
+      "isValid": "",
+      "prompt": "Quelles sont les différences entre les serviettes de bain et les serviettes de plage ?",
+      "x": false
+    },
+    {
+      "id": "82535",
+      "isValid": "",
+      "prompt": "Qu'est-ce que les conducteurs de train aiment probablement faire lorsqu'ils ne sont pas dans un train ?",
+      "x": false
+    },
+    {
+      "id": "82536",
+      "isValid": "",
+      "prompt": "Que feriez-vous en premier si vous renversiez du jus sur un chat ?",
+      "x": false
+    }
+  ]
 }
