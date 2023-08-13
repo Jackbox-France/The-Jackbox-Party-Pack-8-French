@@ -1,6713 +1,1573 @@
 {
  "content": [
   {
-   "answers": [
-    {
-     "match": "[i]Alerte à Malibu[/i]",
-     "text": "Dwayne Johnson"
-    },
-    {
-     "match": "[i]Halloween 6[/i]",
-     "text": "Paul Rudd"
-    },
-    {
-     "match": "[i]Le Monde secret des Emojis[/i]",
-     "text": "Maya Rudolph"
-    },
-    {
-     "match": "[i]Amours troubles[/i]",
-     "text": "Jennifer Lopez"
-    },
-    {
-     "match": "[i]Le Dernier Maître de l'air[/i]",
-     "text": "Dev Patel"
-    },
-    {
-     "match": "[i]Toutes folles de lui[/i]",
-     "text": "Robert Downey, Jr."
-    },
-    {
-     "match": "[i]Batman & Robin[/i]",
-     "text": "George Clooney"
-    },
-    {
-     "match": "[i]Catwoman[/i]",
-     "text": "Halle Berry"
-    },
-    {
-     "match": "[i]Mon beau-père, mes parents et moi[/i]",
-     "text": "Robert De Niro"
-    },
-    {
-     "match": "[i]Les 4 Fantastiques[/i] (2015)",
-     "text": "Michael B. Jordan"
-    }
-   ],
-   "category": "Film & TV",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Films",
-     "text": "Acteurs"
-    }
-   ],
-   "id": "76767",
-   "isValid": "",
-   "prompt": "Associez l'acteur au film dont il ne se vante pas.",
-   "promptHeader": "Les Acteurs et les Films dont ils ne se vantent pas",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Martin Luther King Jr. Day",
-     "text": "January"
-    },
-    {
-     "match": "Journée mondiale contre le cancer",
-     "text": "February"
-    },
-    {
-     "match": "Fête de la gastronomie",
-     "text": "Avril"
-    },
-    {
-     "match": "Fête du travail",
-     "text": "Mai"
-    },
-    {
-     "match": "Fête des pères",
-     "text": "Juin"
-    },
-    {
-     "match": "Journée mondiale de la malbouffe",
-     "text": "Juillet"
-    },
-    {
-     "match": "Équinoxe d'automne",
-     "text": "Septembre"
-    },
-    {
-     "match": "Halloween",
-     "text": "Octobre"
-    },
-    {
-     "match": "Armistice de 1918",
-     "text": "November"
-    },
-    {
-     "match": "Journée des droits de l'Homme",
-     "text": "December"
-    }
-   ],
-   "category": "Calendrier/Vacances",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Days",
-     "text": "Months"
-    }
-   ],
-   "id": "76789",
-   "isValid": "",
-   "prompt": "Associez le mois à son jour spécial",
-   "promptHeader": "Les mois et leurs jours spéciaux",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Karl Ove Knausgaard",
-     "text": "[i]Mon combat[/i]"
-    },
-    {
-     "match": "Donna Tartt",
-     "text": "[i]Le Chardonneret[/i]"
-    },
-    {
-     "match": "Michelle Obama",
-     "text": "[i]Devenir[/i]"
-    },
-    {
-     "match": "E L James",
-     "text": "[i]Cinquante nuances de Gray[/i]"
-    },
-    {
-     "match": "Gillian Flynn",
-     "text": "[i]Les Apparences[/i]"
-    },
-    {
-     "match": "John Green",
-     "text": "[i]Nos étoiles contraires[/i]"
-    },
-    {
-     "match": "Ta-Nehisi Coates",
-     "text": "[i]Une colère noire[/i]"
-    },
-    {
-     "match": "Malala Yousafzai",
-     "text": "[i]Je suis Malala[/i]"
-    },
-    {
-     "match": "Harper Lee",
-     "text": "[i]Va et poste une sentinelle[/i]"
-    },
-    {
-     "match": "George Saunders",
-     "text": "[i]Lincoln au Bardo[/i]"
-    },
-    {
-     "match": "J. D. Vance",
-     "text": "[i]Hillbilly Elegy[/i]"
-    }
-   ],
-   "category": "Littérature",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Auteurs",
-     "text": "Livres"
-    }
-   ],
-   "id": "76790",
-   "isValid": "",
-   "prompt": "Associez chaque livre à son auteur",
-   "promptHeader": "Bestsellers des années 2010",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Vince Vaughn",
-     "text": "Anthony Perkins (Norman Bates)"
-    },
-    {
-     "match": "Johnny Depp",
-     "text": "Gene Wilder (Willy Wonka)"
-    },
-    {
-     "match": "Mads Mikkelsen",
-     "text": "Anthony Hopkins (Hannibal Lecter)"
-    },
-    {
-     "match": "Jodie Whittaker",
-     "text": "David Tennant (The Doctor)"
-    },
-    {
-     "match": "Gary Oldman",
-     "text": "Bela Lugosi (Dracula)"
-    },
-    {
-     "match": "Anne Hathaway",
-     "text": "Michelle Pfeiffer (Catwoman)"
-    },
-    {
-     "match": "Emily Blunt",
-     "text": "Julie Andrews (Mary Poppins)"
-    },
-    {
-     "match": "Ralph Fiennes",
-     "text": "Judi Dench (M)"
-    },
-    {
-     "match": "Jennifer Lawrence",
-     "text": "Rebecca Romijn (Mystique)"
-    },
-    {
-     "match": "Robert Downey Jr.",
-     "text": "Basil Rathbone (Sherlock Holmes)"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "A repris le rôle",
-     "text": "A joué le rôle avant"
-    }
-   ],
-   "id": "76795",
-   "isValid": "",
-   "prompt": "Associez chaque acteur qui a joué un rôle avec celui qui l'a repris plus tard",
-   "promptHeader": "Interprètes qui partagent un rôle",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Ongles collés",
-     "text": "Pinces"
-    },
-    {
-     "match": "Douille à vis hexagonale",
-     "text": "Clé Allen"
-    },
-    {
-     "match": "Écrou",
-     "text": "Clé à molette"
-    },
-    {
-     "match": "Obscurité",
-     "text": "Lampe de poche"
-    },
-    {
-     "match": "Chaussures",
-     "text": "Echelle"
-    },
-    {
-     "match": "Automobile",
-     "text": "Cric de plancher"
-    },
-    {
-     "match": "Papier",
-     "text": "Ciseaux"
-    },
-    {
-     "match": "Pierre",
-     "text": "Burin"
-    },
-    {
-     "match": "Tronc d'arbre",
-     "text": "Tronçonneuse"
-    },
-    {
-     "match": "Mauvaises herbes",
-     "text": "Désherbeur"
-    }
-   ],
-   "category": "Outils",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Surfaces",
-     "text": "Outils"
-    }
-   ],
-   "id": "76828",
-   "isValid": "",
-   "prompt": "Associez l'outil à la surface qu'il touche",
-   "promptHeader": "Outils",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]Le Lion, la Sorcière et l'Armoire magique[/i]",
-     "text": "La sorcière blanche"
-    },
-    {
-     "match": "[i]Harry Potter et la chambre des secrets[/i]",
-     "text": "Minerva McGonagall"
-    },
-    {
-     "match": "[i]Macbeth[/i]",
-     "text": "Les trois sorcières"
-    },
-    {
-     "match": "[i]La petite sirène[/i]",
-     "text": "Ursula"
-    },
-    {
-     "match": "[i]Sacrées sorcières[/i]",
-     "text": "La grande sorcière"
-    },
-    {
-     "match": "[i]The Vampire Diaries[/i]",
-     "text": "Bonnie Bennett"
-    },
-    {
-     "match": "[i]Charmed[/i]",
-     "text": "Piper Halliwell"
-    },
-    {
-     "match": "[i]Wicked[/i]",
-     "text": "Elphaba"
-    },
-    {
-     "match": "[i]Avengers: Infinity War[/i]",
-     "text": "Wanda Maximoff"
-    }
-   ],
-   "category": "Littérature",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Histoires",
-     "text": "Sorcières"
-    }
-   ],
-   "id": "76829",
-   "isValid": "",
-   "prompt": "Associez la sorcière à son histoire",
-   "promptHeader": "D'où vient cette sorcière ?",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Elliott",
-     "text": "E.T."
-    },
-    {
-     "match": "James T. Kirk",
-     "text": "Spock"
-    },
-    {
-     "match": "Fry",
-     "text": "Zoidberg"
-    },
-    {
-     "match": "Lilo",
-     "text": "Stitch"
-    },
-    {
-     "match": "Jimmy Olsen",
-     "text": "Superman"
-    },
-    {
-     "match": "Qui-Gon Jinn",
-     "text": "Jar Jar Binks"
-    },
-    {
-     "match": "Rose Tyler",
-     "text": "Le dixième docteur"
-    },
-    {
-     "match": "Peter Quill",
-     "text": "Gamora"
-    },
-    {
-     "match": "Personne",
-     "text": "Le xénomorphe d'[i]Alien[/i]"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Amis",
-     "text": "Extraterrestres"
-    }
-   ],
-   "id": "76830",
-   "isValid": "",
-   "prompt": "Associez l'extraterrestre à son ami",
-   "promptHeader": "Les extraterrestres et leurs amis",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Extraterrestre avec une antenne",
-     "text": "Reddit"
-    },
-    {
-     "match": "Globe encerclant un panda roux",
-     "text": "Firefox"
-    },
-    {
-     "match": "Oiseau",
-     "text": "Twitter"
-    },
-    {
-     "match": "Note de musique",
-     "text": "TikTok"
-    },
-    {
-     "match": "Lettre Q",
-     "text": "Quora"
-    },
-    {
-     "match": "pièces de locomotives",
-     "text": "Steam"
-    },
-    {
-     "match": "Boîte de tchat",
-     "text": "Twitch"
-    },
-    {
-     "match": "Visage de manette",
-     "text": "Discord"
-    },
-    {
-     "match": "Bouton play dans une boîte",
-     "text": "YouTube"
-    },
-    {
-     "match": "Camera vidéo",
-     "text": "Zoom"
-    },
-    {
-     "match": "Boussole",
-     "text": "Safari"
-    },
-    {
-     "match": "Tasse de café",
-     "text": "Java"
-    }
-   ],
-   "category": "Internet",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Logos",
-     "text": "Entités de l'Internet"
-    }
-   ],
-   "id": "76845",
-   "isValid": "",
-   "prompt": "Associez l'entité d'Internet à son logo",
-   "promptHeader": "Logos d'Internet",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Paname",
-     "text": "Paris"
-    },
-    {
-     "match": "La belle endormie",
-     "text": "Bordeaux"
-    },
-    {
-     "match": "La capitale des Gaules",
-     "text": "Lyon"
-    },
-    {
-     "match": "La cité phocéenne",
-     "text": "Marseille"
-    },
-    {
-     "match": "La Porte du Midi",
-     "text": "Valence"
-    },
-    {
-     "match": "La cité du Lion",
-     "text": "Belfort"
-    },
-    {
-     "match": "La Ville Rose",
-     "text": "Toulouse"
-    },
-    {
-     "match": "La cité des Papes",
-     "text": "Avignon"
-    },
-    {
-     "match": "La ville blanche",
-     "text": "La Rochelle"
-    },
-    {
-     "match": "La cité corsaire",
-     "text": "Saint-Malo"
-    }
-   ],
-   "category": "Géographie et points de repère",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Surnoms",
-     "text": "Villes"
-    }
-   ],
-   "id": "76846",
-   "isValid": "",
-   "prompt": "Associez la ville à son surnom",
-   "promptHeader": "Le Surnom des Villes Françaises",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Chance",
-     "text": "[i]Monopoly[/i]"
-    },
-    {
-     "match": "Atout",
-     "text": "Les piques"
-    },
-    {
-     "match": "Inversion",
-     "text": "[i]Uno[/i]"
-    },
-    {
-     "match": "Salaire",
-     "text": "[i]Destins[/i]"
-    },
-    {
-     "match": "Métamorph",
-     "text": "[i]Pokémon[/i]"
-    },
-    {
-     "match": "Chambre",
-     "text": "[i]Clue[/i]"
-    },
-    {
-     "match": "Développement",
-     "text": "[i]Les colons de Catane[/i]"
-    },
-    {
-     "match": "Mission secrète",
-     "text": "[i]Risk[/i]"
-    },
-    {
-     "match": "Chat créatif",
-     "text": "[i]Cranium[/i]"
-    },
-    {
-     "match": "Drain de mana",
-     "text": "[i]Magic[/i]"
-    }
-   ],
-   "category": "Jeu",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Carte",
-     "text": "Jeux"
-    }
-   ],
-   "id": "76862",
-   "isValid": "",
-   "prompt": "Associez le jeu à la carte",
-   "promptHeader": "Est-ce votre carte ?",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "gin",
-     "text": "Negroni"
-    },
-    {
-     "match": "vodka",
-     "text": "White Russian"
-    },
-    {
-     "match": "whiskey",
-     "text": "Old fashioned"
-    },
-    {
-     "match": "rhum",
-     "text": "Daiquiri"
-    },
-    {
-     "match": "téquila",
-     "text": "Paloma"
-    },
-    {
-     "match": "vie",
-     "text": "Sangria"
-    },
-    {
-     "match": "cognac",
-     "text": "Sidecar"
-    },
-    {
-     "match": "brandy",
-     "text": "Metropolitan"
-    },
-    {
-     "match": "soda au gingembre",
-     "text": "Shirley Temple"
-    }
-   ],
-   "category": "Nourriture & boissons",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Ingrédients",
-     "text": "Boissons"
-    }
-   ],
-   "id": "76864",
-   "isValid": "",
-   "prompt": "Associez la boisson à son ingrédient principal",
-   "promptHeader": "Cocktails",
-   "us": false,
-   "x": true
-  },
-  {
-   "answers": [
-    {
-     "match": "Cercle",
-     "text": "Japon"
-    },
-    {
-     "match": "Triangle",
-     "text": "République tchèque"
-    },
-    {
-     "match": " Étoile (seule)",
-     "text": "Viet-nâm"
-    },
-    {
-     "match": "Feuille",
-     "text": "Canada"
-    },
-    {
-     "match": "Aigle",
-     "text": "Mexique"
-    },
-    {
-     "match": "Dragon",
-     "text": "Pays de Galles"
-    },
-    {
-     "match": "Étoiles (multiple)",
-     "text": "Chine"
-    },
-    {
-     "match": "Épée",
-     "text": "Arabie saoudite"
-    },
-    {
-     "match": "Croissant de lune",
-     "text": "Maldives"
-    },
-    {
-     "match": "Forme de Chypre",
-     "text": "Chypre"
-    }
-   ],
-   "category": "Géographie & monuments",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Drapeau",
-     "text": "Nations"
-    }
-   ],
-   "id": "76865",
-   "isValid": "",
-   "prompt": "Associez chaque nation à son drapeau",
-   "promptHeader": "Drapeaux nationaux",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Lex Luthor",
-     "text": "[i]Batman v Superman/i]"
-    },
-    {
-     "match": "Hakû",
-     "text": "[i]Le Voyage de Chihiro[/i]"
-    },
-    {
-     "match": "“Kamek”",
-     "text": "[i]Super Mario Bros : le film[/i]"
-    },
-    {
-     "match": "Carl",
-     "text": "[i]Jimmy Neutron[/i]"
-    },
-    {
-     "match": "Lúcio",
-     "text": "[i]Overwatch[/i]"
-    },
-    {
-     "match": "Daniel Atlas",
-     "text": "[i]Insaisissables[/i]"
-    },
-    {
-     "match": "Harold",
-     "text": "[i]Dragons[/i]"
-    },
-    {
-     "match": "“Connor",
-     "text": "[i]Detroit Become Human[/i]"
-    }
-   ],
-   "category": "Culture populaire",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Personnages",
-     "text": "Jeux, Films et Dessins animés"
-    }
-   ],
-   "id": "76866",
-   "isValid": "",
-   "prompt": "Associez le personnage qu'a doublé Donal Reignoux à son jeu, film ou dessin animé",
-   "promptHeader": "Qu'a doublé Donald Reignoux là-dedans encore ?",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "permanent",
-     "text": "temporaire"
-    },
-    {
-     "match": "intentionnel",
-     "text": "accidentel"
-    },
-    {
-     "match": "antique",
-     "text": "moderne"
-    },
-    {
-     "match": "countrefaçon",
-     "text": "authentique"
-    },
-    {
-     "match": "punition",
-     "text": "récompense"
-    },
-    {
-     "match": "grâcieux",
-     "text": "maladroit"
-    },
-    {
-     "match": "discorde",
-     "text": "harmonie"
-    },
-    {
-     "match": "figuratif",
-     "text": "littéral"
-    },
-    {
-     "match": "oui",
-     "text": "non"
-    },
-    {
-     "match": "unique",
-     "text": "ordinaire"
-    },
-    {
-     "match": "comédie",
-     "text": "tragédie"
-    },
-    {
-     "match": "permis",
-     "text": "interdit"
-    }
-   ],
-   "category": "Langue/Mots/Grammaire",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Antonymes",
-     "text": "Mots"
-    }
-   ],
-   "id": "76867",
-   "isValid": "",
-   "prompt": "Associez chaque mot à son antonyme",
-   "promptHeader": "Antonymes",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]Tout est bien qui finit bien[/i]",
-     "text": "[i]Guerre et paix[/i]"
-    },
-    {
-     "match": "[i]Ils ne construisent pas de statues pour les hommes d'affaires[/i]",
-     "text": "[i]La vallée des poupées[/i]"
-    },
-    {
-     "match": "[i]Parmi les tas de cendres et les millionnaires[/i]",
-     "text": "[i]Gatsby le magnifique[/i]"
-    },
-    {
-     "match": "[i]Le dernier homme d'Europe[/i]",
-     "text": "[i]1984[/i]"
-    },
-    {
-     "match": "[i]Atticus[/i]",
-     "text": "[i]TNe tirez pas sur l'oiseau moqueur[/i]"
-    },
-    {
-     "match": "[i]Premières impressions[/i]",
-     "text": "[i]Orgueil et préjugés[/i]"
-    },
-    {
-     "match": "[i]Guerre[/i]",
-     "text": "[i]Paradis[/i]"
-    },
-    {
-     "match": "[i]Étrangers de l'intérieur[/i]",
-     "text": "[i]Sa Majesté des mouches[/i]"
-    },
-    {
-     "match": "[i]La grève[/i]",
-     "text": "[i]La révolet d'Atlas[/i]"
-    }
-   ],
-   "category": "Littérature",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Titre rejeté",
-     "text": "Livres"
-    }
-   ],
-   "id": "76868",
-   "isValid": "",
-   "prompt": "Associez le livre à son titre rejeté",
-   "promptHeader": "Livres classiques et leurs titres rejetés",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Beanie Fieldstein",
-     "text": "Jonah Hill"
-    },
-    {
-     "match": "Warren Beatty",
-     "text": "Shirley MacLaine"
-    },
-    {
-     "match": "Gloria Vanderbilt",
-     "text": "Anderson Cooper"
-    },
-    {
-     "match": "Dionne Warwick",
-     "text": "Whitney Houston"
-    },
-    {
-     "match": "George Wendt",
-     "text": "Jason Sudeikis"
-    },
-    {
-     "match": "Owen Wilson",
-     "text": "Luke Wilson"
-    },
-    {
-     "match": "Sofia Coppola",
-     "text": "Nicolas Cage"
-    },
-    {
-     "match": "Solange",
-     "text": "Beyoncé"
-    },
-    {
-     "match": "Al Roker",
-     "text": "Lenny Kravitz"
-    },
-    {
-     "match": "Kate Hudson",
-     "text": "Goldie Hawn"
-    },
-    {
-     "match": "Emilio Esteves",
-     "text": "Charlie Sheen"
-    },
-    {
-     "match": "Brandy",
-     "text": "Snoop Dogg"
-    }
-   ],
-   "category": "Célébrités",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Proche",
-     "text": "Célébrité"
-    }
-   ],
-   "id": "76870",
-   "isValid": "",
-   "prompt": "Associez la célébrité à son proche",
-   "promptHeader": "Célébrités liées par le sang",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Van Helsing",
-     "text": "Dracula"
-    },
-    {
-     "match": "Nancy Thompson",
-     "text": "Freddy Krueger"
-    },
-    {
-     "match": "Dr. Loomis",
-     "text": "Michael Myers"
-    },
-    {
-     "match": "Sidney Prescott",
-     "text": "Ghostface"
-    },
-    {
-     "match": "Sarah Connor",
-     "text": "Terminator"
-    },
-    {
-     "match": "Ashley “Ash” Williams",
-     "text": "Morts-vivants"
-    },
-    {
-     "match": "The Winchesters",
-     "text": "Azazel"
-    },
-    {
-     "match": "Godzilla",
-     "text": "King Ghidorah"
-    },
-    {
-     "match": "Le club des ratés",
-     "text": "Ça"
-    }
-   ],
-   "category": "Pop culture",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Chasseurs",
-     "text": "Monstres"
-    }
-   ],
-   "id": "76872",
-   "isValid": "",
-   "prompt": "Associez le monstre à son chasseur",
-   "promptHeader": "Chasseurs de monstres",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Bébé",
-     "text": "Jules Grévy"
-    },
-    {
-     "match": "Bijou",
-     "text": "Raymond Poincaré"
-    },
-    {
-     "match": "(pas d'animal)",
-     "text": "René Coty"
-    },
-    {
-     "match": "Rasemotte",
-     "text": "Charles de Gaulle"
-    },
-    {
-     "match": "Jupiter",
-     "text": "Georges Pompidou"
-    },
-    {
-     "match": "Jugurtha",
-     "text": "Valéry Giscard d'Estaing"
-    },
-    {
-     "match": "Baltique",
-     "text": "François Miterrand"
-    },
-    {
-     "match": "Sumo",
-     "text": "Jacques Chirac"
-    },
-    {
-     "match": "Dumbledore",
-     "text": "Nicolas Sarkozy"
-    },
-    {
-     "match": "Philae",
-     "text": "François Hollande"
-    },
-    {
-     "match": "Nemo",
-     "text": "Emmanuel Macron"
-    }
-   ],
-   "category": "Figures historiques",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Animaux de compagnie",
-     "text": "Présidents"
-    }
-   ],
-   "id": "76873",
-   "isValid": "",
-   "prompt": "Associez l'animal de compagnie à son président",
-   "promptHeader": "Animaux présidentiels",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "McDonalds",
-     "text": "Venez comme vous êtes"
-    },
-    {
-     "match": "Burger King",
-     "text": "Have it Your Way"
-    },
-    {
-     "match": "KFC",
-     "text": "Bon à s'en lécher les doigts"
-    },
-    {
-     "match": "Subway",
-     "text": "Préparés sous vos yeux"
-    },
-    {
-     "match": "Pizza Hut",
-     "text": "La grande satisfaction"
-    },
-    {
-     "match": "Quick",
-     "text": "Un goût de légende"
-    },
-    {
-     "match": "Arrêtez de bouffer des burgers, mangez des Hamburgés !",
-     "text": "Big Fernand"
-    },
-    {
-     "match": "Mezzo di Pasta",
-     "text": "Des pâtes fraîches... & beaucoup de saveurs"
-    }
-   ],
-   "category": "Marques",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Enseignes de Fast-Food",
-     "text": "Slogans"
-    }
-   ],
-   "id": "76874",
-   "isValid": "",
-   "prompt": "Associez l'enseigne de fast-food à son slogan",
-   "promptHeader": "Où on va bouffer ?",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Thomas",
-     "text": "bleu"
-    },
-    {
-     "match": "Percy",
-     "text": "vert"
-    },
-    {
-     "match": "James",
-     "text": "rouge"
-    },
-    {
-     "match": "Spencer",
-     "text": "argent"
-    },
-    {
-     "match": "Charlie",
-     "text": "pourpre"
-    },
-    {
-     "match": "Diesel “le sournois” ",
-     "text": "noir"
-    },
-    {
-     "match": "Toby",
-     "text": "brun"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Personnages",
-     "text": "Couleurs"
-    }
-   ],
-   "id": "76876",
-   "isValid": "",
-   "prompt": "Associez le personnage de [i]Thomas et ses amis[/i] avec sa couleur",
-   "promptHeader": "Couleurs de [i]Thomas et ses amis[/i]",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "“Meet The Plastics”",
-     "text": "[i]Lolita malgré moi[/i]"
-    },
-    {
-     "match": "“The Election of 1800”",
-     "text": "[i]Hamilton[/i]"
-    },
-    {
-     "match": "“Mungojerrie et Rumpleteazer”",
-     "text": "[i]Cats[/i]"
-    },
-    {
-     "match": "“Il vit en toi”",
-     "text": "[i]Le Roi Lion[/i]"
-    },
-    {
-     "match": "“Money, Money, Money”",
-     "text": "[i]Mamma Mia![/i]"
-    },
-    {
-     "match": "“Seasons of Love”",
-     "text": "[i]Rent[/i]"
-    },
-    {
-     "match": "“If I Were A Rich Man”",
-     "text": "[i]Un Violon sur le toit[/i]"
-    },
-    {
-     "match": "“My Girlfriend, Who Lives in Canada”",
-     "text": "[i]Avenue Q[/i]"
-    },
-    {
-     "match": "“All Er Nuthin’”",
-     "text": "[i]Oklahoma![/i]"
-    },
-    {
-     "match": "“Slide Some Oil to Me”",
-     "text": "[i]The Wiz[/i]"
-    }
-   ],
-   "category": "Musique",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Chansons",
-     "text": "Comédies musicales"
-    }
-   ],
-   "id": "76950",
-   "isValid": "",
-   "prompt": "Associez la comédie musicale à sa chanson",
-   "promptHeader": "Comédies de Brodway et leurs chansons",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Allemand",
-     "text": "Autriche"
-    },
-    {
-     "match": "Arabe",
-     "text": "Egypte"
-    },
-    {
-     "match": "Grec",
-     "text": "Chypre"
-    },
-    {
-     "match": "Anglais",
-     "text": "Nigeria"
-    },
-    {
-     "match": "Portugais",
-     "text": "Mozambique"
-    },
-    {
-     "match": "Espagnol",
-     "text": "Guatemala"
-    },
-    {
-     "match": "Français",
-     "text": "Haïti"
-    },
-    {
-     "match": "Persan",
-     "text": "Iran"
-    },
-    {
-     "match": "Khmer",
-     "text": "Cambodge"
-    },
-    {
-     "match": "Russe",
-     "text": "Belarus"
-    },
-    {
-     "match": "Arménien",
-     "text": "Arménie"
-    }
-   ],
-   "category": "Géographie & points de repère",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Langue",
-     "text": "Nations"
-    }
-   ],
-   "id": "77231",
-   "isValid": "",
-   "prompt": "Associez la nation à la langue",
-   "promptHeader": "Langues officielles",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]Frasier[/i]",
-     "text": "Eddie"
-    },
-    {
-     "match": "[i]The Brady Bunch[/i]",
-     "text": "Tiger"
-    },
-    {
-     "match": "[i]Modern Family[/i]",
-     "text": "Stella"
-    },
-    {
-     "match": "[i]La fête à la maison[/i]",
-     "text": "Comète"
-    },
-    {
-     "match": "[i]Les Simpsons[/i]",
-     "text": "Petit Papa Noël"
-    },
-    {
-     "match": "[i]Dingue de toi[/i]",
-     "text": "Murray"
-    },
-    {
-     "match": "[i]Les Griffin[/i]",
-     "text": "Brian"
-    },
-    {
-     "match": "[i]Veronica Mars[/i]",
-     "text": "Backup"
-    },
-    {
-     "match": "[i]The Big Bang Theory[/i]",
-     "text": "Cinnamon"
-    },
-    {
-     "match": "[i]Adventure Time[/i]",
-     "text": "Jake"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Shows",
-     "text": "Chiens"
-    }
-   ],
-   "id": "77621",
-   "isValid": "",
-   "prompt": "Associez le chien à son show",
-   "promptHeader": "D'où vient ce chien ?!",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]Love Actually[/i]",
-     "text": "Billy Bob Thornton"
-    },
-    {
-     "match": "[i]Independence Day[/i]",
-     "text": "Bill Pullman"
-    },
-    {
-     "match": "[i]Mars Attacks![/i]",
-     "text": "Jack Nicholson"
-    },
-    {
-     "match": "[i]Président d'un jour[/i]",
-     "text": "Kevin Kline"
-    },
-    {
-     "match": "[i]White House Down[/i]",
-     "text": "Jamie Foxx"
-    },
-    {
-     "match": "[i]Air Force One[/i]",
-     "text": "Harrison Ford"
-    },
-    {
-     "match": "[i]La Chute de la Maison Blanche[/i]",
-     "text": "Aaron Eckhart"
-    },
-    {
-     "match": "[i]Le Président et Miss Wade[/i]",
-     "text": "Michael Douglas"
-    },
-    {
-     "match": "[i]Sharknado 3: Oh Hell No![/i]",
-     "text": "Mark Cuban"
-    },
-    {
-     "match": "[i]2012[/i]",
-     "text": "Danny Glover"
-    }
-   ],
-   "category": "Film & TV",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Films",
-     "text": "Acteurs"
-    }
-   ],
-   "id": "77637",
-   "isValid": "",
-   "prompt": "Associez l'acteur à son film",
-   "promptHeader": "Présidents des USA fictifs",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Marcher",
-     "text": "Basketball"
-    },
-    {
-     "match": "Faute de pied",
-     "text": "Tennis"
-    },
-    {
-     "match": "Double bogey",
-     "text": "Golf"
-    },
-    {
-     "match": "Feinte illégale",
-     "text": "Baseball"
-    },
-    {
-     "match": "Hit wicket",
-     "text": "Cricket"
-    },
-    {
-     "match": "Faux départ",
-     "text": "Natation olympique"
-    },
-    {
-     "match": "Coup sous la ceinture",
-     "text": "Boxe"
-    },
-    {
-     "match": "Rebond",
-     "text": "Fléchettes"
-    },
-    {
-     "match": "Cross-checking",
-     "text": "Hockey"
-    }
-   ],
-   "category": "Jeux",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Fautes",
-     "text": "Sports"
-    }
-   ],
-   "id": "77653",
-   "isValid": "",
-   "prompt": "Associez le sport à sa faute",
-   "promptHeader": "Quelque chose de mal s'est passé dans ce sport !",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Marc-Antoine",
-     "text": "Cleopâtre"
-    },
-    {
-     "match": "Prince Albert",
-     "text": "Reine Victoria"
-    },
-    {
-     "match": "Héphaestion",
-     "text": "Alexendre le Grand"
-    },
-    {
-     "match": "Alice B. Toklas",
-     "text": "Gertrude Stein"
-    },
-    {
-     "match": "Joséphine",
-     "text": "Napoléon"
-    },
-    {
-     "match": "Henry VIII",
-     "text": "Anne Boleyn"
-    },
-    {
-     "match": "Lord Alfred Douglas",
-     "text": "Oscar Wilde"
-    },
-    {
-     "match": "Hélène de Troie",
-     "text": "Pâris"
-    },
-    {
-     "match": "Paul Newman",
-     "text": "Joanne Woodward"
-    },
-    {
-     "match": "June Carter",
-     "text": "Johnny Cash"
-    }
-   ],
-   "category": "Figures historiques",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Amants (colonne B)",
-     "text": "Amants (colonne A)"
-    }
-   ],
-   "id": "77659",
-   "isValid": "",
-   "prompt": "Associez la personne ou le personnage célèbre avec son amant célèbre",
-   "promptHeader": "Couples de pouvoir historiques",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Dennis Rodman",
-     "text": "Michael Jordan"
-    },
-    {
-     "match": "Ronaldo",
-     "text": "David Beckham"
-    },
-    {
-     "match": "Emmitt Smith",
-     "text": "Troy Aikman"
-    },
-    {
-     "match": "Dwyane Wade",
-     "text": "LeBron James"
-    },
-    {
-     "match": "Mark Messier",
-     "text": "Wayne Gretzky"
-    },
-    {
-     "match": "Kobe Bryant",
-     "text": "Shaquille O'Neil"
-    },
-    {
-     "match": "Neymar",
-     "text": "Lionel Messi"
-    },
-    {
-     "match": "Abby Wambach",
-     "text": "Megan Rapinoe"
-    },
-    {
-     "match": "Kareem Abdul-Jabbar",
-     "text": "Magic Johnson"
-    },
-    {
-     "match": "Venus Williams",
-     "text": "Serena Williams"
-    },
-    {
-     "match": "Ryan Lochte",
-     "text": "Michael Phelps"
-    },
-    {
-     "match": "Misty May-Treanor",
-     "text": "Kerri Walsh Jennings"
-    }
-   ],
-   "category": "Games",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Coéquipiers (Colonne B)",
-     "text": "Coéquipiers (Colonne A)"
-    }
-   ],
-   "id": "77660",
-   "isValid": "",
-   "prompt": "Associez les coéquipiers ensemble.",
-   "promptHeader": "Teammates!",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Bánh Mì",
-     "text": "Baguette"
-    },
-    {
-     "match": "Reuben",
-     "text": "Pain de seigle"
-    },
-    {
-     "match": "Torta",
-     "text": "Telera Roll"
-    },
-    {
-     "match": "Cheesesteak",
-     "text": "Amoroso Roll"
-    },
-    {
-     "match": "Po' Boy",
-     "text": "Pain français style Nouvelle-Orléans"
-    },
-    {
-     "match": "Guédille",
-     "text": "Pain à hot-dog"
-    },
-    {
-     "match": "Gyros",
-     "text": "Pain pita"
-    },
-    {
-     "match": "Hot Dog style Chicago",
-     "text": "Petit pain aux graines de pavot"
-    },
-    {
-     "match": "Sandwich au concombre",
-     "text": "Pain blanc"
-    },
-    {
-     "match": "Sandwich à la crème glacée",
-     "text": "Biscuit"
-    }
-   ],
-   "category": "Nourriture & boissons",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Sandwichs",
-     "text": "Pains"
-    }
-   ],
-   "id": "77780",
-   "isValid": "",
-   "prompt": "Associez le pain au sandwich",
-   "promptHeader": "Pains traditionnellement utilisés dans les sandwichs",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Florence Foster Jenkins",
-     "text": "[i]Florence Foster Jenkins[/i]"
-    },
-    {
-     "match": "La Sorcière",
-     "text": "[i]Premenons-nous dans les bois[/i]"
-    },
-    {
-     "match": "Margaret Thatcher",
-     "text": "[i]La Dame de fer[/i]"
-    },
-    {
-     "match": "Julia Child",
-     "text": "[i]Julie & Julia[/i]"
-    },
-    {
-     "match": "Soeur Aloysius Beauvier",
-     "text": "[i]Doute[/i]"
-    },
-    {
-     "match": "Miranda Priestly",
-     "text": "[i]Le diable s'habille en Prada[/i]"
-    },
-    {
-     "match": "Susan Orlean",
-     "text": "[i]Adaptation[/i]"
-    },
-    {
-     "match": "Karen Silkwood",
-     "text": "[i]Le mystère Silkwood[/i]"
-    },
-    {
-     "match": "Sophie",
-     "text": "[i]Le choix de Sophie[/i]"
-    },
-    {
-     "match": "Joanna Kramer",
-     "text": "[i]Kramer contre Kramer[/i]"
-    },
-    {
-     "match": "Linda",
-     "text": "[i]Voyage au bout de l'enfer[/i]"
-    },
-    {
-     "match": "Kay Graham",
-     "text": "[i]Pentagon Papers[/i]"
-    },
-    {
-     "match": "Roberta",
-     "text": "[i]La musique de mon coeur[/i]"
-    },
-    {
-     "match": "Violet Weston",
-     "text": "[i]Un été à Osage County[/i]"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Rôles",
-     "text": "Films"
-    }
-   ],
-   "id": "77958",
-   "isValid": "",
-   "prompt": "Associez le film au rôle",
-   "promptHeader": "Les rôles nominés aux Oscars de Meryl Streep",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Hutt",
-     "text": "[i]Star Wars[/i]"
-    },
-    {
-     "match": "[i]tlhIngan Hol[/i]",
-     "text": "[i]Star Trek[/i]"
-    },
-    {
-     "match": "Dothraki",
-     "text": "[i]Le trône de fer[/i]"
-    },
-    {
-     "match": "Quenya (Haut elfique)",
-     "text": "[i]Le seigneur des anneaux[/i]"
-    },
-    {
-     "match": "Na'vi",
-     "text": "[i]Avatar[/i]"
-    },
-    {
-     "match": "Alienese",
-     "text": "[i]Futurama[/i]"
-    },
-    {
-     "match": "Novlangue",
-     "text": "[i]1984[/i]"
-    },
-    {
-     "match": "Simlish",
-     "text": "[i]Les Sims[/i]"
-    },
-    {
-     "match": "Nadsat",
-     "text": "[i]Orange mécanique[/i]"
-    },
-    {
-     "match": "Fourchelang",
-     "text": "[i]Harry Potter[/i]"
-    }
-   ],
-   "category": "Pop Culture",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Langages",
-     "text": "Univers"
-    }
-   ],
-   "id": "78012",
-   "isValid": "",
-   "prompt": "Faire correspondre l'univers à son langage fictif",
-   "promptHeader": "Langages fictifs",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Fin Mars",
-     "text": "Bélier"
-    },
-    {
-     "match": "Fin Avril",
-     "text": "Taureau"
-    },
-    {
-     "match": "Début Juin",
-     "text": "Gemeaux"
-    },
-    {
-     "match": "Début Juillet",
-     "text": "Cancer"
-    },
-    {
-     "match": "Fin Juillet",
-     "text": "Lion"
-    },
-    {
-     "match": "Début septembre",
-     "text": "Vierge"
-    },
-    {
-     "match": "Fin Septembre",
-     "text": "Balance"
-    },
-    {
-     "match": "Début Novembre",
-     "text": "Scorpion"
-    },
-    {
-     "match": "Début Décembre",
-     "text": "Sagittaire"
-    },
-    {
-     "match": "Fin Décembre",
-     "text": "Capricorne"
-    },
-    {
-     "match": "Fin Janvier",
-     "text": "Verseau"
-    },
-    {
-     "match": "Fin Février",
-     "text": "Poissons"
-    }
-   ],
-   "category": "Calendrier/Vacances",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Mois",
-     "text": "Signes du zodiaque"
-    }
-   ],
-   "id": "78060",
-   "isValid": "",
-   "prompt": "Associez le signe du zodiaque au mois",
-   "promptHeader": "Signes du zodiaque et mois",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]New-York : Unité spéciale[/i]",
-     "text": "Ice-T"
-    },
-    {
-     "match": "[i]Friday[/i]",
-     "text": "Ice Cube"
-    },
-    {
-     "match": "[i]Le prince de Bel-Air[/i]",
-     "text": "Will Smith"
-    },
-    {
-     "match": "[i]8 Mile[/i]",
-     "text": "Eminem"
-    },
-    {
-     "match": "[i]Hors limites[/i]",
-     "text": "DMX"
-    },
-    {
-     "match": "[i]Hairspray[/i]",
-     "text": "Queen Latifah"
-    },
-    {
-     "match": "[i]NCIS: Los Angeles[/i]",
-     "text": "LL Cool J"
-    },
-    {
-     "match": "[i]Le Guide du voyageur galactique[/i]",
-     "text": "Mos Def/Yasiin Bey"
-    },
-    {
-     "match": "[i]Atlanta[/i]",
-     "text": "Childish Gambino"
-    },
-    {
-     "match": "[i]Queens[/i]",
-     "text": "Cardi B"
-    }
-   ],
-   "category": "Pop culture",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Crédits",
-     "text": "Rappeurs"
-    }
-   ],
-   "id": "78094",
-   "isValid": "",
-   "prompt": "Associez le rappeur à son crédit d'acteur",
-   "promptHeader": "C'est un rap : les artistes hip-hop et leur travail d'acteur",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Occitanie",
-     "text": "Gouffre de Padirac"
-    },
-    {
-     "match": "Nouvelle-Aquitaine",
-     "text": "Fort Boyard"
-    },
-    {
-     "match": "Pays de la Loire",
-     "text": "Puy du Fou"
-    },
-    {
-     "match": "Bretagne",
-     "text": "Alignements de Carnac"
-    },
-    {
-     "match": "Hauts-de-France",
-     "text": "Parc Astérix"
-    },
-    {
-     "match": "Centre-Val-de-Loire",
-     "text": "Château de Chambord"
-    },
-    {
-     "match": "Corse",
-     "text": "Agriates"
-    },
-    {
-     "match": "Bourgogne-Franche-Comté",
-     "text": "Basilique de Vézelay"
-    },
-    {
-     "match": "Île-de-France",
-     "text": "Tour Eiffel"
-    },
-    {
-     "match": "Grand Est.",
-     "text": "Parc de l'Orangerie"
-    },
-    {
-     "match": "Provence-Alpes-Côtes d'Azur",
-     "text": "Parc National Mercantour"
-    }
-   ],
-   "category": "Géographie & Points de Repère",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Régions",
-     "text": "Sites historiques nationaux"
-    }
-   ],
-   "id": "78265",
-   "isValid": "",
-   "prompt": "Associez le site historique national à sa région",
-   "promptHeader": "Les monuments historiques nationaux et leurs régions",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]The Fame[/i]",
-     "text": "Lady Gaga"
-    },
-    {
-     "match": "[i]Yours Truly[/i]",
-     "text": "Ariana Grande"
-    },
-    {
-     "match": "[i]The Barbra Streisand Album[/i]",
-     "text": "Barbra Streisand"
-    },
-    {
-     "match": "[i]Doo-Wops & Hooligans[/i]",
-     "text": "Bruno Mars"
-    },
-    {
-     "match": "[i]Music Of The Sun[/i]",
-     "text": "Rihanna"
-    },
-    {
-     "match": "[i]2 Cool 4 Skool[/i]",
-     "text": "BTS"
-    },
-    {
-     "match": "[i]Danke Schoen[/i]",
-     "text": "Wayne Newton"
-    },
-    {
-     "match": "[i]Cooleyhighharmony[/i]",
-     "text": "Boyz II Men"
-    },
-    {
-     "match": "[i]Boy[/i]",
-     "text": "U2"
-    },
-    {
-     "match": "[i]When We All Fall Asleep, Where Do We Go?[/i]",
-     "text": "Billie Eilish"
-    }
-   ],
-   "category": "Musique",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Albums",
-     "text": "Artistes"
-    }
-   ],
-   "id": "78270",
-   "isValid": "",
-   "prompt": "Associez l'artiste à son premier album",
-   "promptHeader": "Premiers albums célèbres",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Philippines",
-     "text": "Poulet adobo"
-    },
-    {
-     "match": "Autriche",
-     "text": "Escalope à la viennoise"
-    },
-    {
-     "match": "Canada",
-     "text": "Poutine"
-    },
-    {
-     "match": "Chine",
-     "text": "Canard laqué"
-    },
-    {
-     "match": "Japan",
-     "text": "Sushi"
-    },
-    {
-     "match": "Italy",
-     "text": "Pâtes à la bolognaise"
-    },
-    {
-     "match": "Royaume-uni",
-     "text": "Fish & chips"
-    },
-    {
-     "match": "Viet-nâm",
-     "text": "Pho"
-    },
-    {
-     "match": "Mexique",
-     "text": "Tacos"
-    },
-    {
-     "match": "Jamaïque",
-     "text": "Poulet jerk"
-    },
-    {
-     "match": "Pologne",
-     "text": "Pierogi"
-    }
-   ],
-   "category": "Nourriture & boissons",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Pays",
-     "text": "Plats nationaux"
-    }
-   ],
-   "id": "78285",
-   "isValid": "",
-   "prompt": "Associez le plat national à son pays",
-   "promptHeader": "Pays et leurs plats nationaux les plus populaires",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Mont Everest",
-     "text": "Asie"
-    },
-    {
-     "match": "Aconcagua",
-     "text": "Amérique du sud"
-    },
-    {
-     "match": "Denali (Mount McKinley)",
-     "text": "Amérique du nord"
-    },
-    {
-     "match": "Mont Kilimanjaro",
-     "text": "Afrique"
-    },
-    {
-     "match": "Mount Elbruz",
-     "text": "Europe"
-    },
-    {
-     "match": "Massif Vinson",
-     "text": "Antarctique"
-    },
-    {
-     "match": "Puncak Jaya (Pyramide Carstensz)",
-     "text": "Océanie (Nouvelle-Guinée)"
-    },
-    {
-     "match": "Mont Kosciuszko",
-     "text": "Australie"
-    },
-    {
-     "match": "Anai Mudi",
-     "text": "Sous-continent indien"
-    },
-    {
-     "match": "Mont Damavand",
-     "text": "Sous-continent du Moyen-Orient"
-    },
-    {
-     "match": "Montagne Gunnbjørn",
-     "text": "Groenland"
-    }
-   ],
-   "category": "Géographie & monuments",
-   "decoys": [
-    {
-     "text": ""
-    }
-   ],
-   "headers": [
-    {
-     "match": "Points culminants",
-     "text": "Régions"
-    }
-   ],
-   "id": "78287",
-   "isValid": "",
-   "prompt": "Associez la région à son point culminant",
-   "promptHeader": "Les régions du monde et leurs points culminants",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Brangelina",
-     "text": "Brad Pitt & Angelina Jolie"
-    },
-    {
-     "match": "Bennifer",
-     "text": "Ben Affleck & Jennifer Garner"
-    },
-    {
-     "match": "Kimye",
-     "text": "Kanye West & Kim Kardashian"
-    },
-    {
-     "match": "Billary",
-     "text": "Bill Clinton & Hillary Rodham Clinton"
-    },
-    {
-     "match": "Desilu",
-     "text": "Desi Arnaz & Lucille Ball"
-    },
-    {
-     "match": "Brady-Bundch",
-     "text": "Giselle Bundchen & Tom Brady"
-    },
-    {
-     "match": "TomKat",
-     "text": "Tom Cruise & Katie Holmes"
-    },
-    {
-     "match": "Speidi",
-     "text": "Spencer Pratt & Heidi Montag"
-    },
-    {
-     "match": "Grandson",
-     "text": "Ariana Grande & Pete Davidson"
-    },
-    {
-     "match": "BeyonZ",
-     "text": "Beyonce & Jay-Z"
-    },
-    {
-     "match": "Posh & Becks",
-     "text": "Victoria Beckham & David Beckham"
-    },
-    {
-     "match": "Cash and Cary",
-     "text": "Cary Grant & Barbara Woolworth"
-    }
-   ],
-   "category": "Célébrités",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Nom hybride",
-     "text": "Couples"
-    }
-   ],
-   "id": "78302",
-   "isValid": "",
-   "prompt": "Associez le couple à leur nom hybride",
-   "promptHeader": "Noms hybrides de supercouples de célébrités",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Poisson",
-     "text": "Ceviche"
-    },
-    {
-     "match": "Poulet",
-     "text": "Coq au vin"
-    },
-    {
-     "match": "Bœuf",
-     "text": "Ropa vieja"
-    },
-    {
-     "match": "Porc",
-     "text": "Carnitas"
-    },
-    {
-     "match": "Pois chiche",
-     "text": "Chana masala"
-    },
-    {
-     "match": "Canard",
-     "text": "Bebek goreng"
-    },
-    {
-     "match": "Oeufs",
-     "text": "Quiche"
-    },
-    {
-     "match": "Citrouille",
-     "text": "pampoenkoekie"
-    }
-   ],
-   "category": "Nourriture & boissons",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Ingrédient principal",
-     "text": "Plats"
-    }
-   ],
-   "id": "78305",
-   "isValid": "",
-   "prompt": "Associez le plat à son ingrédient principal",
-   "promptHeader": "Ingrédients principaux",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Chine",
-     "text": "Lo mein"
-    },
-    {
-     "match": "Philippines",
-     "text": "Pancit canton"
-    },
-    {
-     "match": "Japon",
-     "text": "Ramen"
-    },
-    {
-     "match": "Italie",
-     "text": "Tagliatelles"
-    },
-    {
-     "match": "Corée",
-     "text": "Japchae"
-    },
-    {
-     "match": "Thaïlande",
-     "text": "Pad thaï"
-    },
-    {
-     "match": "Allemagne",
-     "text": "Späetzle"
-    },
-    {
-     "match": "Grèce",
-     "text": "Orzo"
-    },
-    {
-     "match": "Mongolie",
-     "text": "Tsuivan"
-    },
-    {
-     "match": "India",
-     "text": "Hakka"
-    },
-    {
-     "match": "Viet-nâm",
-     "text": "Bánh phở"
-    },
-    {
-     "match": "États-Unis",
-     "text": "Kraft mac au fromage"
-    }
-   ],
-   "category": "Nourriture & boissons",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Nations",
-     "text": "Nouilles"
-    }
-   ],
-   "id": "78306",
-   "isValid": "",
-   "prompt": "Associez le plat de nouilles à sa nation",
-   "promptHeader": "Nouilles du monde et leur provenance",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]Le Meurtre de Gonzague[/i]",
-     "text": "[i]Hamlet[/i]"
-    },
-    {
-     "match": "[i]Pyrame et Thisbé[/i]",
-     "text": "[i]Le Songe d'une nuit d'été[/i]"
-    },
-    {
-     "match": "[i]Springtime for Hitler[/i]",
-     "text": "[i]Les Producteurs[/i]"
-    },
-    {
-     "match": "[i]Nothing On[/i]",
-     "text": "[i]Bruits de coulisses[/i]"
-    },
-    {
-     "match": "[i]La Mégère apprivoisée[/i]",
-     "text": "[i]Embrasse-moi, chérie[/i]"
-    },
-    {
-     "match": "[i]Joseph Smith Moïse Américain[/i]",
-     "text": "[i]Book of Mormon[/i]"
-    },
-    {
-     "match": "[i]Bohemian Rhapsody[/i]",
-     "text": "[i]Moulin Rouge ![/i] (stage musical)"
-    },
-    {
-     "match": "La pièce de Treplev",
-     "text": "[i]La mouette[/i]"
-    }
-   ],
-   "category": "Littérature",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Oeuvres dans les oeuvres",
-     "text": "Oeuvres"
-    }
-   ],
-   "id": "78325",
-   "isValid": "",
-   "prompt": "Associez l'oeuvre à son oeuvre dans l'oeuvre",
-   "promptHeader": "L'oeuvre dans l'oeuvre",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Les indifférents et les non engagés",
-     "text": "Les portes de l'Enfer"
-    },
-    {
-     "match": "les païens non baptisés et vertueux",
-     "text": "Premier cercle"
-    },
-    {
-     "match": "Les lubriques",
-     "text": "Second cercle"
-    },
-    {
-     "match": "Les gourmands",
-     "text": "Troisième cercle"
-    },
-    {
-     "match": "Les avares et les prodigues",
-     "text": "Quatrième cercle"
-    },
-    {
-     "match": "les coléreux et les maussades",
-     "text": "Cinquième cercle"
-    },
-    {
-     "match": "Les hérétiques",
-     "text": "Sixième cercle"
-    },
-    {
-     "match": "Les violents",
-     "text": "Septième cercle"
-    },
-    {
-     "match": "Les fraudeurs",
-     "text": "Huitième cercle"
-    },
-    {
-     "match": "Les traîtres",
-     "text": "Neuvième cercle"
-    },
-    {
-     "match": "Satan",
-     "text": "Le centre de l'Enfer"
-    }
-   ],
-   "category": "Littérature",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Pécheurs",
-     "text": "Cercles de l'enfer"
-    }
-   ],
-   "id": "78326",
-   "isValid": "",
-   "prompt": "Associez les cercles de l'enfer à leurs pécheurs",
-   "promptHeader": "Cercles de l'enfer dans [i]L'Enfer[/i] de Dante et les pécheurs envoyés là-bas",
-   "us": false,
-   "x": true
-  },
-  {
-   "answers": [
-    {
-     "match": "Maison",
-     "text": "[i]Le magicien d'Oz[/i]"
-    },
-    {
-     "match": "Route",
-     "text": "[i]Retour vers le futur[/i]"
-    },
-    {
-     "match": "Amitié",
-     "text": "[i]Casablanca[/i]"
-    },
-    {
-     "match": "Rêver",
-     "text": "[i]Pretty Woman[/i]"
-    },
-    {
-     "match": "Retour",
-     "text": "[i]Le seigneur des annaux : Le retour du roi[/i]"
-    },
-    {
-     "match": "Allons-y",
-     "text": "[i]La Folle Journée de Ferris Bueller[/i]"
-    },
-    {
-     "match": "Parfait",
-     "text": "[i]Certains l'aiment chaud[/i]"
-    },
-    {
-     "match": "Disparu",
-     "text": "[i]The Usual Suspects[/i]"
-    },
-    {
-     "match": "Jour",
-     "text": "[i]Autant en emporte le vent[/i]"
-    },
-    {
-     "match": "Départ",
-     "text": "[i]Un jour sans fin[/i]"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Mots finaux",
-     "text": "Films"
-    }
-   ],
-   "id": "78372",
-   "isValid": "",
-   "prompt": "Associez le film à son dernier mot",
-   "promptHeader": "Le dernier mot prononcé dans les films célèbres",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Théorie de la relativité générale",
-     "text": "Albert Einstein"
-    },
-    {
-     "match": "Théorie de l'évolution",
-     "text": "Charles Darwin"
-    },
-    {
-     "match": "Découverte du radium et du polonium",
-     "text": "Marie Curie"
-    },
-    {
-     "match": "Calcul infinitésimal",
-     "text": "Sir Isaac Newton"
-    },
-    {
-     "match": "Classification des animaux",
-     "text": "Carolus Linneaus"
-    },
-    {
-     "match": "Pasteurisation",
-     "text": "Louis Pasteur"
-    },
-    {
-     "match": "Vaccin contre la polio",
-     "text": "Jonas Salk"
-    },
-    {
-     "match": "Théorie des trous noirs",
-     "text": "Stephen Hawking"
-    },
-    {
-     "match": "Utilisation des cacahuètes",
-     "text": "George Washington Carver"
-    },
-    {
-     "match": "Invention du téléphone",
-     "text": "Alexander Graham Bell"
-    },
-    {
-     "match": "Utilisation du courant alternatif",
-     "text": "Nikola Tesla"
-    },
-    {
-     "match": "Utilisation d'outils par les chimpanzés",
-     "text": "Jane Goodall"
-    }
-   ],
-   "category": "Figures historiques",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Contributions",
-     "text": "Scientifiques"
-    }
-   ],
-   "id": "78394",
-   "isValid": "",
-   "prompt": "Associez le scientifique à sa contribution",
-   "promptHeader": "Les grands scientifiques et leurs principales contributions",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Nagui",
-     "text": "[i]N'oubliez pas les paroles[/i]"
-    },
-    {
-     "match": "Arthur",
-     "text": "[i]Les Enfants de la Télé[/i]"
-    },
-    {
-     "match": "Nikos Aliagas",
-     "text": "[i]The Voice[/i]"
-    },
-    {
-     "match": "Stéphane Rotenberg",
-     "text": "[i]Top Chef[/i]"
-    },
-    {
-     "match": "Denis Brogniart",
-     "text": "[i]Koh-Lanta[/i]"
-    },
-    {
-     "match": "Olivier Minne",
-     "text": "[i]Fort Boyard[/i]"
-    },
-    {
-     "match": "Stéphane Bern",
-     "text": "[i]Secrets d'histoire[/i]"
-    },
-    {
-     "match": "Karine Le Marchand",
-     "text": "[i]L'Amour est dans le pré[/i]"
-    }
-   ],
-   "category": "Film & TV",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Hôtes",
-     "text": "Émissions"
-    }
-   ],
-   "id": "78409",
-   "isValid": "",
-   "prompt": "Associez l'émission à son hôte",
-   "promptHeader": "Animateurs d'émissions de télévision",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Vie",
-     "text": "Rouge"
-    },
-    {
-     "match": "Santé",
-     "text": "Orange"
-    },
-    {
-     "match": "Lumière du soleil",
-     "text": "Jaune"
-    },
-    {
-     "match": "Nature",
-     "text": "Vert"
-    },
-    {
-     "match": "Sérénité",
-     "text": "Indigo"
-    },
-    {
-     "match": "Esprit",
-     "text": "Violet"
-    }
-   ],
-   "category": "Pop culture",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Significations",
-     "text": "Couleurs"
-    }
-   ],
-   "id": "78417",
-   "isValid": "",
-   "prompt": "Associez la couleur à sa signification",
-   "promptHeader": "Signification des couleurs sur le drapeau Rainbow Pride",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]Clueless[/i]",
-     "text": "Alicia Silverstone"
-    },
-    {
-     "match": "[i]Vous avez un message[/i]",
-     "text": "Meg Ryan"
-    },
-    {
-     "match": "[i]La revanche d'une blonde[/i]",
-     "text": "Reese Witherspoon"
-    },
-    {
-     "match": "[i]30 ans sinon rien[/i]",
-     "text": "Jennifer Garner"
-    },
-    {
-     "match": "[i]Éclair de lune[/i]",
-     "text": "Cher"
-    },
-    {
-     "match": "[i]L'Impossible Monsieur Bébé[/i]",
-     "text": "Katharine Hepburn"
-    },
-    {
-     "match": "[i]Pretty Woman[/i]",
-     "text": "Julia Roberts"
-    },
-    {
-     "match": "[i]Tout peut arriver[/i]",
-     "text": "Diane Keaton"
-    },
-    {
-     "match": "[i]The Holiday[/i]",
-     "text": "Cameron Diaz"
-    },
-    {
-     "match": "[i]Le journal de Bridget Jones[/i]",
-     "text": "Renee Zellweger"
-    },
-    {
-     "match": "[i]Dix bonnes raisons de te larguer[/i]",
-     "text": "Julia Stiles"
-    },
-    {
-     "match": "[i]Miss Détective[/i]",
-     "text": "Sandra Bullock"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Comédies romantiques",
-     "text": "Principales dames"
-    }
-   ],
-   "id": "78420",
-   "isValid": "",
-   "prompt": "Associez l'actrice au film",
-   "promptHeader": "Principales dames des comédies romantiques",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Trompette",
-     "text": "Miles Davis"
-    },
-    {
-     "match": "Guitare",
-     "text": "Django Reinhardt"
-    },
-    {
-     "match": "Voix",
-     "text": "Billie Holiday"
-    },
-    {
-     "match": "Saxophone",
-     "text": "Charlie Parker"
-    },
-    {
-     "match": "Piano",
-     "text": "Thelonious Monk"
-    },
-    {
-     "match": "Batterie",
-     "text": "Buddy Rich"
-    },
-    {
-     "match": "Basse",
-     "text": "Jaco Pastorius"
-    },
-    {
-     "match": "Trombone",
-     "text": "J. J. Johnson"
-    },
-    {
-     "match": "Clarinette",
-     "text": "Benny Goodman"
-    }
-   ],
-   "category": "Musique",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Instruments",
-     "text": "Grands du jazz"
-    }
-   ],
-   "id": "78427",
-   "isValid": "",
-   "prompt": "Associez l'artiste à son instrument",
-   "promptHeader": "Les grands du jazz et leurs instruments",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "New York",
-     "text": "[i]Friends[/i]"
-    },
-    {
-     "match": "Corée du sud",
-     "text": "[i]M*A*S*H[/i]"
-    },
-    {
-     "match": "Miami",
-     "text": "[i]Les Craquantes[/i]"
-    },
-    {
-     "match": "Springfield",
-     "text": "[i]The Simpsons[/i]"
-    },
-    {
-     "match": "Seattle",
-     "text": "[i]Frasier[/i]"
-    },
-    {
-     "match": "Boston",
-     "text": "[i]Cheers[/i]"
-    },
-    {
-     "match": "Los Angeles",
-     "text": "[i]Larry et son nombril[/i]"
-    },
-    {
-     "match": "South Park",
-     "text": "[i]South Park[/i]"
-    },
-    {
-     "match": "Minneapolis-Saint Paul",
-     "text": "[i]The Mary Tyler Moore Show[/i]"
-    },
-    {
-     "match": "Philadelphie",
-     "text": "[i]Philadelphia[/i]"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Cadres",
-     "text": "Sitcoms"
-    }
-   ],
-   "id": "78443",
-   "isValid": "",
-   "prompt": "Associez la sitcom à son cadre",
-   "promptHeader": "Cadres des sitcoms",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "The Doobie Brothers",
-     "text": "“Long Train Runnin’”"
-    },
-    {
-     "match": "Yusuf / Cat Stevens",
-     "text": "“Peace Train”"
-    },
-    {
-     "match": "Gladys Knight & The Pips",
-     "text": "“Midnight Train to Georgia”"
-    },
-    {
-     "match": "Ozzy Osbourne",
-     "text": "“Crazy Train”"
-    },
-    {
-     "match": "The O’Jays",
-     "text": "“Love Train”"
-    },
-    {
-     "match": "Joni Mitchell",
-     "text": "“Just Like This Train”"
-    },
-    {
-     "match": "Bruce Springsteen",
-     "text": "“Downbound Train”"
-    },
-    {
-     "match": "Jimi Hendrix",
-     "text": "“Hear My Train A Comin’”"
-    },
-    {
-     "match": "Quad City DJ’s",
-     "text": "“C’mon N’ Ride It (The Train)”"
-    },
-    {
-     "match": "Duke Ellington",
-     "text": "“Take The “A” Train”"
-    }
-   ],
-   "category": "Musique",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Artistes",
-     "text": "Chansons de train"
-    }
-   ],
-   "id": "78445",
-   "isValid": "",
-   "prompt": "Associez la chanson à son artiste",
-   "promptHeader": "Chansons de train et leurs artistes",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "New York",
-     "text": "Empire State Building"
-    },
-    {
-     "match": "Dubai",
-     "text": "Burj Khalifa"
-    },
-    {
-     "match": "Chicago",
-     "text": "Willis Tower"
-    },
-    {
-     "match": "Shanghai",
-     "text": "Shanghai Tower"
-    },
-    {
-     "match": "Londres",
-     "text": "The Shard"
-    },
-    {
-     "match": "San Francisco",
-     "text": "Transamerica Pyramid"
-    },
-    {
-     "match": "Singapour",
-     "text": "Marina Bay Sands"
-    },
-    {
-     "match": "Kuala Lumpur",
-     "text": "Tours jumelles Petronas"
-    },
-    {
-     "match": "Seattle",
-     "text": "Space Needle"
-    },
-    {
-     "match": "Toronto",
-     "text": "CN Tower"
-    }
-   ],
-   "category": "Géographie & monuments",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Villes",
-     "text": "Bâtiments"
-    }
-   ],
-   "id": "78446",
-   "isValid": "",
-   "prompt": "Associez le bâtiment à sa ville",
-   "promptHeader": "Gratte-ciels",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "meute",
-     "text": "loups"
-    },
-    {
-     "match": "groupe",
-     "text": "grands singes"
-    },
-    {
-     "match": "essaim",
-     "text": "abeilles"
-    },
-    {
-     "match": "convocation",
-     "text": "aigles"
-    },
-    {
-     "match": "volée",
-     "text": "corbeaux"
-    },
-    {
-     "match": "armée",
-     "text": "grenouilles"
-    },
-    {
-     "match": "troupe",
-     "text": "singes"
-    },
-    {
-     "match": "entreprise",
-     "text": "furets"
-    },
-    {
-     "match": "banc",
-     "text": "baleines"
-    },
-    {
-     "match": "bande",
-     "text": "lions"
-    }
-   ],
-   "category": "Animaux",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Groupes",
-     "text": "Animaux"
-    }
-   ],
-   "id": "78447",
-   "isValid": "",
-   "prompt": "Associez l'animal à son nom de groupe",
-   "promptHeader": "Comment s'appelle ce groupe d'animaux ?",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Empanada",
-     "text": "Argentine"
-    },
-    {
-     "match": "Pierogi",
-     "text": "Poland"
-    },
-    {
-     "match": "Jiaozi",
-     "text": "Chinoise"
-    },
-    {
-     "match": "Samosa",
-     "text": "Inde"
-    },
-    {
-     "match": "Ravioli",
-     "text": "Italie"
-    },
-    {
-     "match": "Siomay",
-     "text": "Indonésie"
-    },
-    {
-     "match": "Gyoza",
-     "text": "Japon"
-    },
-    {
-     "match": "Khinkali",
-     "text": "Géorgie (le pays)"
-    },
-    {
-     "match": "Pizza Rolls",
-     "text": "États-Unis"
-    },
-    {
-     "match": "Momo",
-     "text": "Népal"
-    }
-   ],
-   "category": "Nourriture & boissons",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Boulettes",
-     "text": "Pays"
-    }
-   ],
-   "id": "78449",
-   "isValid": "",
-   "prompt": "Associez le pays à sa boulette alimentaire",
-   "promptHeader": "Hé ! Où as-tu trouvé cette boulette ?",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "California",
-     "text": "Yosemite"
-    },
-    {
-     "match": "Maine",
-     "text": "Acadia"
-    },
-    {
-     "match": "Texas",
-     "text": "Big Bend"
-    },
-    {
-     "match": "Alaska",
-     "text": "Gates of the Arctic"
-    },
-    {
-     "match": "Utah",
-     "text": "Arches"
-    },
-    {
-     "match": "South Dakota",
-     "text": "Badlands"
-    },
-    {
-     "match": "Oregon",
-     "text": "Crater Lake"
-    },
-    {
-     "match": "Florida",
-     "text": "Everglades"
-    },
-    {
-     "match": "Montana",
-     "text": "Glacier"
-    },
-    {
-     "match": "Arizona",
-     "text": "Grand Canyon"
-    }
-   ],
-   "category": "Géographie et points de repère",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "États",
-     "text": "Parcs nationaux"
-    }
-   ],
-   "id": "78450",
-   "isValid": "",
-   "prompt": "Associez le parc national à son État",
-   "promptHeader": "Emplacement des parcs nationaux des États-Unis",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Épicerie",
-     "text": "Ralphs"
-    },
-    {
-     "match": "Équipements de sport",
-     "text": "Dick's"
-    },
-    {
-     "match": "Café et donuts",
-     "text": "Tim Hortons"
-    },
-    {
-     "match": "Crème glacée",
-     "text": "Ben & Jerry's"
-    },
-    {
-     "match": "T-shirt homme",
-     "text": "Eddie Bauer"
-    },
-    {
-     "match": "Sandwiches",
-     "text": "Jimmy John's"
-    },
-    {
-     "match": "Liqueur",
-     "text": "Johnnie Walker"
-    },
-    {
-     "match": "Jeans",
-     "text": "Levi's"
-    },
-    {
-     "match": "Papier toilette en vrac",
-     "text": "Sam's"
-    },
-    {
-     "match": "Déodorants",
-     "text": "Tom's"
-    }
-   ],
-   "category": "Noms",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Produits",
-     "text": "Mecs"
-    }
-   ],
-   "id": "78516",
-   "isValid": "",
-   "prompt": "Faire correspondre l'entreprise à son produit",
-   "promptHeader": "Juste quelques mecs et leurs trucs",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "États-unis",
-     "text": "Dollar (USD)"
-    },
-    {
-     "match": "Union européenne",
-     "text": "Euro"
-    },
-    {
-     "match": "Grande-Bretagne",
-     "text": "Livre"
-    },
-    {
-     "match": "Suisse",
-     "text": "Franc"
-    },
-    {
-     "match": "Viet-nâm",
-     "text": "Dong"
-    },
-    {
-     "match": "Mexique",
-     "text": "Peso"
-    },
-    {
-     "match": "Corée du sud",
-     "text": "Won"
-    },
-    {
-     "match": "Japon",
-     "text": "Yen"
-    },
-    {
-     "match": "Inde",
-     "text": "Roupie"
-    },
-    {
-     "match": "Russie",
-     "text": "Rouble"
-    }
-   ],
-   "category": "Argent",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Lieux d'origine",
-     "text": "Devises"
-    }
-   ],
-   "id": "78556",
-   "isValid": "",
-   "prompt": "Associez la devise à son lieu d'origine",
-   "promptHeader": "Devises négociables et d'où elles viennent",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]Le Vieux Guitariste aveugle[/i]",
-     "text": "Pablo Picasso"
-    },
-    {
-     "match": "[i]Les deux Fridas[/i]",
-     "text": "Frida Kahlo"
-    },
-    {
-     "match": "[i]La persistance de la mémoire[/i]",
-     "text": "Salvador Dalí"
-    },
-    {
-     "match": "[i]American Gothic[/i]",
-     "text": "Grant Wood"
-    },
-    {
-     "match": "[i]Black Iris III[/i]",
-     "text": "Georgia O'Keeffe"
-    },
-    {
-     "match": "32 [i]boîtes de soupe Campbell[/i]",
-     "text": "Andy Warhol"
-    },
-    {
-     "match": "[i]Blue Poles[/i] (Number 11)",
-     "text": "Jackson Pollock"
-    },
-    {
-     "match": "[i]Nighthawks[/i]",
-     "text": "Edward Hopper"
-    },
-    {
-     "match": "[i]No 1 Royal Red and Blue[/i]",
-     "text": "Mark Rothko"
-    },
-    {
-     "match": "[i]Untitled[/i] (Skull)",
-     "text": "Jean-Michel Basquiat"
-    },
-    {
-     "match": "[i]Le baiser[/i]",
-     "text": "Gustav Klimt"
-    }
-   ],
-   "category": "Art",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Chefs-d'œuvres",
-     "text": "Artistes"
-    }
-   ],
-   "id": "78631",
-   "isValid": "",
-   "prompt": "Associez l'artiste à son chef-d'œuvre",
-   "promptHeader": "Les artistes du XXe siècle et leurs chefs-d'œuvre",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "“Work From Home”",
-     "text": "Fifth Harmony"
-    },
-    {
-     "match": "“Free Your Mind”",
-     "text": "En Vogue"
-    },
-    {
-     "match": "“You Can't Hurry Love”",
-     "text": "The Supremes"
-    },
-    {
-     "match": "“Stickwitu”",
-     "text": "The Pussycat Dolls"
-    },
-    {
-     "match": "“Say You’ll Be There”",
-     "text": "Spice Girls"
-    },
-    {
-     "match": "“Where My Girls At?”",
-     "text": "702"
-    },
-    {
-     "match": "“C'est La Vie”",
-     "text": "B*witched"
-    },
-    {
-     "match": "“Waterfalls”",
-     "text": "TLC"
-    },
-    {
-     "match": "“Hold On”",
-     "text": "Wilson Phillips"
-    },
-    {
-     "match": "“Move”",
-     "text": "Little Mix"
-    }
-   ],
-   "category": "Music",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Singles",
-     "text": "Groupes de filles"
-    }
-   ],
-   "id": "78662",
-   "isValid": "",
-   "prompt": "Associez le groupe à leur single célèbre",
-   "promptHeader": "Groupes de filles",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Stockholm",
-     "text": "Suède"
-    },
-    {
-     "match": "Nairobi",
-     "text": "Kenya"
-    },
-    {
-     "match": "Washington D.C.",
-     "text": "États-Unis"
-    },
-    {
-     "match": "Ottawa",
-     "text": "Canada"
-    },
-    {
-     "match": "Hanoi",
-     "text": "Viet-nâm"
-    },
-    {
-     "match": "Accra",
-     "text": "Ghana"
-    },
-    {
-     "match": "Séoul",
-     "text": "Corée du sud"
-    },
-    {
-     "match": "Berlin",
-     "text": "Allemagne"
-    },
-    {
-     "match": "Lima",
-     "text": "Perou"
-    },
-    {
-     "match": "Santiago",
-     "text": "Chili"
-    },
-    {
-     "match": "Berne",
-     "text": "Suisse"
-    },
-    {
-     "match": "Helsinki",
-     "text": "Finlande"
-    }
-   ],
-   "category": "Géographie & monuments",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Capitales",
-     "text": "Pays"
-    }
-   ],
-   "id": "78666",
-   "isValid": "",
-   "prompt": "Associez le pays à sa capitale",
-   "promptHeader": "Capitales de la Terre",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]Insaisissables 2[/i]",
-     "text": "Daniel Radcliffe"
-    },
-    {
-     "match": "[i]The Bling Ring[/i]",
-     "text": "Emma Watson"
-    },
-    {
-     "match": "[i]Love Actually[/i]",
-     "text": "Alan Rickman"
-    },
-    {
-     "match": "[i]The Dark Knight[/i]",
-     "text": "Gary Oldman"
-    },
-    {
-     "match": "[i]Fight Club[/i]",
-     "text": "Helena Bonham Carter"
-    },
-    {
-     "match": "[i]Nanny McPhee[/i]",
-     "text": "Emma Thompson"
-    },
-    {
-     "match": "[i]Camelot[/i]",
-     "text": "Richard Harris"
-    },
-    {
-     "match": "[i]Fantastic Mr. Fox[/i]",
-     "text": "Michael Gambon"
-    },
-    {
-     "match": "[i]Downton Abbey[/i]",
-     "text": "Maggie Smith"
-    },
-    {
-     "match": "[i]The Grand Budapest Hotel[/i]",
-     "text": "Ralph Fiennes"
-    },
-    {
-     "match": "[i]Willow[/i]",
-     "text": "Warwick Davis"
-    },
-    {
-     "match": "[i]Cherrybomb[/i]",
-     "text": "Rupert Grint"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Autres films",
-     "text": "Acteurs d'[i]Harry Potter[/i]"
-    }
-   ],
-   "id": "78670",
-   "isValid": "",
-   "prompt": "Associez l'acteur d'[i]Harry Potter[/i] à son autre film",
-   "promptHeader": "Acteurs d'[i]Harry Potter[/i] et leurs autres rôles au cinéma",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Zhongguó",
-     "text": "Chine"
-    },
-    {
-     "match": "Deutschland",
-     "text": "Allemagne"
-    },
-    {
-     "match": "Ityop’ia",
-     "text": "Ethiopie"
-    },
-    {
-     "match": "Hellas",
-     "text": "Grèce"
-    },
-    {
-     "match": "Éire",
-     "text": "Irlande"
-    },
-    {
-     "match": "Nippon",
-     "text": "Japon"
-    },
-    {
-     "match": "Polska",
-     "text": "Pologne"
-    },
-    {
-     "match": "España",
-     "text": "Espagne"
-    },
-    {
-     "match": "Magyarország",
-     "text": "Hongrie"
-    },
-    {
-     "match": "Yisra’el",
-     "text": "Israël"
-    },
-    {
-     "match": "al-Mamlakah al-Arabiyyah al-Sa’udiyyah",
-     "text": "Arabie soudite"
-    },
-    {
-     "match": "Suisse",
-     "text": "Suisse"
-    }
-   ],
-   "category": "Géographie & monuments",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Noms locaux",
-     "text": "Noms français"
-    }
-   ],
-   "id": "78678",
-   "isValid": "",
-   "prompt": "Associez le nom français du pays à son nom local",
-   "promptHeader": "Comment ces pays sont appelés dans leurs langues maternelles",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Bouba l’éléphant",
-     "text": "AS Monaco"
-    },
-    {
-     "match": "Lyou le lion",
-     "text": "Olympique lyonnais"
-    },
-    {
-     "match": "Germain le lynx",
-     "text": "Paris Saint-Germain"
-    },
-    {
-     "match": "Pantéo la panthère noire",
-     "text": "AS Saint-Etienne"
-    },
-    {
-     "match": "BenGi",
-     "text": "Girondins de Bordeaux"
-    },
-    {
-     "match": "Orsu l’ours blanc",
-     "text": "AC Ajaccio"
-    },
-    {
-     "match": "Zef le pirate",
-     "text": "Stade Brestois"
-    },
-    {
-     "match": "Pailladinho",
-     "text": "Montpellier HSC"
-    },
-    {
-     "match": "Mèfi",
-     "text": "’OGC Nice"
-    },
-    {
-     "match": "Auguste le lion",
-     "text": "Stade de Reims"
-    },
-    {
-     "match": "Storcki",
-     "text": "RC Strasbourg"
-    },
-    {
-     "match": "Torix le guerrier",
-     "text": "Clermont Foot 63"
-    }
-   ],
-   "category": "Compagnies et Marques",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Mascottes",
-     "text": "Équipes"
-    }
-   ],
-   "id": "78685",
-   "isValid": "",
-   "prompt": "Associez l'équipe sportive à sa mascotte",
-   "promptHeader": "Mascottes sportives",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Johannes Gutenberg",
-     "text": "Presse à imprimer"
-    },
-    {
-     "match": "Alexander Graham Bell",
-     "text": "Téléphone"
-    },
-    {
-     "match": "Thomas Edison",
-     "text": "Ampoule électrique"
-    },
-    {
-     "match": "Wilbur & Orville Wright",
-     "text": "Avion"
-    },
-    {
-     "match": "John Montagu, le 4ème conte of Sandwich",
-     "text": "Sandwich"
-    },
-    {
-     "match": "Ada Lovelace",
-     "text": "Algorithmes informatiques"
-    },
-    {
-     "match": "Tabitha Babbitt",
-     "text": "Scie circulaire"
-    },
-    {
-     "match": "Eli Whitney",
-     "text": "Égreneuse de coton"
-    },
-    {
-     "match": "Roy Jacuzzi",
-     "text": "Jacuzzi"
-    },
-    {
-     "match": "Des types en 3500 avant J.C.",
-     "text": "La roue (alias, le genre ennuyeux et ordinaire)"
-    }
-   ],
-   "category": "Technologie",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Inventeurs",
-     "text": "Inventions"
-    }
-   ],
-   "id": "78702",
-   "isValid": "",
-   "prompt": "Associez l'invention à son inventeur",
-   "promptHeader": "Inventions et Inventeurs",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Grenat",
-     "text": "Janvier"
-    },
-    {
-     "match": "Améthyste",
-     "text": "Février"
-    },
-    {
-     "match": "Aigue-marine",
-     "text": "Mars"
-    },
-    {
-     "match": "Diamant",
-     "text": "Avril"
-    },
-    {
-     "match": "Émeraude",
-     "text": "Mai"
-    },
-    {
-     "match": "Perle",
-     "text": "Juin"
-    },
-    {
-     "match": "Rubis",
-     "text": "Juillet"
-    },
-    {
-     "match": "Péridot",
-     "text": "Août"
-    },
-    {
-     "match": "Saphir",
-     "text": "Septembre"
-    },
-    {
-     "match": "Opale",
-     "text": "Octobre"
-    },
-    {
-     "match": "Topaze",
-     "text": "Novembre"
-    },
-    {
-     "match": "Turquoise",
-     "text": "Décembre"
-    }
-   ],
-   "category": "Calendrier/Vacances",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Pierres de naissance",
-     "text": "Mois"
-    }
-   ],
-   "id": "78725",
-   "isValid": "",
-   "prompt": "Associez le mois à sa pierre de naissance",
-   "promptHeader": "Belles pierres de naissance brillantes !",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Blinky, Pinky, Inky, & Clyde",
-     "text": "[i]Pac-Man[/i]"
-    },
-    {
-     "match": "Bouffe-tout",
-     "text": "[i]SOS fantômes[/i]"
-    },
-    {
-     "match": "Le fantôme des noëls passés",
-     "text": "[i]Un chant de Noël[/i]"
-    },
-    {
-     "match": "Shoeless Joe Jackson",
-     "text": "[i]Jusqu'au bout du rêve[/i]"
-    },
-    {
-     "match": "Beetlejuice",
-     "text": "[i]Beetlejuice[/i]"
-    },
-    {
-     "match": "Le cavalier sans tête",
-     "text": "[i]Sleepy Hollow[/i]"
-    },
-    {
-     "match": "Sam Wheat",
-     "text": "[i]Ghost[/i]"
-    },
-    {
-     "match": "Casper le gentil fantôme",
-     "text": "[i]Casper[/i]"
-    },
-    {
-     "match": "Dr. Malcolm Crowe",
-     "text": "[i]Le sixième sens[/i]"
-    },
-    {
-     "match": "Mimi Geignarde",
-     "text": "[i]Harry Potter & la coupe de feu[/i]"
-    }
-   ],
-   "category": "Pop culture",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Fantômes",
-     "text": "Films"
-    }
-   ],
-   "id": "78748",
-   "isValid": "",
-   "prompt": "Associez le film à son fantôme",
-   "promptHeader": "Ahhhh!!!! Un F-f-f-f-fantôme ???",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Heart",
-     "text": "Ann Wilson"
-    },
-    {
-     "match": "Paramore",
-     "text": "Hayley Williams"
-    },
-    {
-     "match": "Blondie",
-     "text": "Debbie Harry"
-    },
-    {
-     "match": "Jefferson Airplane",
-     "text": "Grace Slick"
-    },
-    {
-     "match": "Hole",
-     "text": "Courtney Love"
-    },
-    {
-     "match": "Fleetwood Mac",
-     "text": "Stevie Nicks"
-    },
-    {
-     "match": "Sleater-Kinney",
-     "text": "Carrie Brownstein"
-    },
-    {
-     "match": "Garbage",
-     "text": "Shirley Manson"
-    },
-    {
-     "match": "The Ike & Tina Turner Revue",
-     "text": "Tina Turner"
-    },
-    {
-     "match": "Alabama Shakes",
-     "text": "Brittany Howard"
-    },
-    {
-     "match": "The Pretenders",
-     "text": "Chrissie Hynde"
-    },
-    {
-     "match": "No Doubt",
-     "text": "Gwen Stefani"
-    }
-   ],
-   "category": "Musique",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Groupes",
-     "text": "Artistes"
-    }
-   ],
-   "id": "78750",
-   "isValid": "",
-   "prompt": "Associez l'artiste à son groupe",
-   "promptHeader": "Je suis avec le groupe",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "I love you",
-     "text": "Anglais"
-    },
-    {
-     "match": "Ti amo",
-     "text": "Italien"
-    },
-    {
-     "match": "Aishiteru",
-     "text": "Japonais"
-    },
-    {
-     "match": "Aloha wau ia ’oe",
-     "text": "Hawaiien"
-    },
-    {
-     "match": "Te Amo",
-     "text": "Espagnol"
-    },
-    {
-     "match": "Jeg elsker dig",
-     "text": "Danois"
-    },
-    {
-     "match": "Sarang hae",
-     "text": "Coréen"
-    },
-    {
-     "match": "Te Lubesc",
-     "text": "Roumain"
-    },
-    {
-     "match": "Naku penda",
-     "text": "Swahili"
-    },
-    {
-     "match": "Kocham cie",
-     "text": "Polonais"
-    }
-   ],
-   "category": "Langue/Mots/Grammaire",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Phrases Je t'aime",
-     "text": "Langues"
-    }
-   ],
-   "id": "78752",
-   "isValid": "",
-   "prompt": "Associez la langue à sa phrase",
-   "promptHeader": "Je t'aime ! Dites-le en retour",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Dy-no-mite!",
-     "text": "JJ, [i]Good Times[/i]"
-    },
-    {
-     "match": "C'est ce qu'elle a dit.",
-     "text": "Michael Scott, [i]The Office[/i]"
-    },
-    {
-     "match": "Bazinga !",
-     "text": "Sheldon Cooper, [i]Big Bang Theory[/i]"
-    },
-    {
-     "match": "Book 'em, Danno",
-     "text": "Steve McGarrett, [i]Hawaii 5-0[/i]"
-    },
-    {
-     "match": "J'ai fais une grosse erreur.",
-     "text": "G.O.B. Bluth, [i]Arrested Development[/i]"
-    },
-    {
-     "match": "Mulder, c'est moi.",
-     "text": "Scully, [i]X Files[/i]"
-    },
-    {
-     "match": "BRÛLER!!!",
-     "text": "Kelso, [i]That 70s Show[/i]"
-    },
-    {
-     "match": "Excellent",
-     "text": "Mr. Burns, [i]Les Simpsons[/i]"
-    },
-    {
-     "match": "Biiiiien !",
-     "text": "Linda Belcher, [i]Bob's Burgers[/i]"
-    },
-    {
-     "match": "Qui aime le soda à l'orange ?",
-     "text": "Kel, [i]Kenan & Kel[/i]"
-    },
-    {
-     "match": "Mais vous n'avez pas à me croire sur parole.",
-     "text": "LeVar Burton, [i]Reading Rainbow[/i]"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Phrase culte",
-     "text": "Personnage"
-    }
-   ],
-   "id": "78753",
-   "isValid": "",
-   "prompt": "Associez le personnage de télévision à sa phrase culte",
-   "promptHeader": "Personnages de télévision et leurs phrases cultes",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Oeuf",
-     "text": "Tamago"
-    },
-    {
-     "match": "Thon",
-     "text": "Maguro"
-    },
-    {
-     "match": "Saumon",
-     "text": "Sake"
-    },
-    {
-     "match": "Crevette cuite",
-     "text": "Ebi"
-    },
-    {
-     "match": "Anguille d'eau douce",
-     "text": "Unagi"
-    },
-    {
-     "match": "Oeufs de poisson volant",
-     "text": "Tobiko"
-    },
-    {
-     "match": "Calamar",
-     "text": "Ika"
-    },
-    {
-     "match": "Limande à queue jaune",
-     "text": "Hamachi"
-    },
-    {
-     "match": "Coquille",
-     "text": "Hotate"
-    },
-    {
-     "match": "Flétan",
-     "text": "Hirame"
-    }
-   ],
-   "category": "Nourriture & boissons",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Ingrédients",
-     "text": "Sushi"
-    }
-   ],
-   "id": "78755",
-   "isValid": "",
-   "prompt": "Associez le plat de sushi à son ingrédient",
-   "promptHeader": "Synchronisation des sushis",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "The Jimi Hendrix Experience",
-     "text": "Jimi Hendrix"
-    },
-    {
-     "match": "Cream",
-     "text": "Eric Clapton"
-    },
-    {
-     "match": "Pink Floyd",
-     "text": "David Gilmour"
-    },
-    {
-     "match": "Queen",
-     "text": "Brian May"
-    },
-    {
-     "match": "Led Zeppelin",
-     "text": "Jimmy Page"
-    },
-    {
-     "match": "The Rolling Stones",
-     "text": "Keith Richards"
-    },
-    {
-     "match": "Black Sabbath",
-     "text": "Tony Iommi"
-    },
-    {
-     "match": "Guns N’ Roses",
-     "text": "Slash"
-    },
-    {
-     "match": "AC/DC",
-     "text": "Angus Young"
-    },
-    {
-     "match": "Metallica",
-     "text": "James Hetfield"
-    },
-    {
-     "match": "The Who",
-     "text": "Pete Townshend"
-    }
-   ],
-   "category": "Musique",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Groupes",
-     "text": "Guitaristes"
-    }
-   ],
-   "id": "78756",
-   "isValid": "",
-   "prompt": "Associez le guitariste à son groupe groupe",
-   "promptHeader": "Dieux de la guitare et avec qui ils rockent",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Grenouille",
-     "text": "Kermit"
-    },
-    {
-     "match": "Cochonne",
-     "text": "Miss Piggy"
-    },
-    {
-     "match": "Alien, mais s'identifie comme \"peu importe\"",
-     "text": "Gonzo"
-    },
-    {
-     "match": "Ours",
-     "text": "Fozzie"
-    },
-    {
-     "match": "Chien",
-     "text": "Rowlf"
-    },
-    {
-     "match": "Le batteur",
-     "text": "Animal"
-    },
-    {
-     "match": "Assistant scientifique",
-     "text": "Beaker"
-    },
-    {
-     "match": "Assistant",
-     "text": "Dr. Bunsen Honeydew"
-    },
-    {
-     "match": "Gambas",
-     "text": "Pepé"
-    },
-    {
-     "match": "Rat",
-     "text": "Rizzo"
-    },
-    {
-     "match": "Le chef suédois",
-     "text": "Chef suédois"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Que sont-ils",
-     "text": "Muppets"
-    }
-   ],
-   "id": "78814",
-   "isValid": "",
-   "prompt": "Associez le Muppet à ce qu'il est censé être",
-   "promptHeader": "Les Muppets et ce qu'ils sont censés être",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Voiture",
-     "text": "Model T"
-    },
-    {
-     "match": "Bus",
-     "text": "Greyhound Lines"
-    },
-    {
-     "match": "Train",
-     "text": "Amtrak Acela"
-    },
-    {
-     "match": "Taxi",
-     "text": "Yellow Cab"
-    },
-    {
-     "match": "Avion",
-     "text": "Air Force One"
-    },
-    {
-     "match": "Yacht",
-     "text": "Seven Seas"
-    },
-    {
-     "match": "Dirigeable",
-     "text": "Hindenburg"
-    },
-    {
-     "match": "Paquebot",
-     "text": "Titanic"
-    },
-    {
-     "match": "Vélo",
-     "text": "Schwinn Paramount"
-    },
-    {
-     "match": "Moto",
-     "text": "Harley-Davidson 11F"
-    }
-   ],
-   "category": "Véhicules",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Types",
-     "text": "Véhicules célèbres"
-    }
-   ],
-   "id": "78871",
-   "isValid": "",
-   "prompt": "Associez le célèbre véhicule à son type",
-   "promptHeader": "Modes de transport célèbres",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Bélier",
-     "text": "Khnoum"
-    },
-    {
-     "match": "Chacal",
-     "text": "Anubis"
-    },
-    {
-     "match": "Chat",
-     "text": "Bastet"
-    },
-    {
-     "match": "Crocodile",
-     "text": "Sobek"
-    },
-    {
-     "match": "Faucon",
-     "text": "Râ"
-    },
-    {
-     "match": "Ibis",
-     "text": "Thot"
-    },
-    {
-     "match": "Lion",
-     "text": "Néfertoum"
-    },
-    {
-     "match": "Poisson",
-     "text": "Heddet"
-    },
-    {
-     "match": "Scarabée",
-     "text": "Khépri"
-    },
-    {
-     "match": "Scorpion",
-     "text": "Serket"
-    },
-    {
-     "match": "Singe",
-     "text": "Baba"
-    },
-    {
-     "match": "Taureau",
-     "text": "Apis"
-    }
-   ],
-   "category": "Historical Figures",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Têtes d'animaux",
-     "text": "Dieux"
-    }
-   ],
-   "id": "79127",
-   "isValid": "",
-   "prompt": "Associez le dieu égyptien à sa tête d'animal lorsqu'il est représenté",
-   "promptHeader": "Dieu égyptien et tête d'animaux",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Tigre",
-     "text": "Frosties"
-    },
-    {
-     "match": "Toucan",
-     "text": "Froot Loops"
-    },
-    {
-     "match": "Lapin",
-     "text": "Nesquick"
-    },
-    {
-     "match": "Abeille",
-     "text": "Miel Pops"
-    },
-    {
-     "match": "Grenouille",
-     "text": "Smacks"
-    },
-    {
-     "match": "Chien",
-     "text": "Chocapics"
-    },
-    {
-     "match": "Singe",
-     "text": "Coco Pops"
-    },
-    {
-     "match": "Loup",
-     "text": "Cookie Crisp"
-    }
-   ],
-   "category": "Food & Drink",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Mascots",
-     "text": "Cereals"
-    }
-   ],
-   "id": "79460",
-   "isValid": "",
-   "prompt": "Associez les céréales à leur mascotte",
-   "promptHeader": "Les marques de céréales et leurs mascottes en fourrure",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Roxanne",
-     "text": "The Police"
-    },
-    {
-     "match": "Delilah",
-     "text": "Plain White T’s"
-    },
-    {
-     "match": "Rhiannon",
-     "text": "Fleetwood Mac"
-    },
-    {
-     "match": "Sweet Caroline",
-     "text": "Neil Diamond"
-    },
-    {
-     "match": "Iris",
-     "text": "Goo Goo Dolls"
-    },
-    {
-     "match": "Polly",
-     "text": "Nirvana"
-    },
-    {
-     "match": "Angie",
-     "text": "Rolling Stones"
-    },
-    {
-     "match": "Helena",
-     "text": "My Chemical Romance"
-    },
-    {
-     "match": "Cecilia",
-     "text": "Simon & Garfunkel"
-    },
-    {
-     "match": "Stacy's Mom",
-     "text": "Fountains of Wayne"
-    },
-    {
-     "match": "Eileen",
-     "text": "Dexy’s Midnight Runners"
-    },
-    {
-     "match": "Barbara Ann",
-     "text": "Beach Boys"
-    }
-   ],
-   "category": "Musique",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Muses",
-     "text": "Artistes"
-    }
-   ],
-   "id": "79469",
-   "isValid": "",
-   "prompt": "Associez l'artiste à sa muse",
-   "promptHeader": "Artistes musicaux et leurs muses",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Ophélie",
-     "text": "[i]Hamlet[/i]"
-    },
-    {
-     "match": "Juliette",
-     "text": "[i]Roméo et Juliette[/i]"
-    },
-    {
-     "match": "Viola",
-     "text": "[i]La nuit des rois[/i]"
-    },
-    {
-     "match": "Lady Macbeth",
-     "text": "[i]Macbeth[/i]"
-    },
-    {
-     "match": "Béatrice",
-     "text": "[i]Beaucoup de bruit pour rien[/i]"
-    },
-    {
-     "match": "Cordélia",
-     "text": "[i]Le roi Lear[/i]"
-    },
-    {
-     "match": "Paulina",
-     "text": "[i]Le conte d'hiver[/i]"
-    },
-    {
-     "match": "Miranda",
-     "text": "[i]La Tempête[/i]"
-    },
-    {
-     "match": "Desdémone",
-     "text": "[i]Othello[/i]"
-    },
-    {
-     "match": "Cléopâtre",
-     "text": "[i]Antoine et Cléopâtre[/i]"
-    }
-   ],
-   "category": "Littérature",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Lady",
-     "text": "Pièces"
-    }
-   ],
-   "id": "79470",
-   "isValid": "",
-   "prompt": "Associez la pièce de théâtre avec sa lady",
-   "promptHeader": "Les femmes complexes de Shakespeare",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "BATMAN: The Ride",
-     "text": "Six Flags Great America"
-    },
-    {
-     "match": "Mission: SPACE",
-     "text": "Epcot"
-    },
-    {
-     "match": "Tennessee Tornado",
-     "text": "Dollywood"
-    },
-    {
-     "match": "Revenge of the Mummy",
-     "text": "Universal Studios Florida"
-    },
-    {
-     "match": "Arthur",
-     "text": "Europa-Park"
-    },
-    {
-     "match": "Les Mystères du Nautilus",
-     "text": "Disneyland Paris"
-    },
-    {
-     "match": "Elmo’s Go-Go Skateboard",
-     "text": "Universal Studios Japan"
-    },
-    {
-     "match": "Matterhorn Bobsleds",
-     "text": "Disneyland California"
-    }
-   ],
-   "category": "Géographie & monuments",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Attractions",
-     "text": "Parcs à thème"
-    }
-   ],
-   "id": "79474",
-   "isValid": "",
-   "prompt": "Associez le parc à thème avec son attraction",
-   "promptHeader": "Énormes manèges",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "T",
-     "text": "James Kirk"
-    },
-    {
-     "match": "Thee",
-     "text": "Megan Stallion"
-    },
-    {
-     "match": "P",
-     "text": "J Morgan"
-    },
-    {
-     "match": "S",
-     "text": "T Eliot"
-    },
-    {
-     "match": "F",
-     "text": "Paul Tompkins"
-    },
-    {
-     "match": "C",
-     "text": "John Reilly"
-    },
-    {
-     "match": "J",
-     "text": "Michael Fox"
-    },
-    {
-     "match": "Day",
-     "text": "Daniel Lewis"
-    },
-    {
-     "match": "Night",
-     "text": "M Shyamalan"
-    },
-    {
-     "match": "E",
-     "text": "Chuck Cheese"
-    }
-   ],
-   "category": "Célébrités",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Milieux",
-     "text": "Noms"
-    }
-   ],
-   "id": "79476",
-   "isValid": "",
-   "prompt": "Associez le prénom du milieu à son nom qui lui appartient",
-   "promptHeader": "Milieu des noms",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "1910",
-     "text": "[i]Wonder Woman[/i]"
-    },
-    {
-     "match": "1920",
-     "text": "[i]Gatsby le magnifique[/i]"
-    },
-    {
-     "match": "1930",
-     "text": "[i]Le retour de la momie[/i]"
-    },
-    {
-     "match": "1940",
-     "text": "[i]Captain America: First Avenger[/i]"
-    },
-    {
-     "match": "1950",
-     "text": "[i]Le Géant de fer[/i]"
-    },
-    {
-     "match": "1960",
-     "text": "[i]Hairspray[/i]"
-    },
-    {
-     "match": "1970",
-     "text": "[i]Présentateur vedette : La Légende de Ron Burgundy[/i]"
-    },
-    {
-     "match": "1980",
-     "text": "[i]Wedding Singer : Demain, on se marie ![/i]"
-    },
-    {
-     "match": "1990",
-     "text": "[i]Captain Marvel[/i]"
-    },
-    {
-     "match": "2000",
-     "text": "[i]The Big Short[/i]"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Décennies",
-     "text": "Films"
-    }
-   ],
-   "id": "79498",
-   "isValid": "",
-   "prompt": "Associez le film à la décennie dans laquelle il se déroule",
-   "promptHeader": "Périodes. Films.",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Jerry's Guide to the World Wide Web",
-     "text": "Yahoo!"
-    },
-    {
-     "match": "AuctionWeb",
-     "text": "eBay"
-    },
-    {
-     "match": "Blue Ribbon Sports",
-     "text": "Nike"
-    },
-    {
-     "match": "Matchbox",
-     "text": "Tinder"
-    },
-    {
-     "match": "Brad's Drink",
-     "text": "Pepsi"
-    },
-    {
-     "match": "Marathon Bars",
-     "text": "Snickers"
-    },
-    {
-     "match": "Amazin' Software",
-     "text": "EA Games"
-    },
-    {
-     "match": "Sound of Music",
-     "text": "Best Buy"
-    },
-    {
-     "match": "Tokyo Tsushin Kogyo",
-     "text": "Sony"
-    },
-    {
-     "match": "Cadabra",
-     "text": "Amazon"
-    },
-    {
-     "match": "TGV",
-     "text": "InOUI"
-    }
-   ],
-   "category": "Entreprises & marques",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Noms originaux",
-     "text": "Entreprises"
-    }
-   ],
-   "id": "79501",
-   "isValid": "",
-   "prompt": "Associez l'entreprise à son nom d'origine",
-   "promptHeader": "Noms d'entreprises sérieusement rebaptisés",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Patrick",
-     "text": "Bob l'éponge"
-    },
-    {
-     "match": "Chien",
-     "text": "Chat"
-    },
-    {
-     "match": "Ferb",
-     "text": "Phineas"
-    },
-    {
-     "match": "Mandy",
-     "text": "Billy"
-    },
-    {
-     "match": "Woody",
-     "text": "Buzz"
-    },
-    {
-     "match": "Gerald",
-     "text": "Arnold"
-    },
-    {
-     "match": "Robin Trépide",
-     "text": "Kim Possible"
-    },
-    {
-     "match": "La Binocle",
-     "text": "Tommy Cornichon"
-    },
-    {
-     "match": "Scooby-Doo",
-     "text": "Sammy"
-    },
-    {
-     "match": "Jane",
-     "text": "Daria"
-    },
-    {
-     "match": "Dodie Bishop",
-     "text": "Ginger Foutley"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Amis de dessin animé (colonne B)",
-     "text": "Amis de dessin animé (colonne A)"
-    }
-   ],
-   "id": "79621",
-   "isValid": "",
-   "prompt": "Associez le personnage de dessin animé à son meilleur ami",
-   "promptHeader": "Meilleurs amis de dessin animé",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Matt Foley",
-     "text": "Chris Farley"
-    },
-    {
-     "match": "Mary Katherine Gallagher",
-     "text": "Molly Shannon"
-    },
-    {
-     "match": "The Church Lady",
-     "text": "Dana Carvey"
-    },
-    {
-     "match": "Gilly",
-     "text": "Kristin Wiig"
-    },
-    {
-     "match": "Stefon",
-     "text": "Bill Hader"
-    },
-    {
-     "match": "Debbie Downer",
-     "text": "Rachel Dratch"
-    },
-    {
-     "match": "Roseanne Rosannadanna",
-     "text": "Gilda Radner"
-    },
-    {
-     "match": "Operaman",
-     "text": "Adam Sandler"
-    },
-    {
-     "match": "Wayne Campbell",
-     "text": "Mike Myers"
-    },
-    {
-     "match": "Alex Trebek",
-     "text": "Will Ferrell"
-    },
-    {
-     "match": "Sean Connery",
-     "text": "Darrell Hammond"
-    },
-    {
-     "match": "Mr. Robinson",
-     "text": "Eddie Murphy"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Personnages",
-     "text": "Membres"
-    }
-   ],
-   "id": "79813",
-   "isValid": "",
-   "prompt": "Associez l'acteur [i]SNL[/i] à son personnage",
-   "promptHeader": "Membres du [i]Saturday Night Live[/i] et leurs personnages populaires",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Patrocle",
-     "text": "Achille"
-    },
-    {
-     "match": "Hyacinthe",
-     "text": "Apollon"
-    },
-    {
-     "match": "Léandre",
-     "text": "Héro"
-    },
-    {
-     "match": "Juliette",
-     "text": "Roméo"
-    },
-    {
-     "match": "Heathcliff",
-     "text": "Catherine Earnshaw"
-    },
-    {
-     "match": "Guenièvere",
-     "text": "Lancelot"
-    },
-    {
-     "match": "Rose Bukater",
-     "text": "Jack Dawson"
-    },
-    {
-     "match": "Jack Twist",
-     "text": "Ennis Del Mar"
-    },
-    {
-     "match": "Sam",
-     "text": "Katherine Barlow"
-    },
-    {
-     "match": "Kairi",
-     "text": "Sora"
-    }
-   ],
-   "category": "Littérature",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Amant B",
-     "text": "Amant A"
-    }
-   ],
-   "id": "80312",
-   "isValid": "",
-   "prompt": "Associez le personnage à son amant",
-   "promptHeader": "Amants maudits",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Michael Burnham",
-     "text": "Sonequa Martin-Green"
-    },
-    {
-     "match": "Jean-Luc Picard",
-     "text": "Patrick Stewart"
-    },
-    {
-     "match": "Jonathan Archer",
-     "text": "Scott Bakula"
-    },
-    {
-     "match": "Kathryn Janeway",
-     "text": "Kate Mulgrew"
-    },
-    {
-     "match": "Seven of Nine",
-     "text": "Jeri Ryan"
-    },
-    {
-     "match": "Odo",
-     "text": "Rene Auberjonois"
-    },
-    {
-     "match": "Benjamin Sisko",
-     "text": "Avery Brooks"
-    },
-    {
-     "match": "Data",
-     "text": "Brent Spiner"
-    },
-    {
-     "match": "Wesley Crusher",
-     "text": "Wil Wheaton"
-    },
-    {
-     "match": "Hikaru Sulu",
-     "text": "George Takei"
-    },
-    {
-     "match": "Uhura",
-     "text": "Nichelle Nichols"
-    },
-    {
-     "match": "Spock",
-     "text": "Leonard Nimoy"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Personnages de [i]Star Trek[/i]",
-     "text": "Acteurs de [i]Star Trek[/i]"
-    }
-   ],
-   "id": "80326",
-   "isValid": "",
-   "prompt": "Associez l'acteur de [i]Star Trek[/i] au personnage qu'il a interprété",
-   "promptHeader": "Les membres du casting de [i]Star Trek[/i] et les personnages qu'ils ont interprétés",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Vision",
-     "text": "Vitamine A"
-    },
-    {
-     "match": "Antioxidant, peau",
-     "text": "Vitamine E"
-    },
-    {
-     "match": "Absorption du calcium",
-     "text": "Vitamine D"
-    },
-    {
-     "match": "Soutien immunitaire",
-     "text": "Vitamine C"
-    },
-    {
-     "match": "Coagulation du sang",
-     "text": "Vitamine K"
-    },
-    {
-     "match": "Formation de globules rouges",
-     "text": "Vitamine B12"
-    },
-    {
-     "match": "Os and dents",
-     "text": "Calcium"
-    },
-    {
-     "match": "Régulation thyroïdienne",
-     "text": "Iode"
-    },
-    {
-     "match": "Régulation de la tension artérielle",
-     "text": "Magnésium"
-    },
-    {
-     "match": "Aide les contractions musculaires",
-     "text": "Potassium"
-    }
-   ],
    "category": "Science & médecine",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Fonctions biologiques bénéficiaires",
-     "text": "Micronutriments"
-    }
-   ],
-   "id": "80328",
+   "id": "76736",
    "isValid": "",
-   "prompt": "Associez le micronutriment à sa fonction biologique à laquelle il contribue",
-   "promptHeader": "Les micronutriments et leurs avantages",
+   "prompt": "D'environ combien de Terres la Lune est-elle éloignée de la Terre ?",
+   "unit": "",
    "us": false,
+   "value": "30",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Le 14ème Dalai Lama",
-     "text": "Bouddhisme tibétin"
-    },
-    {
-     "match": "Pape François Ier",
-     "text": "Catholicisme romain"
-    },
-    {
-     "match": "Grand Imam d'Al-Azhar Ahmed El-Tayeb",
-     "text": "Islam sunnite"
-    },
-    {
-     "match": "Russell M. Nelson",
-     "text": "Église de Jésus-Christ des Saints des Derniers Jours"
-    },
-    {
-     "match": "Patriarche œcuménique de Constantinople Bartholomée Ier",
-     "text": "Orthodoxie orientale"
-    },
-    {
-     "match": "Archevêque de Canterbery Justin Welby",
-     "text": "Anglicanisme (Église d'Angleterre)"
-    },
-    {
-     "match": "Louis Farrakhan",
-     "text": "Nation de l'Islam"
-    },
-    {
-     "match": "David Miscavige",
-     "text": "Église de Scientologie"
-    },
-    {
-     "match": "Grand Ayatollah Ali al-Husayni al-Sistani (Irak)",
-     "text": "Imamiyya Islam chiite"
-    },
-    {
-     "match": "Révérende présidente Susan Frederick-Gray",
-     "text": "Association Unitaire Universaliste"
-    }
-   ],
-   "category": "Religion",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Leaders",
-     "text": "Religions"
-    }
-   ],
-   "id": "80376",
+   "category": "Geography & Landmarks",
+   "id": "76739",
    "isValid": "",
-   "prompt": "Associez la religion à son chef spirituel",
-   "promptHeader": "Religions du monde et leurs chefs spirituels (à partir de 2020)",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Barry Nelson",
-     "text": "Premier [i]Casino Royale[/i]"
-    },
-    {
-     "match": "Sean Connery",
-     "text": "[i]Goldfinger[/i]"
-    },
-    {
-     "match": "David Niven",
-     "text": "Deuxième [i]Casino Royale[/i]"
-    },
-    {
-     "match": "George Lazenby",
-     "text": "[i]Au service secret de sa majesté[/i]"
-    },
-    {
-     "match": "Roger Moore",
-     "text": "[i]Octo pussy[/i]"
-    },
-    {
-     "match": "Timothy Dalton",
-     "text": "[i]Permis de tuer[/i]"
-    },
-    {
-     "match": "Pierce Brosnan",
-     "text": "[i]Demain ne meurt jamais[/i]"
-    },
-    {
-     "match": "Daniel Craig",
-     "text": "[i]Skyfall[/i]"
-    }
-   ],
-   "category": "Films et télevision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Acteurs",
-     "text": "Films"
-    }
-   ],
-   "id": "80379",
-   "isValid": "",
-   "prompt": "Associez l'acteur à son film correspondant",
-   "promptHeader": "Leur nom est Bond... James Bond.",
+   "prompt": "En hauteur, combien de tiroirs faut-il pour égaler \"plus grand tiroir du monde\" à Burlington, dans le Vermont ?",
+   "unit": "(en nombre de tiroirs)",
    "us": true,
+   "value": "38",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "“The Road Not Taken”",
-     "text": "Robert Frost"
-    },
-    {
-     "match": "“Harlem”",
-     "text": "Langston Hughes"
-    },
-    {
-     "match": "“Daddy“",
-     "text": "Sylvia Plath"
-    },
-    {
-     "match": "“Howl”",
-     "text": "Allen Ginsberg"
-    },
-    {
-     "match": "“Still I Rise”",
-     "text": "Maya Angelou"
-    },
-    {
-     "match": "“Do not go gentle into that good night”",
-     "text": "Dylan Thomas"
-    },
-    {
-     "match": "“Ozymandias”",
-     "text": "Percy Bysshe Shelley"
-    },
-    {
-     "match": "“The Raven”",
-     "text": "Edgar Allan Poe"
-    },
-    {
-     "match": "“If—”",
-     "text": "Rudyard Kipling"
-    },
-    {
-     "match": "“Sonnet 18” (“Shall I compare thee to a summer's day...”)",
-     "text": "William Shakespeare"
-    }
-   ],
-   "category": "Littérature",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Poèmes",
-     "text": "Poètes"
-    }
-   ],
-   "id": "80445",
+   "category": "Géographie & monuments",
+   "id": "76783",
    "isValid": "",
-   "prompt": "Associez le poète à son célèbre poème",
-   "promptHeader": "Poètes de langue anglaise et leurs poèmes les plus célèbres",
+   "prompt": "En 2020, combien de pays souverains faisaient partie du continent africain ?",
+   "unit": "",
    "us": false,
+   "value": "54",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Rayons oculaires rouges",
-     "text": "Cyclope"
-    },
-    {
-     "match": "Télépathie et pouvoirs psioniques",
-     "text": "Charles Xavier"
-    },
-    {
-     "match": "facteur de guérison régénérateur",
-     "text": "Wolverine"
-    },
-    {
-     "match": "Capacités de congélation",
-     "text": "Iceberg"
-    },
-    {
-     "match": "Ailes",
-     "text": "Angel"
-    },
-    {
-     "match": "Transformation de la peau en acier",
-     "text": "Colossus"
-    },
-    {
-     "match": "Téléportation",
-     "text": "Diablo"
-    },
-    {
-     "match": "Manipulation de la météo",
-     "text": "Tornade"
-    },
-    {
-     "match": "Absorption de l'énergie",
-     "text": "Malicia"
-    },
-    {
-     "match": "Contrôle des champs magnétiques",
-     "text": "Magnéto"
-    }
-   ],
-   "category": "Animation/Bande-dessinée",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Pouvoirs",
-     "text": "X-Men"
-    }
-   ],
-   "id": "80446",
+   "category": "Anecdote",
+   "id": "76784",
    "isValid": "",
-   "prompt": "Associez le personnage X-Men à son pouvoir",
-   "promptHeader": "Les X-Men et leurs pouvoirs",
+   "prompt": "Selon le [i]Journal international de recherche sur l'humour[/i], combien de fois par jour un adulte rit-il en moyenne ?",
+   "unit": "",
    "us": false,
+   "value": "17",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Wolfgang Amadeus Mozart",
-     "text": "Dies iræ"
-    },
-    {
-     "match": "Ludwig van Beethoven",
-     "text": "Ode à la joie"
-    },
-    {
-     "match": "Jean-Sébastien Bach",
-     "text": "Toccata et Fugue en Ré Mineur"
-    },
-    {
-     "match": "Frédéric Chopin",
-     "text": "Marche funèbre"
-    },
-    {
-     "match": "Antonio Vivaldi",
-     "text": "4 saisons"
-    },
-    {
-     "match": "Richard Wagner",
-     "text": "La chevauchée des valkyries"
-    },
-    {
-     "match": "Offenbach",
-     "text": "Orphée aux enfers"
-    },
-    {
-     "match": "Gioachino Rossini",
-     "text": "William Tell Ouverture"
-    },
-    {
-     "match": "Johann Strauss II",
-     "text": "Le Beau Danube bleu"
-    },
-    {
-     "match": "Georges Bizet",
-     "text": "Carmen"
-    }
-   ],
-   "category": "Musique",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Compositeurs",
-     "text": "Œuvres"
-    }
-   ],
-   "id": "80447",
+   "category": "Cinéma & télévision",
+   "id": "76785",
    "isValid": "",
-   "prompt": "Associez le compositeur à son œuvre célèbre",
-   "promptHeader": "Compositeurs classiques et leurs œuvres",
-   "us": true,
+   "prompt": "Dans conbien de longs-métrages John Wayne a-t-il été crédité dans sa carrière ?",
+   "unit": "",
+   "us": false,
+   "value": "145",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Parker",
-     "text": "Sarah Jessica"
-    },
-    {
-     "match": "Levitt",
-     "text": "Joseph Gordon"
-    },
-    {
-     "match": "Warner",
-     "text": "Malcolm-Jamal"
-    },
-    {
-     "match": "Brown",
-     "text": "Millie Bobby"
-    },
-    {
-     "match": "Harris",
-     "text": "Neil Patrick"
-    },
-    {
-     "match": "Carter",
-     "text": "Helena Bonham"
-    },
-    {
-     "match": "Gellar",
-     "text": "Sarah Michelle"
-    },
-    {
-     "match": "Hewitt",
-     "text": "Jennifer Love"
-    },
-    {
-     "match": "Thomas",
-     "text": "Johnathan Taylor"
-    },
-    {
-     "match": "Jones",
-     "text": "James Earl"
-    },
-    {
-     "match": "Coppola",
-     "text": "Francis Ford"
-    },
-    {
-     "match": "Leigh",
-     "text": "Jennifer Jason"
-    }
-   ],
    "category": "Célébrités",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Noms",
-     "text": "Prénoms"
-    }
-   ],
-   "id": "80451",
+   "id": "76786",
    "isValid": "",
-   "prompt": "Associez les prénoms de la célébrité à son nom de famille",
-   "promptHeader": "Célébrités à trois noms",
+   "prompt": "En 2020, combien de hot-dogs Joey Chestnut a-t-il mangés en 10 minutes ? Établissant un record du monde.",
+   "unit": "",
    "us": false,
+   "value": "75",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Raisin",
-     "text": "Vin"
-    },
-    {
-     "match": "Mélasse",
-     "text": "Rhum"
-    },
-    {
-     "match": "Riz",
-     "text": "Sake"
-    },
-    {
-     "match": "Agave bleu",
-     "text": "Téquila"
-    },
-    {
-     "match": "Maïs",
-     "text": "Bourbon"
-    },
-    {
-     "match": "Orge et houblon",
-     "text": "Bière"
-    },
-    {
-     "match": "Miel",
-     "text": "Hydromel"
-    },
-    {
-     "match": "Pommes",
-     "text": "Cidre"
-    },
-    {
-     "match": "Pommes de terres",
-     "text": "Vodka"
-    },
-    {
-     "match": "Oranges",
-     "text": "Jus d'orange"
-    }
-   ],
-   "category": "Nourriture & boissons",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Ingrédients",
-     "text": "Boissons"
-    }
-   ],
-   "id": "80456",
+   "category": "Anecdote",
+   "id": "76787",
    "isValid": "",
-   "prompt": "Associez le type de boisson à son ingrédient principal",
-   "promptHeader": "Hé, de quoi est faite cette boisson ?",
+   "prompt": "En quelle année la population mondiale a-t-elle dépassé les 3 milliards ?",
+   "unit": "",
    "us": false,
+   "value": "1960",
+   "x": false
+  },
+  {
+   "category": "Anatomie",
+   "id": "76788",
+   "isValid": "",
+   "prompt": "Combien y a-t-il d'os dans un corps humain adulte ?",
+   "unit": "",
+   "us": false,
+   "value": "206",
+   "x": false
+  },
+  {
+   "category": "Jeux",
+   "id": "76911",
+   "isValid": "",
+   "prompt": "Si vous additionnez tout le \"cash\" qui vient d'un jeu traditionnel de [i]Monopoly[/i], combien de fausse monnaie avez-vous ?",
+   "unit": "(en dollars)",
+   "us": false,
+   "value": "20580",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "76917",
+   "isValid": "",
+   "prompt": "Combien de temps dure la chanson à succès de Queen \"Bohemian Rhapsody\"?",
+   "unit": "(en secondes)",
+   "us": false,
+   "value": "354",
+   "x": false
+  },
+  {
+   "category": "Art",
+   "id": "76919",
+   "isValid": "",
+   "prompt": "Combien d'étoiles sont visibles dans la [i]Nuit étoilée[/i] de Van Gogh ?",
+   "unit": "",
+   "us": false,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Anatomie",
+   "id": "76920",
+   "isValid": "",
+   "prompt": "En quelle année a eu lieu la première opération réussie à cœur ouvert ?",
+   "unit": "",
+   "us": false,
+   "value": "1893",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "76922",
+   "isValid": "",
+   "prompt": "Selon le ministère des ressources naturelles, le Minnesota compte exactement combien de lacs ?",
+   "unit": "",
+   "us": true,
+   "value": "11842",
+   "x": false
+  },
+  {
+   "category": "Games",
+   "id": "76924",
+   "isValid": "",
+   "prompt": "Combien de pièces composent l'ensemble LEGO de l'Étoile Noire de [i]Star Wars[/i] ?",
+   "unit": "",
+   "us": false,
+   "value": "4016",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "76926",
+   "isValid": "",
+   "prompt": "Combien de calories contient une canette de Coca-Cola Original de 33 cl ?",
+   "unit": "",
+   "us": true,
+   "value": "140",
+   "x": false
+  },
+  {
+   "category": "Entreprises & marques",
+   "id": "76927",
+   "isValid": "",
+   "prompt": "Selon Apple, combien de chansons l'iPod d'origine pouvait-il contenir ?",
+   "unit": "",
+   "us": false,
+   "value": "1000",
+   "x": false
+  },
+  {
+   "category": "Théâtre/Arts de la scène",
+   "id": "76935",
+   "isValid": "",
+   "prompt": "Combien de temps a duré la diffusion originale de [i]Cats[/i] à Broadway ?",
+   "unit": "(en années)",
+   "us": false,
+   "value": "18",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "76937",
+   "isValid": "",
+   "prompt": "Combien y a-t-il eu de morts à l'écran dans le premier film [i]Scream[/i] ?",
+   "unit": "",
+   "us": false,
+   "value": "7",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "77144",
+   "isValid": "",
+   "prompt": "Quelle est la largeur de la partie la plus large du Grand Canyon ?",
+   "unit": "(en km arrondis)",
+   "us": true,
+   "value": "29",
+   "x": false
+  },
+  {
+   "category": "Animaux",
+   "id": "77170",
+   "isValid": "",
+   "prompt": "Selon les rumeurs, quel âge avait Hanako, le poisson koi le plus âgé, à sa mort ?",
+   "unit": "(en années)",
+   "us": false,
+   "value": "226",
+   "x": false
+  },
+  {
+   "category": "Anecdote",
+   "id": "77188",
+   "isValid": "",
+   "prompt": "D'après les exigences du CIO, quel pourcentage d'une médaille d'or olympique peut être de l'argent ?",
+   "unit": "(arrondi au pourcentage le plus proche)",
+   "us": false,
+   "value": "93",
+   "x": false
+  },
+  {
+   "category": "Anecdote",
+   "id": "77198",
+   "isValid": "",
+   "prompt": "Si vous mangiez le plus gros burrito du monde, combien de kilogrammes de fromage se trouveraient dans votre ventre ?",
+   "unit": "(arrondi au kilogramme le plus proche)",
+   "us": false,
+   "value": "5800",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "77200",
+   "isValid": "",
+   "prompt": "Quel pourcentage de la famille Addams NE PEUT PAS acheter d'alcool ? (la famille originale de la télévision)",
+   "unit": "(arrondi au pourcentage le plus proche)",
+   "us": true,
+   "value": "22",
    "x": true
   },
   {
-   "answers": [
-    {
-     "match": "Dre",
-     "text": "Dr."
-    },
-    {
-     "match": "3000",
-     "text": "André"
-    },
-    {
-     "match": "Cat",
-     "text": "Doja"
-    },
-    {
-     "match": "Chainz",
-     "text": "2"
-    },
-    {
-     "match": "Rocky",
-     "text": "A$AP"
-    },
-    {
-     "match": "B",
-     "text": "Cardi"
-    },
-    {
-     "match": "Cudi",
-     "text": "Kid"
-    },
-    {
-     "match": "Khalifa",
-     "text": "Wiz"
-    },
-    {
-     "match": "Kim",
-     "text": "Lil’"
-    },
-    {
-     "match": "Minaj",
-     "text": "Nicki"
-    },
-    {
-     "match": "Z",
-     "text": "Jay"
-    },
-    {
-     "match": "Savage",
-     "text": "21"
-    }
-   ],
-   "category": "Music",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Fin du nom",
-     "text": "Début du nom"
-    }
-   ],
-   "id": "80457",
+   "category": "Anecdote",
+   "id": "77213",
    "isValid": "",
-   "prompt": "Associez le début du nom de scène du rappeur à sa fin",
-   "promptHeader": "Débuts et fins du hip-hop",
+   "prompt": "D'après le record établi en 2007, combien d'heures a duré le plus long marathon de montagnes russes ?",
+   "unit": "(arrondi à l'heure la plus proche)",
    "us": false,
+   "value": "406",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "La salle d'étude",
-     "text": "[i]Community[/i]"
-    },
-    {
-     "match": "Monk’s Café",
-     "text": "[i]Seinfeld[/i]"
-    },
-    {
-     "match": "Central Perk",
-     "text": "[i]Friends[/i]"
-    },
-    {
-     "match": "The Groovy Smoothie",
-     "text": "[i]iCarly[/i]"
-    },
-    {
-     "match": "La taverne de Moe",
-     "text": "[i]Les Simpsons[/i]"
-    },
-    {
-     "match": "Le crabe croustillant",
-     "text": "[i]Bob l'éponge[/i]"
-    },
-    {
-     "match": "The Peach Pit",
-     "text": "[i]Beverly Hills, 90210[/i]"
-    },
-    {
-     "match": "Paddy’s Pub",
-     "text": "[i]Philadelphia[/i]"
-    },
-    {
-     "match": "Bada Bing !",
-     "text": "[i]Les Sopranos[/i]"
-    },
-    {
-     "match": "The Hub",
-     "text": "[i]That '70s Show[/i]"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Lieux de rencontre",
-     "text": "Shows télévisés"
-    }
-   ],
-   "id": "80458",
+   "category": "Science & Medicine",
+   "id": "77219",
    "isValid": "",
-   "prompt": "Associez l'émission télévisée à son lieu de rencontre signature",
-   "promptHeader": "Émissions de télévision et leurs principaux lieux de rencontres",
-   "us": false,
+   "prompt": "À quelle température un diamant se transforme-t-il en vapeur ?",
+   "unit": "(en degrés Celsius arrondi à l'unité)",
+   "us": true,
+   "value": "763",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Billy Joel",
-     "text": "[i]Movin' Out[/i]"
-    },
-    {
-     "match": "Frankie Valli & The Four Seasons",
-     "text": "[i]Jersey Boys[/i]"
-    },
-    {
-     "match": "The Temptations",
-     "text": "[i]Ain't Too Proud[/i]"
-    },
-    {
-     "match": "Carole King",
-     "text": "[i]Beautiful[/i]"
-    },
-    {
-     "match": "Queen",
-     "text": "[i]We Will Rock You[/i]"
-    },
-    {
-     "match": "ABBA",
-     "text": "[i]Mamma Mia[/i]"
-    },
-    {
-     "match": "Elvis Presley",
-     "text": "[i]All Shook Up[/i]"
-    },
-    {
-     "match": "Peter Allen",
-     "text": "[i]The Boy From Oz[/i]"
-    },
-    {
-     "match": "The Beach Boys",
-     "text": "[i]Good Vibrations[/i]"
-    },
-    {
-     "match": "The Kinks",
-     "text": "[i]Sunny Afternoon[/i]"
-    }
-   ],
-   "category": "Théâtre/Arts de la scène",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Artistes célèbres",
-     "text": "Comédies musicales"
-    }
-   ],
-   "id": "80461",
-   "isValid": "",
-   "prompt": "Associez la comédie musicale à l'artiste qu'elle célèbre",
-   "promptHeader": "Jukebox de comédies musicales",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Apple",
-     "text": "Fiona"
-    },
-    {
-     "match": "Berry",
-     "text": "Halle"
-    },
-    {
-     "match": "Cube",
-     "text": "Ice"
-    },
-    {
-     "match": "Bacon",
-     "text": "Kevin"
-    },
-    {
-     "match": "Larson",
-     "text": "Brie"
-    },
-    {
-     "match": "Curry",
-     "text": "Stephen"
-    },
-    {
-     "match": "Hamm",
-     "text": "Jon"
-    },
-    {
-     "match": "Rogers",
-     "text": "Ginger"
-    },
-    {
-     "match": "Candy",
-     "text": "John"
-    },
-    {
-     "match": "Rice",
-     "text": "Jerry"
-    }
-   ],
-   "category": "Célébrités",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Noms",
-     "text": "Prénoms"
-    }
-   ],
-   "id": "80462",
-   "isValid": "",
-   "prompt": "Associez le prénom de la célébrité comestible au nom de famille",
-   "promptHeader": "Célébrités comestibles",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Billie Lourd",
-     "text": "Carrie Fisher"
-    },
-    {
-     "match": "Angelina Jolie",
-     "text": "Jon Voigt"
-    },
-    {
-     "match": "Mariska Hargitay",
-     "text": "Jayne Mansfield"
-    },
-    {
-     "match": "Anderson Cooper",
-     "text": "Gloria Vanderbilt"
-    },
-    {
-     "match": "Kate Hudson",
-     "text": "Goldie Hawn"
-    },
-    {
-     "match": "Gwyneth Paltrow",
-     "text": "Blythe Danner"
-    },
-    {
-     "match": "Dakota Johnson",
-     "text": "Melanie Griffith"
-    },
-    {
-     "match": "Rumer Willis",
-     "text": "Demi Moore"
-    },
-    {
-     "match": "Emilio Estevez",
-     "text": "Martin Sheen"
-    },
-    {
-     "match": "Zoe Kravitz",
-     "text": "Lisa Bonet"
-    },
-    {
-     "match": "Elle King",
-     "text": "Rob Schneider"
-    },
-    {
-     "match": "Maya Rudolph",
-     "text": "Minnie Riperton"
-    }
-   ],
-   "category": "Célébrités",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Progéniture",
-     "text": "Célébrités"
-    }
-   ],
-   "id": "80471",
-   "isValid": "",
-   "prompt": "Associez la célébrité à sa progéniture",
-   "promptHeader": "Célébrités à travers les générations",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Jack Nicholson",
-     "text": "[i]Batman[/i]"
-    },
-    {
-     "match": "Jeff Bridges",
-     "text": "[i]Iron Man[/i]"
-    },
-    {
-     "match": "Michael Keaton",
-     "text": "[i]Spiderman: Homecoming[/i]"
-    },
-    {
-     "match": "Mads Mikkelsen",
-     "text": "[i]Doctor Strange[/i]"
-    },
-    {
-     "match": "Josh Brolin",
-     "text": "[i]Avengers: Infinity War[/i]"
-    },
-    {
-     "match": "Michael Shannon",
-     "text": "[i]Man of Steel[/i]"
-    },
-    {
-     "match": "David Thewlis",
-     "text": "[i]Wonder Woman[/i]"
-    },
-    {
-     "match": "Matthew Goode",
-     "text": "[i]Watchmen : les Gardiens[/i]"
-    },
-    {
-     "match": "Jude Law",
-     "text": "[i]Captain Marvel[/i]"
-    },
-    {
-     "match": "Gene Hackman",
-     "text": "[i]Superman : le film[/i]"
-    },
-    {
-     "match": "Cate Blanchett",
-     "text": "[i]Thor: Ragnarok[/i]"
-    }
-   ],
-   "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Acteurs méchants",
-     "text": "Films"
-    }
-   ],
-   "id": "81007",
-   "isValid": "",
-   "prompt": "Associez le film de super-héros à l'acteur qui a joué son méchant",
-   "promptHeader": "Films de super-héros et leurs antagonistes",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Bane",
-     "text": "Tom Hardy"
-    },
-    {
-     "match": "Dredd",
-     "text": "Karl Urban"
-    },
-    {
-     "match": "Din Djarin (Le Mandalorien)",
-     "text": "Pedro Pascal"
-    },
-    {
-     "match": "V",
-     "text": "Hugo Weaving"
-    },
-    {
-     "match": "Boba Fett",
-     "text": "Jeremy Bulloch"
-    },
-    {
-     "match": "Le Fantôme",
-     "text": "Gerard Butler"
-    },
-    {
-     "match": "Deadpool",
-     "text": "Ryan Reynolds"
-    },
-    {
-     "match": "Jason Voorhees",
-     "text": "Kane Hodder"
-    },
-    {
-     "match": "Zorro",
-     "text": "Antonio Banderas"
-    }
-   ],
-   "category": "Célébrités",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Personnages masqués",
-     "text": "Acteurs"
-    }
-   ],
-   "id": "81008",
-   "isValid": "",
-   "prompt": "Associez l'acteur au personnage masqué qu'il a joué",
-   "promptHeader": "Les acteurs et leurs personnages masqués",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Football",
-     "text": "Megan Rapinoe"
-    },
-    {
-     "match": "Tennis",
-     "text": "Serena Williams"
-    },
-    {
-     "match": "Gymnastique",
-     "text": "Simone Biles"
-    },
-    {
-     "match": "MMA",
-     "text": "Rhonda Rousey"
-    },
-    {
-     "match": "Course automobile",
-     "text": "Danica Patrick"
-    },
-    {
-     "match": "Patinage artistique",
-     "text": "Michelle Kwan"
-    },
-    {
-     "match": "Natation",
-     "text": "Katie Ledecky"
-    },
-    {
-     "match": "Basketball",
-     "text": "Lisa Leslie"
-    },
-    {
-     "match": "Ski",
-     "text": "Lindsey Vonn"
-    },
-    {
-     "match": "Athlétisme",
-     "text": "Jackie Joyner-Kersee"
-    }
-   ],
    "category": "Sports",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Sports",
-     "text": "Athlètes"
-    }
-   ],
-   "id": "81075",
+   "id": "77222",
    "isValid": "",
-   "prompt": "Associez l'athlète à son sport",
-   "promptHeader": "Femmes d'élite du monde du sport",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Veau",
-     "text": "Vache"
-    },
-    {
-     "match": "Nouveau-né",
-     "text": "Alligator"
-    },
-    {
-     "match": "Ourson",
-     "text": "Ours"
-    },
-    {
-     "match": "Faon",
-     "text": "Cerf"
-    },
-    {
-     "match": "Asticot",
-     "text": "Mouche"
-    },
-    {
-     "match": "Têtard",
-     "text": "Grenouille"
-    },
-    {
-     "match": "Oison",
-     "text": "Oie"
-    },
-    {
-     "match": "Joey",
-     "text": "Kangourou"
-    },
-    {
-     "match": "Agneau",
-     "text": "Mouton"
-    },
-    {
-     "match": "Cygnet",
-     "text": "Cygne"
-    },
-    {
-     "match": "Poulain",
-     "text": "Cheval"
-    },
-    {
-     "match": "Chevreau",
-     "text": "Chèvre"
-    }
-   ],
-   "category": "Animaux",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Bébés animaux",
-     "text": "Animaux adultes"
-    }
-   ],
-   "id": "81078",
-   "isValid": "",
-   "prompt": "Associez l'animal à ce que nous appelons sa (surtout) adorable progéniture",
-   "promptHeader": "Bébés animaux mignons",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Mer Méditerranée",
-     "text": "Majorque"
-    },
-    {
-     "match": "Mer du Nord",
-     "text": "Heligoland"
-    },
-    {
-     "match": "Mer Rouge",
-     "text": "Île de Tiran"
-    },
-    {
-     "match": "Mer Noire",
-     "text": "Île des Serpents"
-    },
-    {
-     "match": "Mer des Phillipines",
-     "text": "Luçon"
-    },
-    {
-     "match": "Mer d'Arabie",
-     "text": "Île d'Éléphanta"
-    },
-    {
-     "match": "Mer de Chine méridionale",
-     "text": "Taïwan"
-    },
-    {
-     "match": "Mer des Caraïbes",
-     "text": "Cuba"
-    },
-    {
-     "match": "Mer Baltique",
-     "text": "Bornholm"
-    },
-    {
-     "match": "Mer du Japon",
-     "text": "Okinawa"
-    },
-    {
-     "match": "Mer Jaune",
-     "text": "Gageodo"
-    },
-    {
-     "match": "Mer Caspienne",
-     "text": "Khara-Zire"
-    }
-   ],
-   "category": "Géographie et points de repère",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Mers",
-     "text": "Îles"
-    }
-   ],
-   "id": "81082",
-   "isValid": "",
-   "prompt": "Associez l'île à sa mer correspondante",
-   "promptHeader": "'S.O.S!",
+   "prompt": "Combien d'Air Buds faudrait-il, au maximum, pour constituer une équipe complète de la NBA ?",
+   "unit": "",
    "us": true,
+   "value": "15",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "[i]Community[/i]",
-     "text": "Roulologie - niveau 1"
-    },
-    {
-     "match": "[i]Philadelphia[/i]",
-     "text": "Le gang gravit le sommet de la connaissance"
-    },
-    {
-     "match": "[i]Friends[/i]",
-     "text": "Celui avec la très belle roue"
-    },
-    {
-     "match": "[i]Crazy Ex-Girlfriend[/i]",
-     "text": "Je fais tourner la roue avec Josh !"
-    },
-    {
-     "match": "[i]Freaks and Geeks[/i]",
-     "text": "Tourner et gagner"
-    },
-    {
-     "match": "[i]Mr. Robot[/i]",
-     "text": "404 Roue introuvable"
-    },
-    {
-     "match": "[i]Tout le monde déteste Chris ![/i]",
-     "text": "Tout le monde déteste ne pas faire tourner la roue !"
-    },
-    {
-     "match": "[i]The Big Bang Theory[/i]",
-     "text": "Le corollaire de la roue cosmique"
-    },
-    {
-     "match": "[i]Fais-moi peur ![/i]",
-     "text": "L'histoire de la rotation fantôme"
-    },
-    {
-     "match": "[i]M.A.S.H.[/i]",
-     "text": "Hawkeye, fais tourner ta roue"
-    }
-   ],
+   "category": "Calendar/Holidays",
+   "id": "77232",
+   "isValid": "",
+   "prompt": "À Times Square, à New York, quelle est la hauteur du mât qui porte le bal du Nouvel An ?",
+   "unit": "(in feet)",
+   "us": true,
+   "value": "77",
+   "x": false
+  },
+  {
+   "category": "History",
+   "id": "77261",
+   "isValid": "",
+   "prompt": "Combien de personnes ont été jugées coupables et exécutées lors du procès des sorcières de Salem ?",
+   "unit": "",
+   "us": true,
+   "value": "19",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "77268",
+   "isValid": "",
+   "prompt": "Combien de départements compte la France métropolitaine ?",
+   "unit": "(en nombre de départements)",
+   "us": true,
+   "value": "95",
+   "x": false
+  },
+  {
+   "category": "Nourriture et Boissons",
+   "id": "77304",
+   "isValid": "",
+   "prompt": "Quelle est la longueur de la galette-saucisse la plus grande jamais réalisée ?",
+   "unit": "(en mètres)",
+   "us": true,
+   "value": "53",
+   "x": false
+  },
+  {
+   "category": "Science & médecine",
+   "id": "77309",
+   "isValid": "",
+   "prompt": "Selon une expérience de l'Université Purdue, combien de coups de langue faut-il en moyenne pour atteindre le centre d'un Tootsie Pop ?",
+   "unit": "(en coups de langue humains)",
+   "us": false,
+   "value": "252",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "77310",
+   "isValid": "",
+   "prompt": "Quel est le score le plus élevé que vous puissiez obtenir au bowling sans aucun strike ?",
+   "unit": "",
+   "us": false,
+   "value": "190",
+   "x": false
+  },
+  {
+   "category": "Géographie & monuments",
+   "id": "77312",
+   "isValid": "",
+   "prompt": "Quelle est la profondeur du fond de l'océan dans la partie la plus profonde de la fosse des Mariannes ?",
+   "unit": "(en mètres)",
+   "us": false,
+   "value": "11034",
+   "x": false
+  },
+  {
+   "category": "Véhicules",
+   "id": "77313",
+   "isValid": "",
+   "prompt": "Quelle était la capacité en sièges de « The American Dream », alias La plus longue limousine du monde ?",
+   "unit": "(en personnes)",
+   "us": false,
+   "value": "75",
+   "x": false
+  },
+  {
    "category": "Cinéma & télévision",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Shows télévisés",
-     "text": "Titres d'épisodes"
-    }
-   ],
-   "id": "81136",
+   "id": "77330",
    "isValid": "",
-   "prompt": "Associez l'épisode inventé à son émission de télévision",
-   "promptHeader": "Épisodes télévisés imaginaires mettant en vedette la roue",
+   "prompt": "Quelle est la durée d'exécution combinée (en minutes) des trois films [i]Le Seigneur des Anneaux[/i] édition spéciale étendue ?",
+   "unit": "(en minutes)",
    "us": false,
+   "value": "681",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Aviateurs",
-     "text": "Wright"
-    },
-    {
-     "match": "Réseaux sociaux/Investissement",
-     "text": "Winklevoss"
-    },
-    {
-     "match": "Pop music",
-     "text": "Jonas"
-    },
-    {
-     "match": "Comédie",
-     "text": "Marx"
-    },
-    {
-     "match": "Folklore",
-     "text": "Grimm"
-    },
-    {
-     "match": "Politique",
-     "text": "Kennedy"
-    },
-    {
-     "match": "Football américain",
-     "text": "Manning"
-    },
-    {
-     "match": "Rock folk",
-     "text": "Avett"
-    },
-    {
-     "match": "Réalisation de films",
-     "text": "Coen"
-    }
-   ],
-   "category": "Célébrités",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Carrières",
-     "text": "Frères"
-    }
-   ],
-   "id": "81222",
+   "category": "Animaux",
+   "id": "77331",
    "isValid": "",
-   "prompt": "Associez les frères à ce pour quoi ils sont célèbres",
-   "promptHeader": "Meilleurs frères",
+   "prompt": "Combien de mois, en moyenne, dure la grossesse d'un éléphant d'Afrique ?",
+   "unit": "",
    "us": false,
+   "value": "22",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "souliers de rubis",
-     "text": "Dorothy"
-    },
-    {
-     "match": "chaussures visées vers George W. Bush",
-     "text": "Muntadhar al-Zaidi"
-    },
-    {
-     "match": "souliers de verre",
-     "text": "Cendrillon"
-    },
-    {
-     "match": "Nike Cortez Bleu-Blanc-Rouge",
-     "text": "Forrest Gump"
-    },
-    {
-     "match": "Onitsuka Tiger jaunes rayées noires",
-     "text": "Uma Thurman dans [i]Kill Bill[/i]"
-    },
-    {
-     "match": "LES bottes Chanel",
-     "text": "Andy Sachs (Anne Hathaway in [i]Le démon s'habille en Prada[/i])"
-    },
-    {
-     "match": "Paire de Manolo Blahnik",
-     "text": "Carrie Bradshaw dans [i]Sex and the City/i]"
-    },
-    {
-     "match": "Adidas Superstars",
-     "text": "Run DMC"
-    },
-    {
-     "match": "pieds nus enveloppés d'un chiffon",
-     "text": "John McClane"
-    },
-    {
-     "match": "Nike Air Mags",
-     "text": "Marty McFly"
-    }
-   ],
-   "category": "Factoïdes",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Chaussures",
-     "text": "Propriétaires de chaussures"
-    }
-   ],
-   "id": "81247",
+   "category": "Géographie & monuments",
+   "id": "77332",
    "isValid": "",
-   "prompt": "Associez le propriétaire à ses chaussures légendaires",
-   "promptHeader": "Des pieds étonnants",
+   "prompt": "Combien de tours Jenga mesure la Burj Khalifa ?",
+   "unit": "(en tours Jenga classiques)",
+   "us": false,
+   "value": "2964",
+   "x": false
+  },
+  {
+   "category": "Anatomie",
+   "id": "77368",
+   "isValid": "",
+   "prompt": "Juste par curiosité, environ combien de litres de sang y a-t-il à l'intérieur de vous en ce moment ?",
+   "unit": "",
+   "us": false,
+   "value": "5",
+   "x": false
+  },
+  {
+   "category": "Animaux",
+   "id": "77369",
+   "isValid": "",
+   "prompt": "Supposons que votre passe-temps consiste à tricoter des chaussettes pour les mille-pattes. Combien devriez-vous en faire environ pour vos amis les [i]Illacme plenipes[/i] ?",
+   "unit": "(en chaussettes)",
+   "us": false,
+   "value": "750",
+   "x": false
+  },
+  {
+   "category": "Anecdote",
+   "id": "77377",
+   "isValid": "",
+   "prompt": "Si vous faisiez pousser un légume aussi lourd que le Golden Jubilee Diamond, combien de carats votre carotte ferait-elle ?",
+   "unit": "(arrondi au carat le plus proche)",
+   "us": false,
+   "value": "546",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "77434",
+   "isValid": "",
+   "prompt": "Combien d'épisodes de [i]Star Trek : la série originale[/i] ont été diffusés ?",
+   "unit": "",
+   "us": false,
+   "value": "79",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "77448",
+   "isValid": "",
+   "prompt": "Si vous prévoyez de soupirer dramatiquement à chaque fois que vous entendez « turn around » dans la chanson « Total Eclipse of the Heart », combien de soupirs cela fera-t-il ?",
+   "unit": "(en soupirs dramatiques)",
+   "us": false,
+   "value": "23",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "77622",
+   "isValid": "",
+   "prompt": "Environ combien d'oiseaux ont été dressés pour être utilisés dans le film [i]Les Oiseaux[/i] ?",
+   "unit": "",
+   "us": false,
+   "value": "3200",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "77623",
+   "isValid": "",
+   "prompt": "Selon le Guinness World Record 2014, quelle est la hauteur du plus grand tournesol jamais cultivé ?",
+   "unit": "(arrondi au mètre le plus proche)",
+   "us": false,
+   "value": "9",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "77624",
+   "isValid": "",
+   "prompt": "Combien de pentagones noirs y a-t-il sur un ballon de football standard ?",
+   "unit": "",
    "us": true,
+   "value": "12",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "“Meuh”",
-     "text": "Vache"
-    },
-    {
-     "match": "“Béé”",
-     "text": "Mouton"
-    },
-    {
-     "match": "“Miaou”",
-     "text": "Chat"
-    },
-    {
-     "match": "“Ouaf”",
-     "text": "Chien"
-    },
-    {
-     "match": "“Hiii”",
-     "text": "Cheval"
-    },
-    {
-     "match": "“Grouik”",
-     "text": "Cochon"
-    },
-    {
-     "match": "“Cocorico“",
-     "text": "Coq"
-    },
-    {
-     "match": "“Coin-coin”",
-     "text": "Canard"
-    },
-    {
-     "match": "“Hoo-hoo”",
-     "text": "Hibou"
-    },
-    {
-     "match": "“Coââ”",
-     "text": "Grenouille"
-    },
-    {
-     "match": "“Hi-han”",
-     "text": "Âne"
-    },
-    {
-     "match": "“Glou-glou”",
-     "text": "Dinde"
-    }
-   ],
-   "category": "Animaux",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Sons",
-     "text": "Animaux"
-    }
-   ],
-   "id": "81279",
+   "category": "Sports",
+   "id": "77626",
    "isValid": "",
-   "prompt": "Associez l'animal au son que le monde francophone pense qu'il fait",
-   "promptHeader": "Les animaux et leurs sons",
+   "prompt": "D'après le record de 2017, quel est le temps du mile (1.609 km) le plus rapide jamais marché ?",
+   "unit": "(en secondes)",
    "us": false,
+   "value": "331",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Appaloosa",
-     "text": "Cheval"
-    },
-    {
-     "match": "Manx",
-     "text": "Chat"
-    },
-    {
-     "match": "Bichon frisé",
-     "text": "Chien"
-    },
-    {
-     "match": "Bélier anglais",
-     "text": "Lapin"
-    },
-    {
-     "match": "Prim'holstein",
-     "text": "Boeuf"
-    },
-    {
-     "match": "Rhode-Island",
-     "text": "Poule"
-    },
-    {
-     "match": "Vietnamien",
-     "text": "Cochon"
-    },
-    {
-     "match": "Devon Closewool",
-     "text": "Mouton"
-    },
-    {
-     "match": "Abyssinian",
-     "text": "Cochon d'inde"
-    },
-    {
-     "match": "Dumbo",
-     "text": "Rat"
-    }
-   ],
-   "category": "Animaux",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Races",
-     "text": "Animaux"
-    }
-   ],
-   "id": "81316",
+   "category": "Géographie & monuments",
+   "id": "77627",
    "isValid": "",
-   "prompt": "Associez l'espèce animale à sa célèbre race",
-   "promptHeader": "Vous les animaux !",
+   "prompt": "Environ combien de Paris-Dakar pourraient s'insérer entre la Terre et le Soleil ?",
+   "unit": "(en Paris-Dakar)",
    "us": false,
+   "value": "35425",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "McDonald's",
-     "text": "Big Mac"
-    },
-    {
-     "match": "Burger King",
-     "text": "Whopper"
-    },
-    {
-     "match": "Quick",
-     "text": "Quick N' Toast"
-    },
-    {
-     "match": "Arby's",
-     "text": "Classic Roast Beef with Horsey Sauce"
-    },
-    {
-     "match": "White Castle",
-     "text": "Original Slider"
-    },
-    {
-     "match": "Wendy's",
-     "text": "Dave's Single"
-    },
-    {
-     "match": "In-N-Out",
-     "text": "Double-Double Animal Style"
-    },
-    {
-     "match": "Shake Shack",
-     "text": "Shack Burger"
-    },
-    {
-     "match": "Steak 'N Shake",
-     "text": "Steakburger"
-    }
-   ],
+   "category": "Anecdote",
+   "id": "77629",
+   "isValid": "",
+   "prompt": "La Bougie royale du magasin phare Yankee Candle mesure plus de 1,8 mètres de haut. Si elle est allumée, combien d'années lui faudrait-elle pour brûler complètement ?",
+   "unit": "(arrondi à l'année la plus proche)",
+   "us": false,
+   "value": "8",
+   "x": false
+  },
+  {
+   "category": "Nourriture & boissons",
+   "id": "77630",
+   "isValid": "",
+   "prompt": "En 2020, combien de restaurants de restauration rapide KFC pouvaient être trouvés au Vietnam ?",
+   "unit": "",
+   "us": false,
+   "value": "135",
+   "x": false
+  },
+  {
+   "category": "Nourriture & boissons",
+   "id": "77632",
+   "isValid": "",
+   "prompt": "En 2012, combien de chefs a-t-il fallu pour cuisiner la plus grosse omelette du monde, qui pesait environ sept tonnes ?",
+   "unit": "(en chefs)",
+   "us": false,
+   "value": "55",
+   "x": false
+  },
+  {
+   "category": "Science & médicine",
+   "id": "77635",
+   "isValid": "",
+   "prompt": "Quel âge avait \"Methuselah\", le plus vieil arbre vivant du monde, en 2020 ?",
+   "unit": "(en années)",
+   "us": false,
+   "value": "4852",
+   "x": false
+  },
+  {
+   "category": "Géographie & monuments",
+   "id": "77650",
+   "isValid": "",
+   "prompt": "Combien de Dwayne « The Rock » Johnson auraient pu être emprisonnés sur « The Rock » ?",
+   "unit": "",
+   "us": false,
+   "value": "336",
+   "x": false
+  },
+  {
    "category": "Food & Drink",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Fast Food Chains",
-     "text": "Sandwiches"
-    }
-   ],
-   "id": "81433",
+   "id": "77672",
    "isValid": "",
-   "prompt": "Associez le sandwich à sa chaîne de fast-food",
-   "promptHeader": "Les sandwichs signature et les fast-foods qui les fabriquent",
+   "prompt": "En moyenne, combien de Skittles contient un sachet standard de 60 g?",
+   "unit": "(en bonbons individuels)",
    "us": true,
+   "value": "56",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Lion + Aigle",
-     "text": "Griffon"
-    },
-    {
-     "match": "Humain + Cheval",
-     "text": "Centaure"
-    },
-    {
-     "match": "Lion + Chèvre + Serpent",
-     "text": "Chimère"
-    },
-    {
-     "match": "Humain + Lion",
-     "text": "Sphinx"
-    },
-    {
-     "match": "Humain + Taureau",
-     "text": "Minotaure"
-    },
-    {
-     "match": "Humain + Chèvre",
-     "text": "Faune"
-    },
-    {
-     "match": "Humain + Serpent",
-     "text": "Gorgone"
-    },
-    {
-     "match": "Humain + Poisson",
-     "text": "Sirène"
-    }
-   ],
-   "category": "Animaux",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Composantes",
-     "text": "Créatures"
-    }
-   ],
-   "id": "82717",
+   "category": "Musique",
+   "id": "77675",
    "isValid": "",
-   "prompt": "Associez la créature mythique aux animaux qui la composent",
-   "promptHeader": "Pièces de créature mythique",
+   "prompt": "Combien de fois Ciara prononce-t-elle le mot « goodies » dans sa chanson à succès « Goodies » ?",
+   "unit": "",
    "us": false,
+   "value": "13",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Franc",
-     "text": "France"
-    },
-    {
-     "match": "Schilling",
-     "text": "Autriche"
-    },
-    {
-     "match": "Deutsche Mark",
-     "text": "Allemagne"
-    },
-    {
-     "match": "Gulden",
-     "text": "Pays-Bas"
-    },
-    {
-     "match": "Kroon",
-     "text": "Estonie"
-    },
-    {
-     "match": "Drachme",
-     "text": "Grèce"
-    },
-    {
-     "match": "Lire",
-     "text": "Italie"
-    },
-    {
-     "match": "Escudo",
-     "text": "Portugal"
-    },
-    {
-     "match": "Lats",
-     "text": "Lettonie"
-    },
-    {
-     "match": "Peseta",
-     "text": "Espagne"
-    },
-    {
-     "match": "Austral",
-     "text": "Argentine"
-    },
-    {
-     "match": "Ekwele",
-     "text": "Guinée équatoriale"
-    }
-   ],
-   "category": "Monnaie",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Anciennes devises",
-     "text": "Pays"
-    }
-   ],
-   "id": "83097",
+   "category": "Nourriture & boissons",
+   "id": "77749",
    "isValid": "",
-   "prompt": "Associez le pays à sa devise obsolète",
-   "promptHeader": "Devises passées",
+   "prompt": "Combien de recettes sont incluses dans [i]Mastering the Art of French Cooking, Volume I[/i] de Julia Child ?",
+   "unit": "",
    "us": false,
+   "value": "524",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Dogue Allemand",
-     "text": "Scooby-Doo"
-    },
-    {
-     "match": "Colley",
-     "text": "Lassie"
-    },
-    {
-     "match": "Chihuahua",
-     "text": "Le chien de Taco Bell"
-    },
-    {
-     "match": "Cairn Terrier",
-     "text": "Toto (\"Le Magicien d'Oz\")"
-    },
-    {
-     "match": "Berger allemand",
-     "text": "Rin Tin Tin"
-    },
-    {
-     "match": "Beagle",
-     "text": "Snoopy"
-    },
-    {
-     "match": "Cocker américain",
-     "text": "Lady (de [i]La belle et le clochard[/i])"
-    },
-    {
-     "match": "Basset Hound",
-     "text": "Salami, le chien de TéléZ"
-    },
-    {
-     "match": "Husky de Sibérie",
-     "text": "Laika (Chien cosmonaute de Spoutnik 2)"
-    },
-    {
-     "match": "Saint-Bernard",
-     "text": "Beethoven (du film \"Beethoven\")"
-    },
-    {
-     "match": "Labrador",
-     "text": "Marley"
-    }
-   ],
+   "category": "Géographie & monuments",
+   "id": "77752",
+   "isValid": "",
+   "prompt": "Combien de vitres composent la Pyramide du Louvre ?",
+   "unit": "",
+   "us": false,
+   "value": "673",
+   "x": false
+  },
+  {
+   "category": "Géographie & monuments",
+   "id": "77757",
+   "isValid": "",
+   "prompt": "Combien y a-t-il de salles de bain à la Maison Blanche ?",
+   "unit": "(en salles de bain)",
+   "us": false,
+   "value": "35",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "77791",
+   "isValid": "",
+   "prompt": "Environ combien de dragées ont été utilisées pour créer le portrait de Ronald Reagan accroché dans sa bibliothèque présidentielle ?",
+   "unit": "(en dragées)",
+   "us": true,
+   "value": "10000",
+   "x": false
+  },
+  {
+   "category": "Science & médicine",
+   "id": "78047",
+   "isValid": "",
+   "prompt": "Combien de temps met la lune pour tourner une fois sur son axe ?",
+   "unit": "(en jours terrestres)",
+   "us": false,
+   "value": "27",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "78066",
+   "isValid": "",
+   "prompt": "Quel âge a Sacha Ketchum dans [i]Pokémon[/i] ?",
+   "unit": "(en années)",
+   "us": false,
+   "value": "10",
+   "x": false
+  },
+  {
    "category": "Animals",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Races",
-     "text": "Chiens célèbres"
-    }
-   ],
-   "id": "83906",
+   "id": "78133",
    "isValid": "",
-   "prompt": "Associez le chien célèbre à sa race",
-   "promptHeader": "Chiens de grande renommée",
+   "prompt": "Quelle est la taille de Forest, la plus grande girafe du monde (selon [i]Guinness World Records[/i]) ?",
+   "unit": "(arrondi au supérieur en cm)",
    "us": true,
+   "value": "569",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "dinosaure",
-     "text": "Barney"
-    },
-    {
-     "match": "lion",
-     "text": "Simba"
-    },
-    {
-     "match": "poisson",
-     "text": "Dory"
-    },
-    {
-     "match": "grillon",
-     "text": "Jiminy"
-    },
-    {
-     "match": "cheval",
-     "text": "Mister Ed"
-    },
-    {
-     "match": "cochon",
-     "text": "Babe"
-    },
-    {
-     "match": "canard",
-     "text": "Howard"
-    },
-    {
-     "match": "tortue",
-     "text": "Michelangelo"
-    },
-    {
-     "match": "raccoon",
-     "text": "Rocket"
-    },
-    {
-     "match": "chipmunk",
-     "text": "Alvin"
-    }
-   ],
-   "category": "Film & TV",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Animaux représentés",
-     "text": "Personnages"
-    }
-   ],
-   "id": "83909",
+   "category": "Argent",
+   "id": "78142",
    "isValid": "",
-   "prompt": "Associez le personnage à son animal correspondant",
-   "promptHeader": "Animaux qui parlent",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "Jupiter",
-     "text": "Zeus"
-    },
-    {
-     "match": "Junon",
-     "text": "Héra"
-    },
-    {
-     "match": "Neptune",
-     "text": "Poséidon"
-    },
-    {
-     "match": "Pluton",
-     "text": "Hadàs"
-    },
-    {
-     "match": "Cérès",
-     "text": "Déméter"
-    },
-    {
-     "match": "Bacchus",
-     "text": "Dionysos"
-    },
-    {
-     "match": "Mercure",
-     "text": "Hermès"
-    },
-    {
-     "match": "Mars",
-     "text": "Arès"
-    },
-    {
-     "match": "Vénus",
-     "text": "Aphrodite"
-    },
-    {
-     "match": "Vulcain",
-     "text": "Héphaïstos"
-    },
-    {
-     "match": "Diane",
-     "text": "Artémis"
-    },
-    {
-     "match": "Cupidon",
-     "text": "Éros"
-    }
-   ],
-   "category": "Littérature",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Noms romains",
-     "text": "Noms grecs"
-    }
-   ],
-   "id": "86164",
-   "isValid": "",
-   "prompt": "Associez les anciens dieux grecs avec leurs homologues romains",
-   "promptHeader": "Les dieux de la Grèce et leurs homologues romains",
+   "prompt": "Vite ! Combien y a-t-il de pièces dans un rouleau de 20 € ?",
+   "unit": "(en pièces)",
    "us": false,
+   "value": "40",
    "x": false
   },
   {
-   "answers": [
-    {
-     "match": "Pistolet d'or",
-     "text": "[i]Goldeneye 007[/i]"
-    },
-    {
-     "match": "Buster Sword",
-     "text": "[i]Final Fantasy VII[/i]"
-    },
-    {
-     "match": "Poltergust 3000",
-     "text": "[i]Luigi's Mansion[/i]"
-    },
-    {
-     "match": "Bouclier Hylien",
-     "text": "[i]The Legend of Zelda/i]"
-    },
-    {
-     "match": "Portal gun",
-     "text": "[i]Portal[/i]"
-    },
-    {
-     "match": "Deuillegivre",
-     "text": "[i]World of Warcraft[/i]"
-    },
-    {
-     "match": "Stinger",
-     "text": "[i]Valorant[/i]"
-    },
-    {
-     "match": "Brimstone",
-     "text": "[i]The Binding of Isaac[/i]"
-    },
-    {
-     "match": "Keyblade",
-     "text": "[i]Kingdom Hearts[/i]"
-    },
-    {
-     "match": "Lames du Chaos",
-     "text": "[i]God of War[/i]"
-    }
-   ],
-   "category": "Jeux vidéo",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "“Armes”",
-     "text": "Jeux Vidéo"
-    }
-   ],
-   "id": "86463",
+   "category": "Music",
+   "id": "78324",
    "isValid": "",
-   "prompt": "Associez l'arme célèbre à son jeu vidéo",
-   "promptHeader": "Armes de jeux vidéo",
+   "prompt": "En centimètres, quelle est la taille combinée des deux membres de Daft Punk?",
+   "unit": "(arrondi en cm)",
    "us": true,
+   "value": "358",
+   "x": false
+  },
+  {
+   "category": "Figures historiques",
+   "id": "78352",
+   "isValid": "",
+   "prompt": "En quelle année est décédée la reine Victoria ?",
+   "unit": "",
+   "us": false,
+   "value": "1901",
+   "x": false
+  },
+  {
+   "category": "Animaux",
+   "id": "78353",
+   "isValid": "",
+   "prompt": "Une Leghorn blanche détient le record du plus grand nombre d'œufs pondus par une poule en un an. Combien d'œufs a-t-elle pondu ?",
+   "unit": "",
+   "us": false,
+   "value": "371",
+   "x": false
+  },
+  {
+   "category": "Géographie & monuments",
+   "id": "78355",
+   "isValid": "",
+   "prompt": "Quelle est la longueur de la grande muraille de Chine... en murs de Berlin ?",
+   "unit": "(en murs de Berlin)",
+   "us": false,
+   "value": "137",
+   "x": false
+  },
+  {
+   "category": "Calendrier/Vacances",
+   "id": "78404",
+   "isValid": "",
+   "prompt": "C'est gentil ! Votre conjoint vient de vous offrir un cadeau d'anniversaire de mariage traditionnel en corail. Combien de temps avez-vous été marié ?",
+   "unit": "(en années)",
+   "us": false,
+   "value": "35",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "78407",
+   "isValid": "",
+   "prompt": "Combien d'épisodes de la franchise [i]New York : Police judiciaire[/i] ont été diffusés jusqu'à leur 20ème anniversaire ?",
+   "unit": "(en épisodes)",
+   "us": false,
+   "value": "456",
+   "x": false
+  },
+  {
+   "category": "Entreprises et marques",
+   "id": "78410",
+   "isValid": "",
+   "prompt": "Hej ! Vous avez décidé de passer votre après-midi à assembler le produit le plus populaire d'IKEA, la bibliothèque BILLY. Combien d'étapes devrez-vous suivre pour l'assembler complètement ?",
+   "unit": "(en étapes d'instructions)",
+   "us": false,
+   "value": "14",
+   "x": false
+  },
+  {
+   "category": "Anecdotes",
+   "id": "78415",
+   "isValid": "",
+   "prompt": "En quelle année le bloc-notes jaune a-t-il été inventé ?",
+   "unit": "",
+   "us": false,
+   "value": "1888",
+   "x": false
+  },
+  {
+   "category": "Anecdotes",
+   "id": "78564",
+   "isValid": "",
+   "prompt": "Combien de boîtiers de CD Fleetwood Mac mesure Stevie Nicks (en supposant qu'ils soient empilés à plat les uns sur les autres) ?",
+   "unit": "(en boîtes de CD)",
+   "us": false,
+   "value": "158",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "78600",
+   "isValid": "",
+   "prompt": "Combien de Chewbaccas mesure le [i]Millennium Falcon[/i] ?",
+   "unit": "(en Chewbaccas)",
+   "us": false,
+   "value": "15",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "78668",
+   "isValid": "",
+   "prompt": "Selon la pyramide alimentaire de l'USDA, combien de portions maximales de pain pouvez-vous consommer par jour ?",
+   "unit": "",
+   "us": true,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "78669",
+   "isValid": "",
+   "prompt": "Combien de fois disent-ils « tequila » dans la chanson « Tequila » ?",
+   "unit": "",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Nourriture & boissons",
+   "id": "78698",
+   "isValid": "",
+   "prompt": "Combien coûte le « burger le plus cher du monde » servi au restaurant Fleur à Las Vegas ?",
+   "unit": "(en dollars américains)",
+   "us": false,
+   "value": "5000",
+   "x": false
+  },
+  {
+   "category": "Nourriture & boissons",
+   "id": "78699",
+   "isValid": "",
+   "prompt": "Quel pourcentage d'un Pringles est réellement de la pomme de terre ?",
+   "unit": "",
+   "us": false,
+   "value": "42",
+   "x": false
+  },
+  {
+   "category": "Anatomie",
+   "id": "78788",
+   "isValid": "",
+   "prompt": "Combien y a-t-il d'os dans la main d'un humain adulte ?",
+   "unit": "",
+   "us": false,
+   "value": "27",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "78803",
+   "isValid": "",
+   "prompt": "Selon le CDC, environ combien de blessures liées à la foudre se sont produites en Floride au cours des 50 dernières années ?",
+   "unit": "(en blessures par la foudre)",
+   "us": false,
+   "value": "2000",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "78805",
+   "isValid": "",
+   "prompt": "Combien y a-t-il d'épisodes de la série originale de [i]Friends[/i] ?",
+   "unit": "(en épisodes)",
+   "us": false,
+   "value": "236",
+   "x": false
+  },
+  {
+   "category": "Jeux",
+   "id": "78806",
+   "isValid": "",
+   "prompt": "Combien de pastilles Pac-Man doit-il manger pour passer au niveau suivant ?",
+   "unit": "",
+   "us": false,
+   "value": "244",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "78815",
+   "isValid": "",
+   "prompt": "Environ combien de fois par épisode de [i]La roue de la fortune[/i] Vanna White applaudit-elle ?",
+   "unit": "(en applaudissements)",
+   "us": false,
+   "value": "606",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "79058",
+   "isValid": "",
+   "prompt": "Dans la chanson de Phil Collins \"In The Air Tonight\", après combien de secondes son épique pont de batterie a-t-il lieu ?",
+   "unit": "(en secondes)",
+   "us": false,
+   "value": "221",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "79066",
+   "isValid": "",
+   "prompt": "Combien de femmes sont nommées dans le titre de Lou Bega “Mambo Number 5”?",
+   "unit": "(en prénoms féminins)",
+   "us": false,
+   "value": "9",
+   "x": false
+  },
+  {
+   "category": "Anecdote",
+   "id": "79067",
+   "isValid": "",
+   "prompt": "Conbien de crayons contient la plus grande boîte fabriquée par Crayola ?",
+   "unit": "(en nombre de crayons)",
+   "us": false,
+   "value": "120",
+   "x": false
+  },
+  {
+   "category": "Anatomy",
+   "id": "79116",
+   "isValid": "",
+   "prompt": "Si vous aviez un euro pour chaque centilitre de liquide que votre vessie peut contenir, combien en auriez-vous ?",
+   "unit": "(en euros)",
+   "us": true,
+   "value": "45",
+   "x": false
+  },
+  {
+   "category": "Entreprises & marques",
+   "id": "79119",
+   "isValid": "",
+   "prompt": "En MILLIARDS de DOLLARS, quel a été le chiffre d'affaires mondial de McDonald's en 2020 ?",
+   "unit": "(en milliards de dollars américains)",
+   "us": false,
+   "value": "19",
+   "x": false
+  },
+  {
+   "category": "Internet",
+   "id": "79499",
+   "isValid": "",
+   "prompt": "Combien de millions d'utilisateurs avait un compte Facebook lorsque [i]The Social Network[/i] est sorti en salles fin 2010 ?",
+   "unit": "(en millions d'utilisateurs)",
+   "us": false,
+   "value": "608",
+   "x": false
+  },
+  {
+   "category": "Anectode",
+   "id": "80466",
+   "isValid": "",
+   "prompt": "Quel est le temps d'écran maximal qu'un enfant devrait avoir par jour, selon l'American Heart Association ?",
+   "unit": "(en heures)",
+   "us": false,
+   "value": "2",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "80469",
+   "isValid": "",
+   "prompt": "En moyenne, combien de poils de rongeurs sont autorisés par la FDA dans un pot de beurre de cacahuète de 40 onces ?",
+   "unit": "(en poils de rongeur)",
+   "us": true,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Animals",
+   "id": "81462",
+   "isValid": "",
+   "prompt": "Selon Franceinfo, combien de kilos de poulet le français moyen a-t-il mangé en 2020 ?",
+   "unit": "(en kilos de poulet)",
+   "us": true,
+   "value": "28",
+   "x": false
+  },
+  {
+   "category": "Figures historiques",
+   "id": "81464",
+   "isValid": "",
+   "prompt": "Jusqu'à quel âge Jeanne Louise Calment, la personne la plus âgée à avoir jamais vécu, a-t-elle vécu ?",
+   "unit": "(en années)",
+   "us": false,
+   "value": "122",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "81466",
+   "isValid": "",
+   "prompt": "Si vous enlevez les personnes nommées \"Melanie\" des Spice Girls, combien de membres reste-t-il ?",
+   "unit": "(en Spice Girls)",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Langue/Mots/Grammaire",
+   "id": "81470",
+   "isValid": "",
+   "prompt": "Selon [i]Ethnologue[/i], combien de langues vivantes connues existent dans le monde en 2020 ?",
+   "unit": "(en langues)",
+   "us": false,
+   "value": "7139",
+   "x": false
+  },
+  {
+   "category": "Géographie & monuments",
+   "id": "81473",
+   "isValid": "",
+   "prompt": "Combien de pays composent le Royaume-Uni ?",
+   "unit": "",
+   "us": false,
+   "value": "4",
+   "x": false
+  },
+  {
+   "category": "Math",
+   "id": "81475",
+   "isValid": "",
+   "prompt": "Si vous aviez une tonne d'oursons gélifiés, combien cela représenterait-il en livres ?",
+   "unit": "(en livres d'ours gélifiés)",
+   "us": true,
+   "value": "2000",
+   "x": false
+  },
+  {
+   "category": "Animation/Comic Books",
+   "id": "81478",
+   "isValid": "",
+   "prompt": "Combien y avait-il de membres dans le gang [i]Scooby-Doo[/i] d'origine ?",
+   "unit": "",
+   "us": false,
+   "value": "5",
+   "x": false
+  },
+  {
+   "category": "Culture pop",
+   "id": "81479",
+   "isValid": "",
+   "prompt": "Selon Mary Poppins, combien de cuillerées de sucre aident le médicament à descendre ?",
+   "unit": "(en cuillères à sucre)",
+   "us": false,
+   "value": "1",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "81480",
+   "isValid": "",
+   "prompt": "En quelle année une chaussure a-t-elle été lancée sur le président George W. Bush ?",
+   "unit": "",
+   "us": true,
+   "value": "2008",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "81481",
+   "isValid": "",
+   "prompt": "On the reality series [i]Jersey Shore[/i], what year was it when Snooki wrote a letter to Sammi detailing that Ron was a cheater?",
+   "unit": "",
+   "us": true,
+   "value": "2010",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "81483",
+   "isValid": "",
+   "prompt": "Quel âge avait Emmanuel Macron lorsqu'il a été élu président pour la première fois en France ?",
+   "unit": "(en années)",
+   "us": true,
+   "value": "39",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "81486",
+   "isValid": "",
+   "prompt": "En France, quel est le nombre de points maximums possibles pour un permis de conduire ?",
+   "unit": "",
+   "us": true,
+   "value": "12",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "81487",
+   "isValid": "",
+   "prompt": "Combien de fois Drake dit-il \"YOLO\" dans sa chanson à succès, \"The Motto\" ?",
+   "unit": "(en nombre de YOLOs)",
+   "us": false,
+   "value": "3",
+   "x": true
+  },
+  {
+   "category": "Véhicules",
+   "id": "81491",
+   "isValid": "",
+   "prompt": "Quel est le prix de vente conseillé par le fabricant d'une Toyota Camry CE automatique à 4 portes de 1999 ?",
+   "unit": "(en dollars américains)",
+   "us": false,
+   "value": "17898",
+   "x": false
+  },
+  {
+   "category": "Célebrités",
+   "id": "81496",
+   "isValid": "",
+   "prompt": "Combien de maris Elizabeth Taylor a-t-elle eus ?",
+   "unit": "",
+   "us": false,
+   "value": "7",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "81499",
+   "isValid": "",
+   "prompt": "Dans le premier volet de [i]Retour vers le futur[/i], en quelle année Marty voyage-t-il ?",
+   "unit": "",
+   "us": false,
+   "value": "1955",
+   "x": false
+  },
+  {
+   "category": "Religion",
+   "id": "81500",
+   "isValid": "",
+   "prompt": "À partir de 2020, combien y avait-il eu de papes catholiques romains ?",
+   "unit": "",
+   "us": false,
+   "value": "266",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "81502",
+   "isValid": "",
+   "prompt": "En 2021, combien d'enseignes Quick restaient-ils en France?",
+   "unit": "",
+   "us": true,
+   "value": "109",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "81503",
+   "isValid": "",
+   "prompt": "Quelle est la taille de Muggsy Bogues, le joueur de basket-ball le plus petit à avoir jamais joué en NBA ?",
+   "unit": "(en cm, arrondi à l'unité)",
+   "us": true,
+   "value": "160",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "81505",
+   "isValid": "",
+   "prompt": "Combien de nominations aux Oscars [i]Titanic[/i] a-t-il reçues ?",
+   "unit": "",
+   "us": false,
+   "value": "14",
+   "x": false
+  },
+  {
+   "category": "Science & médicine",
+   "id": "81506",
+   "isValid": "",
+   "prompt": "Combien y a-t-il de phases de lune ?",
+   "unit": "",
+   "us": false,
+   "value": "8",
+   "x": false
+  },
+  {
+   "category": "History",
+   "id": "81507",
+   "isValid": "",
+   "prompt": "En quelle année la France a-t-elle autorisé le mariage pour tous?",
+   "unit": "",
+   "us": true,
+   "value": "2013",
+   "x": false
+  },
+  {
+   "category": "Mode",
+   "id": "81511",
+   "isValid": "",
+   "prompt": "En quelle année la première paire de chaussures Croc a-t-elle honoré la planète Terre ?",
+   "unit": "",
+   "us": false,
+   "value": "2002",
+   "x": false
+  },
+  {
+   "category": "Littérature",
+   "id": "81515",
+   "isValid": "",
+   "prompt": "Combien de livres Dame Barbara Cartland, romancière prolifique, a-t-elle écrits au cours de sa vie ?",
+   "unit": "(en romans)",
+   "us": false,
+   "value": "723",
+   "x": false
+  },
+  {
+   "category": "Figures historiques",
+   "id": "81518",
+   "isValid": "",
+   "prompt": "Combien de fils la reine Elizabeth II a-t-elle eu ?",
+   "unit": "(en fils royaux)",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Jeux",
+   "id": "81519",
+   "isValid": "",
+   "prompt": "Combien y a-t-il de combinaisons de personnes, d'armes et de pièces dans une partie de [i]Cluedo[/i]",
+   "unit": "(en scénarios de meurtre possibles)",
+   "us": false,
+   "value": "324",
+   "x": false
+  },
+  {
+   "category": "Maths",
+   "id": "81520",
+   "isValid": "",
+   "prompt": "Quelle est la valeur d'un angle quelconque dans un triangle équilatéral ?",
+   "unit": "(en degrés)",
+   "us": false,
+   "value": "60",
+   "x": false
+  },
+  {
+   "category": "Figures historiques",
+   "id": "81522",
+   "isValid": "",
+   "prompt": "Quel âge avait Tenzin Gyatso lorsqu'il a été reconnu comme le 14e Dalaï Lama ?",
+   "unit": "(en années)",
+   "us": false,
+   "value": "4",
+   "x": false
+  },
+  {
+   "category": "Théâtre/Arts de la scène",
+   "id": "81523",
+   "isValid": "",
+   "prompt": "Combien de comédies musicales Rodgers & Hammerstein ont-ils écrites ensemble ?",
+   "unit": "",
+   "us": false,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Géographie & monuments",
+   "id": "81526",
+   "isValid": "",
+   "prompt": "Quelle est la capacité d'accueil du Royal Albert Hall à Londres ?",
+   "unit": "(en sièges)",
+   "us": false,
+   "value": "5272",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "81533",
+   "isValid": "",
+   "prompt": "Selon InfoCalories, combien de calories contient un poulet rôti entier de 600 grammes ?",
+   "unit": "(en calories)",
+   "us": true,
+   "value": "1236",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "81599",
+   "isValid": "",
+   "prompt": "Dans le sport du lancer de poids, la boule de métal lancée s'appelle un poids. Quel est le poids en kg d'un poids réglementaire masculin ?",
+   "unit": "(en g, arrondi)",
+   "us": true,
+   "value": "7257",
+   "x": false
+  },
+  {
+   "category": "Science & médicine",
+   "id": "81600",
+   "isValid": "",
+   "prompt": "Environ combien d'années faut-il à une peau de banane pour se décomposer complètement ?",
+   "unit": "",
+   "us": false,
+   "value": "2",
+   "x": false
+  },
+  {
+   "category": "Religion",
+   "id": "81601",
+   "isValid": "",
+   "prompt": "Réfléchissez bien : combien de thèses Martin Luther a-t-il écrites dans ses célèbres « 95 thèses » ?",
+   "unit": "",
+   "us": false,
+   "value": "95",
+   "x": false
+  },
+  {
+   "category": "Anecdote",
+   "id": "81602",
+   "isValid": "",
+   "prompt": "Combien y a-t-il de membres de la famille Belcher dans la série télévisée [i]Bob's Burgers[/i] ?",
+   "unit": "(en membres dans le dessin animé)",
+   "us": false,
+   "value": "5",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "81610",
+   "isValid": "",
+   "prompt": "What jersey number did Michael Jordan wear when he returned to the Chicago Bulls in the 1994-95 season?",
+   "unit": "",
+   "us": true,
+   "value": "45",
+   "x": false
+  },
+  {
+   "category": "Maths",
+   "id": "81614",
+   "isValid": "",
+   "prompt": "Combien y a-t-il de minutes dans une semaine ?",
+   "unit": "",
+   "us": false,
+   "value": "10080",
+   "x": false
+  },
+  {
+   "category": "Littérature",
+   "id": "81617",
+   "isValid": "",
+   "prompt": "Combien de pièces Shakespeare a-t-il écrites au cours de sa vie ?",
+   "unit": "",
+   "us": false,
+   "value": "37",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "81638",
+   "isValid": "",
+   "prompt": "Combien de jours Kim Kardashian a-t-elle été mariée à la star de la NBA Kris Humphries ?",
+   "unit": "(en... euh... jours)",
+   "us": true,
+   "value": "72",
+   "x": false
+  },
+  {
+   "category": "Littérature",
+   "id": "81653",
+   "isValid": "",
+   "prompt": "De combien de tailles le cœur du Grinch a-t-il grossi à la fin de [i]Comment le Grinch a volé Noël[/i] ?",
+   "unit": "(en tailles de coeur)",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Nourriture & boissons",
+   "id": "81654",
+   "isValid": "",
+   "prompt": "Combien y a-t-il de saveurs dans un pot de glace napolitaine ?",
+   "unit": "",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Animaux",
+   "id": "81655",
+   "isValid": "",
+   "prompt": "Combien de petits orteils mignons et précieux un chat normal a-t-il ?",
+   "unit": "(en doigts félins)",
+   "us": false,
+   "value": "18",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "81656",
+   "isValid": "",
+   "prompt": "En quelle année est née Madonna ?",
+   "unit": "",
+   "us": false,
+   "value": "1958",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "81657",
+   "isValid": "",
+   "prompt": "Dans le single à succès de Prince, à quelle année fait-il référence juste avant qu'il ne chante « party over, oops, out of time » ?",
+   "unit": "",
+   "us": false,
+   "value": "2000",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "81659",
+   "isValid": "",
+   "prompt": "Combien de « rings » (bagues) sont référencées dans le titre du single à succès d'Ariana Grande en 2019 ?",
+   "unit": "(en bagues)",
+   "us": false,
+   "value": "7",
+   "x": false
+  },
+  {
+   "category": "History",
+   "id": "81660",
+   "isValid": "",
+   "prompt": "En quelle année s'est produit le krach boursier américain connu sous le nom de \"jeudi noir\" ?",
+   "unit": "",
+   "us": true,
+   "value": "1929",
+   "x": false
+  },
+  {
+   "category": "Figures historiques",
+   "id": "81674",
+   "isValid": "",
+   "prompt": "Combien de rois de France portaient le nom de Louis ?",
+   "unit": "",
+   "us": false,
+   "value": "20",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "81676",
+   "isValid": "",
+   "prompt": "Quelle est la longueur du 100 mètres olympique en pieds ?",
+   "unit": "(en pieds)",
+   "us": false,
+   "value": "328",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "81681",
+   "isValid": "",
+   "prompt": "Combien de règles y a-t-il dans la chanson « New Rules » de Dua Lipa ?",
+   "unit": "",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Histoire",
+   "id": "81712",
+   "isValid": "",
+   "prompt": "À quel âge Cléopâtre est-elle décédée ?",
+   "unit": "(en années)",
+   "us": false,
+   "value": "39",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "81713",
+   "isValid": "",
+   "prompt": "Combien de minutes d'angoisse devez-vous endurer pendant toute la durée du film [i]Docteur Jivago[/i] ?",
+   "unit": "(en minutes de nostalgie émouvante)",
+   "us": false,
+   "value": "197",
+   "x": false
+  },
+  {
+   "category": "Marques",
+   "id": "81715",
+   "isValid": "",
+   "prompt": "Combiens de Toyota Corolla, la voiture la plus vendue au monde, ont été vendues?",
+   "unit": "(en millions d'unités)",
+   "us": true,
+   "value": "41",
+   "x": false
+  },
+  {
+   "category": "Science & médicine",
+   "id": "81719",
+   "isValid": "",
+   "prompt": "En années-lumière, à quelle distance se trouve l'étoile la plus proche de notre système solaire ?",
+   "unit": "(en années-lumières)",
+   "us": false,
+   "value": "4",
+   "x": false
+  },
+  {
+   "category": "Science & médicine",
+   "id": "81733",
+   "isValid": "",
+   "prompt": "Quelle est la fréquence la plus basse que l'oreille humaine typique peut percevoir en hertz ?",
+   "unit": "(en hertz)",
+   "us": false,
+   "value": "20",
+   "x": false
+  },
+  {
+   "category": "Célebrités",
+   "id": "81843",
+   "isValid": "",
+   "prompt": "Combien de millions de dollars Harrison Ford a-t-il été payé pour son rôle dans [i]Indiana Jones et le royaume du crâne de cristal[/i] ?",
+   "unit": "(en millions de dollars américains)",
+   "us": false,
+   "value": "65",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "81845",
+   "isValid": "",
+   "prompt": "Combien de morceaux classiques se trouvent sur l'album phare de Nickelback \"The Long Road\" ?",
+   "unit": "(en morceaux classiques intouchables)",
+   "us": false,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Cinéma & télévision",
+   "id": "81848",
+   "isValid": "",
+   "prompt": "Combien de lignes au total la mère de Stifler a-t-elle dans le script de [i]American Pie[/i] ?",
+   "unit": "",
+   "us": false,
+   "value": "8",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "81851",
+   "isValid": "",
+   "prompt": "Combien d'épisodes de [i]Plus belle la vie[/i] ont-été diffusés?",
+   "unit": "(in episodes)",
+   "us": true,
+   "value": "4667",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "82103",
+   "isValid": "",
+   "prompt": "Combien y a-t-il de touches blanches sur un piano standard à 88 touches ?",
+   "unit": "(en touches blanches)",
+   "us": false,
+   "value": "52",
+   "x": false
+  },
+  {
+   "category": "History",
+   "id": "82471",
+   "isValid": "",
+   "prompt": "In what year did the “Summer of Love” take place?",
+   "unit": "",
+   "us": true,
+   "value": "1967",
+   "x": false
+  },
+  {
+   "category": "Nourriture & boissons",
+   "id": "82476",
+   "isValid": "",
+   "prompt": "Selon l'USDA, combien de calories contient un avocat entier ?",
+   "unit": "(en calories)",
+   "us": false,
+   "value": "322",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "82478",
+   "isValid": "",
+   "prompt": "Combien y a-t-il de cordes sur une harpe à pédales standard ?",
+   "unit": "",
+   "us": false,
+   "value": "47",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "82520",
+   "isValid": "",
+   "prompt": "À quelle température l'eau bout-t-elle (en Fahrenheit) ?",
+   "unit": "(en degrés Fahrenheit)",
+   "us": true,
+   "value": "212",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "82537",
+   "isValid": "",
+   "prompt": "Combien de cartes de crédit Jeff Tuche a-t-il perdu en Amérique, aussi incroyable que ça le paraisse ?",
+   "unit": "(en nombre de carte de crédit)",
+   "us": true,
+   "value": "15",
+   "x": false
+  },
+  {
+   "category": "Musique",
+   "id": "82541",
+   "isValid": "",
+   "prompt": "Combien y avait-il de membres principaux du groupe pour enfants Kids United en 2015 ?",
+   "unit": "",
+   "us": false,
+   "value": "5",
+   "x": false
+  },
+  {
+   "category": "Pop culture",
+   "id": "82542",
+   "isValid": "",
+   "prompt": "Combien de nains de [i]Blanche-Neige[/i] ont des adjectifs comme noms ?",
+   "unit": "(dans le flim d'animation)",
+   "us": false,
+   "value": "5",
+   "x": false
+  },
+  {
+   "category": "",
+   "id": "82544",
+   "isValid": "",
+   "prompt": "Combien de carrés aux chocolats a-t-on dans une tablette au chocolat au lait Milka?",
+   "unit": "(en carrés de chocolat) ",
+   "us": true,
+   "value": "12",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "85194",
+   "isValid": "",
+   "prompt": "Combien y a-t-il de Télétubbies ?",
+   "unit": "",
+   "us": true,
+   "value": "4",
    "x": false
   }
  ]
