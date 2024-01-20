@@ -1,0 +1,508 @@
+{
+ "content" : [
+  {
+     "name" : "Lapins de poussière"
+  },
+  {
+     "name" : "Mystères associés"
+  },
+  {
+     "name" : "Pas des assassins"
+  },
+  {
+     "name" : "Débiles"
+  },
+  {
+     "name" : "Mamies"
+  },
+  {
+     "name" : "Somnambules"
+  },
+  {
+     "name" : "Bébés en liberté"
+  },
+  {
+     "name" : "Connaissances"
+  },
+  {
+     "name" : "Burger et frites"
+  },
+  {
+     "name" : "Gang des Mains Tendues"
+  },
+  {
+     "name" : "Les Wannabes"
+  },
+  {
+     "name" : " Équipe sans règles !!!"
+  },
+  {
+     "name" : "Équipe juste parfaite"
+  },
+  {
+     "name" : "Équipe Rien de spécial"
+  },
+  {
+     "name" : "Team Ahooga"
+  },
+  {
+     "name" :: "Les ennemis jurés"
+  },
+  {
+     "name" : "Créatures rampantes"
+  },
+  {
+     "name" : "Team Vengeance"
+  },
+  {
+     "name" : "Team Pellicules"
+  },
+  {
+     "name" : "Nous on s'amuse"
+  },
+  {
+     "name" : "Team Baratin"
+  },
+  {
+     "name" : "Allemands"
+  },
+  {
+     "name" : "Les Paumes Moites"
+  },
+  {
+     "name" : "Les petites princesses"
+  },
+  {
+     "name" : "2 Hot 2 Handle"
+  },
+  {
+     "name" : "Phillipe Etchebest"
+  },
+  {
+     "name" : "Boulettes de viande"
+  },
+  {
+     "name" : "Petits diables"
+  },
+  {
+     "name" : "Bons Gars"
+  },
+  {
+     "name" : "La parfaite équipe"
+  },
+  {
+     "name" : "Oiseaux incapables de voler"
+  },
+  {
+     "name" : "Petits joueurs"
+  },
+  {
+     "name" : "Team Youpi !"
+  },
+  {
+     "name" : "Avoine à l'ancienne"
+  },
+  {
+     "name" : "On abandonne"
+  },
+  {
+     "name" : "Team Musique d'ascenseur"
+  },
+  {
+     "name" : "Chats effrayés"
+  },
+  {
+     "name" : "Team Ouh La La"
+  },
+  {
+     "name" : "Pain sans fin"
+  },
+  {
+     "name" : "Bande de gogos"
+  },
+  {
+     "name" : "Team Va Va Voom"
+  },
+  {
+     "name" : "Chirurgiens du cerveau"
+  },
+  {
+     "name" : "Les Oh Non"
+  },
+  {
+     "name" : "Les téléphones Flip"
+  },
+  {
+     "name" : "Équipe Miranda"
+  },
+  {
+     "name" : "Présidents des Tubas"
+  },
+  {
+     "name" : "Flûtes à bec"
+  },
+  {
+     "name" : "Télévendeurs"
+  },
+  {
+     "name" : "Les Onion Rings"
+  },
+  {
+     "name" : "Les Hausseurs d'épaules"
+  },
+  {
+     "name" : "Team Tricheurs"
+  },
+  {
+     "name" : "Les Marguerites"
+  },
+  {
+     "name" : "Les Animaux gonflables"
+  },
+  {
+     "name" : "Pas comme les autres équipes"
+  },
+  {
+     "name" : "Les fauves"
+  },
+  {
+     "name" : "Club des meilleurs amis"
+  },
+  {
+     "name" : "Les serpents du tonnerre"
+  },
+  {
+     "name" : "Dr Funky et ses amis"
+  },
+  {
+     "name" : "Team Try Hard"
+  },
+  {
+     "name" : "Les stagiaires non rémunérés"
+  },
+  {
+     "name" : "L'équipe maléfique"
+  },
+  {
+     "name" : "Les Coquelicots"
+  },
+  {
+     "name" : "Équipe des fous"
+  },
+  {
+     "name" : "Juste des gens normaux"
+  },
+  {
+     "name" : "Les Tomates douces"
+  },
+  {
+     "name" : "Les amis de ton père"
+  },
+  {
+     "name" : "Les Billy les plus stupides"
+  },
+  {
+     "name" : "Les insectes déguisés"
+  },
+  {
+     "name" : "Les nominés sont..."
+  },
+  {
+     "name" : "Douzaine de faussaires"
+  },
+  {
+     "name" : "Plat de tortellinis"
+  },
+  {
+     "name" : "Les Bros profonds"
+  },
+  {
+     "name" : "Les méchants moustachus"
+  },
+  {
+     "name" : "Team Pocket"
+  },
+  {
+     "name" : "La troupe des amis"
+  },
+  {
+     "name" : "Les Riches"
+  },
+  {
+     "name" : "Festival du homard"
+  },
+  {
+     "name" : "Team Viande"
+  },
+  {
+     "name" : "Les Foufous des Nouilles"
+  },
+  {
+     "name" : "Les Filets de Porc"
+  },
+  {
+     "name" : "Une discussion de groupe"
+  },
+  {
+     "name" : "Les chats venimeux"
+  },
+  {
+     "name" : "Les baleines à bosse"
+  },
+  {
+     "name" : "Le club de géographie"
+  },
+  {
+     "name" : "Les copains aux beaux cheveux"
+  },
+  {
+     "name" : "Team Flunch"
+  },
+  {
+     "name" : "AUCUN GARÇON AUTORISE"
+  },
+  {
+     "name" : "Les potos !"
+  },
+  {
+     "name" : "Tolère l'autre"
+  },
+  {
+     "name" : "Les Surqualifiés"
+  },
+  {
+     "name" : "Les Anciens enfants acteurs"
+  },
+  {
+     "name" : "A fait caca le plus récemment"
+  },
+  {
+     "name" : "Une bande de NERDS"
+  },
+  {
+     "name" : "Amoureux des insectes"
+  },
+  {
+     "name" : "Nom attribué par le jeu"
+  },
+  {
+     "name" : "Les canards en liberté"
+  },
+  {
+     "name" : "U2 (Pas le groupe)"
+  },
+  {
+     "name" : "N'a pas écrit de nom"
+  },
+  {
+     "name" : "Les Managers de la Fille"
+  },
+  {
+     "name" : "On spoil les films"
+  },
+  {
+     "name" : "Les Rois du mal"
+  },
+  {
+     "name" : "FC Lorient"
+  },
+  {
+     "name" : "Quelques pommes pourries"
+  },
+  {
+     "name" : "Collecteurs de Critériums"
+  },
+  {
+     "name" : "Les Oncles"
+  },
+  {
+     "name" : "Team Monocle"
+  },
+  {
+     "name" : "Les copines de maman"
+  },
+  {
+     "name" : "Pas de grands lecteurs"
+  },
+  {
+     "name" : "Team Smartz"
+  },
+  {
+     "name" : "Cabine 347"
+  },
+  {
+     "name" : "Les Os"
+  },
+  {
+     "name" : "Ces gens culottés"
+  },
+  {
+     "name" : "Des petits plaisantins"
+  },
+  {
+     "name" : "Oublié un nom"
+  },
+  {
+     "name" : "U Up 2 Cave"
+  },
+  {
+     "name" : "Les Dames Roses"
+  },
+  {
+     "name" : "Nom générique d'équipe"
+  },
+  {
+     "name" : "Team Capybara"
+  },
+  {
+     "name" : "Soirée parents-professeurs"
+  },
+  {
+     "name" : "La belle et les bêtes"
+  },
+  {
+     "name" : "Calculatrices graphiques"
+  },
+  {
+     "name" : "100% de gens normaux"
+  },
+  {
+     "name" : "Les Crabes Combattants"
+  },
+  {
+     "name" : "Les médecins"
+  },
+  {
+     "name" : "Les gâteaux sensibles"
+  },
+  {
+     "name" : "La classe de Mme Gremlik"
+  },
+  {
+     "name" : "Team HEIN ?!"
+  },
+  {
+     "name" : "Des Pandas"
+  },
+  {
+     "name" : "Personne n'a tapé rien"
+  },
+  {
+     "name" : "Kévin et les Kévins"
+  },
+  {
+     "name" : "Toi plus Moi plus Lui"
+  },
+  {
+     "name" : "Team Beurre"
+  },
+  {
+     "name" : "Alliance des apiculteurs"
+  },
+  {
+     "name" : "Team Soupe chaude"
+  },
+  {
+     "name" : "Équipe de sondage olympique"
+  },
+  {
+     "name" : "Les Corbeaux ! AHHH !!!"
+  },
+  {
+     "name" : "Team Pâtes crues"
+  },
+  {
+     "name" : "Mouettes glorieuses"
+  },
+  {
+     "name" : "Des cascades, des bêtises"
+  },
+  {
+     "name" : "Les chouettes papounets"
+  },
+  {
+     "name" : "Les trolls des sondages"
+  },
+  {
+     "name" : "Les marionnettes interdites"
+  },
+  {
+     "name" : "Les menteurs de Brest"
+  },
+  {
+     "name" : "Les enfants secrets de la Reine"
+  },
+  {
+     "name" : "Les Musclés de la plage"
+  },
+  {
+     "name" : "Gang des Maillots"
+  },
+  {
+     "name" : "Enfants du milieu"
+  },
+  {
+     "name" : "Besoin d'un câlin"
+  },
+  {
+     "name" : "Les scouts marins"
+  },
+  {
+     "name" : "[REDACTED]"
+  },
+  {
+     "name" : "Fans de Word Spud"
+  },
+  {
+     "name" : "Hashtag Slayqueens"
+  },
+  {
+     "name" : "Les chemises froissées"
+  },
+  {
+     "name" : "Les Hybrides"
+  },
+  {
+     "name" : "Fantômes grillés"
+  },
+  {
+     "name" : "Reprise de Pearl Jam "
+  },
+  {
+     "name" : "Les Pirates attentifs"
+  },
+  {
+     "name" : "Les Prudents"
+  },
+  {
+     "name" : "Les plus belles choses"
+  },
+  {
+     "name" : "Les gens les plus bruyants"
+  },
+  {
+     "name" : "Les ornithologues branchés"
+  },
+  {
+     "name" : "Team Pizza Escargots"
+  },
+  {
+     "name" : "Les Ennemis de Papy"
+  },
+  {
+     "name" : "Champions de cuisine au chili"
+  },
+  {
+     "name" : "Armée des grands oiseaux"
+  },
+  {
+     "name" : "Tango des Mangos"
+  },
+  {
+     "name" : "Team Margarita"
+  },
+  {
+     "name" : "Les Criminels Victoriens"
+  }
+ ]
+}
