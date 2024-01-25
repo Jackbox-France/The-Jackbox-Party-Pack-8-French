@@ -634,7 +634,7 @@
          "category":"hypothetical",
          "choices":[
             "\"Je suis riche !\"",
-            "\"C'est une blague, hein ?\""
+            "\"C'est une blague, hein ?\"",
             "\"Prends mon ami à la place\"",
             "\"J'ai mémorisé ton visage\"",
             "\"Tu t'y prends mal\"",
@@ -1070,7 +1070,7 @@
          "intro":"The stakes just went from grande to venti.",
          "isValid":"",
          "outro":null,
-         "question":"Quelle café ferait le meilleur nom de bébé ?",
+         "question":"Quel café ferait le meilleur nom de bébé ?",
          "questionShort":"Meilleurs noms de bébé... goût café",
          "round":"first",
          "us":false,
@@ -1391,7 +1391,7 @@
       {
          "category":"hypothetical",
          "choices":[
-            "Des lunettes d'aviateur",
+            "Le bruit des bulles qui éclatent",
             "Un déguisement de mouton",
             "Une poubelle",
             "Trente ballons",
