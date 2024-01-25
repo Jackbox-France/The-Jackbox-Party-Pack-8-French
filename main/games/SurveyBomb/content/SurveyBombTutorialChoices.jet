@@ -3,7 +3,7 @@
       {
          "prompt":"Votre formule de politesse préférée",
          "choices":[
-            "Accolade chaleureuse",
+            "Accolade",
             "Poignée de main",
             "Tope-là",
             "Hochement de tête",
@@ -103,7 +103,7 @@
       {
          "prompt":"Les capitaines les plus héroïques",
          "choices":[
-            "Capitaine America",
+            "Cap'tain America",
             "Capitaine Marvel",
             "Capitaine Kirk",
             "Capitaine Planète",
@@ -117,7 +117,7 @@
             "Batailles de tartes",
             "Memes bizarres",
             "Singeries de chats",
-            "Jeux de mots sur les grottes"
+            "Jeux de mots"
          ]
       },
       {
