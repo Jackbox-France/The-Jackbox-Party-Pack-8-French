@@ -117,7 +117,7 @@
   {
    "id": "80701",
    "isValid": "",
-   "prompt": "prends un {{BLANK}}.",
+   "prompt": "Prends un {{BLANK}}.",
    "x": false
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "80703",
    "isValid": "",
-   "prompt": "Demande pour {{BLANK}}.",
+   "prompt": "Demande {{BLANK}}.",
    "x": false
   },
   {
@@ -393,7 +393,7 @@
   {
    "id": "83388",
    "isValid": "",
-   "prompt": "reste {{BLANK}}.",
+   "prompt": "Reste {{BLANK}}.",
    "x": false
   },
   {
@@ -423,7 +423,7 @@
   {
    "id": "83395",
    "isValid": "",
-   "prompt": "Vas le plus {{BLANK}}.",
+   "prompt": "Va le plus {{BLANK}}.",
    "x": false
   },
   {
@@ -453,7 +453,7 @@
   {
    "id": "84038",
    "isValid": "",
-   "prompt": "{{BLANK}} est pour les ferme portes.",
+   "prompt": "{{BLANK}} c'est pou les autres.",
    "x": false
   },
   {
@@ -501,7 +501,7 @@
   {
    "id": "84165",
    "isValid": "",
-   "prompt": "Ne les laisse jamais te voir {{BLANK}}.",
+   "prompt": "Ne les laisse jamais voir ton {{BLANK}}.",
    "x": false
   },
   {
@@ -537,7 +537,7 @@
   {
    "id": "84190",
    "isValid": "",
-   "prompt": "Pret, feu, {{BLANK}}!",
+   "prompt": "A vos marques, prêts, {{BLANK}} !",
    "x": false
   },
   {
@@ -561,7 +561,7 @@
   {
    "id": "84341",
    "isValid": "",
-   "prompt": "Travaille dur. {{BLANK}} grand.",
+   "prompt": "Travaille dur. Grand {{BLANK}}.",
    "x": false
   },
   {
@@ -591,7 +591,7 @@
   {
    "id": "84847",
    "isValid": "",
-   "prompt": "Les Actions font plus de bruit que {{BLANK}}.",
+   "prompt": "Les actions font plus de bruit que {{BLANK}}.",
    "x": false
   },
   {
@@ -609,13 +609,13 @@
   {
    "id": "84853",
    "isValid": "",
-   "prompt": " Construis un meilleur {{BLANK}}.",
+   "prompt": "Construis un meilleur {{BLANK}}.",
    "x": false
   },
   {
    "id": "84857",
    "isValid": "",
-   "prompt": "{{BLANK}} est un état de l'esprit.",
+   "prompt": "{{BLANK}} est un état d'esprit.",
    "x": false
   },
   {

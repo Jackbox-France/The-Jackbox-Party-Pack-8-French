@@ -1,7 +1,7 @@
 {
  "content": [
   {
-   "altText": "mongolfières",
+   "altText": "montgolfières",
    "id": "86132",
    "isValid": "",
    "x": false
@@ -25,7 +25,7 @@
    "x": false
   },
   {
-   "altText": "personne avec poing en l'air devant le coucher du soleil",
+   "altText": "personne avec un poing en l'air devant le coucher du soleil",
    "id": "86136",
    "isValid": "",
    "x": false
@@ -37,7 +37,7 @@
    "x": false
   },
   {
-   "altText": "chien dans une serviette avec des concombres dans les yeux",
+   "altText": "chien dans une serviette avec des concombres sur les yeux",
    "id": "86138",
    "isValid": "",
    "x": false
@@ -139,13 +139,13 @@
    "x": false
   },
   {
-   "altText": "basket tappant de la terre",
+   "altText": "basket tapant de la terre",
    "id": "86155",
    "isValid": "",
    "x": false
   },
   {
-   "altText": "mains tenant uen plante de semis",
+   "altText": "mains tenant une plante en germe",
    "id": "86156",
    "isValid": "",
    "x": false
@@ -193,7 +193,7 @@
    "x": false
   },
   {
-   "altText": "backstage lighted mirror and table",
+   "altText": "miroir et table éclairés en coulisses",
    "id": "86167",
    "isValid": "",
    "x": false
@@ -271,7 +271,7 @@
    "x": false
   },
   {
-   "altText": "chien regardant des photos de chiens sur l'ordinateur",
+   "altText": "chien regardant des photos de chiens sur un ordinateur",
    "id": "86231",
    "isValid": "",
    "x": false
@@ -403,13 +403,13 @@
    "x": false
   },
   {
-   "altText": "club de golf avec une ball sur le tee",
+   "altText": "club de golf avec une balle sur le tee",
    "id": "86253",
    "isValid": "",
    "x": false
   },
   {
-   "altText": "danseur avec un chapeau de quilleur",
+   "altText": "danseur avec un chapeau",
    "id": "86254",
    "isValid": "",
    "x": false
@@ -511,7 +511,7 @@
    "x": false
   },
   {
-   "altText": "pion d'échecs se reflétant dasn un miroir en reine",
+   "altText": "pion d'échecs se reflétant dans un miroir en reine",
    "id": "86271",
    "isValid": "",
    "x": false
@@ -601,7 +601,7 @@
    "x": false
   },
   {
-   "altText": "businessman pushing another business like superman on a rolling chair",
+   "altText": "un employé poussant un autre employé sur une chaise faisant super-man",
    "id": "86792",
    "isValid": "",
    "x": false
@@ -613,7 +613,7 @@
    "x": false
   },
   {
-   "altText": "hand stroking a horse’s nose",
+   "altText": "main caresssant le nez d'un cheval",
    "id": "86794",
    "isValid": "",
    "x": false
@@ -649,7 +649,7 @@
    "x": false
   },
   {
-   "altText": "jouet dinosaure peignant un petit chevalet",
+   "altText": "jouet dinosaure peignant sur un petit chevalet",
    "id": "86800",
    "isValid": "",
    "x": false
@@ -691,7 +691,7 @@
    "x": false
   },
   {
-   "altText": "centaure homme d'affaires sur une montagne",
+   "altText": "homme d'affaires - centaure sur une montagne",
    "id": "86807",
    "isValid": "",
    "x": false

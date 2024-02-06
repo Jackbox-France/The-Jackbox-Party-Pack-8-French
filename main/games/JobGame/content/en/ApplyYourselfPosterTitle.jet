@@ -57,7 +57,7 @@
   {
    "id": "80621",
    "isValid": "",
-   "title": "direction",
+   "title": "Direction",
    "x": false
   },
   {
@@ -147,7 +147,7 @@
   {
    "id": "80636",
    "isValid": "",
-   "title": "Changeur de jeu",
+   "title": "Changements",
    "x": false
   },
   {
@@ -669,7 +669,7 @@
   {
    "id": "83923",
    "isValid": "",
-   "title": "pleine conscience",
+   "title": "Pleine conscience",
    "x": false
   },
   {
@@ -1023,7 +1023,7 @@
   {
    "id": "84927",
    "isValid": "",
-   "title": "travail chargé",
+   "title": "Travail chargé",
    "x": false
   },
   {
