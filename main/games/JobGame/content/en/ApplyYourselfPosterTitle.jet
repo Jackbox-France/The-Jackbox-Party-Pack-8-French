@@ -3,13 +3,13 @@
   {
    "id": "80612",
    "isValid": "",
-   "title": "Determination",
+   "title": "Détermination",
    "x": false
   },
   {
    "id": "80613",
    "isValid": "",
-   "title": "Loyalty",
+   "title": "Loyauté",
    "x": false
   },
   {
@@ -27,7 +27,7 @@
   {
    "id": "80616",
    "isValid": "",
-   "title": "Tenacity",
+   "title": "Tenacité",
    "x": false
   },
   {
@@ -39,79 +39,79 @@
   {
    "id": "80618",
    "isValid": "",
-   "title": "Dedication",
+   "title": "Dédication",
    "x": false
   },
   {
    "id": "80619",
    "isValid": "",
-   "title": "Synergy",
+   "title": "Synergie",
    "x": false
   },
   {
    "id": "80620",
    "isValid": "",
-   "title": "Logistics",
+   "title": "Logistiques",
    "x": false
   },
   {
    "id": "80621",
    "isValid": "",
-   "title": "Leadership",
+   "title": "direction",
    "x": false
   },
   {
    "id": "80622",
    "isValid": "",
-   "title": "Community",
+   "title": "Communauté",
    "x": false
   },
   {
    "id": "80623",
    "isValid": "",
-   "title": "Potential",
+   "title": "Potentiel",
    "x": false
   },
   {
    "id": "80624",
    "isValid": "",
-   "title": "Drive",
+   "title": "Conduire",
    "x": false
   },
   {
    "id": "80625",
    "isValid": "",
-   "title": "Competency",
+   "title": "Compétence",
    "x": false
   },
   {
    "id": "80626",
    "isValid": "",
-   "title": "Trajectory",
+   "title": "Trajectoire",
    "x": false
   },
   {
    "id": "80627",
    "isValid": "",
-   "title": "Bandwidth",
+   "title": "Bande passante",
    "x": false
   },
   {
    "id": "80628",
    "isValid": "",
-   "title": "Leverage",
+   "title": "Effet de levier",
    "x": false
   },
   {
    "id": "80629",
    "isValid": "",
-   "title": "Disruptor",
+   "title": "Perturbateur",
    "x": false
   },
   {
    "id": "80630",
    "isValid": "",
-   "title": "Influencer",
+   "title": "Influenceur",
    "x": false
   },
   {
@@ -123,13 +123,13 @@
   {
    "id": "80632",
    "isValid": "",
-   "title": "Strategy",
+   "title": "Stratégie",
    "x": false
   },
   {
    "id": "80633",
    "isValid": "",
-   "title": "Efficiency",
+   "title": "Efficacité",
    "x": false
   },
   {
@@ -141,25 +141,25 @@
   {
    "id": "80635",
    "isValid": "",
-   "title": "Comprehension",
+   "title": "Compréhension",
    "x": false
   },
   {
    "id": "80636",
    "isValid": "",
-   "title": "Game-Changer",
+   "title": "Changeur de jeu",
    "x": false
   },
   {
    "id": "80637",
    "isValid": "",
-   "title": "Creativity",
+   "title": "Creativité",
    "x": false
   },
   {
    "id": "80638",
    "isValid": "",
-   "title": "Mistakes",
+   "title": "Erreurs",
    "x": false
   },
   {
@@ -177,25 +177,25 @@
   {
    "id": "80641",
    "isValid": "",
-   "title": "Teamwork",
+   "title": "Travail d'équipe",
    "x": false
   },
   {
    "id": "80642",
    "isValid": "",
-   "title": "Dream",
+   "title": "Rêve",
    "x": false
   },
   {
    "id": "80643",
    "isValid": "",
-   "title": "Believe",
+   "title": "Crois",
    "x": false
   },
   {
    "id": "80644",
    "isValid": "",
-   "title": "Succeed",
+   "title": "Réussis",
    "x": false
   },
   {
@@ -225,61 +225,61 @@
   {
    "id": "80649",
    "isValid": "",
-   "title": "Hustle",
+   "title": "Agitation",
    "x": false
   },
   {
    "id": "80650",
    "isValid": "",
-   "title": "Execution",
+   "title": "Exécution",
    "x": false
   },
   {
    "id": "80651",
    "isValid": "",
-   "title": "Decisions",
+   "title": "Décisions",
    "x": false
   },
   {
    "id": "80652",
    "isValid": "",
-   "title": "Now",
+   "title": "Maintenant",
    "x": false
   },
   {
    "id": "80653",
    "isValid": "",
-   "title": "Tomorrow",
+   "title": "Demain",
    "x": false
   },
   {
    "id": "80654",
    "isValid": "",
-   "title": "Success",
+   "title": "Succès",
    "x": false
   },
   {
    "id": "80655",
    "isValid": "",
-   "title": "Organization",
+   "title": "Organisation",
    "x": false
   },
   {
    "id": "80656",
    "isValid": "",
-   "title": "Circling Back",
+   "title": "Faire demi-tour",
    "x": false
   },
   {
    "id": "80657",
    "isValid": "",
-   "title": "Touching Base",
+   "title": "Toucher la base",
    "x": false
   },
   {
    "id": "80658",
    "isValid": "",
-   "title": "Empowerment",
+   "title": "Autonomisation",
    "x": false
   },
   {
@@ -291,13 +291,13 @@
   {
    "id": "80660",
    "isValid": "",
-   "title": "Cooperation",
+   "title": "Coopération",
    "x": false
   },
   {
    "id": "80661",
    "isValid": "",
-   "title": "Journey",
+   "title": "Voyage",
    "x": false
   },
   {
@@ -309,25 +309,25 @@
   {
    "id": "80663",
    "isValid": "",
-   "title": "Core Values",
+   "title": "Valeurs de base",
    "x": false
   },
   {
    "id": "80665",
    "isValid": "",
-   "title": "Incentive",
+   "title": "Incitation",
    "x": false
   },
   {
    "id": "80667",
    "isValid": "",
-   "title": "Content",
+   "title": "Contenu",
    "x": false
   },
   {
    "id": "80668",
    "isValid": "",
-   "title": "Cloud",
+   "title": "Nuage",
    "x": false
   },
   {
@@ -339,7 +339,7 @@
   {
    "id": "80670",
    "isValid": "",
-   "title": "Paradigm",
+   "title": "Paradigme",
    "x": false
   },
   {
@@ -351,7 +351,7 @@
   {
    "id": "80672",
    "isValid": "",
-   "title": "Learning",
+   "title": "Apprentissage",
    "x": false
   },
   {
@@ -363,7 +363,7 @@
   {
    "id": "80674",
    "isValid": "",
-   "title": "Responsibility",
+   "title": "Responsabilité",
    "x": false
   },
   {
@@ -381,7 +381,7 @@
   {
    "id": "80677",
    "isValid": "",
-   "title": "People",
+   "title": "Personnes",
    "x": false
   },
   {
@@ -393,7 +393,7 @@
   {
    "id": "80679",
    "isValid": "",
-   "title": "Failure",
+   "title": "Les échecs",
    "x": false
   },
   {
@@ -405,25 +405,25 @@
   {
    "id": "80681",
    "isValid": "",
-   "title": "Optimism",
+   "title": "Optimisme",
    "x": false
   },
   {
    "id": "82627",
    "isValid": "",
-   "title": "Temperance",
+   "title": "Tempérance",
    "x": false
   },
   {
    "id": "82628",
    "isValid": "",
-   "title": "Spirit",
+   "title": "Esprit",
    "x": false
   },
   {
    "id": "82629",
    "isValid": "",
-   "title": "Productivity",
+   "title": "Productivité",
    "x": false
   },
   {
@@ -441,55 +441,55 @@
   {
    "id": "82633",
    "isValid": "",
-   "title": "Strength",
+   "title": "Force",
    "x": false
   },
   {
    "id": "82634",
    "isValid": "",
-   "title": "Hunger",
+   "title": "Faim",
    "x": false
   },
   {
    "id": "82816",
    "isValid": "",
-   "title": "Competition",
+   "title": "Compétition",
    "x": false
   },
   {
    "id": "82817",
    "isValid": "",
-   "title": "Ingenuity",
+   "title": "Ingeniosité",
    "x": false
   },
   {
    "id": "82818",
    "isValid": "",
-   "title": "Focus",
+   "title": "Concentration",
    "x": false
   },
   {
    "id": "82819",
    "isValid": "",
-   "title": "Perseverance",
+   "title": "Persévérance",
    "x": false
   },
   {
    "id": "82820",
    "isValid": "",
-   "title": "Pride",
+   "title": "Fierté",
    "x": false
   },
   {
    "id": "82821",
    "isValid": "",
-   "title": "Empathy",
+   "title": "Empathie",
    "x": false
   },
   {
    "id": "82822",
    "isValid": "",
-   "title": "Accountability",
+   "title": "Responsabilité",
    "x": false
   },
   {
@@ -501,7 +501,7 @@
   {
    "id": "82824",
    "isValid": "",
-   "title": "Fairness",
+   "title": "Justice",
    "x": false
   },
   {
@@ -513,31 +513,31 @@
   {
    "id": "82826",
    "isValid": "",
-   "title": "Honesty",
+   "title": "Honêteté",
    "x": false
   },
   {
    "id": "82873",
    "isValid": "",
-   "title": "Care",
+   "title": "Attention",
    "x": false
   },
   {
    "id": "82874",
    "isValid": "",
-   "title": "Sympathy",
+   "title": "Sympathie",
    "x": false
   },
   {
    "id": "82875",
    "isValid": "",
-   "title": "Preparedness",
+   "title": "Préparation",
    "x": false
   },
   {
    "id": "82876",
    "isValid": "",
-   "title": "Fun",
+   "title": "Amusement",
    "x": false
   },
   {
@@ -549,19 +549,19 @@
   {
    "id": "82879",
    "isValid": "",
-   "title": "Temerity",
+   "title": "Temerité",
    "x": false
   },
   {
    "id": "82880",
    "isValid": "",
-   "title": "Audacity",
+   "title": "Audace",
    "x": false
   },
   {
    "id": "82881",
    "isValid": "",
-   "title": "Personality",
+   "title": "Personalité",
    "x": false
   },
   {
@@ -597,25 +597,25 @@
   {
    "id": "83373",
    "isValid": "",
-   "title": "Devotion",
+   "title": "Dévotion",
    "x": false
   },
   {
    "id": "83374",
    "isValid": "",
-   "title": "Cunning",
+   "title": "Ruse",
    "x": false
   },
   {
    "id": "83375",
    "isValid": "",
-   "title": "Uniqueness",
+   "title": "Unicité",
    "x": false
   },
   {
    "id": "83376",
    "isValid": "",
-   "title": "Self-Awareness",
+   "title": "Connaissance de soi",
    "x": false
   },
   {
@@ -627,25 +627,25 @@
   {
    "id": "83378",
    "isValid": "",
-   "title": "Integrity",
+   "title": "Integrité",
    "x": false
   },
   {
    "id": "83379",
    "isValid": "",
-   "title": "Honor",
+   "title": "Honneur",
    "x": false
   },
   {
    "id": "83380",
    "isValid": "",
-   "title": "Confidence",
+   "title": "Confiance",
    "x": false
   },
   {
    "id": "83381",
    "isValid": "",
-   "title": "Transparency",
+   "title": "Transparence",
    "x": false
   },
   {
@@ -657,157 +657,157 @@
   {
    "id": "83919",
    "isValid": "",
-   "title": "Faith",
+   "title": "Foi",
    "x": false
   },
   {
    "id": "83920",
    "isValid": "",
-   "title": "Peace",
+   "title": "Paix",
    "x": false
   },
   {
    "id": "83923",
    "isValid": "",
-   "title": "Mindfulness",
+   "title": "pleine conscience",
    "x": false
   },
   {
    "id": "83924",
    "isValid": "",
-   "title": "Curiosity",
+   "title": "Curiosité",
    "x": false
   },
   {
    "id": "83926",
    "isValid": "",
-   "title": "Dynamic",
+   "title": "Dynamique",
    "x": false
   },
   {
    "id": "83928",
    "isValid": "",
-   "title": "The Unknown",
+   "title": "L'inconnu",
    "x": false
   },
   {
    "id": "83929",
    "isValid": "",
-   "title": "Mystery",
+   "title": "Mystère",
    "x": false
   },
   {
    "id": "84021",
    "isValid": "",
-   "title": "Expectations",
+   "title": "Attente",
    "x": false
   },
   {
    "id": "84023",
    "isValid": "",
-   "title": "Enthusiasm",
+   "title": "Entousiasme",
    "x": false
   },
   {
    "id": "84024",
    "isValid": "",
-   "title": "Fierceness",
+   "title": "Férocité",
    "x": false
   },
   {
    "id": "84025",
    "isValid": "",
-   "title": "Resilience",
+   "title": "Résilience",
    "x": false
   },
   {
    "id": "84027",
    "isValid": "",
-   "title": "Think",
+   "title": "Penser",
    "x": false
   },
   {
    "id": "84028",
    "isValid": "",
-   "title": "Family",
+   "title": "Famille",
    "x": false
   },
   {
    "id": "84029",
    "isValid": "",
-   "title": "Sustainability",
+   "title": "Durabilité",
    "x": false
   },
   {
    "id": "84032",
    "isValid": "",
-   "title": "Simplicity",
+   "title": "Simplicité",
    "x": false
   },
   {
    "id": "84034",
    "isValid": "",
-   "title": "Knowledge",
+   "title": "Connaissance",
    "x": false
   },
   {
    "id": "84134",
    "isValid": "",
-   "title": "Serenity",
+   "title": "Sérénité",
    "x": false
   },
   {
    "id": "84136",
    "isValid": "",
-   "title": "Challenge",
+   "title": "Défi",
    "x": false
   },
   {
    "id": "84140",
    "isValid": "",
-   "title": "Authority",
+   "title": "Autorité",
    "x": false
   },
   {
    "id": "84144",
    "isValid": "",
-   "title": "Growth",
+   "title": "Croissance",
    "x": false
   },
   {
    "id": "84147",
    "isValid": "",
-   "title": "Mastery",
+   "title": "Maitrise",
    "x": false
   },
   {
    "id": "84149",
    "isValid": "",
-   "title": "Multitasking",
+   "title": "Multitache",
    "x": false
   },
   {
    "id": "84151",
    "isValid": "",
-   "title": "Fortitude",
+   "title": "Fermeté",
    "x": false
   },
   {
    "id": "84153",
    "isValid": "",
-   "title": "Assertiveness",
+   "title": "Assurance",
    "x": false
   },
   {
    "id": "84154",
    "isValid": "",
-   "title": "Results",
+   "title": "Resultats",
    "x": false
   },
   {
    "id": "84156",
    "isValid": "",
-   "title": "Quality",
+   "title": "Qualité",
    "x": false
   },
   {
@@ -819,91 +819,91 @@
   {
    "id": "84158",
    "isValid": "",
-   "title": "Experience",
+   "title": "Expérience",
    "x": false
   },
   {
    "id": "84159",
    "isValid": "",
-   "title": "Control",
+   "title": "Contrôle",
    "x": false
   },
   {
    "id": "84160",
    "isValid": "",
-   "title": "Boldness",
+   "title": "Audace",
    "x": false
   },
   {
    "id": "84161",
    "isValid": "",
-   "title": "Readiness",
+   "title": "Préparation",
    "x": false
   },
   {
    "id": "84164",
    "isValid": "",
-   "title": "Brilliance",
+   "title": "Eclat",
    "x": false
   },
   {
    "id": "84305",
    "isValid": "",
-   "title": "Risk-Taking",
+   "title": "Prise de risques",
    "x": false
   },
   {
    "id": "84307",
    "isValid": "",
-   "title": "Commitment",
+   "title": "Engagement",
    "x": false
   },
   {
    "id": "84314",
    "isValid": "",
-   "title": "Self-Reliance",
+   "title": "autonomie",
    "x": false
   },
   {
    "id": "84315",
    "isValid": "",
-   "title": "Reliability",
+   "title": "Fiabilité",
    "x": false
   },
   {
    "id": "84317",
    "isValid": "",
-   "title": "Humility",
+   "title": "Humilité",
    "x": false
   },
   {
    "id": "84320",
    "isValid": "",
-   "title": "Thoughtfulness",
+   "title": "Prévenance",
    "x": false
   },
   {
    "id": "84322",
    "isValid": "",
-   "title": "Fearlessness",
+   "title": "Intrépidité",
    "x": false
   },
   {
    "id": "84323",
    "isValid": "",
-   "title": "Bravery",
+   "title": "Bravoure",
    "x": false
   },
   {
    "id": "84324",
    "isValid": "",
-   "title": "Positivity",
+   "title": "Positivité",
    "x": false
   },
   {
    "id": "84814",
    "isValid": "",
-   "title": "Resourcefulness",
+   "title": "Ingéniosité",
    "x": false
   },
   {
@@ -915,79 +915,79 @@
   {
    "id": "84816",
    "isValid": "",
-   "title": "Kindness",
+   "title": "Gentillesse",
    "x": false
   },
   {
    "id": "84817",
    "isValid": "",
-   "title": "Generosity",
+   "title": "Générosité",
    "x": false
   },
   {
    "id": "84818",
    "isValid": "",
-   "title": "Authenticity",
+   "title": "Authenticité",
    "x": false
   },
   {
    "id": "84819",
    "isValid": "",
-   "title": "Progress",
+   "title": "Progrès",
    "x": false
   },
   {
    "id": "84821",
    "isValid": "",
-   "title": "Wisdom",
+   "title": "Sagesse",
    "x": false
   },
   {
    "id": "84823",
    "isValid": "",
-   "title": "Goals",
+   "title": "Buts",
    "x": false
   },
   {
    "id": "84825",
    "isValid": "",
-   "title": "Adaptability",
+   "title": "Adaptabilité",
    "x": false
   },
   {
    "id": "84826",
    "isValid": "",
-   "title": "Persuasiveness",
+   "title": "Force de persuasion",
    "x": false
   },
   {
    "id": "84828",
    "isValid": "",
-   "title": "Credibility",
+   "title": "Crédibilité",
    "x": false
   },
   {
    "id": "84830",
    "isValid": "",
-   "title": "Trust",
+   "title": "Confiance",
    "x": false
   },
   {
    "id": "84831",
    "isValid": "",
-   "title": "Dependability",
+   "title": "Fiabilité",
    "x": false
   },
   {
    "id": "84833",
    "isValid": "",
-   "title": "Accuracy",
+   "title": "Précision",
    "x": false
   },
   {
    "id": "84834",
    "isValid": "",
-   "title": "Precision",
+   "title": "Précision",
    "x": false
   },
   {
@@ -999,43 +999,43 @@
   {
    "id": "84838",
    "isValid": "",
-   "title": "Negotiation",
+   "title": "Négociation",
    "x": false
   },
   {
    "id": "84858",
    "isValid": "",
-   "title": "Consistency",
+   "title": "Cohérence",
    "x": false
   },
   {
    "id": "84861",
    "isValid": "",
-   "title": "Practicality",
+   "title": "Aspect pratique",
    "x": false
   },
   {
    "id": "84865",
    "isValid": "",
-   "title": "Versatility",
+   "title": "Versatilité",
    "x": false
   },
   {
    "id": "84927",
    "isValid": "",
-   "title": "Busy Work",
+   "title": "travail chargé",
    "x": false
   },
   {
    "id": "84928",
    "isValid": "",
-   "title": "Professionalism",
+   "title": "Professionalisme",
    "x": false
   },
   {
    "id": "84932",
    "isValid": "",
-   "title": "Consequences",
+   "title": "Conséquences",
    "x": false
   }
  ]
