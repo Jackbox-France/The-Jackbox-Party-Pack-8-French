@@ -1,0 +1,48 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "Avec cette question, le village s'endort..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Lesquels de ces rôles existent vraiment dans la version officielle des ''Loup-garous de Thiercelieux'' (extensions comprises) ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Les loups peuvent se réveiller maintenant... et ils vont répondre à cette question !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "J'ai tenté de mélanger cette émission avec les loups-garous de Thiercelieux. Pire idée que j'ai pu avoir. J'ai dû nettoyer pendant 3 heures le massacre, malgré le fait que je suis UNE ROUE !"
+  }
+ ]
+}
