@@ -1,0 +1,47 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "En années-lumière, à quelle distance se trouve l'étoile la plus proche de notre système solaire ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Si cela peut vous aider, cette étoile est Proxima Centauri. Si cela ne vous aide pas, nous avons beaucoup d'autres questions sur les animaux et les sitcoms."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "4,25 années-lumière pour être exact ! Je vais passer un week-end là bas dans pas longtemps. Quelqu'un aura besoin de quelque chose de Neptune pendant que j'y serais ?"
+  }
+ ]
+}
