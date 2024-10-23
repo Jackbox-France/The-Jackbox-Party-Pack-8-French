@@ -550,7 +550,7 @@
     },
     {
      "match": "Chambre",
-     "text": "[i]Clue[/i]"
+     "text": "[i]Cluedo[/i]"
     },
     {
      "match": "Développement",
@@ -607,7 +607,7 @@
      "text": "Paloma"
     },
     {
-     "match": "vie",
+     "match": "Vin",
      "text": "Sangria"
     },
     {
@@ -700,14 +700,14 @@
    "answers": [
     {
      "match": "Lex Luthor",
-     "text": "[i]Batman v Superman/i]"
+     "text": "[i]Batman v Superman[/i]"
     },
     {
      "match": "Hakû",
      "text": "[i]Le Voyage de Chihiro[/i]"
     },
     {
-     "match": "“Kamek”",
+     "match": "Kamek",
      "text": "[i]Super Mario Bros : le film[/i]"
     },
     {
@@ -741,7 +741,7 @@
    ],
    "id": "76866",
    "isValid": "",
-   "prompt": "Associez le personnage qu'a doublé Donal Reignoux à son jeu, film ou dessin animé",
+   "prompt": "Associez le personnage qu'a doublé Donald Reignoux à son jeu, film ou dessin animé",
    "promptHeader": "Qu'a doublé Donald Reignoux là-dedans encore ?",
    "us": true,
    "x": false
@@ -1075,8 +1075,8 @@
      "text": "Un goût de légende"
     },
     {
-     "match": "Arrêtez de bouffer des burgers, mangez des Hamburgés !",
-     "text": "Big Fernand"
+     "match": "Big Fernand",
+     "text": "Arrêtez de bouffer des burgers, mangez des Hamburgés !"
     },
     {
      "match": "Mezzo di Pasta",
@@ -1259,7 +1259,7 @@
    ],
    "id": "77231",
    "isValid": "",
-   "prompt": "Associez la nation à la langue",
+   "prompt": "Associez la nation à sa langue",
    "promptHeader": "Langues officielles",
    "us": false,
    "x": false
@@ -1495,8 +1495,8 @@
   {
    "answers": [
     {
-     "match": "Dennis Rodman",
-     "text": "Michael Jordan"
+     "match": "Lewis Hamilton",
+     "text": "Nico Rosberg"
     },
     {
      "match": "Ronaldo",
@@ -1507,8 +1507,8 @@
      "text": "Troy Aikman"
     },
     {
-     "match": "Dwyane Wade",
-     "text": "LeBron James"
+     "match": "Floyd Mayweather",
+     "text": "Joe Frazier"
     },
     {
      "match": "Mark Messier",
@@ -1519,16 +1519,16 @@
      "text": "Shaquille O'Neil"
     },
     {
-     "match": "Neymar",
-     "text": "Lionel Messi"
+     "match": "Daniel Cormier",
+     "text": "Alistair Overeem"
     },
     {
-     "match": "Abby Wambach",
-     "text": "Megan Rapinoe"
+     "match": "Hermann Maier",
+     "text": "Shane Mc Conkey"
     },
     {
-     "match": "Kareem Abdul-Jabbar",
-     "text": "Magic Johnson"
+     "match": "Tiger Woods",
+     "text": "Jack Nicklaus"
     },
     {
      "match": "Venus Williams",
@@ -1547,14 +1547,14 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Coéquipiers (Colonne B)",
-     "text": "Coéquipiers (Colonne A)"
+     "match": "Sportif (Colonne B)",
+     "text": "Sportif (Colonne A)"
     }
    ],
    "id": "77660",
    "isValid": "",
-   "prompt": "Associez les coéquipiers ensemble.",
-   "promptHeader": "Teammates!",
+   "prompt": "Associez les personnes faisant le même sport.",
+   "promptHeader": "On est ensemble!",
    "us": true,
    "x": false
   },
@@ -1743,7 +1743,7 @@
    ],
    "id": "78012",
    "isValid": "",
-   "prompt": "Faire correspondre l'univers à son langage fictif",
+   "prompt": "Associez l'univers à son langage fictif",
    "promptHeader": "Langages fictifs",
    "us": false,
    "x": false
@@ -2692,7 +2692,7 @@
    "id": "78420",
    "isValid": "",
    "prompt": "Associez l'actrice au film",
-   "promptHeader": "Principales dames des comédies romantiques",
+   "promptHeader": "Dames principales des comédies romantiques",
    "us": false,
    "x": false
   },
@@ -2990,7 +2990,7 @@
     },
     {
      "match": "Pierogi",
-     "text": "Poland"
+     "text": "Pologne"
     },
     {
      "match": "Jiaozi",
@@ -3043,7 +3043,7 @@
   {
    "answers": [
     {
-     "match": "California",
+     "match": "Californie",
      "text": "Yosemite"
     },
     {
@@ -3063,7 +3063,7 @@
      "text": "Arches"
     },
     {
-     "match": "South Dakota",
+     "match": "Dakota du Sud",
      "text": "Badlands"
     },
     {
@@ -3071,7 +3071,7 @@
      "text": "Crater Lake"
     },
     {
-     "match": "Florida",
+     "match": "Floride",
      "text": "Everglades"
     },
     {
@@ -3102,11 +3102,11 @@
    "answers": [
     {
      "match": "Épicerie",
-     "text": "Ralphs"
+     "text": "Lidl"
     },
     {
-     "match": "Équipements de sport",
-     "text": "Dick's"
+     "match": "Équipement sportif",
+     "text": "Decathlon"
     },
     {
      "match": "Café et donuts",
@@ -3122,23 +3122,23 @@
     },
     {
      "match": "Sandwiches",
-     "text": "Jimmy John's"
+     "text": "Sodebo"
     },
     {
      "match": "Liqueur",
-     "text": "Johnnie Walker"
+     "text": "Cointreau"
     },
     {
      "match": "Jeans",
      "text": "Levi's"
     },
     {
-     "match": "Papier toilette en vrac",
-     "text": "Sam's"
+     "match": "Papier toilettes",
+     "text": "Lotus"
     },
     {
      "match": "Déodorants",
-     "text": "Tom's"
+     "text": "Narta"
     }
    ],
    "category": "Noms",
@@ -3151,8 +3151,8 @@
    ],
    "id": "78516",
    "isValid": "",
-   "prompt": "Faire correspondre l'entreprise à son produit",
-   "promptHeader": "Juste quelques mecs et leurs trucs",
+   "prompt": "Associez la marque à son produit",
+   "promptHeader": "Quelques petites marques",
    "us": false,
    "x": false
   },
@@ -3638,7 +3638,7 @@
     },
     {
      "match": "Des types en 3500 avant J.C.",
-     "text": "La roue (alias, le genre ennuyeux et ordinaire)"
+     "text": "La roue (du type ennuyeux et ordinaire)"
     }
    ],
    "category": "Technologie",
@@ -3923,7 +3923,7 @@
      "text": "Steve McGarrett, [i]Hawaii 5-0[/i]"
     },
     {
-     "match": "J'ai fais une grosse erreur.",
+     "match": "J'ai fait une grosse erreur.",
      "text": "G.O.B. Bluth, [i]Arrested Development[/i]"
     },
     {
@@ -4081,7 +4081,7 @@
    ],
    "id": "78756",
    "isValid": "",
-   "prompt": "Associez le guitariste à son groupe groupe",
+   "prompt": "Associez le guitariste à son groupe",
    "promptHeader": "Dieux de la guitare et avec qui ils rockent",
    "us": false,
    "x": false
@@ -4449,36 +4449,36 @@
   {
    "answers": [
     {
-     "match": "BATMAN: The Ride",
-     "text": "Six Flags Great America"
+     "match": "Goudurix",
+     "text": "Parc Astérix"
     },
     {
-     "match": "Mission: SPACE",
-     "text": "Epcot"
+     "match": "King of Mississippi",
+     "text": "Nigloland"
     },
     {
-     "match": "Tennessee Tornado",
-     "text": "Dollywood"
+     "match": "Miølnyr",
+     "text": "Festyland"
     },
     {
-     "match": "Revenge of the Mummy",
-     "text": "Universal Studios Florida"
+     "match": "Font-Rognou",
+     "text": "Puy du Fou"
     },
     {
-     "match": "Arthur",
-     "text": "Europa-Park"
+     "match": "Arthur l’Aventure 4D",
+     "text": "Futuroscope"
     },
     {
      "match": "Les Mystères du Nautilus",
      "text": "Disneyland Paris"
     },
     {
-     "match": "Elmo’s Go-Go Skateboard",
-     "text": "Universal Studios Japan"
+     "match": "Premier envol",
+     "text": "Vulcania"
     },
     {
-     "match": "Matterhorn Bobsleds",
-     "text": "Disneyland California"
+     "match": "",
+     "text": "Walibi"
     }
    ],
    "category": "Géographie & monuments",
@@ -4689,8 +4689,8 @@
      "text": "Phineas"
     },
     {
-     "match": "Mandy",
-     "text": "Billy"
+     "match": "Razmo",
+     "text": "Rapido"
     },
     {
      "match": "Woody",
@@ -4713,12 +4713,12 @@
      "text": "Sammy"
     },
     {
-     "match": "Jane",
-     "text": "Daria"
+     "match": "Tintin",
+     "text": "Milou"
     },
     {
-     "match": "Dodie Bishop",
-     "text": "Ginger Foutley"
+     "match": "Garfield",
+     "text": "Odie"
     }
    ],
    "category": "Cinéma & télévision",
@@ -4739,66 +4739,66 @@
   {
    "answers": [
     {
-     "match": "Matt Foley",
-     "text": "Chris Farley"
+     "match": "Croce",
+     "text": "Youtuber"
     },
     {
-     "match": "Mary Katherine Gallagher",
-     "text": "Molly Shannon"
+     "match": "Ninet",
+     "text": "Acteur"
     },
     {
-     "match": "The Church Lady",
-     "text": "Dana Carvey"
+     "match": "Paul Rubens",
+     "text": "Peintre"
     },
     {
-     "match": "Gilly",
-     "text": "Kristin Wiig"
+     "match": "1er le Grand",
+     "text": "Empereur"
     },
     {
-     "match": "Stefon",
-     "text": "Bill Hader"
+     "match": "Garnier",
+     "text": "Chanteur"
     },
     {
-     "match": "Debbie Downer",
-     "text": "Rachel Dratch"
+     "match": "Desproges",
+     "text": "Humoriste"
     },
     {
-     "match": "Roseanne Rosannadanna",
-     "text": "Gilda Radner"
+     "match": "de Ronsard",
+     "text": "Poète"
     },
     {
-     "match": "Operaman",
-     "text": "Adam Sandler"
+     "match": "Curie",
+     "text": "Physicien"
     },
     {
-     "match": "Wayne Campbell",
-     "text": "Mike Myers"
+     "match": "Cardin",
+     "text": "Couturier"
     },
     {
-     "match": "Alex Trebek",
-     "text": "Will Ferrell"
+     "match": "Bourdieu",
+     "text": "Sociologue"
     },
     {
-     "match": "Sean Connery",
-     "text": "Darrell Hammond"
+     "match": "Charles L'Enfant",
+     "text": "Architecte"
     },
     {
-     "match": "Mr. Robinson",
-     "text": "Eddie Murphy"
+     "match": "Troisgros",
+     "text": "Cuisinier"
     }
    ],
    "category": "Cinéma & télévision",
    "decoys": [],
    "headers": [
     {
-     "match": "Personnages",
-     "text": "Membres"
+     "match": "Pierre",
+     "text": "Métiers"
     }
    ],
    "id": "79813",
    "isValid": "",
-   "prompt": "Associez l'acteur [i]SNL[/i] à son personnage",
-   "promptHeader": "Membres du [i]Saturday Night Live[/i] et leurs personnages populaires",
+   "prompt": "Associez les différents Pierre à leur métier",
+   "promptHeader": "Par respect pour les Pierre !",
    "us": false,
    "x": false
   },
@@ -5095,44 +5095,44 @@
   {
    "answers": [
     {
-     "match": "“The Road Not Taken”",
-     "text": "Robert Frost"
+     "match": "“Chanson”",
+     "text": "Pierre Corneille"
     },
     {
-     "match": "“Harlem”",
-     "text": "Langston Hughes"
+     "match": "“Le dormeur du val”",
+     "text": "Arthur Rimbaud"
     },
     {
-     "match": "“Daddy“",
-     "text": "Sylvia Plath"
+     "match": "“Le lièvre et la tortue“",
+     "text": "Jean de la Fontaine"
     },
     {
-     "match": "“Howl”",
-     "text": "Allen Ginsberg"
+     "match": "“L'enfant prodigue (II)”",
+     "text": "Voltaire"
     },
     {
-     "match": "“Still I Rise”",
-     "text": "Maya Angelou"
+     "match": "“Mon rêve familier”",
+     "text": "Paul Verlaine"
     },
     {
-     "match": "“Do not go gentle into that good night”",
-     "text": "Dylan Thomas"
+     "match": "“Demain, dès l'aube”",
+     "text": "Victor Hugo"
     },
     {
-     "match": "“Ozymandias”",
-     "text": "Percy Bysshe Shelley"
+     "match": "“Bonjour mon coeur”",
+     "text": "Pierre de Ronsard"
     },
     {
-     "match": "“The Raven”",
-     "text": "Edgar Allan Poe"
+     "match": "“Il n'y a pas d'amour heureux”",
+     "text": "Louis Aragon"
     },
     {
-     "match": "“If—”",
-     "text": "Rudyard Kipling"
+     "match": "“L’Invitation au Voyage”",
+     "text": "Charles Baudelaire"
     },
     {
-     "match": "“Sonnet 18” (“Shall I compare thee to a summer's day...”)",
-     "text": "William Shakespeare"
+     "match": "“Le cancre”",
+     "text": "Jacques Prévert"
     }
    ],
    "category": "Littérature",
@@ -5146,7 +5146,7 @@
    "id": "80445",
    "isValid": "",
    "prompt": "Associez le poète à son célèbre poème",
-   "promptHeader": "Poètes de langue anglaise et leurs poèmes les plus célèbres",
+   "promptHeader": "Poètes français et leurs poèmes les plus célèbres",
    "us": false,
    "x": false
   },
@@ -5931,7 +5931,7 @@
    ],
    "id": "81078",
    "isValid": "",
-   "prompt": "Associez l'animal à ce que nous appelons sa (surtout) adorable progéniture",
+   "prompt": "Associez l'animal à ce que nous appelons sa progéniture (la plupart du temps) adorable.",
    "promptHeader": "Bébés animaux mignons",
    "us": false,
    "x": false
@@ -6531,43 +6531,43 @@
   {
    "answers": [
     {
-     "match": "dinosaure",
+     "match": "Dinosaure",
      "text": "Barney"
     },
     {
-     "match": "lion",
+     "match": "Lion",
      "text": "Simba"
     },
     {
-     "match": "poisson",
+     "match": "Poisson",
      "text": "Dory"
     },
     {
-     "match": "grillon",
+     "match": "Grillon",
      "text": "Jiminy"
     },
     {
-     "match": "cheval",
+     "match": "Cheval",
      "text": "Mister Ed"
     },
     {
-     "match": "cochon",
+     "match": "Cochon",
      "text": "Babe"
     },
     {
-     "match": "canard",
+     "match": "Canard",
      "text": "Howard"
     },
     {
-     "match": "tortue",
+     "match": "Tortue",
      "text": "Michelangelo"
     },
     {
-     "match": "raccoon",
+     "match": "Raton-laveur",
      "text": "Rocket"
     },
     {
-     "match": "chipmunk",
+     "match": "Chipmunk",
      "text": "Alvin"
     }
    ],
@@ -6668,7 +6668,7 @@
     },
     {
      "match": "Bouclier Hylien",
-     "text": "[i]The Legend of Zelda/i]"
+     "text": "[i]The Legend of Zelda[/i]"
     },
     {
      "match": "Portal gun",
