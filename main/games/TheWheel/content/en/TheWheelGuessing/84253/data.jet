@@ -1,0 +1,128 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quel meuble me fait envier les fesses humaines ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Je ne m'assois pas, je m'incline juste un peu parfois."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "reveal",
+   "n": "RevealAudio",
+   "s": "Approchez-vous du bar, c'est un..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clue",
+   "n": "ClueAudio0",
+   "s": "Il a généralement quatre pattes, mais certains n'en ont que trois."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio0"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clue",
+   "n": "ClueAudio1",
+   "s": "Ce siège est le terme général pour tout dispositif d'assise qui n'a pas d'accoudoirs ou de dossier."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clueComment",
+   "n": "ClueCommentAudio1",
+   "s": "Ce siège est le terme général pour tout dispositif d'assise qui n'a pas d'accoudoirs ou de dossier. Nous parlons d'un retour aux sources, sans fioritures, pour s'asseoir !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clue",
+   "n": "ClueAudio2",
+   "s": "Je vais être honnête... c'est celui sur lequel étaient exposés en place publique ceux qui avaient été condamnés à une peine infamante."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio2"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clue",
+   "n": "ClueAudio3",
+   "s": "Ça rime avec \"marais\", mais je vous déconseille de vous y installer dessus dans un marais."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio3"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Ok, j'arrête de penser à vos fesses maintenant. (Chuchotement de scène) Non, je ne le ferai pas !"
+  }
+ ]
+}

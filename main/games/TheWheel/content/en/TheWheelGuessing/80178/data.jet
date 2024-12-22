@@ -1,0 +1,183 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quel homme étrangement séduisant est apparu soudainement au sommet de ma montagne ?
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "reveal",
+   "n": "RevealAudio",
+   "s": "Et puis il m'a dit qu'il vivrait pour toujours et j'ai répondu : \"Ah oui, tu peux manger de l'ail pour toujours ?\" Ça l'a fait taire."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clue",
+   "n": "ClueAudio0",
+   "s": "Il était un peu intense, et assez pâle."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clueComment",
+   "n": "ClueCommentAudio0"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clue",
+   "n": "ClueAudio1",
+   "s": "Il disait qu'il vivait dans un château."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clueComment",
+   "n": "ClueCommentAudio1",
+   "s": "Il disait qu'il vivait dans un château. Il est peut-être un peu imbu de sa personne, mais si vous en avez un, montrez-le !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clue",
+   "n": "ClueAudio2",
+   "s": "e n'ai pas pu identifier l'accent, mais il doit être d'Europe de l'Est."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clueComment",
+   "n": "ClueCommentAudio2"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clue",
+   "n": "ClueAudio3",
+   "s": "Il n'aime pas l'ail, mais qui aime ça ? C'est un goût qui s'acquiert !"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clueComment",
+   "n": "ClueCommentAudio3"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "clues_4_clue",
+   "n": "ClueAudio4",
+   "s": "C'est peut-être une superstition, mais les croix le rebutent vraiment."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio4"
+  },
+  {
+   "t": "A",
+   "v": "clues_4_clueComment",
+   "n": "ClueCommentAudio4"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "clues_5_clue",
+   "n": "ClueAudio5",
+   "s": "Il se trouve qu'il vient de Transylvanie et qu'il est avide de sang humain."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio5"
+  },
+  {
+   "t": "A",
+   "v": "clues_5_clueComment",
+   "n": "ClueCommentAudio5"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

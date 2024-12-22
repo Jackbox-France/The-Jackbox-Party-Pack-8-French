@@ -1,0 +1,141 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Dans quel genre de film j'aimerais jouer ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Je devrais probablement me contenter du rôle de \"table de roulette\", mais bon, je prendrai ce que je peux obtenir."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "reveal",
+   "n": "RevealAudio",
+   "s": "Prends ta réponse et dégage, petit."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clue",
+   "n": "ClueAudio0",
+   "s": "Il y a souvent beaucoup de narration inquiétante."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clueComment",
+   "n": "ClueCommentAudio0"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clue",
+   "n": "ClueAudio1",
+   "s": "En général, le protagoniste est un détective."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clueComment",
+   "n": "ClueCommentAudio1"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clue",
+   "n": "ClueAudio2",
+   "s": "L'un des personnages clés est la femme fatale."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clueComment",
+   "n": "ClueCommentAudio2"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clue",
+   "n": "ClueAudio3",
+   "s": "Ce genre des années 1940-1950 met en scène des enquêtes dans un style en noir et blanc."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clueComment",
+   "n": "ClueCommentAudio3"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

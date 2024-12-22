@@ -1,0 +1,141 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quel musicien moderne alimente ma playlist pour mon entraînement de rotation ?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "reveal",
+   "n": "RevealAudio",
+   "s": "Prenez vos chevaux et mettez-les à l'arrière. C'est..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clue",
+   "n": "ClueAudio0",
+   "s": "Cet artiste hip-hop est né en 1999."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clueComment",
+   "n": "ClueCommentAudio0",
+   "s": "Cet artiste hip-hop est né en 1999. Donc, si ça ne vous dérange pas, je vais aller de l'avant et me réduire en poussière."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clue",
+   "n": "ClueAudio1",
+   "s": "Son prénom légal, Montero, fait également partie du titre d'une de leurs chansons à succès."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clueComment",
+   "n": "ClueCommentAudio1"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clue",
+   "n": "ClueAudio2",
+   "s": "Cet artiste est connu pour de multiples remixes de sa chanson country rap populaire, notamment des collaborations avec Diplo et Billy Ray Cyrus."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clueComment",
+   "n": "ClueCommentAudio2"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clue",
+   "n": "ClueAudio3",
+   "s": "Il est temps de descendre sur Old Town Road avec ce \"Lil\" musicien."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clueComment",
+   "n": "ClueCommentAudio3"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

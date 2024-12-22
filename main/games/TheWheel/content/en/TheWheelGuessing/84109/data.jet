@@ -1,0 +1,142 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quel est le mot de passe de mon réseau Wi-Fi ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "On pourrait penser que je n'ai pas besoin de Wi-Fi parce que je suis une divinité omnipotente, mais la plupart des fournisseurs d'accès à Internet pensent différemment."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "reveal",
+   "n": "RevealAudio",
+   "s": "Vous avez trouvé ? Oui ou nooooooon ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clue",
+   "n": "ClueAudio0",
+   "s": "Je me souviens que c'est le nom d'une espèce animale particulièrement majestueuse que j'aime bien."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clueComment",
+   "n": "ClueCommentAudio0"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clue",
+   "n": "ClueAudio1",
+   "s": "Cet animal a des poils glorieux et des sabots encore plus glorieux."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clueComment",
+   "n": "ClueCommentAudio1"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clue",
+   "n": "ClueAudio2",
+   "s": "TIl y a une sorte de jeu au basket-ball qui porte le nom de cet animal, aussi."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clueComment",
+   "n": "ClueCommentAudio2"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clue",
+   "n": "ClueAudio3",
+   "s": "C'est l'animal qu'était Seabiscuit. Et cet animal est le nom de mon mot de passe Wi-Fi."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clueComment",
+   "n": "ClueCommentAudio3"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Oh, c'est vrai, \"cheval\" est mon mot de passe Wi-Fi ! Pas étonnant que ces mortels essaient toujours de voler mon identité."
+  }
+ ]
+}

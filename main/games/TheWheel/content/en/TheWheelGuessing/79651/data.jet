@@ -1,0 +1,170 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "Je ne regarde pas souvent la télé, mais quand je le fais..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quelle est mon émission de télé-réalité compétitive préférée ?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "reveal",
+   "n": "RevealAudio",
+   "s": "Il est rond, et fier de l'être, c’est..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clue",
+   "n": "ClueAudio0",
+   "s": "Il s'agissait à l'origine d'une émission de télévision britannique du même nom."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio0"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clue",
+   "n": "ClueAudio1",
+   "s": "Les participants sont isolés du monde quotidien."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clueComment",
+   "n": "ClueCommentAudio1",
+   "s": "Les participants sont isolés du monde quotidien. Je peux m'identifier à ce genre de solitude."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clue",
+   "n": "ClueAudio2",
+   "s": "C'est diffusé sur Netflix."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clueComment",
+   "n": "ClueCommentAudio2"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clue",
+   "n": "ClueAudio3",
+   "s": "Chaque joueur commence la compétition en créant un profil de réseau social."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio3"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "clues_4_clue",
+   "n": "ClueAudio4",
+   "s": "Pendant la compétition, les participants ne se rencontrent jamais en face à face, et le \"catfishing\" est autorisé."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio4"
+  },
+  {
+   "t": "A",
+   "v": "clues_4_clueComment",
+   "n": "ClueCommentAudio4"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "clues_5_clue",
+   "n": "ClueAudio5",
+   "s": "Le titre de l'émission est la plus grande forme que le monde ait jamais connue. Ne vous avisez pas de dire \"Le Triangle\" !"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio5"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Après, ça allait pas être non plus les [i]Carrés d'Hollywood[/i]."
+  }
+ ]
+}

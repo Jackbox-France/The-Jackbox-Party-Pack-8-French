@@ -1,0 +1,165 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quelle plateforme de médias sociaux dois-je consulter tous les jours ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Je suis peut-être immortel, mais je ne vais certainement pas passer mon existence éternelle à manquer les dernières tendances !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "reveal",
+   "n": "RevealAudio",
+   "s": "Bonjour ! J'aimerais vous ajouter à mon réseau professionnel sur ce sommet !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clue",
+   "n": "ClueAudio0",
+   "s": "Écoutez, ce n'est pas Facebook."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clueComment",
+   "n": "ClueCommentAudio0",
+   "s": "Écoutez, ce n'est pas Facebook. Je ne peux être invité qu'à un nombre limité de spectacles d'improvisation, vous voyez ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clue",
+   "n": "ClueAudio1",
+   "s": "Il a été fondé en 2003 et, en 2021, il compte plus de 740 millions de membres."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clueComment",
+   "n": "ClueCommentAudio1"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clue",
+   "n": "ClueAudio2",
+   "s": "Il est principalement conçu pour la gestion de réseaux."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clueComment",
+   "n": "ClueCommentAudio2"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clue",
+   "n": "ClueAudio3",
+   "s": "Sur ce site, les utilisateurs peuvent télécharger leurs curriculum vitae (ou CV) pour postuler à des emplois."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clueComment",
+   "n": "ClueCommentAudio3",
+   "s": "Sur ce site, les utilisateurs peuvent télécharger leurs curriculum vitae (ou CV) pour postuler à des emplois. C'est vraiment fascinant de voir combien d'entre vous maîtrisent Microsoft Word."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "clues_4_clue",
+   "n": "ClueAudio4",
+   "s": "Son nom vient du fait que vous pouvez utiliser le site pour vous mettre en lien avec d'autres personnes."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio4"
+  },
+  {
+   "t": "A",
+   "v": "clues_4_clueComment",
+   "n": "ClueCommentAudio4"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Maintenant que nous sommes officiellement connectés sur LinkedIn, l'un d'entre vous pourrait-il approuver mes compétences en matière de distribution de tranches ?"
+  }
+ ]
+}

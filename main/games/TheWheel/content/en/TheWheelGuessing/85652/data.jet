@@ -1,0 +1,164 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quel est le philosophe que je trouve le plus cool ?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "reveal",
+   "n": "RevealAudio",
+   "s": "Ce type a dit un jour : \"La vie non examinée ne vaut pas la peine d'être vécue.\" Et je lui ai répondu : \"Hé, arrêtez de vous tenir sur mes tranches de roue ! Je ne peux pas tourner comme ça !\""
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clue",
+   "n": "ClueAudio0",
+   "s": "Nous avons un peu traîné ensemble à l'époque de la Grèce antique."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clueComment",
+   "n": "ClueCommentAudio0",
+   "s": "Nous avons un peu traîné ensemble à l'époque de la Grèce antique. Mais il m'a toujours un peu intimidé, vous savez ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clue",
+   "n": "ClueAudio1",
+   "s": "C'est bizarre pour moi d'être intimidé par quelqu'un, mais même son élève Platon ressentait la même chose."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clueComment",
+   "n": "ClueCommentAudio1"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clue",
+   "n": "ClueAudio2",
+   "s": "Il a finalement été condamné à mort, ce qui n'était pas très cool."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clueComment",
+   "n": "ClueCommentAudio2"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clue",
+   "n": "ClueAudio3",
+   "s": "À quel point était-il cool ? Toute une méthode d'enseignement basée sur des questions porte son nom."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clueComment",
+   "n": "ClueCommentAudio3",
+   "s": "À quel point était-il cool ? Toute une méthode d'enseignement basée sur des questions porte son nom. De plus, son jeu de toge était toujours parfait."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "clues_4_clue",
+   "n": "ClueAudio4",
+   "s": "Allo ? La méthode socratique ?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio4"
+  },
+  {
+   "t": "A",
+   "v": "clues_4_clueComment",
+   "n": "ClueCommentAudio4",
+   "s": "Allo ? La méthode socratique ? Je sais que vous avez entendu parler de ce chat cool. De plus, j'ai... essentiellement dit son nom. Donc..."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quel f-f-f-fantôme vois-je parfois au sommet de ma montagne ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Que l'on soit clair. Je n'ai pas peur des fantômes."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "reveal",
+   "n": "RevealAudio",
+   "s": "Jailhouse Rock ? Plutôt Jailhouse ARRÊTE DE M'EFFRAYER, FANTÔME DANSANT !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clue",
+   "n": "ClueAudio0",
+   "s": "Pour réitérer, je n'ai PAS peur des fantômes. Je suis une roue omnisciente. Pourquoi aurais-je peur d'une chose aussi stupide qu'un fantôme ?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio0"
+  },
+  {
+   "t": "A",
+   "v": "clues_0_clueComment",
+   "n": "ClueCommentAudio0"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clue",
+   "n": "ClueAudio1",
+   "s": "Ah oui, le fantôme. C'était un musicien célèbre qui est mort en 1977."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio1"
+  },
+  {
+   "t": "A",
+   "v": "clues_1_clueComment",
+   "n": "ClueCommentAudio1",
+   "s": "Ah oui, le fantôme. C'était un musicien célèbre qui est mort en 1977. Et je n'ai PAS peur de lui. N'écoutez pas ce que les autres disent."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clue",
+   "n": "ClueAudio2",
+   "s": "Il vient toujours par ici, se déhanchant et chantant \"Hound Dog\"."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio2"
+  },
+  {
+   "t": "A",
+   "v": "clues_2_clueComment",
+   "n": "ClueCommentAudio2",
+   "s": "Il vient toujours par ici, se déhanchant et chantant \"Hound Dog\". Ce n'est pas effrayant ! Je suis juste surpris parfois."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clue",
+   "n": "ClueAudio3",
+   "s": "Certaines personnes disent qu'il n'a jamais quitté le bâtiment... mais c'est faux, c'est un fantôme. Et lui et ses chaussures en daim bleu me font constamment peur !"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueCommentAudio3"
+  },
+  {
+   "t": "A",
+   "v": "clues_3_clueComment",
+   "n": "ClueCommentAudio3",
+   "s": "Certaines personnes disent qu'il n'a jamais quitté le bâtiment... mais c'est faux, c'est un fantôme. Et lui et ses chaussures en daim bleu me font constamment peur ! S'il vous plaît, faites qu'il arrête !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Je suis content d'avoir pu me confier de ceci avec vous. Le fantôme d'Elvis me fait toujours peur avec sa danse. Ça, c'est canon !"
+  }
+ ]
+}
