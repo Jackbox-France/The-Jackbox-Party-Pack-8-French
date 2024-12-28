@@ -1,0 +1,48 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "Disons simplement que j'ai des opinions bien tranchées sur la prochaine..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quels sont les [i]7 nouvelles merveilles du monde[/i] ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Sur la base d'un sondage mondial annoncé en 2007."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Je ne vais pas mentir, je ne faisais pas partie des finalistes et j'en suis un peu affecté. J'ai appris à la Muraille de Chine tout ce qu'elle sait sur la grandeur ! Bon, j'en ai assez dit."
+  }
+ ]
+}
