@@ -9,7 +9,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | Drawful animate  | ❌ | ❌ | ❌ | ❌ | ❌ | |
 | The Wheel Of Enormous Proportions  | ✅ | ✅ | ✅ | ✅ | ❌ | | MisterShaokahn, Skyion le faerie, [Alexis](https://github.com/AlexisL61) et Elyssej
 | Job Job  | ✅ | ✅ | ✅ | ✅ | ❌ | [Alexis](https://github.com/AlexisL61), Nirvanien et BrachyBoom |
-| The Poll Mine  | ✅ | ✅ | ✅ | ✅ | ⚪ | Pachat, [Alexis](https://github.com/AlexisL61), MisterShaokahn et fizzrocks |
+| The Poll Mine  | ✅ | ✅ | ✅ | ✅ | ✅ (IA) | Pachat, [Alexis](https://github.com/AlexisL61), MisterShaokahn et fizzrocks |
 | Weapon's Drawn | ✅ | ❌ | ❌ | ❌ | ❌ | MisterShaokahn |
 
 ✅ Terminé</br>
