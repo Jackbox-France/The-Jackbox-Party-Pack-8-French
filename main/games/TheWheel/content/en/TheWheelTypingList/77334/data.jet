@@ -1,0 +1,235 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quels animaux figuraient dans les Craquelins de la Ménagerie de Barnum (édition du 100e anniversaire) ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "Rooaar !!! Mmmmh, ça pourrait s'appliquer à quelques-uns d'entre eux en fait."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "Pas exactement un buffle, mais similaire."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "Pensez... aux bosses."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "L'un d'eux est un type de lion, en quelque sorte."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5",
+   "s": "Allez, sortez vos cous. VOS COUS !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6",
+   "s": "Pensez à King Kong, mais en plus petit."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "A",
+   "v": "answers_9_hint",
+   "n": "ClueAudio9",
+   "s": "Fouillez dans vos poches et voyez ce qui en ressort."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio10"
+  },
+  {
+   "t": "A",
+   "v": "answers_10_hint",
+   "n": "ClueAudio10"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio11"
+  },
+  {
+   "t": "A",
+   "v": "answers_11_hint",
+   "n": "ClueAudio11"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio12"
+  },
+  {
+   "t": "A",
+   "v": "answers_12_hint",
+   "n": "ClueAudio12"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio13"
+  },
+  {
+   "t": "A",
+   "v": "answers_13_hint",
+   "n": "ClueAudio13"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio14"
+  },
+  {
+   "t": "A",
+   "v": "answers_14_hint",
+   "n": "ClueAudio14",
+   "s": "Baaaaaaa ! (raclement de gorge) Excusez-moi."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio15"
+  },
+  {
+   "t": "A",
+   "v": "answers_15_hint",
+   "n": "ClueAudio15"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio16"
+  },
+  {
+   "t": "A",
+   "v": "answers_16_hint",
+   "n": "ClueAudio16",
+   "s": "Quel animal commence par un Z ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio17"
+  },
+  {
+   "t": "A",
+   "v": "answers_17_hint",
+   "n": "ClueAudio17",
+   "s": "L'un est un marsupial qui aime les feuilles d'eucalyptus."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

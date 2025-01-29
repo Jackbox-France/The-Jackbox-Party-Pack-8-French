@@ -1,0 +1,102 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Quels sont les 5 jeux inclus dans [i]The Jackbox Party Pack 7[/i]?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "Vous pouvez en savoir plus sur ce jeu sur jackboxgames point com slash quiplash dash trois ! Quel bonheur d'être en vie pour ça !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "3 à 8 joueurs peuvent jouer à ce jeu ! Wow ! Pour plus d'informations, rendez-vous sur jackboxgames dot com slash the dash devils dash and dash the dash details !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "On m'a dit que je recevrai une petite commission si vous allez sur jackboxgames point com slash champd tiret up !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "Parfois j'aime aller sur jackboxgames point com slash talking tiret points ! C'est comme ça que j'arrive à paraître si jeune et à tourner si bien."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "Wow ! Combien de jeux possède le grand domaine internet jackboxgames dot com slash blather dash round ? Quelle FOLIE !"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Tous ces jeux pour moins de 30 $ ? Quelle aubaine ! Attendez, c'est une pub ?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Est-ce que Jackbox me paie pour ça ? Non, sérieusement : est-ce qu'une personne de Jackbox peut me dire si je suis payé pour ce contenu sponsorisé ? Suis-je un \"vendu\" ? Vous voulez dire quoi par \"il est temps de passer à autre chose\" ?"
+  }
+ ]
+}

@@ -163,7 +163,8 @@
          "answers":[
             {
                "altSpellings":[
-                  "Nouvel an"
+                  "Nouvel an",
+                  "Nouvelle année"                  
                ],
                "hint":"",
                "text":"Jour de l'an"
@@ -179,7 +180,7 @@
                   "Le lundi de paques",
                   "Paques"
                ],
-               "hint":"Pour celle-ci, vous mangez beaucoup de chocolats.",
+               "hint":"Pour celui-ci, vous mangez beaucoup de chocolats.",
                "text":"Pâques"
             },
             {
@@ -210,7 +211,7 @@
                   "La fete du travail",
                   "Fete du travail"
                ],
-               "hint":"Ne travaillez pas trop dur pour trouver celle-là.",
+               "hint":"Relaxez-vous pour trouver CELUI-CI.",
                "text":"Fête du travail"
             },
             {
@@ -257,7 +258,7 @@
                   "Armistice",
                   "L'armistice"
                ],
-               "hint":"Ca se passe en Novembre...",
+               "hint":"Ça se passe en Novembre...",
                "text":"Armistice"
             }
          ],
@@ -299,7 +300,7 @@
                   "Loup",
                   "Loup"
                ],
-               "hint":"Un gros mangeur",
+               "hint":"Elle les entend chanter !",
                "text":"Loup"
             },
             {
@@ -318,7 +319,7 @@
                   "belette",
                   "belette"
                ],
-               "hint":"C'est une petite bête",
+               "hint":"L'un de ces animaux est le plus petit carnivore d'Europe !",
                "text":"belette"
             },
             {
@@ -329,7 +330,7 @@
                   "humain",
                   "humain"
                ],
-               "hint":"De mon point de vue, il n'y a aucune différence entre un animal et Michao",
+               "hint":"Réfléchissez, est-ce que la chanteuse fait partie de la chanson ?",
                "text":"homme"
             }
          ],
@@ -398,7 +399,7 @@
                "altSpellings":[
                   "interjecter"
                ],
-               "hint":"Voici un indice : HEY ! !!... Est-ce que ça a aidé ?",
+               "hint":"Voici un indice : HEY !!!... Est-ce que ça a aidé ?",
                "text":"interjection"
             },
             {
@@ -413,7 +414,7 @@
          "exactSpelling":false,
          "id":"76591",
          "isValid":"",
-         "prompt":"Quelles sont les 9 parties du discours ?",
+         "prompt":"Les 9 types de mots composant les phrases en français.",
          "subtype":"name",
          "us":false,
          "x":false
@@ -447,7 +448,7 @@
                   "Est",
                   "Grand est"
                ],
-               "hint":"Il y en a qui est de l'autre côté que le \"bas-ouest\"",
+               "hint":"Il y en a une qui est l'opposé du \"petit-ouest\"",
                "text":"Grand-est"
             },
             {
@@ -461,7 +462,7 @@
                "altSpellings":[
                   "Occitanie"
                ],
-               "hint":"C'est touuuuut en bas de la France",
+               "hint":"Dans quelle région se trouve la ville de Toulouse ?",
                "text":"Occitanie"
             },
             {
@@ -510,7 +511,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Il y en a un avec Paris à l'intérieur",
+               "hint":"Il y en a une avec Paris à l'intérieur",
                "text":"Ile de france"
             }
          ],
@@ -539,11 +540,11 @@
                "text":"calcium"
             },
             {
-               "hint":"L'un d'eux ressemble à un grand État des Etats-Unis.",
+               "hint":"L'un d'entre eux évoque un grand État de la côte ouest.",
                "text":"californium"
             },
             {
-               "hint":"Tu en rates un de facile. C'est l'un des éléments constitutifs de la vie !",
+               "hint":"Vous en ratez un de facile. C'est l'un des éléments constitutifs de la vie !",
                "text":"carbone"
             },
             {
@@ -563,7 +564,7 @@
                "text":"copernicum"
             },
             {
-               "hint":"L'une de ces choses est le revêtement sur les centimes !",
+               "hint":"L'un de ces éléments est le revêtement sur les centimes !",
                "text":"cuivre"
             },
             {
@@ -574,7 +575,7 @@
          "exactSpelling":false,
          "id":"76855",
          "isValid":"",
-         "prompt":"Quels éléments chimiques commencent par \"C\" ?",
+         "prompt":"Quels éléments chimiques commencent par \"C\"?",
          "subtype":"name",
          "us":false,
          "x":false
@@ -585,7 +586,7 @@
                "altSpellings":[
                   "Kris"
                ],
-               "hint":"N'oubliez pas l'orthographe \"K\". Je ne fais pas de discrimination.",
+               "hint":"N'oubliez pas l'orthographe avec le \"K\". Je ne fais pas de discrimination.",
                "text":"Chris"
             },
             {
@@ -640,7 +641,7 @@
                "altSpellings":[
                   "Toff"
                ],
-               "hint":"Vous pourriez considérer l'arrière de Christopher.",
+               "hint":"Vous pourriez considérer également le bout du nom Christopher.",
                "text":"Tophe"
             },
             {
@@ -673,11 +674,11 @@
                   "pince à crêpes",
                   "nageoire"
                ],
-               "hint":"Comment peux-tu retourner des pancakes sans ça ?",
+               "hint":"Comment pouvez-vous retourner des pancakes sans ÇA ?",
                "text":"spatule"
             },
             {
-               "hint":"Comment pouvez-vous remuer la pâte sans ça ? (Eh bien, je suppose que vous pouvez utiliser n'importe quoi).",
+               "hint":"Comment pouvez-vous remuer la pâte sans ÇA ? (Après, je suppose que vous pouvez utiliser n'importe quoi...)",
                "text":"fouet"
             },
             {
@@ -686,7 +687,7 @@
                   "louche à soupe",
                   "louche à soupe"
                ],
-               "hint":"J'ai un gros scoop sur la bonne réponse. Et ce n'est pas une cuillère à glace.",
+               "hint":"Je ne te mens pas : cet ustensile est toujours un peu flou.",
                "text":"louche"
             },
             {
@@ -725,7 +726,7 @@
                   "coupe-roue à pizza",
                   "roue de coupe"
                ],
-               "hint":"Quel genre d'outil est bon pour un pepperoni avec du fromage ?",
+               "hint":"Quel genre d'outil est bon pour une pepperoni avec du fromage ?",
                "text":"roue à pizza"
             },
             {
@@ -734,7 +735,7 @@
                   "râpe à fromage",
                   "déchiqueteuse"
                ],
-               "hint":"Ce serait vraiment dommage de ce \"râper\" sur celle-là",
+               "hint":"Ce serait vraiment dommage de se \"râper\" sur celle-là",
                "text":"râpe à fromage"
             },
             {
@@ -764,7 +765,7 @@
                   "rouleau à patisserie",
                   "rouleau à pâte"
                ],
-               "hint":"Etalez cette pâte !",
+               "hint":"Étalez-moi cette pâte !",
                "text":"rouleau à pâtisserie"
             },
             {
@@ -774,7 +775,7 @@
                   "ouvreur de bouchon",
                   "bouchons à vis"
                ],
-               "hint":"On ne peut pas avoir de vin sans ça.",
+               "hint":"On ne peut pas avoir de vin sans ÇA.",
                "text":"tire-bouchon"
             }
          ],
@@ -802,7 +803,7 @@
                "altSpellings":[
                   "cals"
                ],
-               "hint":"Ce truc est dans tout. Sauf dans le Coca Cola Zéro.",
+               "hint":"CE truc est dans tout. Sauf dans le Coca Cola Zéro.",
                "text":"calories"
             },
             {
@@ -819,14 +820,14 @@
                "altSpellings":[
                   "colestérol"
                ],
-               "hint":"Tu devrais essayer les blancs d'oeufs pour éviter ça.",
+               "hint":"Vous devriez essayer les blancs d'oeufs pour éviter ÇA.",
                "text":"cholestérol"
             },
             {
                "altSpellings":[
                   "sel"
                ],
-               "hint":"Si vous ne l'obtenez pas, vous risquez d'en être un peu déçu.",
+               "hint":"Si vous n'obtenez pas CELUI-CI, vous risquez d'être un peu salé.",
                "text":"sodium"
             },
             {
@@ -841,7 +842,7 @@
                "altSpellings":[
                   "protéines"
                ],
-               "hint":"Les rats de gymnastique doivent connaître celui-ci.",
+               "hint":"Vous, les sportifs, devriez être familiers avec celui-ci.",
                "text":"protéine"
             },
             {
@@ -849,7 +850,7 @@
                   "fibre",
                   "fibre quotidienne"
                ],
-               "hint":"C'est une partie d'un élément d'origine végétale",
+               "hint":"Vous en aurez besoin pour votre transit !",
                "text":"fibre diététique"
             },
             {
@@ -857,7 +858,7 @@
                   "sucres totaux",
                   "sucres ajoutés"
                ],
-               "hint":"N'oubliez pas le petit dernier !",
+               "hint":"Je préfère celui là dans mon café.",
                "text":"sucre"
             },
             {
@@ -932,7 +933,7 @@
                "altSpellings":[
                   "Montapulchiano"
                ],
-               "hint":"N'oubliez pas la longue phrase qui commence par un \"M\".",
+               "hint":"N'oubliez pas celui au nom très long qui commence par un \"M\".",
                "text":"Montepulciano"
             },
             {
@@ -976,7 +977,7 @@
          "exactSpelling":false,
          "id":"77201",
          "isValid":"",
-         "prompt":"Mes 12 vins rouges préférés pour quand j'ai besoin de... Détente",
+         "prompt":"Mes 12 vins rouges préférés quand j'ai besoin de... Détente",
          "subtype":"subjectif",
          "us":false,
          "x":false
@@ -987,7 +988,7 @@
                "altSpellings":[
                   "Chocolat"
                ],
-               "hint":"(perturbé) Je vais te l'épeler. Chocolat ! Tape juste \"chocolat\" !",
+               "hint":"(perturbé) Je vais vous l'épeler. Chocolat ! Tapez juste \"chocolat\" !",
                "text":"chocolat"
             },
             {
@@ -1002,52 +1003,53 @@
             },
             {
                "altSpellings":[
-                  "cookies et crème",
-                  "cookies & crème",
-                  "crème de cookies"
+                  "Caramel",
+                  "caramel salé",
+                  "beurre salé"
                ],
-               "text":"cookies 'n' cream"
+               "text":"Caramel beurre salé"
             },
             {
                "altSpellings":[
                   
                ],
-               "hint":"Vous aimez votre glace à la caféine ?",
+               "hint":"Vous aimez votre glace caféinée ?",
                "text":"café"
             },
             {
                "altSpellings":[
-                  "pépite de chocolat",
-                  "pépites de chocolat à la menthe"
+                  "menthe",
+                  "menthe et chocolat"
                ],
-               "text":"pépite de chocolat"
+               "text":"Menthe-chocolat"
             },
             {
                "altSpellings":[
-                  "rockyroad"
+                  "coco"
                ],
-               "hint":"Bien que la route soit longue, espérons qu'elle soit aussi bonne.",
-               "text":"rocky road"
+               "hint":"Pensez tropical ! Et pas Tropico !",
+               "text":"Noix de coco"
             },
             {
                "altSpellings":[
-                  "pâte à cookies"
+                  "rhum",
+                  "raisins"                  
                ],
-               "text":"pâte à biscuits"
+               "text":"Rhum-raisins"
             },
             {
                "altSpellings":[
-                  "noix de pécan au beurre",
+                  "noix",
                   "noix de pécan"
                ],
-               "hint":"L'un de mes préférés est beau et beurré.",
-               "text":"noix de pécan au beurre"
+               "hint":"L'une de mes préférées est également celle des mes amis les écureuils.",
+               "text":"noisette"
             },
             {
                "altSpellings":[
                   "pistashio"
                ],
-               "hint":"L'un de mes préférés a une teinte verte avec un goût de noix.",
+               "hint":"L'une de mes préférées a une teinte verte avec un goût de noix.",
                "text":"pistache"
             }
          ],
@@ -1066,7 +1068,7 @@
                "altSpellings":[
                   "Carry"
                ],
-               "hint":"Vous ne penserez jamais à une danse de lycée de la même façon après avoir lu celui-ci.",
+               "hint":"Vous ne verrez plus jamais le bal du lycée de la même façon après avoir lu CE livre.",
                "text":"[i]Carrie[/i]"
             },
             {
@@ -1079,7 +1081,7 @@
                "altSpellings":[
                   "Fléau"
                ],
-               "hint":"Le fait que personne ne trouve celui-là, c'est vraiment un fléau...",
+               "hint":"L'un d'eux est également la description d'un de mes méchants préférés... Ganon",
                "text":"[i]Le Fléau[/i]"
             },
             {
@@ -1096,11 +1098,11 @@
                "text":"[i]Simetierre[/i]"
             },
             {
-               "hint":"Arrêtez de faire le \"clown\". Tapez juste... ça... dedans.",
+               "hint":"Arrêtez de faire le \"clown\". Tapez juste... ça... sur votre écran.",
                "text":"[i]ÇA[/i]"
             },
             {
-               "hint":"Tu te sentiras misérable si tu prends celui-là.",
+               "hint":"Vous vous sentirez misérable si vous prenez celui-là.",
                "text":"[i]Misery[/i]"
             },
             {
@@ -1239,7 +1241,7 @@
                "altSpellings":[
                   "Ewok"
                ],
-               "hint":"Vous savez ! Les mignons avec leurs têtes de chien écrasées ! Allez.",
+               "hint":"Vous savez ! Ceux qui sont mignons avec leurs têtes de chien écrasées ! Allez.",
                "text":"Ewoks"
             },
             {
@@ -1273,7 +1275,7 @@
                   "L'Enfant",
                   "Grogu"
                ],
-               "hint":"Donc Yoda n'est pas sur ma liste, mais celui-ci oui.",
+               "hint":"Yoda n'est pas sur ma liste, mais lui oui.",
                "text":"Bébé Yoda"
             },
             {
@@ -1363,7 +1365,7 @@
                   "saxo ténor",
                   "saxo baryton"
                ],
-               "hint":"L'un de ces bois est un cuivre. Et c'est très sexy.",
+               "hint":"L'un d'eux est un cuivre. Et c'est très sexy.",
                "text":"saxophone"
             },
             {
@@ -1378,7 +1380,7 @@
          "exactSpelling":false,
          "id":"77333",
          "isValid":"",
-         "prompt":"Quels sont les instruments à vent que l'on peut trouver dans un orchestre ?",
+         "prompt":"Quels instruments à vent peut-on trouver dans un orchestre ?",
          "subtype":"nom",
          "us":false,
          "x":false
@@ -1392,7 +1394,7 @@
                   "grizzly",
                   "ours brun"
                ],
-               "hint":"Rooaar ! !! Eh bien, ça pourrait s'appliquer à quelques-uns d'entre eux en fait.",
+               "hint":"Rooaar !!! Mmmmh, ça pourrait s'appliquer à quelques-uns d'entre eux en fait.",
                "text":"ours"
             },
             {
@@ -1417,7 +1419,7 @@
                   "puma",
                   "puma"
                ],
-               "hint":"L'un d'eux est une sorte de lion, en quelque sorte.",
+               "hint":"L'un d'eux est un type de lion, en quelque sorte.",
                "text":"cougar"
             },
             {
@@ -1432,7 +1434,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Allez, sors ton cou. Ton COU !",
+               "hint":"Allez, sortez vos cous. VOS COUS !",
                "text":"girafe"
             },
             {
@@ -1576,8 +1578,16 @@
                   
                ],
                "hint":"",
-               "text":"kayak"
-            }
+               "text":"crack"
+            },
+            {
+               "altSpellings":[
+                  
+               ],
+               "hint":"",
+               "text":"frac"
+            }            
+            
          ],
          "category":"Langue/Mots/Grammaire",
          "exactSpelling":true,
@@ -1592,7 +1602,8 @@
          "answers":[
             {
                "altSpellings":[
-                  
+                  "Minne",
+                  "Olivier"                                    
                ],
                "hint":"Celui qui accueille et aide les participants !",
                "text":"Olivier Minne"
@@ -1606,14 +1617,16 @@
             },
             {
                "altSpellings":[
-                  
+                  "Passe partout",
+                  "Passepartout"                    
                ],
-               "hint":"Celui-ci aide les participants pour les amener à la prochaine épreuve.",
+               "hint":"Celui-ci guide les casse-cous dans les traquenards !",
                "text":"Passe-Partout"
             },
             {
                "altSpellings":[
-                  
+                  "Passe muraille",
+                  "Passemuraille"                    
                ],
                "hint":"",
                "text":"Passe-Muraille"
@@ -1650,7 +1663,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Il était un chef, puis un prisonnier et maintenant un shérif",
+               "hint":"Il était un chef, puis un prisonnier et maintenant un shérif.",
                "text":"Willy Rovelli"
             },
             {
@@ -1688,70 +1701,81 @@
          "answers":[
             {
                "altSpellings":[
-                  
+                  "chateau de Cagliostro",
+                  "château de Cagliostro",
+                  "Cagliostro"                                        
                ],
                "hint":"",
                "text":"Le Château de Cagliostro"
             },
             {
                "altSpellings":[
-                  
+                  "Nausicäa",
+                  "Nausicaa",
+                  "Nausicaa de la vallée du vent",
+                  "Nausica de la vallée du vent",                                    
+                  "Nausica"                                                      
                ],
                "hint":"",
                "text":"Nausicäa de la vallée du vent"
             },
             {
                "altSpellings":[
-                  
+                  "le chateau dans le ciel",
+                  "château dans le ciel",
+                  "chateau dans le ciel"
                ],
                "hint":"",
                "text":"Le château dans le ciel"
             },
             {
                "altSpellings":[
-                  
+                  "Totoro"                 
                ],
                "hint":"",
                "text":"Mon Voisin Totoro"
             },
             {
                "altSpellings":[
-                  
+                  "Kiki"                  
                ],
                "hint":"",
                "text":"Kiki la petite sorcière"
             },
             {
                "altSpellings":[
-                  
+                  "Porcorosso"                  
                ],
                "hint":"Un de ces films se traduit littéralement par \"Le Porc Rouge\".",
                "text":"Porco Rosso"
             },
             {
                "altSpellings":[
-                  
+                  "Mononoké"              
                ],
                "hint":"Il y avait pas une princesse dans un de ces titres ?",
                "text":"Princesse Mononoké"
             },
             {
                "altSpellings":[
-                  
+                  "voyage de Chihiro",
+                  "Chihiro",                                    
                ],
                "hint":"La sorcière Yubaba, ça vous dit quelque chose?",
                "text":"Le voyage de Chihiro"
             },
             {
                "altSpellings":[
-                  
+                  "Chateau ambulant",
+                  "Château ambulant",
+                  "Le chateau ambulant",                                                      
                ],
                "hint":"",
                "text":"Le Château Ambulant"
             },
             {
                "altSpellings":[
-                  
+                  "Ponyo",                  
                ],
                "hint":"",
                "text":"Ponyo sur la falaise"
@@ -1768,7 +1792,7 @@
          "exactSpelling":true,
          "id":"77338",
          "isValid":"",
-         "prompt":"Les 11 noms des longs métrages du réalisateur Hayao Miyazaki.",
+         "prompt":"Les 11 noms des LONGS MÉTRAGES du réalisateur Hayao Miyazaki.",
          "subtype":"nom",
          "us":false,
          "x":false
@@ -1778,11 +1802,11 @@
             {
                "altSpellings":[
                   "griffes",
-                  "pinces",
+                  "griffe",
                   "pinces"
                ],
                "hint":"La partie qui coupe ! J'adore découper !",
-               "text":"griffe"
+               "text":"pinces"
             },
             {
                "altSpellings":[
@@ -1797,7 +1821,7 @@
                   "chitine",
                   "exosquelette"
                ],
-               "hint":"Tu dois juste passer à travers cet extérieur dur.",
+               "hint":"Vous devez juste passer à travers cet extérieur dur.",
                "text":"coquille"
             },
             {
@@ -1855,7 +1879,7 @@
                "altSpellings":[
                   "Peach"
                ],
-               "hint":"Il n'y avait pas un coureur royal ? Quelqu'un qui était une reine, ou un prince, ou une...",
+               "hint":"Il n'y avait pas de pilote royal ? Quelqu'un qui était une reine, ou un prince, ou une...",
                "text":"Princesse Peach"
             },
             {
@@ -1863,7 +1887,7 @@
                   "Koopa",
                   "Tortue Koopa"
                ],
-               "hint":"N'oubliez pas cette tortue debout qui porte des chaussures ! Tu l'as oublié, n'est-ce pas ?",
+               "hint":"N'oubliez pas cette tortue debout qui porte des chaussures ! Vous l'aviez oublié, n'est-ce pas ?",
                "text":"Koopa Troopa"
             },
             {
@@ -1871,21 +1895,21 @@
                   "Donkey Kong",
                   "DK"
                ],
-               "hint":"Ce gars aime les bananes et déteste les tonneaux. Il est comme l'opposé de moi !",
+               "hint":"Ce gars aime les bananes et déteste les tonneaux. Il est tout le contraire de moi !",
                "text":"Donkey Kong Jr"
             },
             {
                "altSpellings":[
                   "Roi Koopa"
                ],
-               "hint":"Et le gros monstre à pointes ? Tu te souviens de lui ?",
+               "hint":"Et le gros monstre à pointes ? Vous vous souvenez de lui ?",
                "text":"Bowser"
             },
             {
                "altSpellings":[
                   
                ],
-               "hint":"C'est un dinosaure qui peut pondre des œufs sur commande ! Je sais que tu sais qui c'est.",
+               "hint":"C'est un dinosaure qui peut pondre des œufs sur commande ! Je sais que vous savez qui c'est.",
                "text":"Yoshi"
             }
          ],
@@ -1909,7 +1933,7 @@
                   "épicerie",
                   "supermarché"
                ],
-               "hint":"Ewan McGregor adore faire du shopping.",
+               "hint":"Ewan McGregor adore faire ses courses.",
                "text":"épicerie"
             },
             {
@@ -1999,7 +2023,7 @@
                   "les toilettes",
                   "la salle d'eau"
                ],
-               "hint":"Tu peux te doucher dans le noir. J'ai vu un documentaire à ce sujet.",
+               "hint":"\"Tu peux te doucher dans le noir. J'ai vu un documentaire à ce sujet.\"",
                "text":"salle de bains"
             },
             {
@@ -2041,7 +2065,7 @@
                   "bureau à domicile",
                   "le bureau"
                ],
-               "hint":"Les heures d'ouverture sont les heures de jour.",
+               "hint":"Les heures ouvrables sont les heures de jour.",
                "text":"bureau"
             },
             {
@@ -2060,7 +2084,7 @@
                   "la véranda",
                   "la serre"
                ],
-               "hint":"\"Qu'est-ce que c'est, un Cluedo ? Allez, éteins la lumière.\"",
+               "hint":"\"C'est quoi ça, un Cluedo ? Allez, éteins la lumière.\"",
                "text":"véranda"
             }
          ],
@@ -2086,9 +2110,11 @@
                "altSpellings":[
                   "MnMs",
                   "M et Ms",
-                  "MMs"
+                  "MMs",
+                  "M&Ms",
+                  "M&M"                                    
                ],
-               "hint":"Ils fondent dans ta bouche, pas dans tes... attends, je n'ai pas de mains.",
+               "hint":"Ils fondent dans ta bouche, pas dans tes... attendez, je n'ai pas de mains.",
                "text":"M&M'S"
             },
             {
@@ -2124,7 +2150,7 @@
                "altSpellings":[
                   "barre de Snickers"
                ],
-               "hint":"Je pensais vraiment qu'on se connaissait mieux que ça. Tape juste \"Snickers\".",
+               "hint":"Je pensais vraiment qu'on se connaissait mieux que ça. Tapez juste \"Snickers\".",
                "text":"Snickers"
             },
             {
@@ -2149,8 +2175,9 @@
          "answers":[
             {
                "altSpellings":[
-                  "Fierté",
-                  "Orgueilleux"
+                  "fierté",
+                  "arrogance",                  
+                  "orgueilleux"
                ],
                "hint":"Être égoïste ou arrogant ? C'est définitivement un péché.",
                "text":"Orgueil"
@@ -2158,18 +2185,18 @@
             {
                "altSpellings":[
                   "La convoitise",
-                  "Cupidité",
+                  "cupidité",
                   "Convoiter",
                   "Convoitise"
                ],
-               "hint":"Accumuler des richesses ou d'autres ressources ? C'est un péché.",
+               "hint":"Accumuler des richesses ou d'autres ressources ? Vous pouvez parier que c'est un péché.",
                "text":"Cupidité"
             },
             {
                "altSpellings":[
                   "Luxurieux",
                   "Désir",
-                  "Désir"
+                  "Désireux"
                ],
                "hint":"Des sentiments de nostalgie ou de désir ? Oui, c'est un péché.",
                "text":"Luxure"
@@ -2183,14 +2210,16 @@
             },
             {
                "altSpellings":[
-                  
+                  "gourmandise",
+                  "gourmand",
+                  "glouton"                                                     
                ],
                "hint":"Des excès ? C'est un péché.",
                "text":"Gloutonnerie"
             },
             {
                "altSpellings":[
-                  "Colère"
+                  "Colérique"
                ],
                "hint":"Une rage incontrôlable ? Bien sûr, c'est un péché.",
                "text":"Colère"
@@ -2257,7 +2286,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Tu as besoin d'un de ces trucs si tu veux jouer de la country. Oh, tu ne vas pas jouer de la country ? Eh bien quand même, il suffit de taper l'instrument.",
+               "hint":"Vous avez besoin d'un de ces trucs si vous voulez jouer de la country. Oh, vous voulez pas jouer de la country ? Malgré tout, saisissez l'instrument.",
                "text":"banjo"
             },
             {
@@ -2332,7 +2361,7 @@
                   "une glace pilée",
                   "de la glace pilée"
                ],
-               "hint":"Tu peux boire celui-là.",
+               "hint":"Vous pouvez boire celui-là.",
                "text":"granité"
             }
          ],
@@ -2372,7 +2401,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Le mot le plus amusant à dire ! Mojito ! Oh, oups. C'est ma faute.",
+               "hint":"Le mot le plus amusant à dire ! Mojito ! Oh, oups. Ma faute.",
                "text":"mojito"
             },
             {
@@ -2428,7 +2457,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Vladimir Poutine pourrait s'identifier à cette boisson.",
+               "hint":"Vladimir Poutine pourrait s'identifier à CETTE boisson.",
                "text":"Russe blanc"
             },
             {
@@ -2530,7 +2559,7 @@
                   "Loups de Wall Street",
                   "Loup de Wall Street"
                ],
-               "hint":"Dans celui-ci, il joue un loup, pour ainsi dire.",
+               "hint":"Dans CELUI-CI, il joue un loup, pour ainsi dire.",
                "text":"[i]Le Loup de Wall Street[/i]"
             },
             {
@@ -2544,7 +2573,7 @@
                "altSpellings":[
                   "The Shutter Island"
                ],
-               "hint":"Tu sais, celui où sa femme meurt et où il pense être un détective.",
+               "hint":"Vous savez, celui où sa femme meurt et où il pense être un détective.",
                "text":"[i]Shutter Island[/i]"
             },
             {
@@ -2566,10 +2595,10 @@
             },
             {
                "altSpellings":[
-                  "Aviator"
+                  "The Aviator"
                ],
-               "hint":"Je vais vous donner un indice... The Aviator.",
-               "text":"[i]The Aviator[/i]"
+               "hint":"Je vais vous donner un indice... Aviator.",
+               "text":"[i]Aviator[/i]"
             }
          ],
          "category":"Cinéma et télévision",
@@ -2621,7 +2650,7 @@
                   "Pingouin",
                   "Oswald Chesterfield Cobblepot"
                ],
-               "hint":"Oh, allez. Celui avec le parapluie ? !",
+               "hint":"Oh, allez. Celui avec le parapluie ?!",
                "text":"Le Pingouin"
             },
             {
@@ -2643,7 +2672,7 @@
                   "Mister Freeze",
                   "Victor Fries"
                ],
-               "hint":"Arnold Schwarzenegger a joué ce méchant.",
+               "hint":"Arnold Schwarzenegger a joué CE méchant.",
                "text":"M. Freeze"
             },
             {
@@ -2654,10 +2683,11 @@
                   "Jonathan Crane",
                   "Docteur Crane",
                   "Dr. Crane",
-                  "Crane"
+                  "Crane",
+                  "épouvantail"                 
                ],
                "hint":"Pas l'homme de fer blanc, mais...",
-               "text":"Épouvantail"
+               "text":"l'Épouvantail"
             }
          ],
          "category":"Animation/Comics",
@@ -2675,7 +2705,7 @@
                "altSpellings":[
                   "toilette"
                ],
-               "hint":"Le mot est littéralement dans la question...",
+               "hint":"Ce mot est littéralement dans la question...",
                "text":"toilettes"
             },
             {
@@ -2758,7 +2788,7 @@
                   "",
                   ""
                ],
-               "hint":"Comment il s'appelle l'archer, déjà?",
+               "hint":"Comment s'appelle l'archer, déjà ?",
                "text":"Legolas"
             },
             {
@@ -2845,7 +2875,7 @@
                   "Sh'mot",
                   "Yesi'at Misrayim"
                ],
-               "hint":"Laisse mon peuple partir, parce que quand tu dois partir, tu dois partir.",
+               "hint":"Laisse mon peuple partir, parce que quand tu dois partir, tu DOIS partir.",
                "text":"Exode"
             },
             {
@@ -2899,11 +2929,9 @@
                   "Rhum",
                   "Mélasse",
                   "rhum industriel",
-                  "rhum agricole",
-                  "",
-                  ""
+                  "rhum agricole"
                ],
-               "hint":"Yo ho ho ! Qui a osé pirater mon alcool ?",
+               "hint":"Yo ho ho ! Qui a osé voler mon alcool ?",
                "text":"Rhum blanc"
             },
             {
@@ -2911,13 +2939,9 @@
                   "Citron vert",
                   "Citron",
                   "Jus de citron",
-                  "Citronnade",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "Citronnade"
                ],
-               "hint":"Qui amène le côté acidulé et remontant du mojito?",
+               "hint":"Qui amène le côté acidulé et remontant du mojito ?",
                "text":"Jus de citron vert"
             },
             {
@@ -2926,9 +2950,7 @@
                   "Sucre de canne",
                   "Sucre roux de canne",
                   "Cassonade",
-                  "Canne à sucre",
-                  "",
-                  ""
+                  "Canne à sucre"
                ],
                "hint":"",
                "text":"Sucre roux"
@@ -2937,9 +2959,7 @@
                "altSpellings":[
                   "Menthe",
                   "Feuille de menthe",
-                  "Menthe fraîche",
-                  "",
-                  ""
+                  "Menthe fraîche"
                ],
                "hint":"Un mojito ne serait pas un mojito sans son côté végétal.",
                "text":"Feuille de menthe fraîche"
@@ -3075,7 +3095,7 @@
          "exactSpelling":false,
          "id":"79196",
          "isValid":"",
-         "prompt":"Quels sont les cinq piliers de l'islam ?",
+         "prompt":"Quels sont les cinq piliers de l'Islam ?",
          "subtype":"nom",
          "us":false,
          "x":false
@@ -3116,7 +3136,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Melania Trump est venue de ce pays.",
+               "hint":"Melania Trump vient de ce pays.",
                "text":"Slovénie"
             },
             {
@@ -3249,7 +3269,7 @@
                   "Leblanc",
                   "Blanche Leblanc"
                ],
-               "hint":"L'un d'entre eux est plus pâle que les autres.",
+               "hint":"L'une d'entre eux est plus pâle que les autres.",
                "text":"Mme Leblanc"
             },
             {
@@ -3287,7 +3307,7 @@
                   "Rose",
                   "Rose"
                ],
-               "hint":"L'un des personnages est certainement une dame bien roulée.",
+               "hint":"L'un des personnages est certainement une dame qui vous fait ROUGIR.",
                "text":"Mademoiselle Rose"
             }
          ],
@@ -3304,73 +3324,63 @@
          "answers":[
             {
                "altSpellings":[
-                  "",
-                  "",
-                  ""
+
                ],
                "hint":"Je veux dire, il y a quand même le pays qui contient Lisbonne...",
                "text":"Portugal"
             },
             {
                "altSpellings":[
-                  "",
-                  "",
-                  ""
+
                ],
                "hint":"Le pays voisin à celui qui contient Lisbonne, c'est lequel ?",
                "text":"Espagne"
             },
             {
                "altSpellings":[
-                  ""
+
                ],
                "hint":"",
                "text":"France"
             },
             {
                "altSpellings":[
-                  ""
+
                ],
                "hint":"La ligne passe par un pays commençant par un B.",
                "text":"Belgique"
             },
             {
                "altSpellings":[
-                  "Hollande",
-                  "",
-                  ""
+                  "Hollande"
                ],
                "hint":"",
                "text":"Pays-Bas"
             },
             {
                "altSpellings":[
-                  "",
-                  ""
+
                ],
                "hint":"La ligne passe par un pays commençant par un A. Non, ce n'est pas l'Albanie.",
                "text":"Allemagne"
             },
             {
                "altSpellings":[
-                  "",
-                  "",
-                  ""
+
                ],
                "hint":"La ligne passe par un pays ayant comme capitale Copenhague.",
                "text":"Danemark"
             },
             {
                "altSpellings":[
-                  "",
-                  ""
+
                ],
                "hint":"",
                "text":"Suède"
             },
             {
                "altSpellings":[
-                  ""
+
                ],
                "hint":"Je veux dire, il y a quand même le pays où se trouve Helsinki.",
                "text":"Finlande"
@@ -3398,7 +3408,7 @@
                "altSpellings":[
                   "Carotte"
                ],
-               "hint":"Tu es content que ce légume orange soit là ?",
+               "hint":"Êtes-vous contents que ce légume orange soit là ?",
                "text":"carottes"
             },
             {
@@ -3427,7 +3437,7 @@
                "altSpellings":[
                   "Oignons"
                ],
-               "hint":"Oh gnon ! On n'a pas cet ingrédient !",
+               "hint":"Oh gnon ! On n'a pas encore cet ingrédient !",
                "text":"Oignon"
             },
             {
@@ -3441,7 +3451,7 @@
                "altSpellings":[
                   "Jarret de porc"
                ],
-               "hint":"Une autre partie du porc, cette fois-ci au niveau de ses jambes.",
+               "hint":"Une autre partie du porc est présente, cette fois-ci au niveau de ses jambes.",
                "text":"Jarret"
             }
          ],
@@ -3460,8 +3470,7 @@
                "altSpellings":[
                   "Le Magnum",
                   "Un Magnum",
-                  "magnums",
-                  ""
+                  "magnums"
                ],
                "hint":"Celle-ci fait 1,5 litre, et a le même nom qu'une série des années 80.",
                "text":"Magnum"
@@ -3471,8 +3480,7 @@
                   "Double Magnum",
                   "Jeroboam",
                   "jéroboham",
-                  "jeroboham",
-                  ""
+                  "jeroboham"
                ],
                "hint":"Elle fait 3 litres et partage le nom de 2 rois d'Israël !",
                "text":"Jéroboam"
@@ -3489,70 +3497,56 @@
             },
             {
                "altSpellings":[
-                  "Matusalem",
-                  "",
-                  "",
-                  ""
+                  "Matusalem"
                ],
                "hint":"Selon la Bible, il aurait vécu 969 ans. Assez pour lui donner la bouteille de 6 litres.",
                "text":"Mathusalem"
             },
             {
                "altSpellings":[
-                  "",
-                  "",
-                  ""
+
                ],
                "hint":"Quel roi assyrien correspond à la bouteille de 9 litres ?",
                "text":"Salmanazar"
             },
             {
                "altSpellings":[
-                  "baltazar",
-                  "",
-                  ""
+                  "baltazar"
                ],
                "hint":"Le prénom de Picsou, c'est également cette bouteille de 12 litres.",
                "text":"Balthazar"
             },
             {
                "altSpellings":[
-                  "",
-                  "",
-                  ""
+
                ],
                "hint":"La bouteille de 15 litres porte le nom trèèèèès long d'un roi de Babylone. Je vous aide, ça commence par Nabu.",
                "text":"Nabuchodonosor"
             },
             {
                "altSpellings":[
-                  "",
-                  "",
-                  ""
+
                ],
                "hint":"Un roi d'Israël porte le nom de ce champagne de 18 litres.",
                "text":"Salomon"
             },
             {
                "altSpellings":[
-                  "",
-                  ""
+
                ],
                "hint":"Quelle souveraineté, cette bouteille de 26,25 litres !",
                "text":"Souverain"
             },
             {
                "altSpellings":[
-                  "",
-                  ""
+
                ],
                "hint":"Cette bouteille fait 27 litres, et a comme nom un évêque qui possède une suprématie.",
                "text":"Primat"
             },
             {
                "altSpellings":[
-                  "Melchizédek",
-                  ""
+                  "Melchizédek"
                ],
                "hint":"Celle-ci fait 30 litres, et fait référence au roi de Salem.",
                "text":"Melchisédech"
@@ -3562,7 +3556,7 @@
          "exactSpelling":false,
          "id":"79420",
          "isValid":"",
-         "prompt":"Nommez les types de bouteilles de champagne de plus de 1 litre",
+         "prompt":"Nommez les types de bouteilles de champagne de plus de 1 litre.",
          "subtype":"nom",
          "us":true,
          "x":false
@@ -3580,7 +3574,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"C'est la couleur des carottes ! Tu sais, celle-là.",
+               "hint":"C'est la couleur des carottes ! Vous la voyez, quand même.",
                "text":"orange"
             },
             {
@@ -3601,7 +3595,7 @@
                "altSpellings":[
                   "cyan"
                ],
-               "hint":"N'oubliez pas la couleur des myrtilles !",
+               "hint":"N'oubliez pas la couleur de l'océan !",
                "text":"bleu"
             },
             {
@@ -3632,47 +3626,42 @@
          "answers":[
             {
                "altSpellings":[
-                  ""
+
                ],
                "hint":"Ce pays est composé de plusieurs îles.",
                "text":"Indonésie"
             },
             {
                "altSpellings":[
-                  "",
-                  "",
-                  "",
-                  ""
+
                ],
-               "hint":"Ils ont leur propre Hollywood ! Quel pays incroyablement culturé",
+               "hint":"Ils ont leur propre Hollywood ! Quel pays incroyablement culturé !",
                "text":"Inde"
             },
             {
                "altSpellings":[
-                  ""
+
                ],
                "hint":"",
                "text":"Iran"
             },
             {
                "altSpellings":[
-                  "Iraq",
-                  ""
+                  "Iraq"
                ],
                "hint":"",
                "text":"Irak"
             },
             {
                "altSpellings":[
-                  "",
-                  ""
+
                ],
                "hint":"Un pays souvent associé à la bière et au rugby... Voyons voir...",
                "text":"Irlande"
             },
             {
                "altSpellings":[
-                  ""
+
                ],
                "hint":"Un de ces pays a pour capitale Reykjavik.",
                "text":"Islande"
@@ -3681,12 +3670,12 @@
                "altSpellings":[
                   "Israel"
                ],
-               "hint":"Un pays en guerre avec la Palestine...",
+               "hint":"La Mer Morte borde ce pays méditerranéen.",
                "text":"Israël"
             },
             {
                "altSpellings":[
-                  ""
+
                ],
                "hint":"Le pays de César, assez simple non ?",
                "text":"Italie"
@@ -3774,7 +3763,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Si tu veux faire un soufflé, tu dois casser deux de ces bébés.",
+               "hint":"Si vous voulez faire un soufflé, vous devez casser deux de ces bébés.",
                "text":"oeufs"
             },
             {
@@ -3791,7 +3780,7 @@
                "altSpellings":[
                   "sel marin"
                ],
-               "hint":"Je ne peux pas croire que tu n'aies pas pensé à mettre une pincée de ça.",
+               "hint":"Je ne peux pas croire que vous n'ayez pas pensé à mettre une pincée de ça.",
                "text":"sel"
             },
             {
@@ -3852,10 +3841,10 @@
             },
             {
                "altSpellings":[
-                  "losange"
+                  "diamant"
                ],
-               "hint":"On dit que c'est le meilleur ami d'une fille !",
-               "text":"diamant"
+               "hint":"Une des quatres suites de jeux de cartes a cette forme !",
+               "text":"losange"
             },
             {
                "altSpellings":[
@@ -3918,7 +3907,7 @@
                "altSpellings":[
                   "Prix de la paix"
                ],
-               "hint":"Parmi les lauréats d'une catégorie figurent Nelson Mandela et Mère Teresa.",
+               "hint":"Parmi les lauréats de cette catégorie figurent Nelson Mandela et Mère Teresa.",
                "text":"Paix"
             },
             {
@@ -3935,7 +3924,7 @@
                   "Sciences économiques",
                   "Prix des sciences économiques"
                ],
-               "hint":"(à soi) Argent, argent, argent.",
+               "hint":"(à soi) Du fric, du fric, du fric.",
                "text":"Sciences économiques"
             }
          ],
@@ -3961,11 +3950,9 @@
             {
                "altSpellings":[
                   "Lancer de disque",
-                  "Disque",
-                  "",
-                  ""
+                  "Disque"
                ],
-               "hint":"J'ai essayé avec des vinyles, et je me suis rappelé que j'étais une roue...",
+               "hint":"J'ai essayé avec des vinyles, et j'ai cassé mon préféré...",
                "text":"Lancer du disque"
             },
             {
@@ -3981,16 +3968,14 @@
                   "Saut de perche",
                   "Perche"
                ],
-               "hint":"Notre français Renaud Lavillenie avait explosé le record une fois !",
+               "hint":"Le français Renaud Lavillenie avait explosé le record une fois !",
                "text":"Saut à la perche"
             },
             {
                "altSpellings":[
-                  "Hauteur",
-                  "",
-                  ""
+                  "Hauteur"
                ],
-               "hint":"Faut sauter très haut... Voilà!",
+               "hint":"Faut sauter très haut... Voilà !",
                "text":"Saut en hauteur"
             },
             {
@@ -4004,7 +3989,7 @@
                "altSpellings":[
                   "1500 mètres"
                ],
-               "hint":"Une épreuve de demi-fond qui demande beaucoup d'endurance.",
+               "hint":"Une épreuve de demi-fond qui demande beaucoup d'endurance...",
                "text":"Course de 1500m"
             },
             {
@@ -4019,7 +4004,7 @@
                   "400 mètres",
                   "400m"
                ],
-               "hint":"Tu me fais un tour de stade, gamin !",
+               "hint":"Vous me faites un tour de stade, les gamins !",
                "text":"Course de 400m"
             },
             {
@@ -4053,28 +4038,28 @@
                "altSpellings":[
                   "tarte aux cerises"
                ],
-               "hint":"Savoureux, acidulée et rouge à l'intérieur, comme moi.",
+               "hint":"Savoureuse, acidulée et rouge à l'intérieur, comme moi.",
                "text":"cerise"
             },
             {
                "altSpellings":[
                   "tarte aux pêches"
                ],
-               "hint":"Vous devez vous rendre en Géorgie pour ce traitement.",
+               "hint":"Vous devez rouler jusqu'en Géorgie pour CE petit plaisir.",
                "text":"pêche"
             },
             {
                "altSpellings":[
                   "tarte à la citrouille"
                ],
-               "hint":"Cette tarte est un véritable jack-o-lantern de tous les métiers.",
+               "hint":"Cette tarte est un véritable jack-o-lantern à tout faire.",
                "text":"citrouille"
             },
             {
                "altSpellings":[
                   "tarte au citron vert"
                ],
-               "hint":"Tarte avec une croûte de biscuits Graham, cette tarte me met dans l'ambiance des îles.",
+               "hint":"Une tarte avec une croûte de biscuits Graham, CETTE tarte me met dans une ambiance insulaire.",
                "text":"citron vert"
             },
             {
@@ -4123,7 +4108,7 @@
                   "Hemsworth",
                   "Hemworth"
                ],
-               "hint":"Celui-ci a certainement un joli Asgard !",
+               "hint":"Celui-ci a clairement un joli Asgard !",
                "text":"Chris Hemsworth"
             },
             {
@@ -4131,7 +4116,7 @@
                   "Rudd",
                   "Paul"
                ],
-               "hint":"L'éternel Ant-Man ! Pas de rides ici !",
+               "hint":"L'intemporel Ant-Man ! Pas de rides ici !",
                "text":"Paul Rudd"
             },
             {
@@ -4226,7 +4211,7 @@
                "altSpellings":[
                   "Scottex Complete Clean"
                ],
-               "hint":"Ok, qu'est-ce qui se passe avec les chiens ? Quelqu'un peut m'expliquer ?",
+               "hint":"Ok, qu'est-ce qu'ils ont avec les chiens ? Quelqu'un peut m'expliquer ?",
                "text":"Scottex"
             },
             {
@@ -4236,7 +4221,7 @@
                   "Renova Super",
                   "Magic Renova"
                ],
-               "hint":"Ce produit va RENOVER votre expérience sanitaire !",
+               "hint":"Ce produit va RÉNOVER votre expérience sanitaire !",
                "text":"Renova"
             },
             {
@@ -4245,7 +4230,7 @@
                   "Lotus Confort",
                   "Lotus Ultra Doux"
                ],
-               "hint":"Un de ces papiers toilette a comme nom une jolie fleur !.",
+               "hint":"Un de ces papiers toilettes a comme nom une jolie fleur !",
                "text":"Lotus"
             },
             {
@@ -4294,8 +4279,7 @@
          "answers":[
             {
                "altSpellings":[
-                  "",
-                  ""
+
                ],
                "text":"aa"
             },
@@ -4337,7 +4321,7 @@
          "answers":[
             {
                "altSpellings":[
-                  ""
+
                ],
                "text":"eh"
             },
@@ -4361,7 +4345,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Pas d'indice pour celui-là ! Testez les possibilités.",
+               "hint":"J'ai dit pas d'indice !",
                "text":"ex"
             }
          ],
@@ -4369,7 +4353,7 @@
          "exactSpelling":true,
          "id":"79614",
          "isValid":"",
-         "prompt":"Les 7 mots de deux lettres commençant par E",
+         "prompt":"Les 6 mots de deux lettres commençant par E",
          "subtype":"mot",
          "us":false,
          "x":false
@@ -4377,15 +4361,9 @@
       {
          "answers":[
             {
-               "altSpellings":[
-                  ""
-               ],
                "text":"bijoux"
             },
             {
-               "altSpellings":[
-                  ""
-               ],
                "text":"cailloux"
             },
             {
@@ -4503,7 +4481,7 @@
                "altSpellings":[
                   "Midi-Pyrénées"
                ],
-               "hint":"Pensez \"sud', genre vraiment au sud.",
+               "hint":"Pensez \"sud\", genre vraiment au sud.",
                "text":"Midi-Pyrénées"
             },
             {
@@ -4525,7 +4503,7 @@
                   "Rhône Alpes",
                   ""
                ],
-               "hint":"Quel est la région avec le Mont Blanc ? C'est celui-là ? Je ne suis pas sûr.",
+               "hint":"C'est quoi déjà la région avec le Mont Blanc ? C'est celle-là ? Je ne suis pas sûr...",
                "text":"Rhône-Alpes"
             },
             {
@@ -4537,38 +4515,45 @@
             },
             {
                "altSpellings":[
-                  ""
+
                ],
                "hint":"",
                "text":"Alsace"
             },
             {
                "altSpellings":[
-                  ""
+
                ],
-               "hint":"Comment appelle t'on déjà cette tarte à base de pâte brisée et de lardons ? Ah oui c'est vrai !",
+               "hint":"Comment appelle-t'on déjà cette tarte à base de pâte brisée et de lardons ? Ah oui c'est vrai !",
                "text":"Lorraine"
             },
             {
                "altSpellings":[
                   "Champagne Ardenne"
                ],
-               "hint":"Cette région produit cette boisson alcoolisée là... Qu'on boit à la fin d'Année...",
+               "hint":"Cette région produit cette boisson alcoolisée là... Qu'on boit au réveillon...",
                "text":"Champagne-Ardenne"
             },
             {
                "altSpellings":[
                   "Nord"
                ],
-               "hint":"C'est celui tout en haut, là !",
+               "hint":"C'est celle tout en haut, là !",
                "text":"Nord-Pas-de-Calais"
             }
+            {
+               "altSpellings":[
+
+               ],
+               "hint":"N'oubliez pas la région d'outre-mer !",
+               "text":"Guyane"
+            }            
          ],
          "category":"Géographie et points de repère",
          "exactSpelling":true,
          "id":"80323",
          "isValid":"",
-         "prompt":"Quels sont les ANCIENNES Régions françaises frontalières avec d'autres pays ?",
+         "prompt":"Quelles sont les ANCIENNES Régions françaises frontalières avec d'autres pays ?",
          "subtype":"nom",
          "us":true,
          "x":false
@@ -4638,11 +4623,7 @@
             },
             {
                "altSpellings":[
-                  "Germanie",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "Germanie"
                ],
                "hint":"Si vous pensez à Berlin, vous êtes sur la bonne piste.",
                "text":"Allemagne"
@@ -4727,7 +4708,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Celui-là n'aime pas parler en public!",
+               "hint":"",
                "text":"Timide"
             }
          ],
@@ -4760,14 +4741,14 @@
                "altSpellings":[
                   
                ],
-               "hint":"Pas d'indice pour celui-ci ! Testez les possibilités.",
+               "hint":"Toujours pas d'indice.",
                "text":"om"
             },
             {
                "altSpellings":[
                   
                ],
-               "hint":"Pas d'indice pour celui-ci ! Testez les possibilités.",
+               "hint":"J'ai dit pas d'indice !",
                "text":"on"
             },
             {
@@ -4871,7 +4852,7 @@
                   "Vincent",
                   "Vincent Auriole"
                ],
-               "hint":"Le premier président après la Deuxième Guerre Mondiale.",
+               "hint":"Il a démarré la Quatrième République Française, après la Deuxième Guerre Mondiale.",
                "text":"Auriol"
             },
             {
@@ -4881,11 +4862,9 @@
                   "René",
                   "René Cotie",
                   "Coti",
-                  "René Coti",
-                  "",
-                  ""
+                  "René Coti"
                ],
-               "hint":"Le deuxième (et dernier) président de la IVe République.",
+               "hint":"C'est le Raïs de toute le monde, c'est donc votre ami.",
                "text":"Coty"
             },
             {
@@ -5018,7 +4997,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Pensez légendaires aussi !",
+               "hint":"Pensez aux légendaires aussi !",
                "text":"Sulfura"
             },
             {
@@ -5040,7 +5019,7 @@
          "exactSpelling":true,
          "id":"83258",
          "isValid":"",
-         "prompt":"Les noms des Pokémons de type feu issus de la 1ère génération.",
+         "prompt":"Les noms des Pokémons de type Feu issus de la 1ère génération.",
          "subtype":"nom",
          "us":false,
          "x":true
@@ -5093,22 +5072,8 @@
                "altSpellings":[
                   
                ],
-               "hint":"",
-               "text":"Thêta"
-            },
-            {
-               "altSpellings":[
-                  
-               ],
                "hint":"Ne bougez pas d'un...",
                "text":"Iota"
-            },
-            {
-               "altSpellings":[
-                  
-               ],
-               "hint":"",
-               "text":"Kappa"
             },
             {
                "altSpellings":[
@@ -5122,6 +5087,20 @@
                   
                ],
                "hint":"",
+               "text":"Kappa"
+            },
+            {
+               "altSpellings":[
+                  
+               ],
+               "hint":"La lettre qui termine l'alphabet, peut également mentionner les acide gras !",
+               "text":"Oméga"
+            },
+            {
+               "altSpellings":[
+                  
+               ],
+               "hint":"",
                "text":"Sigma"
             },
             {
@@ -5129,14 +5108,14 @@
                   
                ],
                "hint":"",
-               "text":"Oméga"
+               "text":"Thêta"
             }
          ],
          "category":"Langue/Mots/Grammaire",
          "exactSpelling":true,
          "id":"83260",
          "isValid":"",
-         "prompt":"Les lettres de l'alphabet grec se terminant par ''a''.",
+         "prompt":"Les lettres de l'alphabet grec se terminant par \"a\".",
          "subtype":"mot",
          "us":false,
          "x":false
@@ -5145,9 +5124,9 @@
          "answers":[
             {
                "altSpellings":[
-                  ""
+
                ],
-               "hint":"GET OVER HERE ! Je voulais vraiment le faire ha ha.",
+               "hint":"GET OVER HERE ! Je voulais vraiment le faire. (rires)",
                "text":"Scorpion"
             },
             {
@@ -5178,14 +5157,14 @@
             },
             {
                "altSpellings":[
-                  
+                  "Johnny"                 
                ],
                "hint":"",
                "text":"Johnny Cage"
             },
             {
                "altSpellings":[
-                  
+                  "Sonya",                  
                ],
                "hint":"",
                "text":"Sonya Blade"
@@ -5296,7 +5275,7 @@
                "altSpellings":[
                   ""
                ],
-               "hint":"Pensez également aux jeux olympiques ANTIQUES!",
+               "hint":"Pensez également aux jeux olympiques ANTIQUES !",
                "text":"Athènes"
             },
             {
@@ -5536,7 +5515,7 @@
                "altSpellings":[
                   "Techno"
                ],
-               "hint":"",
+               "hint":"Cette matière aime bien réaliser des systèmes électriques en soudant des trucs.",
                "text":"Technologie"
             },
             {
@@ -5591,7 +5570,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Il y a deux pays portant le nom de P en Amérique du Sud.",
+               "hint":"Il y a deux pays commençant par P en Amérique du Sud.",
                "text":"Pérou"
             },
             {
@@ -5626,7 +5605,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"Il y a deux pays portant le nom de P en Amérique du Sud.",
+               "hint":"Il y a deux pays commençant par P en Amérique du Sud.",
                "text":"Paraguay"
             },
             {
@@ -6110,7 +6089,7 @@
          "exactSpelling":false,
          "id":"83328",
          "isValid":"",
-         "prompt":"Quels sont les 8 départements français qui commencent par la lettre \"M\" ?",
+         "prompt":"Quels sont les 8 départements français qui commencent par la lettre \"M\"?",
          "subtype":"nom",
          "us":true,
          "x":false
@@ -6175,7 +6154,7 @@
                   "Q3",
                   "Quip 3"
                ],
-               "hint":"Vous pouvez en savoir plus sur ce jeu à jackboxgames dot com slash quiplash dash three ! Quelle époque pour être en vie !",
+               "hint":"Vous pouvez en savoir plus sur ce jeu sur jackboxgames point com slash quiplash tiret trois ! Quel bonheur d'être en vie pour ça !",
                "text":"[i]Quiplash 3[/i]"
             },
             {
@@ -6190,21 +6169,21 @@
                   "Devils Details",
                   "The Devils and Details"
                ],
-               "hint":"3 à 8 joueurs peuvent jouer à ce jeu ! Wow ! Pour plus d'informations, rendez-vous sur jackboxgames dot com slash the dash devils dash et dash the dash détails !",
+               "hint":"3 à 8 joueurs peuvent jouer à ce jeu ! Wow ! Pour plus d'informations, rendez-vous sur jackboxgames point com slash the tiret devils tiret and tiret the tiret details !",
                "text":"[i]Les diables et les détails[/i]"
             },
             {
                "altSpellings":[
                   "Champd"
                ],
-               "hint":"On m'a dit que je recevrai une petite commission si vous allez sur jackboxgames dot com slash champd dash up !",
+               "hint":"On m'a dit que je recevrai une petite commission si vous allez sur jackboxgames point com slash champd tiret up !",
                "text":"[i]Champ'd Up[/i]"
             },
             {
                "altSpellings":[
                   "Talk Points"
                ],
-               "hint":"Parfois j'aime aller sur jackboxgames point com slash talking dash points ! C'est comme ça que j'arrive à paraître si jeune et à tourner si bien.",
+               "hint":"Parfois j'aime aller sur jackboxgames point com slash talking tiret points ! C'est comme ça que j'arrive à paraître si jeune et à tourner si bien.",
                "text":"[i]Points de discussion[/i]"
             },
             {
@@ -6212,7 +6191,7 @@
                   "Blather Around",
                   "Blather"
                ],
-               "hint":"Wow ! Combien de jeux a le grand domaine internet jackboxgames dot com slash blather dash round ? Il y en a un qui le fait SÛRMENT !",
+               "hint":"Wow ! Combien de jeux possède le grand domaine internet jackboxgames point com slash blather tiret round ? Quelle FOLIE !",
                "text":"[i]Blather 'Round[/i]"
             }
          ],
@@ -6251,7 +6230,7 @@
                   "Océan Indien",
                   "L'océan Indien"
                ],
-               "hint":"Ironiquement, cet océan est situé loin de l'Inde ! Je plaisante, c'est, genre, juste à côté de l'Inde.",
+               "hint":"Ironiquement, cet océan est situé loin de l'Inde ! Je plaisante, c'est, genre, vraiment à côté de l'Inde.",
                "text":"Indien"
             },
             {
@@ -6344,7 +6323,7 @@
                   "le huard",
                   "huards"
                ],
-               "hint":"Celui-ci est nommé d'après l'oiseau qui s'y trouve.",
+               "hint":"Celle-ci est nommée d'après l'oiseau qui s'y trouve.",
                "text":"huard"
             },
             {
@@ -6381,7 +6360,7 @@
                   "pistolet revolver",
                   "pistolet revolver"
                ],
-               "hint":"Une arme est un type de pistolet. Et non, pistolet n'est pas acceptable, allez !",
+               "hint":"Une de ces armes est un type de pistolet. Et non, pistolet n'est pas accepté, allez !",
                "text":"revolver"
             },
             {
@@ -6396,7 +6375,7 @@
                   "pagaille",
                   "Clé de serrage"
                ],
-               "hint":"Celui-ci est bon à avoir dans votre boîte à outils... de MURDER !",
+               "hint":"Celle-ci est bon à avoir dans votre boîte à outils... pour TUER !",
                "text":"Clé à molette"
             },
             {
@@ -6488,7 +6467,7 @@
                   "Cailloux",
                   "Pierres"
                ],
-               "hint":"Celle-ci a le nom d'un prénom masculin",
+               "hint":"Celle-ci a le nom d'un prénom masculin !",
                "text":"Pierre"
             },
             {
@@ -6502,7 +6481,7 @@
                "altSpellings":[
                   "Acier"
                ],
-               "hint":"Repensez aux minéraux que vous pouvez obtenir dans les profondurs, celle-ci coule de source !",
+               "hint":"Repensez aux minéraux que vous pouvez obtenir dans les profondeurs, celle-ci coule de source !",
                "text":"Fer"
             },
             {
@@ -6552,7 +6531,7 @@
                   "terti",
                   "tris"
                ],
-               "hint":"",
+               "hint":"3 ?",
                "text":"tri"
             },
             {
@@ -6577,7 +6556,7 @@
                   "pentakis",
                   "pancha"
                ],
-               "hint":"",
+               "hint":"5 ?",
                "text":"quinque"
             },
             {
@@ -6644,7 +6623,7 @@
          "exactSpelling":true,
          "id":"83399",
          "isValid":"",
-         "prompt":"Quels sont les préfixes numériques pour les nombres de 2 à 10?",
+         "prompt":"Quels sont les préfixes numériques pour les nombres de 2 à 10 ?",
          "subtype":"mot",
          "us":false,
          "x":false
@@ -6655,7 +6634,7 @@
                "altSpellings":[
                   "Cavité buccale"
                ],
-               "hint":"Il y a quand même besoin d'un moyen d'introduire la nourriture!",
+               "hint":"Il y a quand même besoin d'un moyen d'introduire la nourriture !",
                "text":"Bouche"
             },
             {
@@ -6741,7 +6720,7 @@
                "altSpellings":[
                   "Gisèle André"
                ],
-               "hint":"Mais tu ne peux pas deviner tous ces personnages en 40 secondes : t'es maucais, t'es mauvais !!",
+               "hint":"Mais vous ne pouvez pas deviner tous ces personnages en 40 secondes : vous êtes mauvais, vous êtes mauvais !!",
                "text":"Gigi"
             },
             {
@@ -6819,7 +6798,7 @@
                "altSpellings":[
                   
                ],
-               "hint":"On dit parfois que les nuages sont en strates... Ca vous aide?.",
+               "hint":"On dit parfois que les nuages sont en strates... Ca vous aide?",
                "text":"Stratus"
             },
             {
@@ -6883,7 +6862,7 @@
          "exactSpelling":true,
          "id":"83445",
          "isValid":"",
-         "prompt":"Les 10 types de nuages",
+         "prompt":"Les 10 types de nuages que je n'apprécie pas particulièrement.",
          "subtype":"rime",
          "us":false,
          "x":false
@@ -6917,7 +6896,7 @@
                   "stogies",
                   "stogys"
                ],
-               "hint":"C'est quoi ce truc que ton oncle fume quand il prend son verre de brandy ?",
+               "hint":"C'est quoi ce truc que votre oncle fume quand il prend son verre de brandy ?",
                "text":"cigare"
             },
             {
