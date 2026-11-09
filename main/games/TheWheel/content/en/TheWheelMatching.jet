@@ -62,11 +62,11 @@
    "answers": [
     {
      "match": "Martin Luther King Jr. Day",
-     "text": "January"
+     "text": "Janvier"
     },
     {
      "match": "Journée mondiale contre le cancer",
-     "text": "February"
+     "text": "Février"
     },
     {
      "match": "Fête de la gastronomie",
@@ -94,19 +94,19 @@
     },
     {
      "match": "Armistice de 1918",
-     "text": "November"
+     "text": "Novembre"
     },
     {
      "match": "Journée des droits de l'Homme",
-     "text": "December"
+     "text": "Décembre"
     }
    ],
    "category": "Calendrier/Vacances",
    "decoys": [],
    "headers": [
     {
-     "match": "Days",
-     "text": "Months"
+     "match": "Jours",
+     "text": "Mois"
     }
    ],
    "id": "76789",

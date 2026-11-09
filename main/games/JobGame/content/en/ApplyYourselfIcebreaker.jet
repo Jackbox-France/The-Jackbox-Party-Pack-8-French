@@ -51,7 +51,7 @@
     {
       "id": "76155",
       "isValid": "",
-      "prompt": "Quelle serait une citation mémorable à se rappeler de votre parcours scolaire ?",
+      "prompt": "Quelle citation mémorable aimeriez-vous voir dans votre album de fin d'année ?",
       "x": false
     },
     {
@@ -69,7 +69,7 @@
     {
       "id": "76158",
       "isValid": "",
-      "prompt": "Qu'est ce qui vous a ennuyé récemment ?",
+      "prompt": "Pour quelle bêtise vous êtes-vous déjà fait gronder ?",
       "x": false
     },
     {
@@ -159,7 +159,7 @@
     {
       "id": "76175",
       "isValid": "",
-      "prompt": "Décrivez votre position préférée.",
+      "prompt": "Décrivez votre objet préféré parmi ceux que vous possédez.",
       "x": false
     },
     {
@@ -321,13 +321,13 @@
     {
       "id": "76294",
       "isValid": "",
-      "prompt": "Racontez une citation étrange que vous avez rencontré ?",
+      "prompt": "Quelle est la phrase de drague la plus bizarre que vous ayez entendue ?",
       "x": true
     },
     {
       "id": "76296",
       "isValid": "",
-      "prompt": "Quelles paroles de chanson vous chantiez au lycée ?",
+      "prompt": "Quelles paroles de chanson vous ont particulièrement touché au lycée ?",
       "x": false
     },
     {
@@ -357,7 +357,7 @@
     {
       "id": "76302",
       "isValid": "",
-      "prompt": "Quelle est la chose la plus mignonne que vous avez fait à un bébé ? (Inventez quelque chose si vous n'avez jamais vu de bébé.)",
+      "prompt": "Quelle est la chose la plus mignonne que vous ayez vu un bébé faire ? (Inventez quelque chose si vous n'avez jamais vu de bébé.)",
       "x": false
     },
     {
@@ -621,7 +621,7 @@
     {
       "id": "76499",
       "isValid": "",
-      "prompt": "Qu'est-ce qui pend à cette grande tige de fer dans votre jardin ?",
+      "prompt": "Qu'est-ce qui est accroché au grand mât à drapeau dans votre jardin ?",
       "x": false
     },
     {

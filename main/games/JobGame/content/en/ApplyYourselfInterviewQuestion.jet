@@ -331,7 +331,7 @@
   {
     "id": "76349",
     "isValid": "",
-    "question": "Quel est votre plan de sauvegarde professionnel ?",
+    "question": "Quel est votre plan B pour votre carrière ?",
     "round": "one",
     "round3Header": null,
     "x": false
@@ -427,7 +427,7 @@
   {
     "id": "76362",
     "isValid": "",
-    "question": "Que pensez-vous des romances entre bureaux ?",
+    "question": "Que pensez-vous des relations amoureuses entre collègues ?",
     "round": "one",
     "round3Header": null,
     "x": false
@@ -443,7 +443,7 @@
   {
     "id": "76364",
     "isValid": "",
-    "question": "Comment décririez-vous votre look ?",
+    "question": "Comment décririez-vous votre tenue décontractée du vendredi ?",
     "round": "one",
     "round3Header": null,
     "x": false
@@ -587,7 +587,7 @@
   {
     "id": "76436",
     "isValid": "",
-    "question": "Comment géreriez-vous les employés sans leur parler ?",
+    "question": "Comment dirigeriez-vous vos employés sans les prendre de haut ?",
     "round": "one",
     "round3Header": null,
     "x": false

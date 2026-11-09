@@ -2065,7 +2065,7 @@
             "altSpellings": [
                 "La Baleine",
                 "Moby Dick",
-                "MobyDick",
+                "MobyDick"
             ],
             "answer": "[i]Moby Dick[/i]",
             "category": "Littérature",
@@ -2716,7 +2716,7 @@
         },
         {
             "altSpellings": [
-                "Bats",
+                "Bats"
             ],
             "answer": "Guillaume Bats",
             "category": "Célébrités",

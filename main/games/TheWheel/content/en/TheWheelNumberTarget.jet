@@ -14,7 +14,7 @@
    "category": "Geography & Landmarks",
    "id": "76739",
    "isValid": "",
-   "prompt": "En hauteur, combien de tiroirs faut-il pour égaler \"plus grand tiroir du monde\" à Burlington, dans le Vermont ?",
+   "prompt": "Combien de tiroirs compte la plus haute armoire à dossiers du monde, à Burlington, dans le Vermont ?",
    "unit": "(en nombre de tiroirs)",
    "us": true,
    "value": "38",
