@@ -18,7 +18,7 @@
       "SOCKET_DISCONNECTED ": "Nous sommes désolés, nous avons perdu votre connexion aux serveurs de Jackbox Games.",
       "TIMEOUT": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br>Veuillez vérifier que votre connexion internet fonctionne correctement.",
       "USER_DISCONNECT": "Nous sommes désolés, le serveur vous a déconnecté. Merci d'essayer de nouveau.",
-      "LOST_LICENSE": "Nous sommes désolés, nous avons perdu la licence pour ce contenu!",
+      "LOST_LICENSE": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
       "STEAM_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Steam.",
       "TWITCH_PRIME_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Twitch Prime.",
       "LOST_DLC": "Nous sommes désolés, la licence de votre DLC n'a pas pu être trouvée. Retour au menu...",
@@ -33,12 +33,12 @@
       "HIDE": "Cacher",
       "UNHIDE": "Afficher",
       "HIDDEN_ROOM_CODE": "?????",
-      "JOIN": "Rejoindre!",
+      "JOIN": "Rejoindre !",
       "PLAY": "Jouer",
       "SETTINGS": "Paramètres",
       "BACK_TO_PACK": "Retour",
-      "PLAY_DESCRIPTION": "Créer une salle de jeux et jouer",
-      "SETTINGS_DESCRIPTION": "Censure, Audience, & plus",
+      "PLAY_DESCRIPTION": "Créez une salle de jeu pour jouer",
+      "SETTINGS_DESCRIPTION": "Censure, public et plus encore",
       "BACK_TO_PACK_DESCRIPTION": "Retour au Party Pack",
       "SETTINGS_TITLE": "PARAMÈTRES",
       "CONNECTING": "Connexion aux services de jeux Jackbox",
@@ -66,7 +66,7 @@
       "LOBBY_STATUS_MESSAGE_CANSTART": "Appuyez quand tout le monde est prêt",
       "LOBBY_STATUS_MESSAGE_COUNTDOWN": "Annuler le Début du Jeu",
       "LOBBY_STATUS_MESSAGE_WAITINGFORVIP": "Attendez {VIP} pour commencer le jeu!",
-      "LOBBY_STATUS_MESSAGE_WAITINGFORGAMEPAD": "En attendant que le jeu commence!",
+      "LOBBY_STATUS_MESSAGE_WAITINGFORGAMEPAD": "En attente du début de la partie !",
 
       "PRELOADING_ON_SCREEN_PROMPT": "Chargement...",
 
@@ -88,7 +88,7 @@
       "MODERATION_TIMER_LABEL": "En attente de Modération",
 
       "GLOBAL_ROOM_CODE_LABEL": "Code de la Salle",
-      "GLOBAL_ROOM_CODE_CODE_LABEL": "Code<br>Room",
+      "GLOBAL_ROOM_CODE_CODE_LABEL": "Code<br>salle",
       "GLOBAL_ROOM_CODE_AUDIENCE_LABEL": "Audience",
       "GLOBAL_ROOM_CODE_REMINDER_LABEL": "Jack<br>bx<br>.tv",
 
@@ -126,16 +126,16 @@
 
       "CHOOSING_MURDER_WEAPON_PROMPT_TEXT": "Choisissez une arme pour assassiner quelqu'un.",
       "CHOOSING_GUEST_PROMPT_TEXT": "Choisissez votre cible.",
-      "CHOOSING_CREATOR_PROMPT_TEXT": "Devinez quel détective a amené %s.",
+      "CHOOSING_CREATOR_PROMPT_TEXT": "Devinez quel détective a invité %s.",
       "SMALL_PLAYER_MURDER_HINT": "[header]FAUX[/header]",
       "INCLUSIVE_MURDER_HINT": "[header]FAUX[/header][line]Ce n'était pas %s.[/line][header]INDICE[/header][line]%s fonctionne pour un autre joueur avec %s dans son nom.[/line]",
       "EXCLUSIVE_MURDER_HINT": "[header]FAUX[/header][line]Ce n'était pas %s.[/line][header]INDICE[/header][line]Le joueur pour lequel %s n'a pas de %s dans son nom.[/line]",
       "COOLING_DOWN_PROMPT_TEXT": "[section]Réessayez dans %d secondes...[/section]",
 
-      "MURDERING_SUCCESSFUL_TEXT": "CORRECT ! Vous avez assassiné %s (et gagné un point de meurtre.) Mais taisez-vous!",
+      "MURDERING_SUCCESSFUL_TEXT": "CORRECT ! Vous avez assassiné %s (et gagné un point de meurtre). Mais taisez-vous !",
       "MURDERING_ERROR_TEXT": "Quelque chose a mal tourné",
       "MURDER_ATTEMPT_NOTIFICATION": "%d tentative de meurtre sur %s",
-      "MURDER_ATTEMPTS_NOTIFICATION": "%d tentatives de meurtres sur %s",
+      "MURDER_ATTEMPTS_NOTIFICATION": "%d tentatives de meurtre sur %s",
 
       "AUDIENCE_STABBING_PROMPT_TEXT": "[header]Pendant que les détectives assassinent[/header][line]Poignardez dans le noir[/line]",
       "AUDIENCE_STABBING_BUTTON_TEXT": "POIGNARDER",
@@ -180,7 +180,7 @@
       ],
       "VICTIM_WIDGET_VICTIM_TEXT": "Victime",
       "HURRY_UP_TIMER_TEXT": "DÉPÊCHEZ-VOUS, LE TEMPS S'ÉCOULE!",
-      "VOTING_ON_CASE_PROMPT_TEXT": "Quelle affaire voulez-vous enquêter?",
+      "VOTING_ON_CASE_PROMPT_TEXT": "Sur quelle affaire voulez-vous enquêter ?",
       "VOTING_ON_CASE_CHOICE_TEXT": "Le meurtre de %s",
       "VOTING_ON_CASE_ERROR_TEXT": "choix invalide",
       "VOTING_ON_CASE_DONE_TEXT": "Merci!",
@@ -194,7 +194,7 @@
 
       "VERDICT_REVEAL_GUILTY_DETECTIVE": "C'est juste! Vous avez gagné un point de détective!",
       "VERDICT_REVEAL_GUILTY_MURDERER": "Vous gardez toujours votre point de meurtre.",
-      "VERDICT_REVEAL_INNOCENT_DETECTIVE": "Si vous avez bien compris, vous avez gagné un point de détective. Mais vous ne le saurez pas maintenant.",
+      "VERDICT_REVEAL_INNOCENT_DETECTIVE": "Si vous avez vu juste, vous avez gagné un point de détective. Mais vous ne le saurez pas tout de suite.",
       "VERDICT_REVEAL_COLDCASE_MURDERER": "Vous avez trompé %d détectives ",
 
       "REMAINING_CASES_TEXT": "AFFAIRES RESTANTES",
@@ -210,9 +210,9 @@
       "SCORECARD_MURDERS_SOLVED": "Meurtres Résolus!",
       "SCORECARD_VICTIMS": "Victime:",
       "SCORECARD_DETECTIVES_FOOLED": "joueurs dupés pendant les affaires",
-      "SCORECARD_GUESTS_BROUGHT": "Les invités ont apporté:",
-      "SCORECARD_MURDER_ATTEMPTS": "%dtentatives de Meurtre",
-      "SCORECARD_FIRST_BONUS": "%dPremières fois",
+      "SCORECARD_GUESTS_BROUGHT": "Invités amenés :",
+      "SCORECARD_MURDER_ATTEMPTS": "%d tentatives de meurtre",
+      "SCORECARD_FIRST_BONUS": "%d premières fois",
 
       "LORD_TIPPET_NAME": "SEIGNEUR TIPPET",
 
