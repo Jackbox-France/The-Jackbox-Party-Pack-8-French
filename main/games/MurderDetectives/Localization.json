@@ -88,7 +88,7 @@
       "MODERATION_TIMER_LABEL": "En attente de Modération",
 
       "GLOBAL_ROOM_CODE_LABEL": "Code de la Salle",
-      "GLOBAL_ROOM_CODE_CODE_LABEL": "Code<br>salle",
+      "GLOBAL_ROOM_CODE_CODE_LABEL": "Code<br>de salle",
       "GLOBAL_ROOM_CODE_AUDIENCE_LABEL": "Audience",
       "GLOBAL_ROOM_CODE_REMINDER_LABEL": "Jack<br>bx<br>.tv",
 
@@ -132,7 +132,7 @@
       "EXCLUSIVE_MURDER_HINT": "[header]FAUX[/header][line]Ce n'était pas %s.[/line][header]INDICE[/header][line]Le joueur pour lequel %s n'a pas de %s dans son nom.[/line]",
       "COOLING_DOWN_PROMPT_TEXT": "[section]Réessayez dans %d secondes...[/section]",
 
-      "MURDERING_SUCCESSFUL_TEXT": "CORRECT ! Vous avez assassiné %s (et gagné un point de meurtre). Mais taisez-vous !",
+      "MURDERING_SUCCESSFUL_TEXT": "[line]CORRECT ![/line][line]Vous avez assassiné %s (et gagné un point de meurtre).[/line][line]Mais taisez-vous ![/line]",
       "MURDERING_ERROR_TEXT": "Quelque chose a mal tourné",
       "MURDER_ATTEMPT_NOTIFICATION": "%d tentative de meurtre sur %s",
       "MURDER_ATTEMPTS_NOTIFICATION": "%d tentatives de meurtre sur %s",
