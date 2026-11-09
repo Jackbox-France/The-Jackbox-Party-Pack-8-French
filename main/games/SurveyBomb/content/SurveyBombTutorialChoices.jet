@@ -16,7 +16,7 @@
             "Guimauves",
             "Crème fouettée",
             "Cannelle",
-            "Canne à sucre",
+            "Sucre d'orge",
             "Zeste d'orange"
          ]
       },
@@ -81,7 +81,7 @@
          ]
       },
       {
-         "prompt":"Qu'est-ce qui est le plus collant",
+         "prompt":"Qu'est-ce qui est le plus collant ?",
          "choices":[
             "Colle",
             "Miel",
@@ -115,7 +115,7 @@
          "choices":[
             "Blagues sur les pets",
             "Batailles de tartes",
-            "Memes bizarres",
+            "Mèmes bizarres",
             "Singeries de chats",
             "Jeux de mots"
          ]
@@ -151,7 +151,7 @@
          ]
       },
       {
-         "prompt":"Les parties les plus froides de l'espace",
+         "prompt":"Les endroits les plus froids de l'espace",
          "choices":[
             "Météores",
             "Trous noirs",
