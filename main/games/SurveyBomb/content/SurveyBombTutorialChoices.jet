@@ -23,7 +23,7 @@
       {
          "prompt":"Chapeaux les plus cool",
          "choices":[
-            "Chapeau",
+            "Haut-de-forme",
             "Bonnet",
             "Fedora",
             "Béret",
@@ -43,8 +43,8 @@
       {
          "prompt":"Couleurs de cheveux préférées",
          "choices":[
-            "Blonde",
-            "Brunette",
+            "Blond",
+            "Brun",
             "Noir de jais",
             "Gris",
             "Chauve"
@@ -55,7 +55,7 @@
          "choices":[
             "Râteau",
             "Pelle",
-            "Cisaille",
+            "Cisailles",
             "Houe",
             "Tondeuse"
          ]
@@ -117,7 +117,7 @@
             "Batailles de tartes",
             "Mèmes bizarres",
             "Singeries de chats",
-            "Jeux de mots"
+            "Jeux de mots sur les grottes"
          ]
       },
       {
@@ -134,7 +134,7 @@
          "prompt":"Choses préférées à enflammer",
          "choices":[
             "Bougie",
-            "Journal",
+            "Bûche",
             "Pétard",
             "Crêpes",
             "Effigie"
@@ -151,7 +151,7 @@
          ]
       },
       {
-         "prompt":"Les endroits les plus froids de l'espace",
+         "prompt":"Les choses les plus cool de l'espace",
          "choices":[
             "Météores",
             "Trous noirs",
