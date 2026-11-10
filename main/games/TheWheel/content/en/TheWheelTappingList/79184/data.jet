@@ -19,7 +19,7 @@
    "t": "A",
    "v": "prompt",
    "n": "PromptAudio",
-   "s": Quels sont les mots qui sont des mots-valises (c'est-à-dire des mots qui mélangent deux mots ou plus) ?"
+   "s": "Quels sont les mots qui sont des mots-valises (c'est-à-dire des mots qui mélangent deux mots ou plus) ?"
   },
   {
    "t": "B",
