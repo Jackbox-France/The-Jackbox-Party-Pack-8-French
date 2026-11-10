@@ -36,7 +36,7 @@
    "x": false
   },
   {
-   "firstPrompt": "J'ESPERE {{BLANK}}",
+   "firstPrompt": "J'ESPÈRE {{BLANK}}",
    "id": "85492",
    "isValid": "",
    "secondPrompt": "JE SAIS {{BLANK}}",
@@ -50,10 +50,10 @@
    "x": false
   },
   {
-   "firstPrompt": "JE CREE {{BLANK}}",
+   "firstPrompt": "JE CRÉE {{BLANK}}",
    "id": "85494",
    "isValid": "",
-   "secondPrompt": "JE DETRUITS {{BLANK}}",
+   "secondPrompt": "JE DÉTRUIS {{BLANK}}",
    "x": false
   },
   {
@@ -64,14 +64,14 @@
    "x": false
   },
   {
-   "firstPrompt": "JE MERITE {{BLANK}}",
+   "firstPrompt": "JE MÉRITE {{BLANK}}",
    "id": "85496",
    "isValid": "",
-   "secondPrompt": "JE RECOIS {{BLANK}}",
+   "secondPrompt": "JE REÇOIS {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "JE REVE {{BLANK}}",
+   "firstPrompt": "JE RÊVE {{BLANK}}",
    "id": "85497",
    "isValid": "",
    "secondPrompt": "J'AI PEUR {{BLANK}}",
@@ -81,7 +81,7 @@
    "firstPrompt": "JE PROMETS {{BLANK}}",
    "id": "85498",
    "isValid": "",
-   "secondPrompt": "JE DELIVRE {{BLANK}}",
+   "secondPrompt": "JE DÉLIVRE {{BLANK}}",
    "x": false
   },
   {
@@ -95,7 +95,7 @@
    "firstPrompt": "J'ADORE {{BLANK}}",
    "id": "85500",
    "isValid": "",
-   "secondPrompt": "JE DETESTE {{BLANK}}",
+   "secondPrompt": "JE DÉTESTE {{BLANK}}",
    "x": false
   }
  ]

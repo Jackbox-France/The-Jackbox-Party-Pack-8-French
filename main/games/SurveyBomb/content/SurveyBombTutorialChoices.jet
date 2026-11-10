@@ -44,7 +44,7 @@
          "prompt": "Couleurs de cheveux préférées",
          "choices": [
             "Blond",
-            "Châtain",
+            "Brun",
             "Noir de jais",
             "Gris",
             "Chauve"
@@ -55,7 +55,7 @@
          "choices": [
             "Râteau",
             "Pelle",
-            "Cisaille",
+            "Cisailles",
             "Houe",
             "Tondeuse"
          ]
@@ -81,7 +81,7 @@
          ]
       },
       {
-         "prompt": "Qu'est-ce qui est le plus collant",
+         "prompt": "Qu'est-ce qui est le plus collant ?",
          "choices": [
             "Colle",
             "Miel",
@@ -151,13 +151,13 @@
          ]
       },
       {
-         "prompt": "Les parties les plus froides de l'espace",
+         "prompt": "Les choses les plus cool de l'espace",
          "choices": [
             "Météores",
             "Trous noirs",
             "Étoiles",
             "Aliens ?",
-            "Des lunes"
+            "Lunes"
          ]
       }
    ]

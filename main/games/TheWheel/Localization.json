@@ -19,8 +19,8 @@
         "TIMEOUT": "Nous sommes désolés, nous n'arrivons pas à vous connecter aux serveurs de Jackbox Games.<br />Vérifiez que votre connexion internet fonctionne correctement.",
         "USER_DISCONNECT": "Nous sommes désolés, le serveur vous a déconnecté. Veuillez réessayer.",
         "LOST_LICENSE": "Nous sommes désolés, nous avons perdu la licence de ce contenu !",
-        "STEAM_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Steam",
-        "TWITCH_PRIME_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Twitch Prime",
+        "STEAM_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Steam.",
+        "TWITCH_PRIME_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Twitch Prime.",
         "LOST_DLC": "Nous sommes désolés, la licence de votre DLC n'a pas pu être trouvée. Retour au menu...",
 
         "BACK": "Retour",
@@ -43,7 +43,7 @@
         "LEADERBOARD_DESCRIPTION": "",
         "BACK_TO_PACK_DESCRIPTION": "Retour au Party Pack",
         "SETTINGS_TITLE": "PARAMÈTRES",
-        "LEADERBOARD_TITLE": "LEADERBOARD",
+        "LEADERBOARD_TITLE": "CLASSEMENT",
         "CONNECTING": "Connexion aux services de jeux de Jackbox",
         "CONNECTING_DELAY": "Cela prend un certain temps...<br />Vérifiez votre connexion internet.",
         "GO_TO": "Rejoignez \n",
@@ -69,7 +69,7 @@
         "LOBBY_STATUS_MESSAGE_WAITINGFORMORE": "{MIN_PLAYERS} joueurs nécessaires pour démarrer",
         "LOBBY_STATUS_MESSAGE_CANSTART": "Appuyez ici lorsque tout le monde est prêt",
         "LOBBY_STATUS_MESSAGE_COUNTDOWN": "Annuler le lancement de la partie",
-        "LOBBY_STATUS_MESSAGE_WAITINGFORVIP": "En attente {VIP} pour démarrer la partie!",
+        "LOBBY_STATUS_MESSAGE_WAITINGFORVIP": "En attente de {VIP} pour commencer la partie !",
         "LOBBY_STATUS_MESSAGE_WAITINGFORGAMEPAD": "En attente du début de la partie !",
 
         "LOBBY_SETTINGS": "Paramètres",
@@ -103,7 +103,7 @@
         "TRIVIA_TYPE_NUMBER_TARGET_INSTRUCTIONS": "Soumettez un nombre aussi proche que possible de la bonne réponse.",
         "TRIVIA_TYPE_RAPID_FIRE_INSTRUCTIONS": "Tapez sur le plus grand nombre de réponses correctes possible avant la fin du temps imparti.",
         "TRIVIA_TYPE_MATCHING_INSTRUCTIONS": "Associez le plus grand nombre de réponses correctes possible avant la fin du temps imparti.",
-        "TRIVIA_TYPE_GUESSING_INSTRUCTIONS": "Devinez ce que la Roue pense sur votre appareil",
+        "TRIVIA_TYPE_GUESSING_INSTRUCTIONS": "Devinez ce que la Roue pense sur votre appareil.",
         
         "ASK_THE_WHEEL_PROMPT": "Vous pouvez maintenant poser une question à la Roue aux Énormes Proportions",
         "ASK_THE_WHEEL_PLACEHOLDER": "La question se pose ici",
@@ -114,10 +114,10 @@
         "SLICE_TYPE_BONUS_NAME": "TRANCHE DE POUVOIR",
 
         "SLICE_TYPE_WINNER_NAME": "%s gagne",
-        "SLICE_TYPE_WINNER_DESCRIPTION": "%s gagne la partie!",
+        "SLICE_TYPE_WINNER_DESCRIPTION": "%s gagne la partie !",
 
         "SLICE_TYPE_POINTS_NAME": "GAGNANT",
-        "SLICE_TYPE_POINTS_DESCRIPTION": "Vous obtenez %s points!",
+        "SLICE_TYPE_POINTS_DESCRIPTION": "Vous obtenez %s points !",
 
         "SLICE_TYPE_POINTS_FOR_PLAYER_NAME": "GAGNANT",
         "SLICE_TYPE_POINTS_FOR_PLAYER_DESCRIPTION": "%s obtient %s points",
@@ -185,7 +185,7 @@
         "AUDIENCE_REPLACE_SLICES_OPTION_BAD_SLICES": "CRÂNE",
         "AUDIENCE_REPLACE_SLICES_OPTION_BONUS_SLICES": "POUVOIR",
 
-        "SLICE_EFFECT_AUDIENCENUMSPINS_NAME": "COMPTEUR DE TOURS \nREMPLIR ou RÉINITIALISER",
+        "SLICE_EFFECT_AUDIENCENUMSPINS_NAME": "COMPTEUR DE TOURS\nPLEIN ou RÉINITIALISÉ",
         "SLICE_EFFECT_AUDIENCENUMSPINS_DESCRIPTION": "Tout le monde vote maintenant sur votre appareil",
         "SLICE_EFFECT_AUDIENCENUMSPINS_PROMPT": "Voulez-vous que le compteur de tours soit PLEIN ou RÉINITIALISÉ ?",
         "AUDIENCE_NUM_SPINS_OPTION_ZERO": "RÉINITIALISÉ",
@@ -209,7 +209,7 @@
         "AUDIENCE_SLICE_COUNT_OPTION_MOST_SLICES": "LE PLUS",
         "AUDIENCE_SLICE_COUNT_OPTION_FEWEST_SLICES": "LE MOINS",
 
-        "SLICE_EFFECT_AUDIENCESKULLSWAPPER_NAME": "SEULE\nou PARTAGÉE",
+        "SLICE_EFFECT_AUDIENCESKULLSWAPPER_NAME": "INDIVIDUELLES\nou PARTAGÉES",
         "SLICE_EFFECT_AUDIENCESKULLSWAPPER_DESCRIPTION": "Tout le monde vote maintenant sur votre appareil",
         "SLICE_EFFECT_AUDIENCESKULLSWAPPER_PROMPT": "Devrais-je transformer en Crâne les tranches qui appartiennent à un seul joueur ou les tranches partagées ?",
         "AUDIENCE_SKULL_SWAPPER_OPTION_SINGLE": "SEULES",
@@ -236,7 +236,7 @@
 
         "TEXT_DESCRIPTION_GUESSING_REVEAL": "La réponse était %s",
         "TEXT_DESCRIPTION_GUESSING_PLAYER_RESULT": "%s l'a eue en %s secondes",
-        "TEXT_DESCRIPTION_GUESSING_PLAYER_NO_ONE": "Personne ne l'a eue !",
+        "TEXT_DESCRIPTION_GUESSING_PLAYER_NO_ONE": "Personne n'a trouvé !",
 
         "TEXT_DESCRIPTION_MATCHING_REVEAL": "Les réponses étaient %s",
         "TEXT_DESCRIPTION_MATCHING_PLAYER_RESULT": "%s a trouvé %s bonnes associations",
