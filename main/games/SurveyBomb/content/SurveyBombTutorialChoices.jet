@@ -16,16 +16,16 @@
             "Guimauves",
             "Crème fouettée",
             "Cannelle",
-            "Canne à sucre",
+            "Sucre d'orge",
             "Zeste d'orange"
          ]
       },
       {
          "prompt": "Les chapeaux les plus élégants",
          "choices": [
-            "Chapeau",
+            "Haut-de-forme",
             "Bonnet",
-            "Chapeau feutre",
+            "Chapeau melon",
             "Béret",
             "Couronne"
          ]
@@ -43,8 +43,8 @@
       {
          "prompt": "Couleurs de cheveux préférées",
          "choices": [
-            "Blonde",
-            "Brunette",
+            "Blond",
+            "Châtain",
             "Noir de jais",
             "Gris",
             "Chauve"
@@ -67,13 +67,13 @@
             "Blocs",
             "Ours en peluche",
             "Clés",
-            "Caillou cool"
+            "Un caillou bien pointu"
          ]
       },
       {
          "prompt": "Meilleures choses sur lesquelles s'asseoir",
          "choices": [
-            "Causeuse",
+            "Fauteuil en cuir",
             "Tabouret de bar",
             "Ballon de yoga",
             "Banc en bois",
@@ -157,7 +157,7 @@
             "Trous noirs",
             "Étoiles",
             "Aliens ?",
-            "Des extraterrestres ?"
+            "Des lunes"
          ]
       }
    ]
