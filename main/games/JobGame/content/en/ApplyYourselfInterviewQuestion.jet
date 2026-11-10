@@ -27,7 +27,7 @@
       {
          "id": "76203",
          "isValid": "",
-         "question": "Comment aimeriez-vous être géré ?",
+         "question": "Comment aimeriez-vous que votre responsable vous accompagne ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -35,7 +35,7 @@
       {
          "id": "76204",
          "isValid": "",
-         "question": "Quel est le travail de vos rêves?",
+         "question": "Quel est le métier de vos rêves ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -75,7 +75,7 @@
       {
          "id": "76211",
          "isValid": "",
-         "question": "Que faisiez-vous pendant l'interruption de votre carrière professionnelle ?",
+         "question": "Qu'avez-vous fait pendant cette période sans emploi ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -147,7 +147,7 @@
       {
          "id": "76221",
          "isValid": "",
-         "question": "Quel est le retour le plus important que vous ayez jamais reçu ?",
+         "question": "Quel est le commentaire le plus marquant qu'on vous ait fait sur votre travail ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -187,7 +187,7 @@
       {
          "id": "76306",
          "isValid": "",
-         "question": "Comment se calmer quand on est stressé ?",
+         "question": "Comment faites-vous pour garder votre calme quand vous êtes stressé ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -347,7 +347,7 @@
       {
          "id": "76351",
          "isValid": "",
-         "question": "Pourquoi avez-vous quitté votre ancien métier ?",
+         "question": "Pourquoi avez-vous quitté votre ancien emploi ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -387,7 +387,7 @@
       {
          "id": "76356",
          "isValid": "",
-         "question": "Que dirait le service RH de votre dernier emploi à votre sujet ?",
+         "question": "Que dirait le service des ressources humaines de votre ancien employeur à votre sujet ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -443,7 +443,7 @@
       {
          "id": "76364",
          "isValid": "",
-         "question": "C'est vendredi, vous pouvez venir travailler en tenue décontractée. Vous portez quoi ?",
+         "question": "C'est vendredi, la tenue décontractée est autorisée au bureau. Vous venez habillé comment ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -459,7 +459,7 @@
       {
          "id": "76368",
          "isValid": "",
-         "question": "Où devons-nous envoyer votre premier chèque de paie ?",
+         "question": "Sur quel compte doit-on verser votre premier salaire ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -467,7 +467,7 @@
       {
          "id": "76369",
          "isValid": "",
-         "question": "Quel exercice de consolidation d'équipe aimeriez-vous que nous mettions en oeuvre ?",
+         "question": "Quelle activité de cohésion d'équipe aimeriez-vous mettre en place ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -475,7 +475,7 @@
       {
          "id": "76370",
          "isValid": "",
-         "question": "Qu'espérez-vous trouver dans la salle de récréation du bureau?",
+         "question": "Qu'aimeriez-vous trouver dans l'espace détente du bureau ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -523,7 +523,7 @@
       {
          "id": "76411",
          "isValid": "",
-         "question": "Quelle est votre tenue de puissance idéale ?",
+         "question": "Dans quelle tenue vous sentez-vous le plus sûr de vous ?",
          "round": "one",
          "round3Header": null,
          "x": false
@@ -579,7 +579,7 @@
       {
          "id": "76435",
          "isValid": "",
-         "question": "Où aimeriez-vous aller pour la retraite d'entreprise ?",
+         "question": "Où aimeriez-vous organiser le prochain séminaire d'entreprise ?",
          "round": "one",
          "round3Header": null,
          "x": false

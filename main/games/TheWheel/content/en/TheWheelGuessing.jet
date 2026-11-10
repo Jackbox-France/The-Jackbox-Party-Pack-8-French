@@ -2,17 +2,17 @@
     "content": [
         {
             "altSpellings": [
-                "cercle"
+                "Le Cercle"
             ],
-            "answer": "[i]Le Cercle[/i]",
+            "answer": "[i]The Circle[/i]",
             "category": "Cinéma et télévision",
             "clues": [
                 {
-                    "clue": "Il s'agissait à l'origine d'une émission de télévision britannique du même nom."
+                    "clue": "À l'origine, c'était une émission britannique portant le même nom."
                 },
                 {
-                    "clue": "Les participants sont isolés du monde quotidien.",
-                    "clueComment": "Les participants sont isolés du monde quotidien. Je peux m'identifier à ce genre de solitude."
+                    "clue": "Les participants sont coupés du monde extérieur.",
+                    "clueComment": "Les participants sont coupés du monde extérieur. Je connais bien ce genre de solitude."
                 },
                 {
                     "clue": "C'est diffusé sur Netflix.",
@@ -22,35 +22,35 @@
                     "clue": "Chaque joueur commence la compétition en créant un profil de réseau social."
                 },
                 {
-                    "clue": "Pendant la compétition, les participants ne se rencontrent jamais en face à face, et le \"catfishing\" est autorisé.",
+                    "clue": "Les candidats ne se voient jamais en face à face, et les faux profils sont autorisés.",
                     "clueComment": ""
                 },
                 {
-                    "clue": "Le titre de l'émission est la plus grande forme que le monde ait jamais connue. Ne vous avisez pas de dire \"Le Triangle\" !"
+                    "clue": "Le titre de l'émission désigne une forme géométrique. Et non, ce n'est pas « Le Triangle » !"
                 }
             ],
             "followup": "",
             "id": "79651",
             "isValid": "",
-            "prompt": "Quelle est mon émission de télé-réalité compétitive préférée ?",
-            "reveal": "Il est rond, et fier de l'être, c’est...",
+            "prompt": "Quelle est mon émission de téléréalité préférée ?",
+            "reveal": "C'est rond, c'est tendance, c'est…",
             "us": false,
             "x": false
         },
         {
             "altSpellings": [
                 "Blake et Mortimer",
-                "Blake et Mortimer",
+                "Blake & Mortimer",
                 "Blake Mortimer",
+                "Mortimer et Blake",
                 "Mortimer & Blake",
-                "Mortimer et Blake",
-                "Mortimer et Blake",
+                "Mortimer Blake",
                 "Blake et Mortimere",
                 "Blake & Mortimere",
-                "Blake Mortimere"
+                "Les aventures de Blake et Mortimer"
             ],
             "answer": "[i]Blake & Mortimer[/i]",
-            "category": "Animation/Livres comiques",
+            "category": "Bandes dessinées",
             "clues": [
                 {
                     "clue": "Cette bande dessinée a été créée en 1946."
@@ -71,7 +71,7 @@
                     "clue": "Leurs noms commencent respectivement par B et M."
                 }
             ],
-            "followup": "Vous vous en souvenez?",
+            "followup": "Vous vous en souvenez ?",
             "id": "79663",
             "isValid": "",
             "prompt": "Quelle est ma bande dessinée préférée ?",
@@ -81,12 +81,12 @@
         },
         {
             "altSpellings": [
-                "MAC",
-                "Moteur à explosion",
-                "le moteur à explosion",
-                "un moteur à explosion"
+                "moteur à combustion",
+                "moteur à explosion",
+                "moteur à combustion interne",
+                "moteur thermique"
             ],
-            "answer": "Moteur à combustion",
+            "answer": "Moteur à combustion interne",
             "category": "Histoire",
             "clues": [
                 {
@@ -501,7 +501,7 @@
                 "Le roi Alexandre"
             ],
             "answer": "Alexandre le Grand",
-            "category": "Figures historiques",
+            "category": "Personnages historiques",
             "clues": [
                 {
                     "clue": "Il était originaire de l'ancien royaume grec de Macédoine.",
@@ -535,7 +535,7 @@
         {
             "altSpellings": [],
             "answer": "Pérou",
-            "category": "Géographie et points de repère",
+            "category": "Géographie et monuments",
             "clues": [
                 {
                     "clue": "C'est en Amérique du Sud.",
@@ -613,7 +613,7 @@
                 "Mer Méditerranée"
             ],
             "answer": "La mer Méditerranée",
-            "category": "Géographie et points de repère",
+            "category": "Géographie et monuments",
             "clues": [
                 {
                     "clue": "C'était un important moyen de commerce et d'échange culturel pour les civilisations naissantes.",
@@ -687,7 +687,7 @@
                 "Langue islandaise"
             ],
             "answer": "Islandais",
-            "category": "Langue/Mots/Grammaire",
+            "category": "Langue et grammaire",
             "clues": [
                 {
                     "clue": "Elle peut être très difficile à apprendre pour les francophones.",
@@ -727,7 +727,7 @@
                 "tous les chemins mène à Rome"
             ],
             "answer": "\"Tous les chemins mènent à Rome\"",
-            "category": "Cinéma et Télévision",
+            "category": "Cinéma et télévision",
             "clues": [
                 {
                     "clue": "Dans le Moyen Âge, cette expression voulait dire que malgré les difficultés, on pouvait accéder à Dieu.",
@@ -764,7 +764,7 @@
                 "Westside Story"
             ],
             "answer": "[i]West Side Story[/i]",
-            "category": "Théâtre/Arts du spectacle",
+            "category": "Théâtre et spectacles",
             "clues": [
                 {
                     "clue": "C'est une comédie musicale très [i]cool[/i].",
@@ -834,7 +834,7 @@
         {
             "altSpellings": [],
             "answer": "Croatie",
-            "category": "Géographie et points de repère",
+            "category": "Géographie et monuments",
             "clues": [
                 {
                     "clue": "Elle faisait partie de la Yougoslavie.",
@@ -919,7 +919,7 @@
                 "La vie est comme une boîte de chocolats"
             ],
             "answer": "\"La vie c'est comme une boîte de chocolats\"",
-            "category": "Film/Série TV",
+            "category": "Cinéma et télévision",
             "clues": [
                 {
                     "clue": "La citation est dite en tête-à-tête.",
@@ -994,7 +994,7 @@
                 "Spidey"
             ],
             "answer": "Spider-Man",
-            "category": "Animation/Livres comiques",
+            "category": "Animation et BD",
             "clues": [
                 {
                     "clue": "Il était auparavant faible et sans prétention, jusqu'à ce qu'un accident bizarre lui donne des superpouvoirs.",
@@ -1206,7 +1206,7 @@
         {
             "altSpellings": [],
             "answer": "Octobre",
-            "category": "Calendrier/Vacances",
+            "category": "Calendrier et fêtes",
             "clues": [
                 {
                     "clue": "Aux États-Unis, c'est le mois national de la pizza, et dans le catholicisme, c'est le mois du saint rosaire.",
@@ -1391,7 +1391,7 @@
                 "Le Sahara"
             ],
             "answer": "désert du Sahara",
-            "category": "Géographie et points de repère",
+            "category": "Géographie et monuments",
             "clues": [
                 {
                     "clue": "Il y avait du sable partout.",
@@ -1461,7 +1461,7 @@
                 "croque-mort"
             ],
             "answer": "Embaumeur",
-            "category": "Professions",
+            "category": "Métiers",
             "clues": [
                 {
                     "clue": "Ce n'est pas la plus [i]vieille[/i] profession du monde, mais mais elle aurait pu faire concurrence.",
@@ -1531,7 +1531,7 @@
                 "observation des oiseaux"
             ],
             "answer": "Ornithologie",
-            "category": "Professions",
+            "category": "Métiers",
             "clues": [
                 {
                     "clue": "Cela implique de s'asseoir tranquillement et d'attendre.",
@@ -1718,7 +1718,7 @@
                 "Las Vegas"
             ],
             "answer": "Las Vegas !",
-            "category": "Géographie et points de repère",
+            "category": "Géographie et monuments",
             "clues": [
                 {
                     "clue": "C'est au milieu du désert.",
@@ -2135,7 +2135,7 @@
                 "Curie"
             ],
             "answer": "Marie Curie",
-            "category": "Figures historiques",
+            "category": "Personnages historiques",
             "clues": [
                 {
                     "clue": "Elle est née le 7 novembre 1867 à Varsovie, en Pologne.",
@@ -2229,7 +2229,7 @@
         {
             "altSpellings": [],
             "answer": "Socrate",
-            "category": "Figures historiques",
+            "category": "Personnages historiques",
             "clues": [
                 {
                     "clue": "Nous avons un peu traîné ensemble à l'époque de la Grèce antique.",
@@ -2797,7 +2797,7 @@
                 "tap dance"
             ],
             "answer": "Claquettes",
-            "category": "Théâtre/Arts du spectacle",
+            "category": "Théâtre et spectacles",
             "clues": [
                 {
                     "clue": "Parmi les danseurs célèbres de ce style figurent Bill Robinson, Savion Glover et Gregory Hines.",

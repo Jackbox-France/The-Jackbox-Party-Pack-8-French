@@ -3,7 +3,7 @@
       {
          "id": "76147",
          "isValid": "",
-         "prompt": "Donner une terrible devise de vie à avoir ?",
+         "prompt": "Quelle serait la pire devise à adopter dans la vie ?",
          "x": false
       },
       {
@@ -15,13 +15,13 @@
       {
          "id": "76149",
          "isValid": "",
-         "prompt": "Quel conseil avez-vous reçu récemment ?",
+         "prompt": "Quel conseil vous a-t-on déjà donné ?",
          "x": false
       },
       {
          "id": "76150",
          "isValid": "",
-         "prompt": "Qu'est-ce que vous diriez à votre vous du passé ?",
+         "prompt": "Que diriez-vous à votre moi plus jeune ?",
          "x": false
       },
       {
@@ -51,13 +51,13 @@
       {
          "id": "76155",
          "isValid": "",
-         "prompt": "Quelle citation mémorable aimeriez-vous voir dans votre album de fin d'année ?",
+         "prompt": "Quelle phrase aimeriez-vous voir sous votre photo de classe ?",
          "x": false
       },
       {
          "id": "76156",
          "isValid": "",
-         "prompt": "Décrivez la texture de votre collation préférée.",
+         "prompt": "Décrivez la texture de votre en-cas préféré.",
          "x": false
       },
       {
@@ -75,7 +75,7 @@
       {
          "id": "76159",
          "isValid": "",
-         "prompt": "Qu'est-ce que vous devriez faire sans jamais vous en soucier ?",
+         "prompt": "Qu'est-ce que vous savez devoir faire, mais que vous repoussez toujours ?",
          "x": false
       },
       {
@@ -105,7 +105,7 @@
       {
          "id": "76165",
          "isValid": "",
-         "prompt": "Décrivez une étape pour arriver à votre maison.",
+         "prompt": "Donnez une indication pour trouver votre maison.",
          "x": false
       },
       {
@@ -147,13 +147,13 @@
       {
          "id": "76173",
          "isValid": "",
-         "prompt": "Décrivez ce qui se passe dans une émission de télévision que vous avez regardé.",
+         "prompt": "Racontez ce qui se passe dans une émission que vous avez regardée.",
          "x": false
       },
       {
          "id": "76174",
          "isValid": "",
-         "prompt": "Qu'est-ce qui vous est arrivé d'embarrassant ?",
+         "prompt": "Racontez quelque chose de gênant qui vous est arrivé.",
          "x": false
       },
       {
@@ -189,7 +189,7 @@
       {
          "id": "76246",
          "isValid": "",
-         "prompt": "Que faites-vous lors d'une journée idéale en vacance ?",
+         "prompt": "À quoi ressemble votre journée de vacances idéale ?",
          "x": false
       },
       {
@@ -213,7 +213,7 @@
       {
          "id": "76250",
          "isValid": "",
-         "prompt": "Quel est un mauvais conseil pour un jeune diplômé universitaire ?",
+         "prompt": "Quel serait le pire conseil à donner à un jeune diplômé ?",
          "x": false
       },
       {
@@ -237,7 +237,7 @@
       {
          "id": "76263",
          "isValid": "",
-         "prompt": "Décrivez le processus de construction d'un nouveau sandwich. (Créez-en un nouveau)",
+         "prompt": "Expliquez comment préparer un sandwich totalement inédit. Inventez-le !",
          "x": false
       },
       {
@@ -267,13 +267,13 @@
       {
          "id": "76268",
          "isValid": "",
-         "prompt": "Quel est un slogan passionnant pour un ustensile de cuisine commun ?",
+         "prompt": "Trouvez un slogan accrocheur pour un ustensile de cuisine banal.",
          "x": false
       },
       {
          "id": "76269",
          "isValid": "",
-         "prompt": "Créez une devise d'état pour un état que vous ne connaissez pas beaucoup.",
+         "prompt": "Inventez une devise pour une région française que vous connaissez mal.",
          "x": false
       },
       {
@@ -357,7 +357,7 @@
       {
          "id": "76302",
          "isValid": "",
-         "prompt": "Quelle est la chose la plus mignonne que vous ayez vu un bébé faire ? (Inventez quelque chose si vous n'avez jamais vu de bébé.)",
+         "prompt": "Quelle est la chose la plus mignonne que vous ayez vu faire à un bébé ? (Inventez si nécessaire.)",
          "x": false
       },
       {
@@ -381,13 +381,13 @@
       {
          "id": "76323",
          "isValid": "",
-         "prompt": "Pourquoi pensez-vous que l'état de Floride est si étrange ?",
+         "prompt": "Pourquoi la Floride est-elle connue pour ses faits divers complètement absurdes ?",
          "x": false
       },
       {
          "id": "76324",
          "isValid": "",
-         "prompt": "Si vous trouviez cent dollars, que feriez-vous avec ?",
+         "prompt": "Si vous trouviez un billet de 100 euros par terre, qu'en feriez-vous ?",
          "x": false
       },
       {
@@ -411,7 +411,7 @@
       {
          "id": "76328",
          "isValid": "",
-         "prompt": "Quelle est votre opinion avec laquelle personne n'est d'accord ?",
+         "prompt": "Quelle opinion avez-vous que personne autour de vous ne partage ?",
          "x": false
       },
       {
@@ -447,7 +447,7 @@
       {
          "id": "76338",
          "isValid": "",
-         "prompt": "Quel est le commentaire typique que vos enseignants du primaire ont fait sur vos bulletins ?",
+         "prompt": "Quelle appréciation revenait souvent sur vos bulletins à l'école primaire ?",
          "x": false
       },
       {
@@ -465,7 +465,7 @@
       {
          "id": "76453",
          "isValid": "",
-         "prompt": "Décrivez un premier rendez-vous assez solide.",
+         "prompt": "Décrivez un premier rendez-vous plutôt réussi.",
          "x": false
       },
       {

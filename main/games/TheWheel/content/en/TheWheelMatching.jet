@@ -43,7 +43,7 @@
      "text": "Michael B. Jordan"
     }
    ],
-   "category": "Film & TV",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -61,15 +61,15 @@
   {
    "answers": [
     {
-     "match": "Martin Luther King Jr. Day",
+     "match": "Jour de l'an",
      "text": "Janvier"
     },
     {
-     "match": "Journée mondiale contre le cancer",
+     "match": "Saint-Valentin",
      "text": "Février"
     },
     {
-     "match": "Fête de la gastronomie",
+     "match": "Poisson d'avril",
      "text": "Avril"
     },
     {
@@ -77,15 +77,15 @@
      "text": "Mai"
     },
     {
-     "match": "Fête des pères",
+     "match": "Fête de la musique",
      "text": "Juin"
     },
     {
-     "match": "Journée mondiale de la malbouffe",
+     "match": "Fête nationale",
      "text": "Juillet"
     },
     {
-     "match": "Équinoxe d'automne",
+     "match": "Rentrée scolaire",
      "text": "Septembre"
     },
     {
@@ -93,26 +93,26 @@
      "text": "Octobre"
     },
     {
-     "match": "Armistice de 1918",
+     "match": "Armistice du 11 novembre",
      "text": "Novembre"
     },
     {
-     "match": "Journée des droits de l'Homme",
+     "match": "Noël",
      "text": "Décembre"
     }
    ],
-   "category": "Calendrier/Vacances",
+   "category": "Calendrier et fêtes",
    "decoys": [],
    "headers": [
     {
-     "match": "Jours",
+     "match": "Fêtes et événements",
      "text": "Mois"
     }
    ],
    "id": "76789",
    "isValid": "",
-   "prompt": "Associez le mois à son jour spécial",
-   "promptHeader": "Les mois et leurs jours spéciaux",
+   "prompt": "Associez chaque fête ou événement à son mois.",
+   "promptHeader": "Les fêtes et leurs mois",
    "us": true,
    "x": false
   },
@@ -221,7 +221,7 @@
      "text": "Basil Rathbone (Sherlock Holmes)"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -387,7 +387,7 @@
      "text": "Le xénomorphe d'[i]Alien[/i]"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -511,7 +511,7 @@
      "text": "Saint-Malo"
     }
    ],
-   "category": "Géographie et points de repère",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -569,7 +569,7 @@
      "text": "[i]Magic[/i]"
     }
    ],
-   "category": "Jeu",
+   "category": "Jeux",
    "decoys": [],
    "headers": [
     {
@@ -623,7 +623,7 @@
      "text": "Shirley Temple"
     }
    ],
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -681,7 +681,7 @@
      "text": "Chypre"
     }
    ],
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -797,7 +797,7 @@
      "text": "interdit"
     }
    ],
-   "category": "Langue/Mots/Grammaire",
+   "category": "Langue et grammaire",
    "decoys": [],
    "headers": [
     {
@@ -971,7 +971,7 @@
      "text": "Ça"
     }
    ],
-   "category": "Pop culture",
+   "category": "Culture populaire",
    "decoys": [],
    "headers": [
     {
@@ -1033,7 +1033,7 @@
      "text": "Emmanuel Macron"
     }
    ],
-   "category": "Figures historiques",
+   "category": "Personnages historiques",
    "decoys": [],
    "headers": [
     {
@@ -1129,7 +1129,7 @@
      "text": "brun"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -1249,7 +1249,7 @@
      "text": "Arménie"
     }
    ],
-   "category": "Géographie & points de repère",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -1307,7 +1307,7 @@
      "text": "Jake"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -1365,7 +1365,7 @@
      "text": "Danny Glover"
     }
    ],
-   "category": "Film & TV",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -1477,7 +1477,7 @@
      "text": "Johnny Cash"
     }
    ],
-   "category": "Figures historiques",
+   "category": "Personnages historiques",
    "decoys": [],
    "headers": [
     {
@@ -1543,7 +1543,7 @@
      "text": "Kerri Walsh Jennings"
     }
    ],
-   "category": "Games",
+   "category": "Jeux",
    "decoys": [],
    "headers": [
     {
@@ -1601,7 +1601,7 @@
      "text": "Biscuit"
     }
    ],
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -1675,7 +1675,7 @@
      "text": "[i]Un été à Osage County[/i]"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -1733,7 +1733,7 @@
      "text": "[i]Harry Potter[/i]"
     }
    ],
-   "category": "Pop Culture",
+   "category": "Culture populaire",
    "decoys": [],
    "headers": [
     {
@@ -1799,7 +1799,7 @@
      "text": "Poissons"
     }
    ],
-   "category": "Calendrier/Vacances",
+   "category": "Calendrier et fêtes",
    "decoys": [],
    "headers": [
     {
@@ -1857,7 +1857,7 @@
      "text": "Cardi B"
     }
    ],
-   "category": "Pop culture",
+   "category": "Culture populaire",
    "decoys": [],
    "headers": [
     {
@@ -1919,7 +1919,7 @@
      "text": "Parc National Mercantour"
     }
    ],
-   "category": "Géographie & Points de Repère",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -2039,7 +2039,7 @@
      "text": "Pierogi"
     }
    ],
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -2101,7 +2101,7 @@
      "text": "Groenland"
     }
    ],
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "decoys": [
     {
      "text": ""
@@ -2221,7 +2221,7 @@
      "text": "pampoenkoekie"
     }
    ],
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -2287,7 +2287,7 @@
      "text": "Kraft mac au fromage"
     }
    ],
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -2457,7 +2457,7 @@
      "text": "[i]Un jour sans fin[/i]"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -2523,7 +2523,7 @@
      "text": "Jane Goodall"
     }
    ],
-   "category": "Figures historiques",
+   "category": "Personnages historiques",
    "decoys": [],
    "headers": [
     {
@@ -2573,7 +2573,7 @@
      "text": "[i]L'Amour est dans le pré[/i]"
     }
    ],
-   "category": "Film & TV",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -2615,7 +2615,7 @@
      "text": "Violet"
     }
    ],
-   "category": "Pop culture",
+   "category": "Culture populaire",
    "decoys": [],
    "headers": [
     {
@@ -2681,7 +2681,7 @@
      "text": "Sandra Bullock"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -2793,7 +2793,7 @@
      "text": "[i]Philadelphia[/i]"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -2909,7 +2909,7 @@
      "text": "CN Tower"
     }
    ],
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -3025,7 +3025,7 @@
      "text": "Népal"
     }
    ],
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -3083,7 +3083,7 @@
      "text": "Grand Canyon"
     }
    ],
-   "category": "Géographie et points de repère",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -3319,7 +3319,7 @@
      "text": "Little Mix"
     }
    ],
-   "category": "Music",
+   "category": "Musique",
    "decoys": [],
    "headers": [
     {
@@ -3385,7 +3385,7 @@
      "text": "Finlande"
     }
    ],
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -3451,7 +3451,7 @@
      "text": "Rupert Grint"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -3517,7 +3517,7 @@
      "text": "Suisse"
     }
    ],
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -3583,7 +3583,7 @@
      "text": "Clermont Foot 63"
     }
    ],
-   "category": "Compagnies et Marques",
+   "category": "Entreprises et marques",
    "decoys": [],
    "headers": [
     {
@@ -3707,7 +3707,7 @@
      "text": "Décembre"
     }
    ],
-   "category": "Calendrier/Vacances",
+   "category": "Calendrier et fêtes",
    "decoys": [],
    "headers": [
     {
@@ -3765,7 +3765,7 @@
      "text": "[i]Harry Potter & la coupe de feu[/i]"
     }
    ],
-   "category": "Pop culture",
+   "category": "Culture populaire",
    "decoys": [],
    "headers": [
     {
@@ -3889,7 +3889,7 @@
      "text": "Polonais"
     }
    ],
-   "category": "Langue/Mots/Grammaire",
+   "category": "Langue et grammaire",
    "decoys": [],
    "headers": [
     {
@@ -3951,7 +3951,7 @@
      "text": "LeVar Burton, [i]Reading Rainbow[/i]"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -4009,7 +4009,7 @@
      "text": "Hirame"
     }
    ],
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -4133,7 +4133,7 @@
      "text": "Chef suédois"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -4257,7 +4257,7 @@
      "text": "Apis"
     }
    ],
-   "category": "Historical Figures",
+   "category": "Personnages historiques",
    "decoys": [],
    "headers": [
     {
@@ -4307,7 +4307,7 @@
      "text": "Cookie Crisp"
     }
    ],
-   "category": "Food & Drink",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -4481,7 +4481,7 @@
      "text": "Walibi"
     }
    ],
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -4597,7 +4597,7 @@
      "text": "[i]The Big Short[/i]"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -4659,7 +4659,7 @@
      "text": "InOUI"
     }
    ],
-   "category": "Entreprises & marques",
+   "category": "Entreprises et marques",
    "decoys": [],
    "headers": [
     {
@@ -4721,7 +4721,7 @@
      "text": "Odie"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -4787,7 +4787,7 @@
      "text": "Cuisinier"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -4911,7 +4911,7 @@
      "text": "Leonard Nimoy"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -4969,7 +4969,7 @@
      "text": "Potassium"
     }
    ],
-   "category": "Science & médecine",
+   "category": "Sciences et médecine",
    "decoys": [],
    "headers": [
     {
@@ -5046,7 +5046,7 @@
    "answers": [
     {
      "match": "Barry Nelson",
-     "text": "Premier [i]Casino Royale[/i]"
+     "text": "[i]Casino Royale[/i] (1954, téléfilm)"
     },
     {
      "match": "Sean Connery",
@@ -5054,7 +5054,7 @@
     },
     {
      "match": "David Niven",
-     "text": "Deuxième [i]Casino Royale[/i]"
+     "text": "[i]Casino Royale[/i] (1967)"
     },
     {
      "match": "George Lazenby",
@@ -5062,7 +5062,7 @@
     },
     {
      "match": "Roger Moore",
-     "text": "[i]Octo pussy[/i]"
+     "text": "[i]Octopussy[/i]"
     },
     {
      "match": "Timothy Dalton",
@@ -5077,18 +5077,18 @@
      "text": "[i]Skyfall[/i]"
     }
    ],
-   "category": "Films et télevision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
-     "match": "Acteurs",
-     "text": "Films"
+     "match": "Interprètes de Bond",
+     "text": "Films ou téléfilms"
     }
    ],
    "id": "80379",
    "isValid": "",
-   "prompt": "Associez l'acteur à son film correspondant",
-   "promptHeader": "Leur nom est Bond... James Bond.",
+   "prompt": "Associez chaque interprète de James Bond à l'œuvre dans laquelle il apparaît.",
+   "promptHeader": "Les différents visages de James Bond",
    "us": true,
    "x": false
   },
@@ -5193,7 +5193,7 @@
      "text": "Magnéto"
     }
    ],
-   "category": "Animation/Bande-dessinée",
+   "category": "Animation et BD",
    "decoys": [],
    "headers": [
     {
@@ -5375,7 +5375,7 @@
      "text": "Jus d'orange"
     }
    ],
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -5441,7 +5441,7 @@
      "text": "21"
     }
    ],
-   "category": "Music",
+   "category": "Musique",
    "decoys": [],
    "headers": [
     {
@@ -5499,7 +5499,7 @@
      "text": "[i]That '70s Show[/i]"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -5557,7 +5557,7 @@
      "text": "[i]Sunny Afternoon[/i]"
     }
    ],
-   "category": "Théâtre/Arts de la scène",
+   "category": "Théâtre et spectacles",
    "decoys": [],
    "headers": [
     {
@@ -5743,7 +5743,7 @@
      "text": "[i]Thor: Ragnarok[/i]"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -5987,7 +5987,7 @@
      "text": "Khara-Zire"
     }
    ],
-   "category": "Géographie et points de repère",
+   "category": "Géographie et monuments",
    "decoys": [],
    "headers": [
     {
@@ -6045,7 +6045,7 @@
      "text": "Hawkeye, fais tourner ta roue"
     }
    ],
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {
@@ -6157,7 +6157,7 @@
      "text": "Marty McFly"
     }
    ],
-   "category": "Factoïdes",
+   "category": "Anecdotes",
    "decoys": [],
    "headers": [
     {
@@ -6335,7 +6335,7 @@
      "text": "Steakburger"
     }
    ],
-   "category": "Food & Drink",
+   "category": "Nourriture et boissons",
    "decoys": [],
    "headers": [
     {
@@ -6513,7 +6513,7 @@
      "text": "Marley"
     }
    ],
-   "category": "Animals",
+   "category": "Animaux",
    "decoys": [],
    "headers": [
     {
@@ -6571,7 +6571,7 @@
      "text": "Alvin"
     }
    ],
-   "category": "Film & TV",
+   "category": "Cinéma et télévision",
    "decoys": [],
    "headers": [
     {

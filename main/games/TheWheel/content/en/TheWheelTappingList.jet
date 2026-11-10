@@ -27,7 +27,7 @@
                     "text":"huile d'olive"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"roquefort"
@@ -84,7 +84,7 @@
                     "text":"Nager"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Kennedy"
@@ -141,7 +141,7 @@
                     "text":"Z"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"G"
@@ -192,7 +192,7 @@
                     "text":"Mandrill"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Jaguar"
@@ -243,7 +243,7 @@
                     "text":"\"Oh p**** c’est bon !\""
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"\"Un plaisir décadent à chaque bouchée.\""
@@ -309,7 +309,7 @@
                     "text":"Dionysos"
                 }
             ],
-            "category":"Historical Figures",
+            "category":"Personnages historiques",
             "decoys":[
                 {
                     "text":"Tesla"
@@ -363,7 +363,7 @@
                     "text":"Cobra"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"Candélabra"
@@ -411,7 +411,7 @@
                     "text":"[i]Le Songe d'une nuit d'été[/i]"
                 }
             ],
-            "category":"Theatre/Performing Arts",
+            "category":"Théâtre et spectacles",
             "decoys":[
                 {
                     "text":"[i]Rent[/i]"
@@ -468,7 +468,7 @@
                     "text":"N.W.A"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"OutKast"
@@ -522,7 +522,7 @@
                     "text":"Butterfly"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"Skater squat"
@@ -576,7 +576,7 @@
                     "text":"169"
                 }
             ],
-            "category":"Math",
+            "category":"Mathématiques",
             "decoys":[
                 {
                     "text":"122"
@@ -599,7 +599,7 @@
             ],
             "id":"76765",
             "isValid":"",
-            "prompt":"Lesquels de ces nombres ont un carré parfait ?",
+            "prompt":"Lesquels de ces nombres sont des carrés parfaits ?",
             "us":false,
             "x":false
         },
@@ -630,7 +630,7 @@
                     "text":"Jaguar"
                 }
             ],
-            "category":"Vehicles",
+            "category":"Véhicules",
             "decoys":[
                 {
                     "text":"Mazda"
@@ -678,7 +678,7 @@
                     "text":"ventricule droit"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"lobe supérieur"
@@ -732,7 +732,7 @@
                     "text":"Sablé des Flandres"
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"Gerblé"
@@ -780,7 +780,7 @@
                     "text":"Donald"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Marc"
@@ -831,7 +831,7 @@
                     "text":"Papier Tue-mouche"
                 }
             ],
-            "category":"Animation/Comic Books",
+            "category":"Animation et BD",
             "decoys":[
                 {
                     "text":"Attrape-mouche de Vénus"
@@ -888,7 +888,7 @@
                     "text":"Merida"
                 }
             ],
-            "category":"Animation/Comic Books",
+            "category":"Animation et BD",
             "decoys":[
                 {
                     "text":"Catherine"
@@ -942,7 +942,7 @@
                     "text":"la façon dont je te hais"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"la façon dont tu expliques"
@@ -996,7 +996,7 @@
                     "text":"C'est l'heure d'aller au lit"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Oublie pas ton goûter"
@@ -1053,7 +1053,7 @@
                     "text":"Snow Leopard"
                 }
             ],
-            "category":"Technology",
+            "category":"Technologie",
             "decoys":[
                 {
                     "text":"Sahara"
@@ -1107,7 +1107,7 @@
                     "text":"C’est rien beau !"
                 }
             ],
-            "category":"News Media",
+            "category":"Médias d'information",
             "decoys":[
                 {
                     "text":"Nom de Doué !"
@@ -1161,7 +1161,7 @@
                     "text":"haricots verts"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"carotte"
@@ -1221,7 +1221,7 @@
                     "text":"visiter le Taj Mahal"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"terminer un marathon"
@@ -1263,7 +1263,7 @@
                     "text":"un voilier"
                 },
                 {
-                    "text":"un parapluie"
+                    "text":"une ombrelle"
                 },
                 {
                     "text":"une corne"
@@ -1323,7 +1323,7 @@
                     "text":"Omble de fontaine"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Hachée"
@@ -1377,7 +1377,7 @@
                     "text":"[i]Midnight Express[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Le Parrain 2[/i]"
@@ -1431,7 +1431,7 @@
                     "text":"Le Chariot"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Le Chat"
@@ -1479,7 +1479,7 @@
                     "text":"schiste argileux"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"pierre ponce"
@@ -1533,7 +1533,7 @@
                     "text":"Chien Aveugle"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Uruk-Hai"
@@ -1638,7 +1638,7 @@
                     "text":"Radon"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"Carbone"
@@ -1689,7 +1689,7 @@
                     "text":"[i]3615 Code Père Noël[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Canelle et sucre d'orge[/i]"
@@ -1743,7 +1743,7 @@
                     "text":"[i]Le Vif de l'histoire[/i]"
                 }
             ],
-            "category":"News Media",
+            "category":"Médias d'information",
             "decoys":[
                 {
                     "text":"[i]Plantes acerbes[/i]"
@@ -1797,7 +1797,7 @@
                     "text":"Crozets"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Spiraliara"
@@ -1845,10 +1845,10 @@
                     "text":"W"
                 },
                 {
-                    "text":"\"\""
+                    "text":"'"
                 }
             ],
-            "category":"Language/Words/Grammar",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"Y"
@@ -1871,7 +1871,7 @@
             ],
             "id":"76827",
             "isValid":"",
-            "prompt":"Lesquelles de ces consonnes sont dans l'alphabet Hawaiien ?",
+            "prompt":"Quelles consonnes font partie de l'alphabet hawaïen ?",
             "us":false,
             "x":false
         },
@@ -1902,7 +1902,7 @@
                     "text":"[i]Mario Kart 8 Deluxe[/i]"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"[i]Super Mario 64[/i] (1996)"
@@ -2118,7 +2118,7 @@
                     "text":"\"Le Masque de la mort rouge\""
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"\"La culpabilité\""
@@ -2214,7 +2214,7 @@
                     "text":"incisive centrale mandibulaire"
                 },
                 {
-                    "text":"canine mandibulaire"
+                    "text":"canine inférieure (cuspide)"
                 },
                 {
                     "text":"troisième molaire inférieure"
@@ -2226,7 +2226,7 @@
                     "text":"deuxième prémolaire mandibulaire"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"maxillaire mandibulaire"
@@ -2289,7 +2289,7 @@
                     "text":"Emmy"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Grammy"
@@ -2337,7 +2337,7 @@
                     "text":"Branlette"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Belle-Miche"
@@ -2388,7 +2388,7 @@
                     "text":"Éric Galliano"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Vincent Lagaf'"
@@ -2442,7 +2442,7 @@
                     "text":"Moyeu"
                 }
             ],
-            "category":"Vehicles",
+            "category":"Véhicules",
             "decoys":[
                 {
                     "text":"Pétale"
@@ -2493,7 +2493,7 @@
                     "text":"too"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"toxique"
@@ -2541,7 +2541,7 @@
                     "text":"Macaron le glouton"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Rodrigue"
@@ -2595,7 +2595,7 @@
                     "text":"Star Warsiors"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Galaxy Wars"
@@ -2643,7 +2643,7 @@
                     "text":"Poupe"
                 }
             ],
-            "category":"Vehicles",
+            "category":"Véhicules",
             "decoys":[
                 {
                     "text":"Arbre de transmission"
@@ -2703,7 +2703,7 @@
                     "text":"lenticular"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"perpendicular"
@@ -2757,7 +2757,7 @@
                     "text":"CARL 500"
                 }
             ],
-            "category":"Pop Culture",
+            "category":"Culture populaire",
             "decoys":[
                 {
                     "text":"Amazon Alexa"
@@ -2811,7 +2811,7 @@
                     "text":"Helheim"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Olympe"
@@ -2856,7 +2856,7 @@
                     "text":"argent"
                 }
             ],
-            "category":"Pop Culture",
+            "category":"Culture populaire",
             "decoys":[
                 {
                     "text":"drapeau américain"
@@ -2907,7 +2907,7 @@
                     "text":"Harry Potter"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Balai"
@@ -2958,7 +2958,7 @@
                     "text":"Petra"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Opéra de Disney"
@@ -3021,7 +3021,7 @@
                     "text":"Normal"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Caféine"
@@ -3090,7 +3090,7 @@
                     "text":"Bette Davis"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Orson Welles"
@@ -3156,7 +3156,7 @@
                     "text":"une pastèque"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"une autre chenille"
@@ -3204,7 +3204,7 @@
                     "text":"Mercury"
                 }
             ],
-            "category":"Animation/Comic Books",
+            "category":"Animation et BD",
             "decoys":[
                 {
                     "text":"Hera"
@@ -3258,7 +3258,7 @@
                     "text":"sapeur pompier"
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"gardien de phare"
@@ -3324,7 +3324,7 @@
                     "text":"[i]Méfiez-vous des Abeilles![/i]"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"[i]Le Bonhomme de Neige meurtrier[/i]"
@@ -3378,7 +3378,7 @@
                     "text":"chien errant"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"pleurs"
@@ -3435,7 +3435,7 @@
                     "text":"Tapeurs de cerceuils"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Mommies"
@@ -3489,7 +3489,7 @@
                     "text":"Roi Ghidorah"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Reine Pénélope"
@@ -3540,7 +3540,7 @@
                     "text":"Rutherfordium"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"Carbone"
@@ -3597,7 +3597,7 @@
                     "text":"Yaddle"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"HAL 9000"
@@ -3651,7 +3651,7 @@
                     "text":"Yale"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"Amherst"
@@ -3702,7 +3702,7 @@
                     "text":"Christophe, 24 ans"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"Tony, 28 ans"
@@ -3753,7 +3753,7 @@
                     "text":"Bill Wyman"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Keith Roberts"
@@ -3807,7 +3807,7 @@
                     "text":"Pays-Bas"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Hongrie"
@@ -3852,7 +3852,7 @@
                     "text":"[i]Grey's Anatomy : Station 19[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]This Is Us[/i]"
@@ -3900,7 +3900,7 @@
                     "text":"Cosmic Girls"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Those Girls"
@@ -4005,7 +4005,7 @@
                     "text":"Grand-père George"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Veronica Salt"
@@ -4056,7 +4056,7 @@
                     "text":"Éperons de cowboy"
                 }
             ],
-            "category":"Factoids",
+            "category":"Anecdotes",
             "decoys":[
                 {
                     "text":"Munitions"
@@ -4107,7 +4107,7 @@
                     "text":"Pas de manoir à Neuchâtel"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"De la vérité"
@@ -4158,7 +4158,7 @@
                     "text":"Vega"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Yattaran"
@@ -4206,7 +4206,7 @@
                     "text":"[i]Lola[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Shrek 2[/i]"
@@ -4254,7 +4254,7 @@
                     "text":"Juste un bar qui éclaire le trottoir"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"C'est Moussa Sissoko"
@@ -4308,7 +4308,7 @@
                     "text":"Caramel à la noix de coco"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Massepain"
@@ -4368,7 +4368,7 @@
                     "text":"Andromède"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"Colosse"
@@ -4419,7 +4419,7 @@
                     "text":"Éthiopie"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Russie"
@@ -4473,7 +4473,7 @@
                     "text":"[i]Blue Jasmine[/i]"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"[i]Un jour de pluie à New York[/i]"
@@ -4518,7 +4518,7 @@
                     "text":"orifice des glandes sudorales"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"cloaca"
@@ -4569,7 +4569,7 @@
                     "text":"Rita Moreno"
                 }
             ],
-            "category":"Pop Culture",
+            "category":"Culture populaire",
             "decoys":[
                 {
                     "text":"Walt Disney"
@@ -4620,7 +4620,7 @@
                     "text":"Tartare"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"Xena"
@@ -4671,7 +4671,7 @@
                     "text":"Capucine"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Daphnés"
@@ -4719,7 +4719,7 @@
                     "text":"Adam Sandler"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Marlon Brando"
@@ -4764,7 +4764,7 @@
                     "text":"combinaison lestée pour le sommeil"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"méthode dite \"du bordage\""
@@ -4818,7 +4818,7 @@
                     "text":"Terrence"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Dexter"
@@ -4863,7 +4863,7 @@
                     "text":"The Misty Mountains"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"The Shuddering Wood"
@@ -4926,7 +4926,7 @@
                     "text":"Petit Beurre"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Crème De Marrons"
@@ -4977,7 +4977,7 @@
                     "text":"\"Chaud buisness\""
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"\"Tout va super, mon roi\""
@@ -5037,7 +5037,7 @@
                     "text":"Fidji"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Chine"
@@ -5100,7 +5100,7 @@
                     "text":"Poulet Rôti Crudités"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Poulet Rôti Cheddar"
@@ -5157,7 +5157,7 @@
                     "text":"\"Dur dur d'être bébé !\""
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"\"On m'appelle l'OVNI\""
@@ -5220,7 +5220,7 @@
                     "text":"[i]Abbey Road[/i]"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"[i]4[/i]"
@@ -5310,7 +5310,7 @@
                     "text":"droit"
                 }
             ],
-            "category":"Math",
+            "category":"Mathématiques",
             "decoys":[
                 {
                     "text":"français"
@@ -5364,7 +5364,7 @@
                     "text":"Lauren Bacall"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Kylian Mbappé"
@@ -5418,7 +5418,7 @@
                     "text":"[i]Soul[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Baby Boss[/i]"
@@ -5484,7 +5484,7 @@
                     "text":"Surcouf"
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"HyperPlus"
@@ -5541,7 +5541,7 @@
                     "text":"blanc"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"quinto"
@@ -5595,7 +5595,7 @@
                     "text":"The Hollies"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"The Lovin' Spoonful"
@@ -5646,7 +5646,7 @@
                     "text":"Louisiane"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Arizona"
@@ -5694,7 +5694,7 @@
                     "text":"[i]Australopithecus afarensis[/i]"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"[i]Australopithecus Rex[/i]"
@@ -5742,7 +5742,7 @@
                     "text":"Lac Champlain"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Grand Lac Salé"
@@ -5793,7 +5793,7 @@
                     "text":"révèle accidentellement le scandale du Watergate"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"traverse l'Europe en courant"
@@ -5847,7 +5847,7 @@
                     "text":"Polaris"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"La galaxie du Sombrero"
@@ -5907,7 +5907,7 @@
                     "text":"[i]Jules César[/i]"
                 }
             ],
-            "category":"Theatre/Performing Arts",
+            "category":"Théâtre et spectacles",
             "decoys":[
                 {
                     "text":"[i]La Templière[/i]"
@@ -5958,7 +5958,7 @@
                     "text":"ondes radio"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"gravité"
@@ -6003,7 +6003,7 @@
                     "text":"reine"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"duc"
@@ -6063,7 +6063,7 @@
                     "text":"système tégumentaire"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"système sensoriel-perceptif"
@@ -6105,7 +6105,7 @@
                     "text":"Lâcher le lion dans l'arène"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Être déchaîné comme une bête"
@@ -6156,7 +6156,7 @@
                     "text":"l'humour de Charlie Chaplin"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"la dextérité de Zinedine"
@@ -6222,7 +6222,7 @@
                     "text":"ciboulette"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"cannelle"
@@ -6336,7 +6336,7 @@
                     "text":"anneau de cire"
                 }
             ],
-            "category":"Technology",
+            "category":"Technologie",
             "decoys":[
                 {
                     "text":"périphériques de stockage"
@@ -6501,7 +6501,7 @@
                     "text":"mollusques et crustacés"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"sébaste"
@@ -6564,7 +6564,7 @@
                     "text":"Joe Cocker"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"The Rolling Stones"
@@ -6618,7 +6618,7 @@
                     "text":"babies growing"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"pants of orange"
@@ -6669,7 +6669,7 @@
                     "text":"“Space Cowboy”"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"“I Want It That Way”"
@@ -6714,7 +6714,7 @@
                     "text":"Jasper"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Vampiria"
@@ -6762,7 +6762,7 @@
                     "text":"soustraction"
                 }
             ],
-            "category":"Math",
+            "category":"Mathématiques",
             "decoys":[
                 {
                     "text":"parallèles"
@@ -6822,7 +6822,7 @@
                     "text":"[i]Des amours de sœurcières[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Le chien président[/i]"
@@ -6873,7 +6873,7 @@
                     "text":"intestin grêle"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"thymus"
@@ -6936,7 +6936,7 @@
                     "text":"Louise Bourrat"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Philippe Etchebest"
@@ -6990,7 +6990,7 @@
                     "text":"Tony Hawk"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"Tom Hanks"
@@ -7035,7 +7035,7 @@
                     "text":"à l'air libre"
                 }
             ],
-            "category":"Theatre/Performing Arts",
+            "category":"Théâtre et spectacles",
             "decoys":[
                 {
                     "text":"larve"
@@ -7086,7 +7086,7 @@
                     "text":"C'est pas fait pour penser"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Un petit peu d'alcool en tête-à-tête"
@@ -7134,7 +7134,7 @@
                     "text":"Sao Tomé et Principe"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Panama"
@@ -7176,7 +7176,7 @@
                     "text":"Catherine Parr"
                 }
             ],
-            "category":"Historical Figures",
+            "category":"Personnages historiques",
             "decoys":[
                 {
                     "text":"Marie, reine d'Écosse"
@@ -7224,7 +7224,7 @@
                     "text":"[i]Les marchands de gloire[/i]"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"[i]La Ferme des mimosas[/i]"
@@ -7287,7 +7287,7 @@
                     "text":"Qin Shaobo"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Stanley Tucci"
@@ -7320,7 +7320,7 @@
                     "text":"du Pacifique"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Rose pâle"
@@ -7380,7 +7380,7 @@
                     "text":"Plombier"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Danseur exotique"
@@ -7422,7 +7422,7 @@
                     "text":"Saison"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Funkenweizen"
@@ -7470,7 +7470,7 @@
                     "text":"Monstre marin"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Chipmunks maléfiques"
@@ -7515,7 +7515,7 @@
                     "text":"Octobre"
                 }
             ],
-            "category":"Calendar/Holidays",
+            "category":"Calendrier et fêtes",
             "decoys":[
                 {
                     "text":"Septembre"
@@ -7563,7 +7563,7 @@
                     "text":"Communard"
                 }
             ],
-            "category":"Occupations",
+            "category":"Métiers",
             "decoys":[
                 {
                     "text":"Chef du jour"
@@ -7620,7 +7620,7 @@
                     "text":"\"Look What You Made Me Do\""
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"\"Bad Romance\""
@@ -7668,7 +7668,7 @@
                     "text":"Mollusques et crustacés"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"Haricots verts"
@@ -7716,7 +7716,7 @@
                     "text":"Braeburn"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"King's Knave"
@@ -7767,7 +7767,7 @@
                     "text":"Warrant"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Steely Dan"
@@ -7824,7 +7824,7 @@
                     "text":"Texas"
                 }
             ],
-            "category":"Factoids",
+            "category":"Anecdotes",
             "decoys":[
                 
             ],
@@ -7873,7 +7873,7 @@
                     "text":"Anne"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"Catherine"
@@ -7933,7 +7933,7 @@
                     "text":"promotion"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"poussée et parade"
@@ -7984,7 +7984,7 @@
                     "text":"Néphile à soie dorée"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Tarentelle"
@@ -8032,7 +8032,7 @@
                     "text":"[i]Encore vous ?[/i]"
                 }
             ],
-            "category":"Theatre/Performing Arts",
+            "category":"Théâtre et spectacles",
             "decoys":[
                 {
                     "text":"[i]Bref[/i]"
@@ -8074,7 +8074,7 @@
                     "text":"gympie gympie"
                 }
             ],
-            "category":"Factoids",
+            "category":"Anecdotes",
             "decoys":[
                 {
                     "text":"lierre suédois"
@@ -8128,7 +8128,7 @@
                     "text":"Bouzillator"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Prof Etrange"
@@ -8176,7 +8176,7 @@
                     "text":"Vautour"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Oeil de Faucon"
@@ -8224,7 +8224,7 @@
                     "text":"“Hair / Crazy In Love”"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"“Twinkle Twinkle Little Star”"
@@ -8272,7 +8272,7 @@
                     "text":"Si c'est votre première soirée au Fight Club, vous devez vous battre"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Les sacs bananes sont interdits"
@@ -8317,7 +8317,7 @@
                     "text":"peste bovine"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"hyperhidrose"
@@ -8377,7 +8377,7 @@
                     "text":"Syndicat national des radios libres"
                 }
             ],
-            "category":"Occupations",
+            "category":"Métiers",
             "decoys":[
                 {
                     "text":"Union des Oiseaux de Nuit"
@@ -8431,7 +8431,7 @@
                     "text":"Lapin Ricochet"
                 }
             ],
-            "category":"Animation/Comic Books",
+            "category":"Animation et BD",
             "decoys":[
                 {
                     "text":"Bugs Bunny"
@@ -8482,7 +8482,7 @@
                     "text":"accordéon"
                 }
             ],
-            "category":"Language/Words/Grammar",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"ballon"
@@ -8530,7 +8530,7 @@
                     "text":"cotangente"
                 }
             ],
-            "category":"Math",
+            "category":"Mathématiques",
             "decoys":[
                 {
                     "text":"torrent"
@@ -8590,7 +8590,7 @@
                     "text":"swing"
                 }
             ],
-            "category":"Theatre/Performing Arts",
+            "category":"Théâtre et spectacles",
             "decoys":[
                 {
                     "text":"bustle"
@@ -8641,7 +8641,7 @@
                     "text":"Buckethead"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Britney Spears"
@@ -8701,7 +8701,7 @@
                     "text":"progiciel"
                 }
             ],
-            "category":"Language/Words/Grammar",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"aspirateur"
@@ -8749,7 +8749,7 @@
                     "text":"Carmine Coppola"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"Maria Shriver"
@@ -8797,7 +8797,7 @@
                     "text":"Demain, dès l'aube…"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Les Fleurs de l'Âme"
@@ -8845,7 +8845,7 @@
                     "text":"la tempête"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"vos malades"
@@ -8908,7 +8908,7 @@
                     "text":"ballade"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"shih tzu"
@@ -8962,7 +8962,7 @@
                     "text":"chromatine"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"chloroplaste"
@@ -9007,7 +9007,7 @@
                     "text":"[i]L'épée mortelle[/i]"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"[i]Divergente[/i]"
@@ -9073,7 +9073,7 @@
                     "text":"[i]Le blues de Ma Rainey[/i]"
                 }
             ],
-            "category":"Theatre/Performing Arts",
+            "category":"Théâtre et spectacles",
             "decoys":[
                 {
                     "text":"[i]There Will Be Blood[/i]"
@@ -9127,7 +9127,7 @@
                     "text":"Rythmicienne"
                 }
             ],
-            "category":"Language/Words/Grammar",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"Salamandre"
@@ -9235,7 +9235,7 @@
                     "text":"Charles M. Duke"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"Gary A. Sinise"
@@ -9289,7 +9289,7 @@
                     "text":"moissonneuse"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"destructeur de pique-nique"
@@ -9343,7 +9343,7 @@
                     "text":"Franklin Gothic"
                 }
             ],
-            "category":"Language/Words/Grammar",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"Papyrus Gothic"
@@ -9403,7 +9403,7 @@
                     "text":"Denzel Washington"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"Richard Kind"
@@ -9469,7 +9469,7 @@
                     "text":"Ministère des Armées"
                 }
             ],
-            "category":"Historical Figures",
+            "category":"Personnages historiques",
             "decoys":[
                 {
                     "text":"Ministère de la Sieste et de la Détente"
@@ -9526,7 +9526,7 @@
                     "text":"Michel Drucker"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"Omar Sy"
@@ -9580,7 +9580,7 @@
                     "text":"Ringo Starr"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"Sir Mix-A-Lot"
@@ -9634,7 +9634,7 @@
                     "text":"moineau"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"autruche"
@@ -9685,7 +9685,7 @@
                     "text":"Ruffles"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Cheezits"
@@ -9730,7 +9730,7 @@
                     "text":"tomber gravement malade"
                 }
             ],
-            "category":"Factoids",
+            "category":"Anecdotes",
             "decoys":[
                 {
                     "text":"se lier d'amitié avec le capitaine"
@@ -9787,7 +9787,7 @@
                     "text":"[i]Elizabeth : L'âge d'or[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Princess Bride[/i]"
@@ -9835,7 +9835,7 @@
                     "text":"hamburger"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"milk-shake à la fraise"
@@ -9886,7 +9886,7 @@
                     "text":"taïpan du désert"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"python à boule"
@@ -9949,7 +9949,7 @@
                     "text":"Surinam"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Panama"
@@ -10003,7 +10003,7 @@
                     "text":"Bulgarie"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"Finlande"
@@ -10045,7 +10045,7 @@
                     "text":"allez"
                 }
             ],
-            "category":"Theatre/Performing Arts",
+            "category":"Théâtre et spectacles",
             "decoys":[
                 {
                     "text":"espoir"
@@ -10153,7 +10153,7 @@
                     "text":"[i]Œdipe[/i]"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"[i]Du contrat social[/i]"
@@ -10198,7 +10198,7 @@
                     "text":"CR-V"
                 }
             ],
-            "category":"Vehicles",
+            "category":"Véhicules",
             "decoys":[
                 {
                     "text":"RAV4"
@@ -10252,7 +10252,7 @@
                     "text":"nœud de bois"
                 }
             ],
-            "category":"Factoids",
+            "category":"Anecdotes",
             "decoys":[
                 {
                     "text":"gambit de la reine"
@@ -10306,7 +10306,7 @@
                     "text":"serpent à sonnette"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"crapaud"
@@ -10351,7 +10351,7 @@
                     "text":"Juré 12"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Juré 13"
@@ -10393,7 +10393,7 @@
                     "text":"Port-au-Prince"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Hoboken"
@@ -10453,7 +10453,7 @@
                     "text":"[i]Into Darkness[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]William Shatner chante ![/i]"
@@ -10504,7 +10504,7 @@
                     "text":"[i]L'anomalie[/i]"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"[i]Voyage au bout de la nuit[/i]"
@@ -10555,7 +10555,7 @@
                     "text":"Sting"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Tom Cruise"
@@ -10609,7 +10609,7 @@
                     "text":"Vis aérienne"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"Phonographe"
@@ -10666,7 +10666,7 @@
                     "text":"Timor oriental"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Corée du Sud"
@@ -10729,7 +10729,7 @@
                     "text":"Îles Marshall"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 
             ],
@@ -10778,7 +10778,7 @@
                     "text":"Wapiti"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Axolotl"
@@ -10865,7 +10865,7 @@
                     "text":"Tous les animaux sont égaux."
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Nul animal n'utilisera d'arme."
@@ -10916,7 +10916,7 @@
                     "text":"espèce"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"division"
@@ -10970,7 +10970,7 @@
                     "text":"Photo sur PVC 80x120"
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"Photo sur toile 100x150"
@@ -11042,7 +11042,7 @@
                     "text":"Cannes"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Montpellier"
@@ -11147,7 +11147,7 @@
                     "text":"Lionel Hampton"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Charles Aznavour"
@@ -11201,7 +11201,7 @@
                     "text":"Rihanna"
                 }
             ],
-            "category":"Pop Culture",
+            "category":"Culture populaire",
             "decoys":[
                 {
                     "text":"Vin Diesel"
@@ -11264,7 +11264,7 @@
                     "text":"Rondoudou"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Bowser"
@@ -11321,7 +11321,7 @@
                     "text":"krill"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"pou de tête"
@@ -11375,7 +11375,7 @@
                     "text":"vache"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"oie"
@@ -11423,7 +11423,7 @@
                     "text":"[i]Les Bacchantes[/i]"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"[i]Carmen Électra[/i]"
@@ -11471,7 +11471,7 @@
                     "text":"Est-ce que les schtroumpfs font pipi tout bleu ?"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Pourquoi l'herbe elle est verte ?"
@@ -11519,7 +11519,7 @@
                     "text":"[i]Souviens-toi… l'été dernier[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Shining[/i]"
@@ -11585,7 +11585,7 @@
                     "text":"“Music”"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"“September”"
@@ -11636,7 +11636,7 @@
                     "text":"Franklin"
                 }
             ],
-            "category":"Animation/Comic Books",
+            "category":"Animation et BD",
             "decoys":[
                 {
                     "text":"Odie"
@@ -11696,7 +11696,7 @@
                     "text":"Juliet"
                 }
             ],
-            "category":"Language/Words/Grammar",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"Mama"
@@ -11744,7 +11744,7 @@
                     "text":"140"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"64"
@@ -11798,7 +11798,7 @@
                     "text":"[i]Don Quichotte[/i] de Miguel de Cervantes"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"[i]Racines[/i] d'Alex Haley"
@@ -11891,7 +11891,7 @@
                     "text":"Kanga et Roo"
                 }
             ],
-            "category":"Animation/Comic Books",
+            "category":"Animation et BD",
             "decoys":[
                 {
                     "text":"Jim Faucon"
@@ -11987,7 +11987,7 @@
                     "text":"Batterie"
                 }
             ],
-            "category":"Historical Figures",
+            "category":"Personnages historiques",
             "decoys":[
                 {
                     "text":"Gyroscope"
@@ -12035,7 +12035,7 @@
                     "text":"377"
                 }
             ],
-            "category":"Math",
+            "category":"Mathématiques",
             "decoys":[
                 {
                     "text":"9"
@@ -12083,7 +12083,7 @@
                     "text":"Woodford Reserve"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Jack Daniel's"
@@ -12131,7 +12131,7 @@
                     "text":"Jour de Noël"
                 }
             ],
-            "category":"Calendar/Holidays",
+            "category":"Calendrier et fêtes",
             "decoys":[
                 {
                     "text":"Aïd"
@@ -12179,7 +12179,7 @@
                     "text":"testicules"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"foie"
@@ -12227,7 +12227,7 @@
                     "text":"I'm A Believer (reprise) - Smashmouth"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Hallelujah (reprise de Leonard Cohen) - Jeff Buckley"
@@ -12278,7 +12278,7 @@
                     "text":"[i]Hairspray[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Battlefield Earth[/i]"
@@ -12323,7 +12323,7 @@
                     "text":"Brême"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Vienne"
@@ -12377,7 +12377,7 @@
                     "text":"Hawaï"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Dakota de l'Ouest"
@@ -12425,7 +12425,7 @@
                     "text":"Arménie"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Roumanie"
@@ -12473,7 +12473,7 @@
                     "text":"Moyen-Orient"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Australie du Nord"
@@ -12533,7 +12533,7 @@
                     "text":"marron"
                 }
             ],
-            "category":"Factoids",
+            "category":"Anecdotes",
             "decoys":[
                 {
                     "text":"gris"
@@ -12560,13 +12560,13 @@
                     "text":"trapèze"
                 },
                 {
-                    "text":"latissimus dorsi"
+                    "text":"grand dorsal"
                 },
                 {
-                    "text":"rhomboïde majeur"
+                    "text":"grand rhomboïde"
                 },
                 {
-                    "text":"serratus posterior superior"
+                    "text":"dentelé postérieur supérieur"
                 },
                 {
                     "text":"splénius cervicis"
@@ -12581,7 +12581,7 @@
                     "text":"longissimus"
                 }
             ],
-            "category":"Anatomy",
+            "category":"Anatomie",
             "decoys":[
                 {
                     "text":"rhomboïde inférieur"
@@ -12596,7 +12596,7 @@
                     "text":"deltoïde"
                 }
             ],
-            "id":"86521",
+            "id":"82688",
             "isValid":"",
             "prompt":"Lesquels de ces muscles sont des muscles du dos humain ?",
             "us":false,
@@ -12635,7 +12635,7 @@
                     "text":"secteur"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"sommet"
@@ -12647,7 +12647,7 @@
                     "text":"côté"
                 }
             ],
-            "id":"86547",
+            "id":"82689",
             "isValid":"",
             "prompt":"Lesquelles de ces parties sont des parties différentes d'un cercle ?",
             "us":false,
@@ -12677,7 +12677,7 @@
                     "text":"Shakira"
                 }
             ],
-            "category":"Pop Culture",
+            "category":"Culture populaire",
             "decoys":[
                 {
                     "text":"Pitbull"
@@ -12734,7 +12734,7 @@
                     "text":"chapeau melon"
                 }
             ],
-            "category":"Fashion",
+            "category":"Mode",
             "decoys":[
                 {
                     "text":"casquette de soudeur"
@@ -12800,7 +12800,7 @@
                     "text":"Kidnapper Cerbère"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Obtenir la meilleure place de parking"
@@ -12857,7 +12857,7 @@
                     "text":"Tous en piste"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Mines d'Or"
@@ -12920,7 +12920,7 @@
                     "text":"Baleine franche de l'Atlantique Nord"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Baleine franche du Pacifique Sud"
@@ -12980,7 +12980,7 @@
                     "text":"États-Unis"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"Espagne"
@@ -13028,7 +13028,7 @@
                     "text":"Montevideo"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Rio de Janeiro"
@@ -13058,19 +13058,19 @@
                     "text":"gardien de but"
                 },
                 {
-                    "text":"attaquant"
+                    "text":"avant-centre"
                 },
                 {
-                    "text":"arrière central"
+                    "text":"défenseur central"
                 },
                 {
                     "text":"ailier"
                 },
                 {
-                    "text":"arrière latéral"
+                    "text":"défenseur latéral"
                 },
                 {
-                    "text":"sweeper"
+                    "text":"libéro"
                 },
                 {
                     "text":"attaquant"
@@ -13124,7 +13124,7 @@
                     "text":"koala"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"ornithorynque"
@@ -13274,7 +13274,7 @@
                     "text":"saumon mayonnaise"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"gruau"
@@ -13331,7 +13331,7 @@
                     "text":"Scientifiques des U.S.A"
                 }
             ],
-            "category":"Historical Figures",
+            "category":"Personnages historiques",
             "decoys":[
                 {
                     "text":"P. T. Barnum"
@@ -13382,7 +13382,7 @@
                     "text":"[i]Mademoiselle Fifi[/i]"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"[i]Le Drap[/i]"
@@ -13439,7 +13439,7 @@
                     "text":"Méduse ortie de mer"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Méduse boule de beurre"
@@ -13499,7 +13499,7 @@
                     "text":"[i]Titanic[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Shrek[/i]"
@@ -13550,7 +13550,7 @@
                     "text":"Olympic Queen size"
                 }
             ],
-            "category":"Factoids",
+            "category":"Anecdotes",
             "decoys":[
                 {
                     "text":"California Queen size"
@@ -13604,7 +13604,7 @@
                     "text":"flûte à bec"
                 }
             ],
-            "category":"Factoids",
+            "category":"Anecdotes",
             "decoys":[
                 {
                     "text":"cornepin"
@@ -13697,7 +13697,7 @@
                     "text":"chou frisé"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"mangues"
@@ -13796,7 +13796,7 @@
                     "text":"carte numéro jaune"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"carte Joker \"piochez 2\""
@@ -13889,7 +13889,7 @@
                     "text":"onassis"
                 }
             ],
-            "category":"Fashion",
+            "category":"Mode",
             "decoys":[
                 {
                     "text":"éclipse"
@@ -13937,7 +13937,7 @@
                     "text":"Raiden"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Goro"
@@ -13991,7 +13991,7 @@
                     "text":"Enseigne"
                 }
             ],
-            "category":"Langue/Mots/Grammaire",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"Testicule"
@@ -14051,7 +14051,7 @@
                     "text":"La Havane"
                 }
             ],
-            "category":"Géographie & Points de repère",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Marrakech"
@@ -14096,7 +14096,7 @@
                     "text":"hodor"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"odor"
@@ -14150,7 +14150,7 @@
                     "text":"Les Bouquins"
                 }
             ],
-            "category":"Géographie & Points de repère",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Les Croissantiers"
@@ -14198,7 +14198,7 @@
                     "text":"basse"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"fausset"
@@ -14297,7 +14297,7 @@
                     "text":"rhinocéros blanc du Nord"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"ours polaire"
@@ -14348,7 +14348,7 @@
                     "text":"Royal Canin"
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"PurrFusion"
@@ -14396,7 +14396,7 @@
                     "text":"Sosh"
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"Cox"
@@ -14447,7 +14447,7 @@
                     "text":"passe-temps"
                 }
             ],
-            "category":"Language/Words/Grammar",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"méditerannée"
@@ -14501,7 +14501,7 @@
                     "text":"Trou du Cru"
                 }
             ],
-            "category":"Nourriture & Boissons",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"Brie-llant"
@@ -14561,7 +14561,7 @@
                     "text":"capri"
                 }
             ],
-            "category":"Fashion",
+            "category":"Mode",
             "decoys":[
                 {
                     "text":"dindon"
@@ -14618,7 +14618,7 @@
                     "text":"Percheron"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Horse of Destiny"
@@ -14672,7 +14672,7 @@
                     "text":"Calé"
                 }
             ],
-            "category":"Sciences",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"Ulysse"
@@ -14813,7 +14813,7 @@
                     "text":"Bulgarie"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"Génovie"
@@ -14861,7 +14861,7 @@
                     "text":"chapeau haut de forme"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"sac d'argent"
@@ -14912,7 +14912,7 @@
                     "text":"Secoue !"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Lance !"
@@ -14960,7 +14960,7 @@
                     "text":"[i]Un homme à la hauteur[/i]"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Love à la Carte[/i]"
@@ -15008,7 +15008,7 @@
                     "text":"Sri Lanka"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Patagonie"
@@ -15065,7 +15065,7 @@
                     "text":"Spinosaure"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Diplo"
@@ -15224,7 +15224,7 @@
                     "text":"InfoPath"
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"Discord"
@@ -15278,7 +15278,7 @@
                     "text":"langue de belle-mère"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"plantasaurus"
@@ -15326,7 +15326,7 @@
                     "text":"un sac à dos"
                 }
             ],
-            "category":"Tools",
+            "category":"Outils",
             "decoys":[
                 {
                     "text":"un pot de miel"
@@ -15422,7 +15422,7 @@
                     "text":"Stephen Belafonte"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"George Clooney"
@@ -15485,7 +15485,7 @@
                     "text":"béret"
                 }
             ],
-            "category":"Fashion",
+            "category":"Mode",
             "decoys":[
                 {
                     "text":"castelvetrano"
@@ -15542,7 +15542,7 @@
                     "text":"Cupcake"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Flamand rose"
@@ -15581,7 +15581,7 @@
                     "text":"Christine"
                 }
             ],
-            "category":"Cinéma & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Michelle"
@@ -15635,7 +15635,7 @@
                     "text":"Flashback"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"400XS"
@@ -15731,7 +15731,7 @@
                     "text":"Dolce & Gabbana"
                 }
             ],
-            "category":"Fashion",
+            "category":"Mode",
             "decoys":[
                 {
                     "text":"Louis Vitton"
@@ -15782,7 +15782,7 @@
                     "text":"Barry Nelson"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Mel Gibson"
@@ -15836,7 +15836,7 @@
                     "text":"Heidi Klum"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"Twiggy"
@@ -15884,7 +15884,7 @@
                     "text":"Bertrand Russell"
                 }
             ],
-            "category":"Historical Figures",
+            "category":"Personnages historiques",
             "decoys":[
                 {
                     "text":"Frederick Durst"
@@ -15989,7 +15989,7 @@
                     "text":"Amnesty International"
                 }
             ],
-            "category":"Historical Figures",
+            "category":"Personnages historiques",
             "decoys":[
                 {
                     "text":"Franklin Delano Roosevelt"
@@ -16034,7 +16034,7 @@
                     "text":"Capuche de lapin"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Méga Buster"
@@ -16136,7 +16136,7 @@
                     "text":"Brent Spiner"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"Penelope Cruz"
@@ -16187,7 +16187,7 @@
                     "text":"crémeux"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"surfait"
@@ -16256,7 +16256,7 @@
                     "text":"pluvier"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 
             ],
@@ -16302,7 +16302,7 @@
                     "text":"Droit du spectacle"
                 }
             ],
-            "category":"Occupations",
+            "category":"Métiers",
             "decoys":[
                 {
                     "text":"Droit routier"
@@ -16362,7 +16362,7 @@
                     "text":"Skyfire"
                 }
             ],
-            "category":"Occupations",
+            "category":"Métiers",
             "decoys":[
                 {
                     "text":"Goldorak"
@@ -16416,7 +16416,7 @@
                     "text":"Yoshi"
                 }
             ],
-            "category":"Vehicles",
+            "category":"Véhicules",
             "decoys":[
                 {
                     "text":"Link"
@@ -16473,7 +16473,7 @@
                     "text":"Zinfandel"
                 }
             ],
-            "category":"Fashion",
+            "category":"Mode",
             "decoys":[
                 {
                     "text":"Caskarmin"
@@ -16584,7 +16584,7 @@
                     "text":"yiddish"
                 }
             ],
-            "category":"Language/Words/Grammar",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"grec"
@@ -16635,7 +16635,7 @@
                     "text":"Donnie Brasco"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"American Psycho"
@@ -16677,7 +16677,7 @@
                     "text":"Swanky Kong"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Puny Kong"
@@ -16722,7 +16722,7 @@
                     "text":"soufflé au chocolat"
                 }
             ],
-            "category":"Food & Drink",
+            "category":"Nourriture et boissons",
             "decoys":[
                 {
                     "text":"frites"
@@ -16779,7 +16779,7 @@
                     "text":"Trois frères"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Noctambule"
@@ -16830,7 +16830,7 @@
                     "text":"Kahoolawe"
                 }
             ],
-            "category":"Geography & Landmarks",
+            "category":"Géographie et monuments",
             "decoys":[
                 {
                     "text":"Honolulu"
@@ -16881,7 +16881,7 @@
                     "text":"Transgourmet"
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"Alimentex"
@@ -16941,7 +16941,7 @@
                     "text":"Ensorceleur"
                 }
             ],
-            "category":"Games",
+            "category":"Jeux",
             "decoys":[
                 {
                     "text":"Voleur"
@@ -16986,7 +16986,7 @@
                     "text":"Argos"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"Jérusalem"
@@ -17037,7 +17037,7 @@
                     "text":"Bison"
                 }
             ],
-            "category":"Pop Culture",
+            "category":"Culture populaire",
             "decoys":[
                 {
                     "text":"Insecticide"
@@ -17133,7 +17133,7 @@
                     "text":"Clarityne"
                 }
             ],
-            "category":"Science & Medicine",
+            "category":"Sciences et médecine",
             "decoys":[
                 {
                     "text":"Prozac"
@@ -17175,7 +17175,7 @@
                     "text":"[i]Le jour d'après[/i] (The Day After)"
                 }
             ],
-            "category":"Film & TV",
+            "category":"Cinéma et télévision",
             "decoys":[
                 {
                     "text":"[i]Hannah Montana : Le Film[/i]"
@@ -17235,7 +17235,7 @@
                     "text":"[i]Moby Dick[/i]"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"[i]Robinson Crusoe[/i]"
@@ -17340,7 +17340,7 @@
                     "text":"pain aux graines de sésame"
                 }
             ],
-            "category":"Companies & Brands",
+            "category":"Entreprises et marques",
             "decoys":[
                 {
                     "text":"tomate"
@@ -17394,7 +17394,7 @@
                     "text":"Fée Viviane"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"Yseult"
@@ -17439,7 +17439,7 @@
                     "text":"Résolution"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Premier baiser romantique"
@@ -17508,7 +17508,7 @@
                     "text":"cui-cui"
                 }
             ],
-            "category":"Language/Words/Grammar",
+            "category":"Langue et grammaire",
             "decoys":[
                 {
                     "text":"claque"
@@ -17562,7 +17562,7 @@
                     "text":"Fantôme du Noël futur"
                 }
             ],
-            "category":"Literature",
+            "category":"Littérature",
             "decoys":[
                 {
                     "text":"Père Temps"
@@ -17607,7 +17607,7 @@
                     "text":"Jean-Pierre Raffarin"
                 }
             ],
-            "category":"Historical Figures",
+            "category":"Personnages historiques",
             "decoys":[
                 {
                     "text":"Emmanuel Macron"
@@ -17697,7 +17697,7 @@
                     "text":"chocolat"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"épinards"
@@ -17748,7 +17748,7 @@
                     "text":"Bigflo et Oli"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"Julien Doré"
@@ -17817,7 +17817,7 @@
                     "text":"Liberia"
                 }
             ],
-            "category":"History",
+            "category":"Histoire",
             "decoys":[
                 {
                     "text":"Iran"
@@ -17976,7 +17976,7 @@
                     "text":"Wakou"
                 }
             ],
-            "category":"News Media",
+            "category":"Médias d'information",
             "decoys":[
                 {
                     "text":"Sociétal"
@@ -18021,7 +18021,7 @@
                     "text":"“Jump Around”"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"“Macarena”"
@@ -18066,7 +18066,7 @@
                     "text":"cow-boy"
                 }
             ],
-            "category":"Music",
+            "category":"Musique",
             "decoys":[
                 {
                     "text":"plombier"
@@ -18123,7 +18123,7 @@
                     "text":"Le retourneur de temps ([i]Harry Potter[/i])"
                 }
             ],
-            "category":"Pop Culture",
+            "category":"Culture populaire",
             "decoys":[
                 {
                     "text":"Mugwumps ([i]Naked Lunch[/i])"
@@ -18165,7 +18165,7 @@
                     "text":"100$"
                 }
             ],
-            "category":"Money",
+            "category":"Argent",
             "decoys":[
                 {
                     "text":"25$"
@@ -18216,7 +18216,7 @@
                     "text":"Wushu"
                 }
             ],
-            "category":"Theatre/Performing Arts",
+            "category":"Théâtre et spectacles",
             "decoys":[
                 {
                     "text":"Sylphstrike"
@@ -18267,7 +18267,7 @@
                     "text":"L'Apothicaire"
                 }
             ],
-            "category":"Theatre/Performing Arts",
+            "category":"Théâtre et spectacles",
             "decoys":[
                 {
                     "text":"Hector"
@@ -18318,7 +18318,7 @@
                     "text":"Villeneuve-les-Sablons"
                 }
             ],
-            "category":"Animals",
+            "category":"Animaux",
             "decoys":[
                 {
                     "text":"Villeneuve-sur-Mer"
@@ -18366,7 +18366,7 @@
                     "text":"Michael Palin"
                 }
             ],
-            "category":"Celebrities",
+            "category":"Célébrités",
             "decoys":[
                 {
                     "text":"Spike Milligan"

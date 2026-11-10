@@ -1,7 +1,7 @@
 {
  "content": [
   {
-   "category": "Science & médecine",
+   "category": "Sciences et médecine",
    "id": "76736",
    "isValid": "",
    "prompt": "D'environ combien de Terres la Lune est-elle éloignée de la Terre ?",
@@ -11,7 +11,7 @@
    "x": false
   },
   {
-   "category": "Geography & Landmarks",
+   "category": "Géographie et monuments",
    "id": "76739",
    "isValid": "",
    "prompt": "Combien de tiroirs de haut mesure la gigantesque tour de classeurs de Burlington, dans le Vermont ?",
@@ -21,7 +21,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "76783",
    "isValid": "",
    "prompt": "En 2020, combien de pays souverains faisaient partie du continent africain ?",
@@ -31,7 +31,7 @@
    "x": false
   },
   {
-   "category": "Anecdote",
+   "category": "Anecdotes",
    "id": "76784",
    "isValid": "",
    "prompt": "Selon le [i]Journal international de recherche sur l'humour[/i], combien de fois par jour un adulte rit-il en moyenne ?",
@@ -41,7 +41,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "76785",
    "isValid": "",
    "prompt": "Dans conbien de longs-métrages John Wayne a-t-il été crédité dans sa carrière ?",
@@ -61,7 +61,7 @@
    "x": false
   },
   {
-   "category": "Anecdote",
+   "category": "Anecdotes",
    "id": "76787",
    "isValid": "",
    "prompt": "En quelle année la population mondiale a-t-elle dépassé les 3 milliards ?",
@@ -84,8 +84,8 @@
    "category": "Jeux",
    "id": "76911",
    "isValid": "",
-   "prompt": "Si vous additionnez tout le \"cash\" qui vient d'un jeu traditionnel de [i]Monopoly[/i], combien de fausse monnaie avez-vous ?",
-   "unit": "(en dollars)",
+   "prompt": "Si on additionne tous les billets du Monopoly américain classique, quelle somme obtient-on ?",
+   "unit": "(en dollars américains)",
    "us": false,
    "value": "20580",
    "x": false
@@ -121,7 +121,7 @@
    "x": false
   },
   {
-   "category": "Geography & Landmarks",
+   "category": "Géographie et monuments",
    "id": "76922",
    "isValid": "",
    "prompt": "Selon le ministère des ressources naturelles, combien de lacs compte exactement le Minnesota ?",
@@ -131,7 +131,7 @@
    "x": false
   },
   {
-   "category": "Games",
+   "category": "Jeux",
    "id": "76924",
    "isValid": "",
    "prompt": "Combien de pièces composent l'ensemble LEGO de l'Étoile Noire de [i]Star Wars[/i] ?",
@@ -141,7 +141,7 @@
    "x": false
   },
   {
-   "category": "Food & Drink",
+   "category": "Nourriture et boissons",
    "id": "76926",
    "isValid": "",
    "prompt": "Combien de calories contient une canette de Coca-Cola Original de 33 cl ?",
@@ -151,7 +151,7 @@
    "x": false
   },
   {
-   "category": "Entreprises & marques",
+   "category": "Entreprises et marques",
    "id": "76927",
    "isValid": "",
    "prompt": "Selon Apple, combien de chansons l'iPod d'origine pouvait-il contenir ?",
@@ -161,7 +161,7 @@
    "x": false
   },
   {
-   "category": "Théâtre/Arts de la scène",
+   "category": "Théâtre et spectacles",
    "id": "76935",
    "isValid": "",
    "prompt": "Combien de temps a duré la diffusion originale de [i]Cats[/i] à Broadway ?",
@@ -171,7 +171,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "76937",
    "isValid": "",
    "prompt": "Combien y a-t-il eu de morts à l'écran dans le premier film [i]Scream[/i] ?",
@@ -181,7 +181,7 @@
    "x": false
   },
   {
-   "category": "Geography & Landmarks",
+   "category": "Géographie et monuments",
    "id": "77144",
    "isValid": "",
    "prompt": "Quelle est la largeur de la partie la plus large du Grand Canyon ?",
@@ -201,7 +201,7 @@
    "x": false
   },
   {
-   "category": "Anecdote",
+   "category": "Anecdotes",
    "id": "77188",
    "isValid": "",
    "prompt": "D'après les exigences du CIO, quel pourcentage d'une médaille d'or olympique peut être de l'argent ?",
@@ -211,7 +211,7 @@
    "x": false
   },
   {
-   "category": "Anecdote",
+   "category": "Anecdotes",
    "id": "77198",
    "isValid": "",
    "prompt": "Si vous mangiez le plus gros burrito du monde, combien de kilogrammes de fromage se trouveraient dans votre ventre ?",
@@ -221,7 +221,7 @@
    "x": false
   },
   {
-   "category": "Film & TV",
+   "category": "Cinéma et télévision",
    "id": "77200",
    "isValid": "",
    "prompt": "Quel pourcentage de la famille Addams NE PEUT PAS acheter d'alcool ? (la famille originale de la télévision)",
@@ -231,7 +231,7 @@
    "x": true
   },
   {
-   "category": "Anecdote",
+   "category": "Anecdotes",
    "id": "77213",
    "isValid": "",
    "prompt": "D'après le record établi en 2007, combien d'heures a duré le plus long marathon de montagnes russes ?",
@@ -241,7 +241,7 @@
    "x": false
   },
   {
-   "category": "Science & Medicine",
+   "category": "Sciences et médecine",
    "id": "77219",
    "isValid": "",
    "prompt": "À quelle température un diamant se transforme-t-il en vapeur ?",
@@ -261,7 +261,7 @@
    "x": false
   },
   {
-   "category": "Calendar/Holidays",
+   "category": "Calendrier et fêtes",
    "id": "77232",
    "isValid": "",
    "prompt": "À Times Square, à New York, quelle est la hauteur du mât qui porte le bal du Nouvel An ?",
@@ -271,7 +271,7 @@
    "x": false
   },
   {
-   "category": "History",
+   "category": "Histoire",
    "id": "77261",
    "isValid": "",
    "prompt": "Combien de personnes ont été jugées coupables et exécutées lors du procès des sorcières de Salem ?",
@@ -281,7 +281,7 @@
    "x": false
   },
   {
-   "category": "Science & Medicine",
+   "category": "Sciences et médecine",
    "id": "77268",
    "isValid": "",
    "prompt": "Combien de départements compte la France métropolitaine ?",
@@ -291,17 +291,17 @@
    "x": false
   },
   {
-   "category": "Nourriture et Boissons",
+   "category": "Nourriture et boissons",
    "id": "77304",
    "isValid": "",
-   "prompt": "Quelle est la longueur de la galette-saucisse la plus grande jamais réalisée ?",
-   "unit": "(en mètres)",
+   "prompt": "Combien de buts ont été inscrits au total lors de la finale France-Croatie de la Coupe du monde 2018 ?",
+   "unit": "(en buts)",
    "us": true,
-   "value": "53",
+   "value": "6",
    "x": false
   },
   {
-   "category": "Science & médecine",
+   "category": "Sciences et médecine",
    "id": "77309",
    "isValid": "",
    "prompt": "Selon une expérience de l'Université Purdue, combien de coups de langue faut-il en moyenne pour atteindre le centre d'une Tootsie Pop ?",
@@ -321,7 +321,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "77312",
    "isValid": "",
    "prompt": "Quelle est la profondeur du fond de l'océan dans la partie la plus profonde de la fosse des Mariannes ?",
@@ -341,7 +341,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "77330",
    "isValid": "",
    "prompt": "Quelle est la durée combinée (en minutes) des trois films version longues du [i]Seigneur des Anneaux[/i] ?",
@@ -361,7 +361,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "77332",
    "isValid": "",
    "prompt": "Combien de tours Jenga mesure le Burj Khalifa ?",
@@ -391,7 +391,7 @@
    "x": false
   },
   {
-   "category": "Anecdote",
+   "category": "Anecdotes",
    "id": "77377",
    "isValid": "",
    "prompt": "Si vous faisiez pousser un légume aussi lourd que le diamant Golden Jubilee, combien de carats vaudrait votre carotte ?",
@@ -401,7 +401,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "77434",
    "isValid": "",
    "prompt": "Combien d'épisodes de [i]Star Trek : la série originale[/i] ont été diffusés ?",
@@ -421,7 +421,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "77622",
    "isValid": "",
    "prompt": "Environ combien d'oiseaux ont été dressés pour être utilisés dans le film [i]Les Oiseaux[/i] ?",
@@ -431,7 +431,7 @@
    "x": false
   },
   {
-   "category": "Factoids",
+   "category": "Anecdotes",
    "id": "77623",
    "isValid": "",
    "prompt": "Selon le Guinness World Record 2014, quelle est la hauteur du plus grand tournesol jamais cultivé ?",
@@ -461,7 +461,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "77627",
    "isValid": "",
    "prompt": "Environ combien de Paris-Dakar pourraient s'insérer entre la Terre et le Soleil ?",
@@ -471,7 +471,7 @@
    "x": false
   },
   {
-   "category": "Anecdote",
+   "category": "Anecdotes",
    "id": "77629",
    "isValid": "",
    "prompt": "La Bougie royale du magasin phare Yankee Candle mesure plus de 1,8 mètres de haut. Si elle est allumée, combien d'années lui faudrait-elle pour brûler complètement ?",
@@ -481,7 +481,7 @@
    "x": false
   },
   {
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "id": "77630",
    "isValid": "",
    "prompt": "En 2020, combien de restaurants de restauration rapide KFC pouvaient être trouvés au Vietnam ?",
@@ -491,7 +491,7 @@
    "x": false
   },
   {
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "id": "77632",
    "isValid": "",
    "prompt": "En 2012, combien de chefs a-t-il fallu pour cuisiner la plus grosse omelette du monde, qui pesait environ sept tonnes ?",
@@ -501,7 +501,7 @@
    "x": false
   },
   {
-   "category": "Science & médicine",
+   "category": "Sciences et médecine",
    "id": "77635",
    "isValid": "",
    "prompt": "Quel âge avait \"Methuselah\", le plus vieil arbre vivant du monde, en 2020 ?",
@@ -511,7 +511,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "77650",
    "isValid": "",
    "prompt": "Combien de Dwayne \"The Rock\" Johnson auraient pu être emprisonnés sur \"The Rock\" ?",
@@ -521,7 +521,7 @@
    "x": false
   },
   {
-   "category": "Food & Drink",
+   "category": "Nourriture et boissons",
    "id": "77672",
    "isValid": "",
    "prompt": "En moyenne, combien de Skittles contient un sachet standard de 60 g ?",
@@ -541,7 +541,7 @@
    "x": false
   },
   {
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "id": "77749",
    "isValid": "",
    "prompt": "Combien de recettes sont incluses dans [i]Mastering the Art of French Cooking, Volume I[/i] de Julia Child ?",
@@ -551,7 +551,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "77752",
    "isValid": "",
    "prompt": "Combien de vitres composent la Pyramide du Louvre ?",
@@ -561,7 +561,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "77757",
    "isValid": "",
    "prompt": "Combien y a-t-il de salles de bain à la Maison Blanche ?",
@@ -571,7 +571,7 @@
    "x": false
   },
   {
-   "category": "Food & Drink",
+   "category": "Nourriture et boissons",
    "id": "77791",
    "isValid": "",
    "prompt": "Environ combien de dragées ont été utilisées pour créer le portrait de Ronald Reagan accroché dans sa bibliothèque présidentielle ?",
@@ -581,7 +581,7 @@
    "x": false
   },
   {
-   "category": "Science & médicine",
+   "category": "Sciences et médecine",
    "id": "78047",
    "isValid": "",
    "prompt": "Combien de temps met la lune pour tourner une fois sur son axe ?",
@@ -591,7 +591,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "78066",
    "isValid": "",
    "prompt": "Quel âge a Sacha Ketchum dans [i]Pokémon[/i] ?",
@@ -601,7 +601,7 @@
    "x": false
   },
   {
-   "category": "Animals",
+   "category": "Animaux",
    "id": "78133",
    "isValid": "",
    "prompt": "Quelle est la taille de Forest, la plus grande girafe du monde (selon [i]Guinness World Records[/i]) ?",
@@ -621,7 +621,7 @@
    "x": false
   },
   {
-   "category": "Music",
+   "category": "Musique",
    "id": "78324",
    "isValid": "",
    "prompt": "En centimètres, quelle est la taille combinée des deux membres de Daft Punk?",
@@ -631,7 +631,7 @@
    "x": false
   },
   {
-   "category": "Figures historiques",
+   "category": "Personnages historiques",
    "id": "78352",
    "isValid": "",
    "prompt": "En quelle année est décédée la reine Victoria ?",
@@ -651,7 +651,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "78355",
    "isValid": "",
    "prompt": "Quelle est la longueur de la grande muraille de Chine... en murs de Berlin ?",
@@ -661,7 +661,7 @@
    "x": false
   },
   {
-   "category": "Calendrier/Vacances",
+   "category": "Calendrier et fêtes",
    "id": "78404",
    "isValid": "",
    "prompt": "Comme c'est gentil ! Votre conjoint vient de vous offrir un cadeau d'anniversaire de mariage traditionnel en corail. Combien de temps avez-vous été marié ?",
@@ -671,7 +671,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "78407",
    "isValid": "",
    "prompt": "Combien d'épisodes de la franchise [i]New York : Police judiciaire[/i] ont été diffusés jusqu'à leur 20ème anniversaire ?",
@@ -711,7 +711,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "78600",
    "isValid": "",
    "prompt": "En longueur, combien de Chewbaccas mesure le [i]Faucon Millenium[/i] ?",
@@ -721,7 +721,7 @@
    "x": false
   },
   {
-   "category": "Food & Drink",
+   "category": "Nourriture et boissons",
    "id": "78668",
    "isValid": "",
    "prompt": "Selon la pyramide alimentaire de l'USDA, combien de portions maximales de pain pouvez-vous consommer par jour ?",
@@ -741,7 +741,7 @@
    "x": false
   },
   {
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "id": "78698",
    "isValid": "",
    "prompt": "Combien coûte le \"burger le plus cher du monde\" servi au restaurant Fleur à Las Vegas ?",
@@ -751,7 +751,7 @@
    "x": false
   },
   {
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "id": "78699",
    "isValid": "",
    "prompt": "Quel pourcentage d'un Pringles est réellement de la pomme de terre ?",
@@ -771,7 +771,7 @@
    "x": false
   },
   {
-   "category": "Science & Medicine",
+   "category": "Sciences et médecine",
    "id": "78803",
    "isValid": "",
    "prompt": "Selon le CDC, environ combien de blessures liées à la foudre se sont produites en Floride au cours des 50 dernières années ?",
@@ -781,7 +781,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "78805",
    "isValid": "",
    "prompt": "Combien y a-t-il d'épisodes de la série originale de [i]Friends[/i] ?",
@@ -801,7 +801,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "78815",
    "isValid": "",
    "prompt": "Environ combien de fois par épisode de [i]La roue de la fortune[/i] Vanna White applaudit-elle ?",
@@ -831,7 +831,7 @@
    "x": false
   },
   {
-   "category": "Anecdote",
+   "category": "Anecdotes",
    "id": "79067",
    "isValid": "",
    "prompt": "Combien de crayons contient la plus grande boîte fabriquée par Crayola ?",
@@ -841,7 +841,7 @@
    "x": false
   },
   {
-   "category": "Anatomy",
+   "category": "Anatomie",
    "id": "79116",
    "isValid": "",
    "prompt": "Si vous aviez un euro pour chaque centilitre de liquide que votre vessie peut contenir, combien en auriez-vous ?",
@@ -851,7 +851,7 @@
    "x": false
   },
   {
-   "category": "Entreprises & marques",
+   "category": "Entreprises et marques",
    "id": "79119",
    "isValid": "",
    "prompt": "En MILLIARDS de DOLLARS, quel a été le chiffre d'affaires mondial de McDonald's en 2020 ?",
@@ -871,7 +871,7 @@
    "x": false
   },
   {
-   "category": "Anectode",
+   "category": "Anecdotes",
    "id": "80466",
    "isValid": "",
    "prompt": "Quel est le temps d'écran maximal qu'un enfant devrait avoir par jour, selon l'American Heart Association ?",
@@ -881,7 +881,7 @@
    "x": false
   },
   {
-   "category": "Food & Drink",
+   "category": "Nourriture et boissons",
    "id": "80469",
    "isValid": "",
    "prompt": "En moyenne, combien de poils de rongeurs sont autorisés par la FDA dans un pot de beurre de cacahuète de 40 onces ?",
@@ -891,7 +891,7 @@
    "x": false
   },
   {
-   "category": "Animals",
+   "category": "Animaux",
    "id": "81462",
    "isValid": "",
    "prompt": "Selon Franceinfo, combien de kilos de poulet le français moyen a-t-il mangé en 2020 ?",
@@ -901,7 +901,7 @@
    "x": false
   },
   {
-   "category": "Figures historiques",
+   "category": "Personnages historiques",
    "id": "81464",
    "isValid": "",
    "prompt": "À quel âge Jeanne Louise Calment, la personne la plus âgée jamais enregistrée, a-t-elle vécu ?",
@@ -921,7 +921,7 @@
    "x": false
   },
   {
-   "category": "Langue/Mots/Grammaire",
+   "category": "Langue et grammaire",
    "id": "81470",
    "isValid": "",
    "prompt": "Selon [i]Ethnologue[/i], combien de langues vivantes connues existent dans le monde en 2020 ?",
@@ -931,7 +931,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "81473",
    "isValid": "",
    "prompt": "Combien de pays composent le Royaume-Uni ?",
@@ -941,7 +941,7 @@
    "x": false
   },
   {
-   "category": "Math",
+   "category": "Mathématiques",
    "id": "81475",
    "isValid": "",
    "prompt": "Si vous aviez une tonne d'oursons gélifiés, combien cela représenterait-il en livres ?",
@@ -951,7 +951,7 @@
    "x": false
   },
   {
-   "category": "Animation/Comic Books",
+   "category": "Animation et BD",
    "id": "81478",
    "isValid": "",
    "prompt": "Combien y avait-il de membres dans le gang [i]Scooby-Doo[/i] d'origine ?",
@@ -961,7 +961,7 @@
    "x": false
   },
   {
-   "category": "Culture pop",
+   "category": "Culture populaire",
    "id": "81479",
    "isValid": "",
    "prompt": "Selon Mary Poppins, combien de cuillerées de sucre aident le médicament à descendre ?",
@@ -971,7 +971,7 @@
    "x": false
   },
   {
-   "category": "Historical Figures",
+   "category": "Personnages historiques",
    "id": "81480",
    "isValid": "",
    "prompt": "En quelle année une chaussure a-t-elle été lancée sur le président George W. Bush ?",
@@ -981,7 +981,7 @@
    "x": false
   },
   {
-   "category": "Pop Culture",
+   "category": "Culture populaire",
    "id": "81481",
    "isValid": "",
    "prompt": "Dans l'émission [i]Koh-Lanta[/i], en quelle année Moundir, alors éliminé, a crié son monologue sur l'honneur et la dignité ?",
@@ -991,7 +991,7 @@
    "x": false
   },
   {
-   "category": "Historical Figures",
+   "category": "Personnages historiques",
    "id": "81483",
    "isValid": "",
    "prompt": "Quel âge avait Emmanuel Macron lorsqu'il a été élu président pour la première fois en France ?",
@@ -1001,7 +1001,7 @@
    "x": false
   },
   {
-   "category": "Factoids",
+   "category": "Anecdotes",
    "id": "81486",
    "isValid": "",
    "prompt": "En France, quel est le nombre de points maximums possibles pour un permis de conduire ?",
@@ -1031,7 +1031,7 @@
    "x": false
   },
   {
-   "category": "Célebrités",
+   "category": "Célébrités",
    "id": "81496",
    "isValid": "",
    "prompt": "Combien de maris Elizabeth Taylor a-t-elle eus ?",
@@ -1041,7 +1041,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "81499",
    "isValid": "",
    "prompt": "Dans le premier volet de [i]Retour vers le futur[/i], en quelle année Marty voyage-t-il ?",
@@ -1061,7 +1061,7 @@
    "x": false
   },
   {
-   "category": "Pop Culture",
+   "category": "Culture populaire",
    "id": "81502",
    "isValid": "",
    "prompt": "En 2021, combien d'enseignes Quick restaient-ils en France ?",
@@ -1081,7 +1081,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "81505",
    "isValid": "",
    "prompt": "Combien de nominations aux Oscars [i]Titanic[/i] a-t-il reçues ?",
@@ -1091,7 +1091,7 @@
    "x": false
   },
   {
-   "category": "Science & médicine",
+   "category": "Sciences et médecine",
    "id": "81506",
    "isValid": "",
    "prompt": "Combien y a-t-il de phases de lune ?",
@@ -1101,7 +1101,7 @@
    "x": false
   },
   {
-   "category": "History",
+   "category": "Histoire",
    "id": "81507",
    "isValid": "",
    "prompt": "En quelle année la France a-t-elle autorisé le mariage pour tous ?",
@@ -1131,7 +1131,7 @@
    "x": false
   },
   {
-   "category": "Figures historiques",
+   "category": "Personnages historiques",
    "id": "81518",
    "isValid": "",
    "prompt": "Combien de fils la reine Elizabeth II a-t-elle eu ?",
@@ -1151,7 +1151,7 @@
    "x": false
   },
   {
-   "category": "Maths",
+   "category": "Mathématiques",
    "id": "81520",
    "isValid": "",
    "prompt": "Quelle est la valeur d'un angle quelconque dans un triangle équilatéral ?",
@@ -1161,7 +1161,7 @@
    "x": false
   },
   {
-   "category": "Figures historiques",
+   "category": "Personnages historiques",
    "id": "81522",
    "isValid": "",
    "prompt": "Quel âge avait Tenzin Gyatso lorsqu'il a été reconnu comme le 14e Dalaï Lama ?",
@@ -1171,7 +1171,7 @@
    "x": false
   },
   {
-   "category": "Théâtre/Arts de la scène",
+   "category": "Théâtre et spectacles",
    "id": "81523",
    "isValid": "",
    "prompt": "Combien de comédies musicales Rodgers & Hammerstein ont-ils écrites ensemble ?",
@@ -1181,7 +1181,7 @@
    "x": false
   },
   {
-   "category": "Géographie & monuments",
+   "category": "Géographie et monuments",
    "id": "81526",
    "isValid": "",
    "prompt": "Quelle est la capacité d'accueil du Royal Albert Hall à Londres ?",
@@ -1191,7 +1191,7 @@
    "x": false
   },
   {
-   "category": "Food & Drink",
+   "category": "Nourriture et boissons",
    "id": "81533",
    "isValid": "",
    "prompt": "Selon InfoCalories, combien de calories contient un poulet rôti entier de 600 grammes ?",
@@ -1211,7 +1211,7 @@
    "x": false
   },
   {
-   "category": "Science & médicine",
+   "category": "Sciences et médecine",
    "id": "81600",
    "isValid": "",
    "prompt": "Environ combien d'années faut-il à une peau de banane pour se décomposer complètement ?",
@@ -1231,7 +1231,7 @@
    "x": false
   },
   {
-   "category": "Anecdote",
+   "category": "Anecdotes",
    "id": "81602",
    "isValid": "",
    "prompt": "Combien y a-t-il de membres de la famille Belcher dans la série télévisée [i]Bob's Burgers[/i] ?",
@@ -1251,7 +1251,7 @@
    "x": false
   },
   {
-   "category": "Maths",
+   "category": "Mathématiques",
    "id": "81614",
    "isValid": "",
    "prompt": "Combien y a-t-il de minutes dans une semaine ?",
@@ -1271,7 +1271,7 @@
    "x": false
   },
   {
-   "category": "Pop Culture",
+   "category": "Culture populaire",
    "id": "81638",
    "isValid": "",
    "prompt": "Combien de jours Kim Kardashian a-t-elle été mariée à la star de la NBA Kris Humphries ?",
@@ -1291,7 +1291,7 @@
    "x": false
   },
   {
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "id": "81654",
    "isValid": "",
    "prompt": "Combien y a-t-il de saveurs dans un pot de glace napolitaine ?",
@@ -1341,7 +1341,7 @@
    "x": false
   },
   {
-   "category": "History",
+   "category": "Histoire",
    "id": "81660",
    "isValid": "",
    "prompt": "En quelle année s'est produit le krach boursier américain connu sous le nom de \"jeudi noir\" ?",
@@ -1351,7 +1351,7 @@
    "x": false
   },
   {
-   "category": "Figures historiques",
+   "category": "Personnages historiques",
    "id": "81674",
    "isValid": "",
    "prompt": "Combien de rois de France portaient le nom de Louis ?",
@@ -1391,7 +1391,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "81713",
    "isValid": "",
    "prompt": "Combien de minutes d'angoisse devez-vous endurer pendant toute la durée du film [i]Docteur Jivago[/i] ?",
@@ -1411,7 +1411,7 @@
    "x": false
   },
   {
-   "category": "Science & médicine",
+   "category": "Sciences et médecine",
    "id": "81719",
    "isValid": "",
    "prompt": "En années-lumière, à quelle distance se trouve l'étoile la plus proche de notre système solaire ?",
@@ -1421,7 +1421,7 @@
    "x": false
   },
   {
-   "category": "Science & médicine",
+   "category": "Sciences et médecine",
    "id": "81733",
    "isValid": "",
    "prompt": "Quelle est la fréquence la plus basse que l'oreille humaine typique peut percevoir en hertz ?",
@@ -1431,7 +1431,7 @@
    "x": false
   },
   {
-   "category": "Célebrités",
+   "category": "Célébrités",
    "id": "81843",
    "isValid": "",
    "prompt": "Combien de millions de dollars Harrison Ford a-t-il été payé pour son rôle dans [i]Indiana Jones et le royaume du crâne de cristal[/i] ?",
@@ -1451,7 +1451,7 @@
    "x": false
   },
   {
-   "category": "Cinéma & télévision",
+   "category": "Cinéma et télévision",
    "id": "81848",
    "isValid": "",
    "prompt": "Combien de lignes au total la mère de Stifler a-t-elle dans le script de [i]American Pie[/i] ?",
@@ -1461,7 +1461,7 @@
    "x": false
   },
   {
-   "category": "Film & TV",
+   "category": "Cinéma et télévision",
    "id": "81851",
    "isValid": "",
    "prompt": "Combien d'épisodes de [i]Plus belle la vie[/i] ont-été diffusés ?",
@@ -1481,7 +1481,7 @@
    "x": false
   },
   {
-   "category": "History",
+   "category": "Histoire",
    "id": "82471",
    "isValid": "",
    "prompt": "En quelle année s'est tenue la première Fête de la Musique ?",
@@ -1491,7 +1491,7 @@
    "x": false
   },
   {
-   "category": "Nourriture & boissons",
+   "category": "Nourriture et boissons",
    "id": "82476",
    "isValid": "",
    "prompt": "Selon l'USDA, combien de calories contient un avocat entier ?",
@@ -1511,7 +1511,7 @@
    "x": false
   },
   {
-   "category": "Science & Medicine",
+   "category": "Sciences et médecine",
    "id": "82520",
    "isValid": "",
    "prompt": "À quelle température l'eau bout-t-elle (en Fahrenheit) ?",
@@ -1521,7 +1521,7 @@
    "x": false
   },
   {
-   "category": "Film & TV",
+   "category": "Cinéma et télévision",
    "id": "82537",
    "isValid": "",
    "prompt": "Combien de cartes de crédit Jeff Tuche a-t-il perdu en Amérique, aussi incroyable que ça le paraisse ?",
@@ -1541,7 +1541,7 @@
    "x": false
   },
   {
-   "category": "Pop culture",
+   "category": "Culture populaire",
    "id": "82542",
    "isValid": "",
    "prompt": "Combien de nains de [i]Blanche-Neige[/i] ont des adjectifs comme noms ?",
@@ -1561,7 +1561,7 @@
    "x": false
   },
   {
-   "category": "Pop Culture",
+   "category": "Culture populaire",
    "id": "85194",
    "isValid": "",
    "prompt": "Combien y a-t-il de Télétubbies ?",
