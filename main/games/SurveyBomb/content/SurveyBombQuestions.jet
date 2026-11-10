@@ -1,8 +1,8 @@
 {
-   "content":[
+   "content": [
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Théâtre/Divertissement",
             "Musées",
             "Cuisine locale",
@@ -12,41 +12,41 @@
             "Activités familiales",
             "Un grand plan d’eau"
          ],
-         "id":"76649",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Choses que vous recherchez quand vous partez en vacances",
-         "questionShort":"Les Meilleurs choses en Vacances",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76649",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Choses que vous recherchez quand vous partez en vacances",
+         "questionShort": "Les Meilleurs choses en Vacances",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Un Verre Souvenir",
             "Une Paille Excentrique",
             "Un Petit Parapluie",
             "Un sous-verre avec une question de culture générale",
             "Une Tranche de Citron",
             "Un Mug Drôle",
-            "Un petit discours touchant pour trinquer",
+            "Un petit discours pour trinquer",
             "Des Glaçons bien Frais"
          ],
-         "id":"76652",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Quelque chose qui améliorera votre boisson...",
-         "questionShort":"Accessoires pour votre boisson préférée",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76652",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Quelque chose qui améliorera votre boisson...",
+         "questionShort": "Accessoires pour votre boisson préférée",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Escalader le Mont Everest",
             "Entraîner votre équipe préférée",
             "Publier un Best-Seller",
@@ -56,19 +56,19 @@
             "Faire de sa Vie une émission de Télé-réalité",
             "Apprendre à Cuisiner avec un Grand Chef"
          ],
-         "id":"76654",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Si tout était possible, que mettrais-tu sur ta Liste des choses à faire...",
-         "questionShort":"Liste des choses à faire dans sa vie",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76654",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Si tout était possible, que mettrais-tu sur ta Liste des choses à faire...",
+         "questionShort": "Liste des choses à faire dans sa vie",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Vitesse Extrême",
             "Télépathie",
             "Invulnérabilité",
@@ -80,19 +80,19 @@
             "Contrôler la Météo",
             "Voir 1 heure dans le Futur"
          ],
-         "id":"76656",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Le Super Pouvoir que tu rêverais d'avoir",
-         "questionShort":"Les Meilleurs Super Pouvoirs",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76656",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Le Super Pouvoir que tu rêverais d'avoir",
+         "questionShort": "Les Meilleurs Super Pouvoirs",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Tueur masqué",
             "Fantôme vengeur",
             "Cannibale charmant",
@@ -102,19 +102,19 @@
             "Insecte Géant",
             "Vampire pas sexy"
          ],
-         "id" : "76657",
-         "intro":null,
-         "isValid" :"",
-         "outro":null,
-         "question" : "Les monstres de cinéma qui seraient les plus terrifiants à rencontrer",
-         "questionShort" : "Les monstres de cinéma les plus effrayants",
-         "round" : "third",
-         "us":false,
-         "x":true
+         "id": "76657",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les monstres de cinéma qui seraient les plus terrifiants à rencontrer",
+         "questionShort": "Les monstres de cinéma les plus effrayants",
+         "round": "third",
+         "us": false,
+         "x": true
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "La Météo en ce Moment",
             "Le Match d'Hier Soir",
             "Quelles Célébrités sont Attirantes",
@@ -124,19 +124,19 @@
             "Vêtements à la Mode",
             "\"J'ai fait un rêve très bizarre...\""
          ],
-         "id":"76658",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les sujets de conversation que tu préfères éviter",
-         "questionShort":"Les petites discussions à éviter",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76658",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les sujets de conversation que tu préfères éviter",
+         "questionShort": "Les petites discussions à éviter",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Un Voisin un peu trop Bavard",
             "Des Turbulences",
             "Un Bébé qui Pleure",
@@ -148,19 +148,19 @@
             "Un Temps Orageux qui s'annonce",
             "Un Pilote Grincheux"
          ],
-         "id":"76659",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"La PIRE chose à avoir pendant un vol commercial",
-         "questionShort":"Les PIRES ennuis en avion",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76659",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "La PIRE chose à avoir pendant un vol commercial",
+         "questionShort": "Les PIRES ennuis en avion",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "D'abord ennemis/Puis amoureux",
             "Les méchants ne savent pas viser",
             "Les lunettes ne rendent pas sexy",
@@ -170,19 +170,19 @@
             "Les héros ont d'immenses appartements",
             "\"Tout ceci n'était qu'un rêve\""
          ],
-         "id":"76660",
-         "intro":"Quick, there's no time to explain... come with me.",
-         "isValid":"",
-         "outro":null,
-         "question":"Les clichés les plus ennuyeux dans les films",
-         "questionShort":"Les clichés ennuyeux dans les films",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76660",
+         "intro": "Vite, pas le temps d'expliquer… Suivez-moi !",
+         "isValid": "",
+         "outro": null,
+         "question": "Les clichés les plus ennuyeux dans les films",
+         "questionShort": "Les clichés ennuyeux dans les films",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Génie d'Apple",
             "Météorologue à la télévision",
             "Brasseur de bière",
@@ -192,19 +192,19 @@
             "PDG d'Amazon",
             "Sommelier"
          ],
-         "id":"76661",
-         "intro":"Some of you are sus...",
-         "isValid":"",
-         "outro":null,
-         "question":"Quels sont les emplois que tu penses pouvoir exercer le plus longtemps avant d'être découvert en tant que fraude ?",
-         "questionShort":"Emplois faciles à falsifier",
-         "round":"second",
-         "us":true,
-         "x":true
+         "id": "76661",
+         "intro": "Il y a des gens louches parmi vous…",
+         "isValid": "",
+         "outro": null,
+         "question": "Quels sont les emplois que tu penses pouvoir exercer le plus longtemps avant d'être découvert en tant que fraude ?",
+         "questionShort": "Emplois faciles à falsifier",
+         "round": "second",
+         "us": true,
+         "x": true
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Eléphant",
             "Aigle",
             "Berger Allemand",
@@ -214,19 +214,19 @@
             "Gorille",
             "Chat"
          ],
-         "id":"76662",
-         "intro":"Just in case you don't survive the mine...",
-         "isValid":"",
-         "outro":null,
-         "question":"Les meilleurs animaux en lesquels se réincarner",
-         "questionShort":"Votre nouvelle réincarnation",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76662",
+         "intro": "Au cas où vous ne ressortiriez pas de cette mine…",
+         "isValid": "",
+         "outro": null,
+         "question": "Les meilleurs animaux en lesquels se réincarner",
+         "questionShort": "Votre nouvelle réincarnation",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Forgeron",
             "Ramoneur",
             "Chauffeur de Diligence",
@@ -236,19 +236,19 @@
             "Standardiste",
             "Collectionneur de sangsues"
          ],
-         "id":"76663",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Si vous voyagiez dans une époque passée, quel métier seriez-vous capable de gérer ?",
-         "questionShort":"Ancienne passion potentielle",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76663",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Si vous voyagiez dans une époque passée, quel métier seriez-vous capable de gérer ?",
+         "questionShort": "Ancienne passion potentielle",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Les Rallonges Électriques",
             "Les Sports à la Télé",
             "Les Réseaux Sociaux",
@@ -258,19 +258,19 @@
             "Les Piles AA",
             "La Danse"
          ],
-         "id":"76664",
-         "intro":"I have a \"unique\" proposition...",
-         "isValid":"",
-         "outro":null,
-         "question":"Ce que vous n'abandonneriez JAMAIS, même en échange de 1 million d'euros",
-         "questionShort":"À garder, même contre 1 Million d'Euros",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76664",
+         "intro": "J'ai une proposition… assez particulière.",
+         "isValid": "",
+         "outro": null,
+         "question": "Ce que vous n'abandonneriez JAMAIS, même en échange de 1 million d'euros",
+         "questionShort": "À garder, même contre 1 Million d'Euros",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Derrière les rideaux de douche",
             "Sous le Lit",
             "Dans le Placard de la Chambre",
@@ -280,19 +280,19 @@
             "Sur le toit",
             "Déguisé en Portemanteau"
          ],
-         "id":"76665",
-         "intro":"I'm a bit of scream queen myself.",
-         "isValid":"",
-         "outro":null,
-         "question":"L'endroit le plus sûr pour se cacher dans un film d'horreur",
-         "questionShort":"Les meilleurs planques de film d'horreur",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76665",
+         "intro": "Moi aussi, j'ai parfois des airs de reine du film d'horreur.",
+         "isValid": "",
+         "outro": null,
+         "question": "L'endroit le plus sûr pour se cacher dans un film d'horreur",
+         "questionShort": "Les meilleurs planques de film d'horreur",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Tee-shirt et short à fleurs",
             "Salopette",
             "Survêtement",
@@ -302,19 +302,19 @@
             "Barboteuse",
             "Costume d'Halloween"
          ],
-         "id":"76666",
-         "intro":"Fashion montage!",
-         "isValid":"",
-         "outro":null,
-         "question":"Les tenues que vous gardez dans votre placard...",
-         "questionShort":"Les Vêtements que vous Gardez",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76666",
+         "intro": "Place au défilé de mode !",
+         "isValid": "",
+         "outro": null,
+         "question": "Les tenues que vous gardez dans votre placard...",
+         "questionShort": "Les Vêtements que vous Gardez",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Une Boîte d'allumettes",
             "Une Bâche",
             "Un Couteau",
@@ -324,19 +324,19 @@
             "Une Corde",
             "Trois Gros Livres"
          ],
-         "id":"76667",
-         "intro":"",
-         "isValid":"",
-         "outro":null,
-         "question":"Les choses les plus utiles à avoir sur une île déserte",
-         "questionShort":"Besoin absolu sur une île déserte",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76667",
+         "intro": "",
+         "isValid": "",
+         "outro": null,
+         "question": "Les choses les plus utiles à avoir sur une île déserte",
+         "questionShort": "Besoin absolu sur une île déserte",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Un Sandwich au Salami",
             "Des Chips goût Fromage",
             "Des Briques de Jus de fruit",
@@ -346,19 +346,19 @@
             "Un Thermos de Soupe",
             "Un Petit Mot de Maman"
          ],
-         "id":"76668",
-         "intro":"",
-         "isValid":"",
-         "outro":null,
-         "question":"Les meilleures choses qui se trouvent dans votre panier-repas",
-         "questionShort":"Dans votre panier-repas",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76668",
+         "intro": "",
+         "isValid": "",
+         "outro": null,
+         "question": "Les meilleures choses qui se trouvent dans votre panier-repas",
+         "questionShort": "Dans votre panier-repas",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Un Grille-pain de Luxe",
             "Un Set de Couteaux",
             "Une Couette Confortable",
@@ -368,19 +368,19 @@
             "Une Cafetière",
             "Une Carte Cadeau"
          ],
-         "id":"76669",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les meilleurs cadeaux à recevoir pour votre mariage",
-         "questionShort":"Les meilleurs cadeaux de mariage",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76669",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les meilleurs cadeaux à recevoir pour votre mariage",
+         "questionShort": "Les meilleurs cadeaux de mariage",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Le Pays Imaginaire (Peter Pan)",
             "Wakanda (Black Panther)",
             "Poudlard (Harry Potter)",
@@ -392,19 +392,19 @@
             "Le Monde des Bisounours",
             "Halloween Town (L'étrange Noël de Mr Jack)"
          ],
-         "id":"76671",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les MEILLEURS endroits fictifs dans lesquels vous téléporter",
-         "questionShort":"Les Meilleurs endroits de Fiction",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76671",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les MEILLEURS endroits fictifs dans lesquels vous téléporter",
+         "questionShort": "Les Meilleurs endroits de Fiction",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Westeros ([i]Game of Thrones[/i])",
             "Raccon City ([i]Resident Evil[/i])",
             "Le Camp de Crystal Lake ([i]Vendredi 13[/i])",
@@ -416,19 +416,19 @@
             "Pays d'Aslan ([i]Le Monde de Narnia[/i])",
             "L.A. 2029 AD ([i]Terminator[/i])"
          ],
-         "id":"76672",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les PIRES endroits fictifs dans lesquels vous téléporter",
-         "questionShort":"Les pires endroits de fiction",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76672",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les PIRES endroits fictifs dans lesquels vous téléporter",
+         "questionShort": "Les pires endroits de fiction",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Un Téléporteur",
             "Un Synthétiseur de Nourriture",
             "Une Salle de Simulation",
@@ -438,19 +438,19 @@
             "Une Machine de Diagnostic Portative",
             "Un Androïde"
          ],
-         "id":"76753",
-         "intro":"I always set my phasers to stunning!",
-         "isValid":"",
-         "outro":null,
-         "question":"Les technologies de [i]Start Trek[/i] que vous voudriez avoir",
-         "questionShort":"La meilleure tech de Star Trek",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76753",
+         "intro": "Moi, mes phaseurs sont toujours réglés sur « éblouir » !",
+         "isValid": "",
+         "outro": null,
+         "question": "Les technologies de [i]Start Trek[/i] que vous voudriez avoir",
+         "questionShort": "La meilleure tech de Star Trek",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Flamant rose",
             "Perroquet",
             "Faucon",
@@ -460,19 +460,19 @@
             "Corbeau",
             "Caneton"
          ],
-         "id":"76754",
-         "intro":"Let's give them something to tweet about.",
-         "isValid":"",
-         "outro":null,
-         "question":"Quel est le MEILLEUR oiseau ?",
-         "questionShort":"MEILLEUR oiseau",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76754",
+         "intro": "Voilà qui va faire gazouiller les oiseaux !",
+         "isValid": "",
+         "outro": null,
+         "question": "Quel est le MEILLEUR oiseau ?",
+         "questionShort": "MEILLEUR oiseau",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Un Yo-yo",
             "Un Hand Spinner",
             "Des Autocollants",
@@ -484,19 +484,19 @@
             "Un Tatouage temporaire",
             "Un Chewing-gun"
          ],
-         "id":"76757",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Vous avez été très courageux au dentiste, que voulez-vous comme récompense ?",
-         "questionShort":"Meilleure récompense après une visite chez le dentiste",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76757",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Vous avez été très courageux au dentiste, que voulez-vous comme récompense ?",
+         "questionShort": "Meilleure récompense après une visite chez le dentiste",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Magicarpe",
             "Aspicot",
             "Qulbutoké",
@@ -506,19 +506,19 @@
             "Roucool",
             "Mélofée"
          ],
-         "id":"76758",
-         "intro":"This one's for you my puppets.",
-         "isValid":"",
-         "outro":null,
-         "question":"Quel Pokémon est le plus inutile ?",
-         "questionShort":"Pokémon le plus inutile",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76758",
+         "intro": "Celle-là est pour vous, mes petites marionnettes.",
+         "isValid": "",
+         "outro": null,
+         "question": "Quel Pokémon est le plus inutile ?",
+         "questionShort": "Pokémon le plus inutile",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Boue",
             "Slime",
             "Café tiède",
@@ -528,19 +528,19 @@
             "Moutarde douce",
             "Larmes de mes ennemis"
          ],
-         "id":"76759",
-         "intro":"This one is just for my personal reference.",
-         "isValid":"",
-         "outro":null,
-         "question":"\"Je n'aimerais pas tomber dans une piscine remplie de...\"",
-         "questionShort":"La pire des piscines",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76759",
+         "intro": "Cette question, c'est pour mes recherches personnelles.",
+         "isValid": "",
+         "outro": null,
+         "question": "\"Je n'aimerais pas tomber dans une piscine remplie de...\"",
+         "questionShort": "La pire des piscines",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Un miroir",
             "Une cheminée",
             "Un réveil",
@@ -552,19 +552,19 @@
             "Un pouf",
             "Un lustre"
          ],
-         "id":"76760",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Dans un château enchanté, quel objet vivant aimeriez-vous devenir pendant dix ans ?",
-         "questionShort":"Une décennie comme objet vivant",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76760",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Dans un château enchanté, quel objet vivant aimeriez-vous devenir pendant dix ans ?",
+         "questionShort": "Une décennie comme objet vivant",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Un Chapeau de Cowboy",
             "Des Gants sans doigts",
             "Une Cape",
@@ -576,19 +576,19 @@
             "Un Masque de Mascarade",
             "Un Trench blanc brillant"
          ],
-         "id":"76764",
-         "intro":"",
-         "isValid":"",
-         "outro":null,
-         "question":"Quel est l'accessoire fashion qui complète votre relooking ?",
-         "questionShort":"Accessoire fashion",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76764",
+         "intro": "",
+         "isValid": "",
+         "outro": null,
+         "question": "Quel est l'accessoire fashion qui complète votre relooking ?",
+         "questionShort": "Accessoire fashion",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Conduire n'importe où",
             "Se laver",
             "Remplir sa fiche d'impôts",
@@ -598,19 +598,19 @@
             "Faire les courses",
             "Aller chez le dentiste"
          ],
-         "id":"76766",
-         "intro":"Good help is so hard to mine.",
-         "isValid":"",
-         "outro":null,
-         "question":"Une tâche que vous aimeriez ne plus jamais avoir à faire...",
-         "questionShort":"Tâches à supprimer définitivement",
-         "round":"second",
-         "us":true,
-         "x":false
+         "id": "76766",
+         "intro": "De nos jours, impossible de trouver de bons assistants !",
+         "isValid": "",
+         "outro": null,
+         "question": "Une tâche que vous aimeriez ne plus jamais avoir à faire...",
+         "questionShort": "Tâches à supprimer définitivement",
+         "round": "second",
+         "us": true,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "[i]Le Monde[/i]",
             "[i]Le Parisien[/i]",
             "[i]Auto Moto[/i]",
@@ -620,19 +620,19 @@
             "[i]Rolling Stone[/i]",
             "[i]Bon Appétit[/i]"
          ],
-         "id":"76797",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Quels magazines choisiriez-vous pour un abonnement gratuit à vie ?",
-         "questionShort":"Abonnements à vie privilégiés",
-         "round":"first",
-         "us":true,
-         "x":false
+         "id": "76797",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Quels magazines choisiriez-vous pour un abonnement gratuit à vie ?",
+         "questionShort": "Abonnements à vie privilégiés",
+         "round": "first",
+         "us": true,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "\"Je suis riche !\"",
             "\"C'est une blague, hein ?\"",
             "\"Prends mon ami à la place\"",
@@ -642,19 +642,19 @@
             "\"Je n'ai rien !\"",
             "\"JE T'AIME\""
          ],
-         "id":"76802",
-         "intro":"This question is a real steal.",
-         "isValid":"",
-         "outro":null,
-         "question":"La PIRE chose à dire quand on se fait agresser",
-         "questionShort":"Les pires déclarations d'agression",
-         "round":"second",
-         "us":false,
-         "x":true
+         "id": "76802",
+         "intro": "Cette question vaut le détour. Et peut-être le coup de main…",
+         "isValid": "",
+         "outro": null,
+         "question": "La PIRE chose à dire quand on se fait agresser",
+         "questionShort": "Les pires déclarations d'agression",
+         "round": "second",
+         "us": false,
+         "x": true
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Ted",
             "Mary Poppins",
             "Casimir",
@@ -664,19 +664,19 @@
             "Dora l'Exploratrice",
             "Idéfix"
          ],
-         "id":"76848",
-         "intro":"Someone's gotta go.",
-         "isValid":"",
-         "outro":null,
-         "question":"Votre refuge est à court de ravitaillement, qui expulsez-vous dans le désert ?",
-         "questionShort":"Envoyé en Enfer",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76848",
+         "intro": "Il va falloir sacrifier quelqu'un.",
+         "isValid": "",
+         "outro": null,
+         "question": "Votre refuge est à court de ravitaillement, qui expulsez-vous dans le désert ?",
+         "questionShort": "Envoyé en Enfer",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Le hurlement d'un loup",
             "Le bourdonnement des abeilles",
             "Le grondement du tonnerre",
@@ -686,19 +686,19 @@
             "Votre pantalon qui se déchire",
             "Un Fantôme ?"
          ],
-         "id":"76850",
-         "intro":"J'espère que ce sondage ne sera pas trop intense… sous la tente !",
-         "isValid":"",
-         "outro":null,
-         "question":"Vous campez seul dans les bois, quel est le pire son que vous puissiez entendre ?",
-         "questionShort":"Mauvais son de camping",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76850",
+         "intro": "J'espère que ce sondage ne sera pas trop intense… sous la tente !",
+         "isValid": "",
+         "outro": null,
+         "question": "Vous campez seul dans les bois, quel est le pire son que vous puissiez entendre ?",
+         "questionShort": "Mauvais son de camping",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Du fromage",
             "Des oignons",
             "Des poivrons",
@@ -708,19 +708,19 @@
             "Des oeufs",
             "Des truffes"
          ],
-         "id":"76857",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Vous êtes à un restaurant où vous pouvez faire vos propres crêpes salées ! Que mettez-vous dans votre oeuvre ?",
-         "questionShort":"Ingrédients d'une bonne crêpe salée",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76857",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Vous êtes à un restaurant où vous pouvez faire vos propres crêpes salées ! Que mettez-vous dans votre oeuvre ?",
+         "questionShort": "Ingrédients d'une bonne crêpe salée",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Milou",
             "Caramel",
             "Cacahuète",
@@ -730,19 +730,19 @@
             "Elvis",
             "Vanille"
          ],
-         "id":"76858",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les meilleurs noms pour un chien",
-         "questionShort":"Meilleurs noms de chiens",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76858",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les meilleurs noms pour un chien",
+         "questionShort": "Meilleurs noms de chiens",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Des moustiques incessants",
             "Des rats géants",
             "Des ours invisibles",
@@ -752,19 +752,19 @@
             "Des orages de pluie de chewing-gum pré-mâchée",
             "Des candidats issus de télé réalités"
          ],
-         "id":"76859",
-         "intro":"Danger, Poll Mine team!",
-         "isValid":"",
-         "outro":null,
-         "question":"Votre vaisseau spatial doit effectuer un atterrissage d'urgence. Vous atterrissez sur La planète avec...",
-         "questionShort":"Atterrir sur la planète...",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76859",
+         "intro": "Attention, équipe de mineurs !",
+         "isValid": "",
+         "outro": null,
+         "question": "Votre vaisseau spatial doit effectuer un atterrissage d'urgence. Vous atterrissez sur La planète avec...",
+         "questionShort": "Atterrir sur la planète...",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Un aquarium",
             "Un zoo",
             "Un musée d'art",
@@ -776,19 +776,19 @@
             "La fabrique de fromage",
             "La maison du prof"
          ],
-         "id":"76860",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Le MEILLEUR lieu de sortie scolaire",
-         "questionShort":"Meilleure sortie scolaire",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76860",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Le MEILLEUR lieu de sortie scolaire",
+         "questionShort": "Meilleure sortie scolaire",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "[i]Koh-Lanta[/i]",
             "[i]Le juste prix[/i]",
             "[i]La roue de la fortune[/i]",
@@ -798,19 +798,19 @@
             "[i]Burger Quiz[/i]",
             "[i]Ninja Warrior[/i]"
          ],
-         "id":"76869",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Dans quels jeux télévisés pensez-vous être le meilleur ?",
-         "questionShort":"Émissions que vous pourriez gagner",
-         "round":"first",
-         "us":true,
-         "x":false
+         "id": "76869",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Dans quels jeux télévisés pensez-vous être le meilleur ?",
+         "questionShort": "Émissions que vous pourriez gagner",
+         "round": "first",
+         "us": true,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "L'addict à la pause-café",
             "Le Clopeur",
             "\"Qui?\"",
@@ -820,19 +820,19 @@
             "Le lèche-bottes",
             "Poulette"
          ],
-         "id":"76923",
-         "intro":"Hey... you.",
-         "isValid":"",
-         "outro":null,
-         "question":"Les pires surnoms à avoir au travail",
-         "questionShort":"Surnoms de travail terribles",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76923",
+         "intro": "Hé… vous, là.",
+         "isValid": "",
+         "outro": null,
+         "question": "Les pires surnoms à avoir au travail",
+         "questionShort": "Surnoms de travail terribles",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Une pomme très brillante",
             "Quelque chose qui représente la société",
             "Un chat à visage humain",
@@ -842,19 +842,19 @@
             "Des fleurs robustes",
             "Une vieille table"
          ],
-         "id":"76925",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Créez le tableau de nature morte parfait avec...",
-         "questionShort":"Meilleurs objets pour une nature morte",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76925",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Créez le tableau de nature morte parfait avec...",
+         "questionShort": "Meilleurs objets pour une nature morte",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Dans la plante en pot",
             "Sur la plage de la ville",
             "Dans la litière",
@@ -864,19 +864,19 @@
             "Dans le parterre de fleurs",
             "Dans le lit du chien"
          ],
-         "id":"76951",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"L'endroit le plus satisfaisant pour faire pipi, si vous êtes un chat",
-         "questionShort":"Meilleures toilettes pour chats",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76951",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "L'endroit le plus satisfaisant pour faire pipi, si vous êtes un chat",
+         "questionShort": "Meilleures toilettes pour chats",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Est sarcastique avec un serveur",
             "T’appelle \"Maman,\" Deux fois",
             "Ne tire jamais la chasse d'eau",
@@ -886,19 +886,19 @@
             "« N'a pas voté »",
             "Se tatoue l'émoji caca sur le bras"
          ],
-         "id":"76952",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Si votre nouveau partenaire fait cela, vous pourriez à juste titre rompre avec lui",
-         "questionShort":"Trouver de vrais justifications de rupture",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76952",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Si votre nouveau partenaire fait cela, vous pourriez à juste titre rompre avec lui",
+         "questionShort": "Trouver de vrais justifications de rupture",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Faire accoucher quelqu'un",
             "Faire atterrir un avion",
             "Cuisiner un repas gastronomique",
@@ -908,19 +908,19 @@
             "Apprivoiser n'importe quel animal",
             "Réparer n'importe quel véhicule"
          ],
-         "id":"76954",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Buvez une potion magique et vous ferez quelque chose parfaitement, juste une fois. Quelle potion achetez-vous ?",
-         "questionShort":"Faites-le parfaitement, rien qu'une fois",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76954",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Buvez une potion magique et vous ferez quelque chose parfaitement, juste une fois. Quelle potion achetez-vous ?",
+         "questionShort": "Faites-le parfaitement, rien qu'une fois",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "...les gens",
             "... mes chéris",
             "... les imbéciles",
@@ -933,19 +933,19 @@
             "\"...certains d'entre vous\"",
             "\"...les amateurs de sport\""
          ],
-         "id":"76961",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"La salutation que vous aimeriez commencer à utiliser : Bonjour…",
-         "questionShort":"Salutations préférées",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "76961",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "La salutation que vous aimeriez commencer à utiliser : Bonjour…",
+         "questionShort": "Salutations préférées",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Une Jolie Chaise En Bois",
             "Des Rallonges électriques",
             "Un Miroir d'époque",
@@ -955,19 +955,19 @@
             "Des Figurines d'action à Collectionner",
             "Un DVD des Années 90"
          ],
-         "id":"76962",
-         "intro":"What a find!?",
-         "isValid":"",
-         "outro":null,
-         "question":"\"Je serais ravi de l'obtenir dans un vide-grenier à un bon prix : \"",
-         "questionShort":"Des découvertes passionnantes dans une vide-grenier",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "76962",
+         "intro": "Quelle trouvaille !",
+         "isValid": "",
+         "outro": null,
+         "question": "\"Je serais ravi de l'obtenir dans un vide-grenier à un bon prix : \"",
+         "questionShort": "Des découvertes passionnantes dans une vide-grenier",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Genoux en caoutchouc",
             "Clignotement des yeux intensif",
             "Dents moches",
@@ -977,19 +977,19 @@
             "Salive extra humide",
             "Pets non-stop"
          ],
-         "id":"76963",
-         "intro":"My grandfather had all of these.",
-         "isValid":"",
-         "outro":null,
-         "question":"Lequel de ces maux inventés serait le PIRE à avoir ?",
-         "questionShort":"Les pires maux inventés",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "76963",
+         "intro": "Mon grand-père possédait tout ça.",
+         "isValid": "",
+         "outro": null,
+         "question": "Lequel de ces maux inventés serait le PIRE à avoir ?",
+         "questionShort": "Les pires maux inventés",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Tornade",
             "Danseur",
             "Fringant",
@@ -999,19 +999,19 @@
             "Tonnerre",
             "Éclair"
          ],
-         "id":"77080",
-         "intro":"What's that I hear on the roof?",
-         "isValid":"",
-         "outro":null,
-         "question":"Les noms des rennes du Père Noël que vous choisiriez si c'était les vôtres",
-         "questionShort":"Votre nom de renne",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77080",
+         "intro": "Tiens, qu'est-ce que j'entends sur le toit ?",
+         "isValid": "",
+         "outro": null,
+         "question": "Les noms des rennes du Père Noël que vous choisiriez si c'était les vôtres",
+         "questionShort": "Votre nom de renne",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Fermeture éclair ouverte en public",
             "Trop habillé lors d'un événement décontracté",
             "Mal-habillé lors d'un événement officiel",
@@ -1021,19 +1021,19 @@
             "Péter dans un ascenseur bondé",
             "Laisser la porte se fermer au visage de quelqu'un"
          ],
-         "id":"77081",
-         "intro":"How embarrassing... for you.",
-         "isValid":"",
-         "outro":null,
-         "question":"Quel est le pire faux pas social ?",
-         "questionShort":"Le pire faux pas social",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77081",
+         "intro": "Quelle honte… pour vous.",
+         "isValid": "",
+         "outro": null,
+         "question": "Quel est le pire faux pas social ?",
+         "questionShort": "Le pire faux pas social",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Pendant un saut en parachute",
             "Dans un bar après avoir renversé un café",
             "Dans une boutique de cadeaux",
@@ -1043,19 +1043,19 @@
             "Dans un aéroport",
             "Dans une boulangerie"
          ],
-         "id":"77083",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Le meilleur endroit pour une rencontre amoureuse",
-         "questionShort":"Lieux de rencontre parfaits et mignons",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77083",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Le meilleur endroit pour une rencontre amoureuse",
+         "questionShort": "Lieux de rencontre parfaits et mignons",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Cappuccino",
             "Espresso",
             "Macchiato",
@@ -1066,19 +1066,19 @@
             "La Mousse froide de Charlie",
             "Cortado"
          ],
-         "id":"77214",
-         "intro":"The stakes just went from grande to venti.",
-         "isValid":"",
-         "outro":null,
-         "question":"Quel café ferait le meilleur nom de bébé ?",
-         "questionShort":"Meilleurs noms de bébé... goût café",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77214",
+         "intro": "Là, on passe carrément du grand au très grand format.",
+         "isValid": "",
+         "outro": null,
+         "question": "Quel café ferait le meilleur nom de bébé ?",
+         "questionShort": "Meilleurs noms de bébé... goût café",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Le pied",
             "Le coude",
             "La tête",
@@ -1088,19 +1088,19 @@
             "La taille",
             "Le Postérieur"
          ],
-         "id":"77215",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Si vous ne pouvez pas attraper la main de quelqu'un, quelle est la partie du corps la plus appropriée ?",
-         "questionShort":"Tenir quelle partie du corps",
-         "round":"third",
-         "us":false,
-         "x":true
+         "id": "77215",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Si vous ne pouvez pas attraper la main de quelqu'un, quelle est la partie du corps la plus appropriée ?",
+         "questionShort": "Tenir quelle partie du corps",
+         "round": "third",
+         "us": false,
+         "x": true
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Des écouteurs",
             "Un permis de conduire",
             "Un pantalon",
@@ -1110,19 +1110,19 @@
             "Un Tee-shirt",
             "Des chaussures"
          ],
-         "id":"77216",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Sans quoi ne pourriez-vous jamais quitter la maison, même si cela signifiait que vous ne pourriez pas apporter les autres objets avec vous ?",
-         "questionShort":"Objets les plus nécessaires",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77216",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Sans quoi ne pourriez-vous jamais quitter la maison, même si cela signifiait que vous ne pourriez pas apporter les autres objets avec vous ?",
+         "questionShort": "Objets les plus nécessaires",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "\"Le Père Noël est réel, et mort\"",
             "\"Je sors avec ton prof\"",
             "\"Comment la Terre va mourir\"",
@@ -1132,19 +1132,19 @@
             "\"Le harcèlement la plus efficace\"",
             "\"Braillons tous ensemble !\""
          ],
-         "id":"77217",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les PIRES présentations à faire à une classe de primaire",
-         "questionShort":"PIRES présentations à l'école primaire",
-         "round":"second",
-         "us":false,
-         "x":true
+         "id": "77217",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les PIRES présentations à faire à une classe de primaire",
+         "questionShort": "PIRES présentations à l'école primaire",
+         "round": "second",
+         "us": false,
+         "x": true
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Un bébé qui s'endort sur toi",
             "Entrer dans un bain à bulles",
             "Le chauffeur-livreur sonne à la porte",
@@ -1154,19 +1154,19 @@
             "Se faire laver les cheveux avant de les couper",
             "Quelqu'un d'autre annule quelque chose de prévu"
          ],
-         "id":"77224",
-         "intro":"Good vibes only...",
-         "isValid":"",
-         "outro":null,
-         "question":"Quelle est la sensation la plus agréable ?",
-         "questionShort":"Les meilleures sensations",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77224",
+         "intro": "Que des bonnes ondes…",
+         "isValid": "",
+         "outro": null,
+         "question": "Quelle est la sensation la plus agréable ?",
+         "questionShort": "Les meilleures sensations",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Meilleurs voeux,",
             "Acclamations !",
             "Prenez soin de vous,",
@@ -1176,19 +1176,19 @@
             "Passe un bon moment !",
             "Salutations,"
          ],
-         "id":"77225",
-         "intro":"I hope this poll finds you well.",
-         "isValid":"",
-         "outro":null,
-         "question":"Quelles signatures d'e-mail utiliseriez-vous dans un e-mail professionnel ?",
-         "questionShort":"Signatures professionnelles",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77225",
+         "intro": "J'espère que ce petit sondage vous trouve en pleine forme.",
+         "isValid": "",
+         "outro": null,
+         "question": "Quelles signatures d'e-mail utiliseriez-vous dans un e-mail professionnel ?",
+         "questionShort": "Signatures professionnelles",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Enfant de famille riche",
             "Soldat de la guerre civile",
             "Reine sans tête",
@@ -1198,19 +1198,19 @@
             "Percepteur des impôts",
             "Singe utilisé pour la recherche médicale"
          ],
-         "id":"77226",
-         "intro":"You're certainly a spirited group.",
-         "isValid":"",
-         "outro":null,
-         "question":"Par quel type de fantôme préféreriez-vous être hanté ?",
-         "questionShort":"Vos fantômes préférés",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77226",
+         "intro": "Vous avez vraiment de l'esprit, vous autres.",
+         "isValid": "",
+         "outro": null,
+         "question": "Par quel type de fantôme préféreriez-vous être hanté ?",
+         "questionShort": "Vos fantômes préférés",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Un duel de regards",
             "Faire un High-Five en sautant en même temps",
             "Faire de la Tecktonik",
@@ -1220,19 +1220,19 @@
             "Un baiser papillon",
             "Faire comme si de rien n'était"
          ],
-         "id":"77274",
-         "intro":"Proximity-wise, you are my closet friends...",
-         "isValid":"",
-         "outro":null,
-         "question":"La meilleure façon de mettre fin à un check secret",
-         "questionShort":"Meilleures fins de check secret",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77274",
+         "intro": "À la distance près, vous êtes mes meilleurs amis…",
+         "isValid": "",
+         "outro": null,
+         "question": "La meilleure façon de mettre fin à un check secret",
+         "questionShort": "Meilleures fins de check secret",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Des vieux bassins de lit",
             "Son autre maison hantée",
             "Les mauvais Funko Pops",
@@ -1242,19 +1242,19 @@
             "Son roman érotique",
             "\"Le sous-sol sale\""
          ],
-         "id":"77276",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les pires choses que grand-mère vous a léguées dans son testament",
-         "questionShort":"Les choses que Mamie a laissées",
-         "round":"second",
-         "us":false,
-         "x":true
+         "id": "77276",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les pires choses que grand-mère vous a léguées dans son testament",
+         "questionShort": "Les choses que Mamie a laissées",
+         "round": "second",
+         "us": false,
+         "x": true
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Une queue",
             "Des bois",
             "Des yeux à l'arrière de la tête",
@@ -1264,19 +1264,19 @@
             "Des griffes",
             "Une poche"
          ],
-         "id":"77280",
-         "intro":"I'm all for body positivity, but there's always room for improvement.",
-         "isValid":"",
-         "outro":null,
-         "question":"Votre corps peut développer l'une de ces choses...",
-         "questionShort":"Nouvelles parties du corps",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77280",
+         "intro": "J'aime tous les corps, mais il y a toujours moyen de s'améliorer !",
+         "isValid": "",
+         "outro": null,
+         "question": "Votre corps peut développer l'une de ces choses...",
+         "questionShort": "Nouvelles parties du corps",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Des tigres d'attaque entraînés",
             "Une nacelle d'évasion aquatique",
             "Un système de défense laser",
@@ -1286,19 +1286,19 @@
             "De multiples pièges",
             "Une peinture géante de vous-même"
          ],
-         "id":"77306",
-         "intro":"I think my cave isn't menacing enough. Help me HGTV!",
-         "isValid":"",
-         "outro":null,
-         "question":"Quelles fonctionnalités sont indispensables lors de la conception de votre base de super-vilain ?",
-         "questionShort":"Caractéristiques de base de super-vilain",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77306",
+         "intro": "Ma grotte manque de menace. On appelle une émission de déco ?",
+         "isValid": "",
+         "outro": null,
+         "question": "Quelles fonctionnalités sont indispensables lors de la conception de votre base de super-vilain ?",
+         "questionShort": "Caractéristiques de base de super-vilain",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Quelque chose de chocolaté",
             "Quelque chose de fruité",
             "Quelque chose avec des noisettes",
@@ -1308,19 +1308,19 @@
             "Quelque chose de léger",
             "Quelque chose qui implique du feu"
          ],
-         "id":"77308",
-         "intro":"Let me get you a buncha spoons.",
-         "isValid":"",
-         "outro":null,
-         "question":"Lequel des articles du panier à desserts est le plus susceptible de vous tenter ?",
-         "questionShort":"Les desserts les plus tentants",
-         "round":"first",
-         "us":false,
-         "x":true
+         "id": "77308",
+         "intro": "Attendez, je vous apporte quelques cuillères.",
+         "isValid": "",
+         "outro": null,
+         "question": "Lequel des articles du panier à desserts est le plus susceptible de vous tenter ?",
+         "questionShort": "Les desserts les plus tentants",
+         "round": "first",
+         "us": false,
+         "x": true
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Chauves-souris",
             "Dauphins",
             "Enfants",
@@ -1334,19 +1334,19 @@
             "Marionnettes",
             "Mimes"
          ],
-         "id":"77311",
-         "intro":"Minions... they're so helpful! Especially on Laundry Thursdays!",
-         "isValid":"",
-         "outro":null,
-         "question":"Vous pouvez commander une armée parmi ces choix. Laquelle choisissez vous ?",
-         "questionShort":"Commandez une armée de...",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77311",
+         "intro": "Les sbires, c'est tellement pratique ! Surtout le jeudi, jour de lessive !",
+         "isValid": "",
+         "outro": null,
+         "question": "Vous pouvez commander une armée parmi ces choix. Laquelle choisissez vous ?",
+         "questionShort": "Commandez une armée de...",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Pirate informatique",
             "Maître du déguisement",
             "Chauffeur",
@@ -1356,19 +1356,19 @@
             "Contorsionniste",
             "Maître séducteur"
          ],
-         "id":"77314",
-         "intro":"I've been called the George Clooney of cave dwellers!",
-         "isValid":"",
-         "outro":"Cheese it! It's the heat!",
-         "question":"Vous devez cambrioler un casino, qui est dans votre équipe ?",
-         "questionShort":"Votre équipe de braquage",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77314",
+         "intro": "On m'appelle le George Clooney des habitants des cavernes !",
+         "isValid": "",
+         "outro": "Vite, la police ! Filons !",
+         "question": "Vous devez cambrioler un casino, qui est dans votre équipe ?",
+         "questionShort": "Votre équipe de braquage",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Du scotch",
             "Une orange",
             "Du fil dentaire",
@@ -1378,19 +1378,19 @@
             "Un oreiller",
             "Une baguette de pain"
          ],
-         "id":"77315",
-         "intro":"The hardest part of mafia work is the ability to think outside the box.",
-         "isValid":"",
-         "outro":null,
-         "question":"Vos collègues de la mafia ont pris toutes les bonnes armes. Que prenez-vous dans le reste ?",
-         "questionShort":"Armes mafieuses improbables",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77315",
+         "intro": "Dans la mafia, le plus difficile, c'est de sortir des sentiers battus.",
+         "isValid": "",
+         "outro": null,
+         "question": "Vos collègues de la mafia ont pris toutes les bonnes armes. Que prenez-vous dans le reste ?",
+         "questionShort": "Armes mafieuses improbables",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"hypothetical",
-         "choices":[
+         "category": "hypothetical",
+         "choices": [
             "Des lunettes d'aviateur",
             "Un déguisement de mouton",
             "Une poubelle",
@@ -1400,19 +1400,19 @@
             "Un plateau d'amuse-gueules",
             "Un masque de The Rock"
          ],
-         "id":"77339",
-         "intro":"I'm just a witch, standing in front of a mining team...",
-         "isValid":"",
-         "outro":null,
-         "question":"Vous êtes dans une comédie romantique, et votre ex approche ! Vite, qu'est-ce que vous attrapez pour vous déguiser ?",
-         "questionShort":"Les meilleurs déguisements de fortune",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77339",
+         "intro": "Je suis juste une sorcière, face à une équipe de mineurs…",
+         "isValid": "",
+         "outro": null,
+         "question": "Vous êtes dans une comédie romantique, et votre ex approche ! Vite, qu'est-ce que vous attrapez pour vous déguiser ?",
+         "questionShort": "Les meilleurs déguisements de fortune",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "EPS",
             "Maths",
             "Philosophie",
@@ -1422,19 +1422,19 @@
             "Français",
             "Arts Plastiques"
          ],
-         "id":"77340",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Vous pouvez bannir une matière à l'école... Laquelle ?",
-         "questionShort":"So long cette matière !",
-         "round":"third",
-         "us":false,
-         "x":true
+         "id": "77340",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Vous pouvez bannir une matière à l'école... Laquelle ?",
+         "questionShort": "So long cette matière !",
+         "round": "third",
+         "us": false,
+         "x": true
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Le bruissement de papier de soie",
             "L'éclatement du papier bulle",
             "Les vagues de l'océan qui se brisent",
@@ -1444,19 +1444,19 @@
             "Le craquement du parquet",
             "Morgan Freeman racontant une histoire"
          ],
-         "id":"77341",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Le bruit le plus satisfaisant",
-         "questionShort":"Les bruits les plus satisfaisants",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77341",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Le bruit le plus satisfaisant",
+         "questionShort": "Les bruits les plus satisfaisants",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Blé Complet",
             "Blanc",
             "Beignet",
@@ -1466,19 +1466,19 @@
             "Rouleau hawaïen",
             "Juste de la laitue"
          ],
-         "id":"77342",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Hé mon ami, quel genre de pain utilisez-vous pour faire un sandwich ?",
-         "questionShort":"Meilleurs pains à sandwich",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77342",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Hé mon ami, quel genre de pain utilisez-vous pour faire un sandwich ?",
+         "questionShort": "Meilleurs pains à sandwich",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Une montre",
             "Un chouchou",
             "Un mouchoir",
@@ -1488,19 +1488,19 @@
             "Un sac à main",
             "Un talkie-walkie secret"
          ],
-         "id":"77358",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"La chose la plus utile que vous puissiez avoir autour de votre poignet",
-         "questionShort":"Objets de poignet utiles",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77358",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "La chose la plus utile que vous puissiez avoir autour de votre poignet",
+         "questionShort": "Objets de poignet utiles",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Un mini-burger",
             "Une branche de céleri",
             "Un bouquet de bacon",
@@ -1510,19 +1510,19 @@
             "Encore plus de tomate",
             "Un piment jalapeño pané et farci"
          ],
-         "id":"77359",
-         "intro":"Un brunch, ça vous dit ?",
-         "isValid":"",
-         "outro":null,
-         "question":"Vous préparez le Bloody Mary parfait. Quelle garniture ajoutez-vous à ce magnifique cocktail ?",
-         "questionShort":"Garnitures pour Bloody Mary",
-         "round":"first",
-         "us":false,
-         "x":true
+         "id": "77359",
+         "intro": "Un brunch, ça vous dit ?",
+         "isValid": "",
+         "outro": null,
+         "question": "Vous préparez le Bloody Mary parfait. Quelle garniture ajoutez-vous à ce magnifique cocktail ?",
+         "questionShort": "Garnitures pour Bloody Mary",
+         "round": "first",
+         "us": false,
+         "x": true
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Un aigle grignotant votre foie",
             "Faire rouler un gros rocher à vie",
             "Être attaché à une roue en feu",
@@ -1532,19 +1532,19 @@
             "Être chassé par des abeilles folles",
             "Avoir des serpents à la place de vos cheveux"
          ],
-         "id":"77360",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Quelles punitions de la mythologie grecque apprécieriez-vous le moins ?",
-         "questionShort":"Punitions du mythe grec",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77360",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Quelles punitions de la mythologie grecque apprécieriez-vous le moins ?",
+         "questionShort": "Punitions du mythe grec",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Hank",
             "Carl",
             "Tom",
@@ -1554,19 +1554,19 @@
             "Bob",
             "Dan"
          ],
-         "id":"77381",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Le nom de la personne avec qui vous vous entendriez le mieux",
-         "questionShort":"Je m'entends le mieux avec...",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77381",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Le nom de la personne avec qui vous vous entendriez le mieux",
+         "questionShort": "Je m'entends le mieux avec...",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Manger des Pizzas",
             "Les histoires effrayantes",
             "Les petites canulars idiots",
@@ -1576,19 +1576,19 @@
             "Les potins",
             "Faire une partie de cache-cache"
          ],
-         "id":"77384",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"C'EST SOIRÉE PYJAMAS ! Quelle est la meilleure partie d'une soirée pyjamas !? YOUPI !",
-         "questionShort":"Meilleures parties d'une soirée pijamas",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77384",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "C'EST SOIRÉE PYJAMAS ! Quelle est la meilleure partie d'une soirée pyjamas !? YOUPI !",
+         "questionShort": "Meilleures parties d'une soirée pijamas",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "[i]Fast and Furious : Tokyo Drift[/i]",
             "[i]Retour vers le future 3[/i]",
             "[i]Shrek le troisième[/i]",
@@ -1600,19 +1600,19 @@
             "[i]L'ascension de Skywalker[/i]",
             "[i]Ocean's Thirteen[/i]"
          ],
-         "id":"77427",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Lequel de ces tréquels est le pire ?",
-         "questionShort":"Pire tréquel",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77427",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Lequel de ces tréquels est le pire ?",
+         "questionShort": "Pire tréquel",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "L'océan",
             "Le ciel",
             "Le feu de gaz",
@@ -1622,19 +1622,19 @@
             "Les baleines bleues",
             "Sonic l'hérisson"
          ],
-         "id":"77428",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Ok, alors... laquelle de ces choses bleues est la PLUS bleue ?",
-         "questionShort":"Le plus bleu",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77428",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Ok, alors... laquelle de ces choses bleues est la PLUS bleue ?",
+         "questionShort": "Le plus bleu",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Météo",
             "Appels",
             "E-mail",
@@ -1644,19 +1644,19 @@
             "Musique",
             "Calendrier"
          ],
-         "id":"77429",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Quelle est l'application la plus utilisée sur votre téléphone ?",
-         "questionShort":"Applications les plus utilisées",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77429",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Quelle est l'application la plus utilisée sur votre téléphone ?",
+         "questionShort": "Applications les plus utilisées",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Un éventail à main (pour chuchoter)",
             "La plus grande perruque",
             "Un mouchoir",
@@ -1666,19 +1666,19 @@
             "Une poignée de monocles",
             "Les clés du cabanon des chevaux"
          ],
-         "id":"77430",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Vous êtes la reine d'un petit pays... qu'emportez-vous pour vos excursions quotidiennes ?",
-         "questionShort":"Nécessités de la reine",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77430",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Vous êtes la reine d'un petit pays... qu'emportez-vous pour vos excursions quotidiennes ?",
+         "questionShort": "Nécessités de la reine",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Pouce droit",
             "Annulaire gauche",
             "Auriculaire Gauche",
@@ -1688,19 +1688,19 @@
             "Pouce gauche",
             "Majeur droit"
          ],
-         "id":"77431",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Que diriez-vous de vous contenter de choisir un doigt ?",
-         "questionShort":"Choisissez votre doigt",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77431",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Que diriez-vous de vous contenter de choisir un doigt ?",
+         "questionShort": "Choisissez votre doigt",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Chaudrée de palourdes",
             "Phô",
             "Ramen",
@@ -1710,19 +1710,19 @@
             "Soupe de légumes avec vermicelles",
             "Broccolis au cheddar"
          ],
-         "id":"77647",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les meilleures soupes ! Choisissez-les. Quelles sont les meilleures soupes !?",
-         "questionShort":"Les meilleures soupes !",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77647",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les meilleures soupes ! Choisissez-les. Quelles sont les meilleures soupes !?",
+         "questionShort": "Les meilleures soupes !",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "Une bague",
             "Une fleur pressée",
             "Une allumette",
@@ -1732,19 +1732,19 @@
             "Un rocher en forme de coeur",
             "Un haricot magique"
          ],
-         "id":"77649",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Si une petite fée laissait des bibelots dans votre poche, quels objets seraient les plus agréables ?",
-         "questionShort":"Bibelots de fée",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77649",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Si une petite fée laissait des bibelots dans votre poche, quels objets seraient les plus agréables ?",
+         "questionShort": "Bibelots de fée",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"set",
-         "choices":[
+         "category": "set",
+         "choices": [
             "La photo de maman",
             "Une ficelle",
             "Une punaise",
@@ -1754,19 +1754,19 @@
             "Une carte postale de papa",
             "Un bouton de chemise"
          ],
-         "id":"77651",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Quelle combinaison d'objets apparemment inutiles vous aidera probablement à désamorcer cette bombe ?",
-         "questionShort":"C'est un scénario de MacGyver",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77651",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Quelle combinaison d'objets apparemment inutiles vous aidera probablement à désamorcer cette bombe ?",
+         "questionShort": "C'est un scénario de MacGyver",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "\"Encore une fois !\"",
             "\"Toutes mes félicitations !\"",
             "\"À tes amours !\"",
@@ -1776,19 +1776,19 @@
             "\"OK.\"",
             "\"Excellente morve !\""
          ],
-         "id":"77652",
-         "intro":"Speaking of picking... a nose question!",
-         "isValid":"",
-         "outro":null,
-         "question":"Quelle est la nouvelle chose cool à dire après que quelqu'un éternue ?",
-         "questionShort":"Nouvelles réponses aux éternuements",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77652",
+         "intro": "Puisqu'on parle de fouiller… parlons de nez !",
+         "isValid": "",
+         "outro": null,
+         "question": "Quelle est la nouvelle chose cool à dire après que quelqu'un éternue ?",
+         "questionShort": "Nouvelles réponses aux éternuements",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "[i]On parle avec des micros cassés[/i]",
             "[i]Les news, mais en pire[/i]",
             "[i]Une heure d'influenceurs qui pleurent[/i]",
@@ -1798,19 +1798,19 @@
             "[i]Des histoires tristes mal racontées[/i]",
             "[i]C'est un meurtre ! Youpi ![/i]"
          ],
-         "id":"77654",
-         "intro":"And now a moment from our sponsors.",
-         "isValid":"",
-         "outro":null,
-         "question":"Quelle idée de podcast vous fait le plus peur ?",
-         "questionShort":"Les pires idées de podcast",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77654",
+         "intro": "Et maintenant, une page de publicité !",
+         "isValid": "",
+         "outro": null,
+         "question": "Quelle idée de podcast vous fait le plus peur ?",
+         "questionShort": "Les pires idées de podcast",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Des tuyaux toujours plus nombreux",
             "Un labyrinthe",
             "Un grille-pain volant",
@@ -1820,19 +1820,19 @@
             "Des lignes ondulées",
             "Des bulles"
          ],
-         "id":"77655",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Quel est le meilleur économiseur d'écran à l'ancienne ?",
-         "questionShort":"Économiseurs d'écran à l'ancienne",
-         "round":"third",
-         "us":false,
-         "x":false
+         "id": "77655",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Quel est le meilleur économiseur d'écran à l'ancienne ?",
+         "questionShort": "Économiseurs d'écran à l'ancienne",
+         "round": "third",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "\"Venez me voir dans mon bureau\"",
             "\"Votre père m'a appelé ;D\"",
             "\"Expliquez-vous.\"",
@@ -1842,19 +1842,19 @@
             "\"lol, belle tentative de triche\"",
             "\"Ignorez le sang sur la page 3\""
          ],
-         "id":"77656",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les pires choses à voir sur votre correction d'examen",
-         "questionShort":"Mauvais resultats",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77656",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les pires choses à voir sur votre correction d'examen",
+         "questionShort": "Mauvais resultats",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
-         "category":"favorite",
-         "choices":[
+         "category": "favorite",
+         "choices": [
             "Tantôt",
             "Fichtre",
             "Hurluberlu",
@@ -1864,19 +1864,19 @@
             "Marmaille",
             "Chenapan"
          ],
-         "id":"77661",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Quels vieux mots pouvez-vous utiliser régulièrement sans soucis ?",
-         "questionShort":"Les vieux mots",
-         "round":"first",
-         "us":false,
-         "x":false
+         "id": "77661",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Quels vieux mots pouvez-vous utiliser régulièrement sans soucis ?",
+         "questionShort": "Les vieux mots",
+         "round": "first",
+         "us": false,
+         "x": false
       },
       {
-         "category":"worst",
-         "choices":[
+         "category": "worst",
+         "choices": [
             "Des centaines de corbeaux",
             "D'anciennes runes partout",
             "Du sang, beaucoup de sang",
@@ -1886,15 +1886,15 @@
             "Vous commencez à avoir des visions étranges",
             "Voir des monstres inconnus"
          ],
-         "id":"77662",
-         "intro":null,
-         "isValid":"",
-         "outro":null,
-         "question":"Les symboles de malheur imminent ne sont jamais cool. Mais lequel est le pire ?",
-         "questionShort":"Symboles de malheur",
-         "round":"second",
-         "us":false,
-         "x":false
+         "id": "77662",
+         "intro": null,
+         "isValid": "",
+         "outro": null,
+         "question": "Les symboles de malheur imminent ne sont jamais cool. Mais lequel est le pire ?",
+         "questionShort": "Symboles de malheur",
+         "round": "second",
+         "us": false,
+         "x": false
       },
       {
          "category": "hypothetical",
@@ -13513,6 +13513,5 @@
          "us": false,
          "x": false
       }
-
    ]
 }
