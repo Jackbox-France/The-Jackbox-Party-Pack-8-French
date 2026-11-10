@@ -1,35 +1,31 @@
 {
-    "table":{
+    "table": {
         "en": {
-            "LANGUAGE_NAME": "English",
-            "LANGUAGE": "Langage",
-
-            "INTERNET_CONNECTED": "We've just found the Internet.",
-            "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br/>Please check that your internet connection is working properly.",
-            "ROOM_DESTROYED": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly.",
-            
-            "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 1)",
-            "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 2)",
-            "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 3)",
-            "ROOM_EXIT_CAUSE_DISCONNECT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 4)",
-            "ROOM_EXIT_CAUSE_BY_REQUEST": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 5)",
-            "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 6)",
-        
-            "SOCKET_DISCONNECTED ": "We're sorry, we've lost your connection to the Jackbox Games servers.",
-            "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br/>Please check that your internet connection is working properly.",
-            "USER_DISCONNECT": "We're sorry, the server has disconnected you. Please try again.",
-            "LOST_LICENSE": "We're sorry, we lost the license for this content!",
-            "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
-            "TWITCH_PRIME_ERROR": "We're sorry, we couldn't validate your Twitch Prime license.",
-            "LOST_DLC": "We're sorry, the license for your DLC could not be found. Returning you to the menu...",
-
+            "LANGUAGE_NAME": "Français",
+            "LANGUAGE": "Langue",
+            "INTERNET_CONNECTED": "Connexion Internet établie.",
+            "INTERNET_DISCONNECTED": "Impossible de se connecter aux serveurs de Jackbox Games.<br/>Vérifiez votre connexion Internet.",
+            "ROOM_DESTROYED": "Une erreur réseau a interrompu la partie et fermé votre salon.<br/>Vérifiez votre connexion Internet.",
+            "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "Une erreur réseau a interrompu la partie et fermé votre salon.<br/>Vérifiez votre connexion Internet. (Code : 1)",
+            "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "Une erreur réseau a interrompu la partie et fermé votre salon.<br/>Vérifiez votre connexion Internet. (Code : 2)",
+            "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "Une erreur réseau a interrompu la partie et fermé votre salon.<br/>Vérifiez votre connexion Internet. (Code : 3)",
+            "ROOM_EXIT_CAUSE_DISCONNECT": "Une erreur réseau a interrompu la partie et fermé votre salon.<br/>Vérifiez votre connexion Internet. (Code : 4)",
+            "ROOM_EXIT_CAUSE_BY_REQUEST": "Une erreur réseau a interrompu la partie et fermé votre salon.<br/>Vérifiez votre connexion Internet. (Code : 5)",
+            "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "Une erreur réseau a interrompu la partie et fermé votre salon.<br/>Vérifiez votre connexion Internet. (Code : 6)",
+            "SOCKET_DISCONNECTED ": "La connexion aux serveurs de Jackbox Games a été perdue.",
+            "TIMEOUT": "Impossible de se connecter aux serveurs de Jackbox Games.<br/>Vérifiez votre connexion Internet.",
+            "USER_DISCONNECT": "Le serveur vous a déconnecté. Veuillez réessayer.",
+            "LOST_LICENSE": "Impossible de retrouver la licence de ce contenu.",
+            "STEAM_ERROR": "Impossible de vérifier votre licence Steam.",
+            "TWITCH_PRIME_ERROR": "Impossible de vérifier votre licence Twitch Prime.",
+            "LOST_DLC": "Impossible de retrouver la licence du contenu supplémentaire. Retour au menu…",
             "BACK": "Retour",
             "CLOSE": "Fermer",
             "CANCEL": "Annuler",
             "SELECT": "Sélectionner",
             "OR": "Ou",
-            "ON": "On",
-            "OFF": "Off",
+            "ON": "Activé",
+            "OFF": "Désactivé",
             "HIDE": "Cacher",
             "UNHIDE": "Ne plus cacher",
             "HIDDEN_ROOM_CODE": "?????",
@@ -38,10 +34,10 @@
             "SETTINGS": "Paramètres",
             "BACK_TO_PACK": "Retour",
             "PLAY_DESCRIPTION": "Créer un salon et jouer",
-            "SETTINGS_DESCRIPTION": "Modération, Audience, et plus",
-            "BACK_TO_PACK_DESCRIPTION": "Retourner au Party Pack",
-            "STREAMER_MODE": "Mode Streamer",
-            "STREAMER_MODE_DESCRIPTION": "Jouez contre vos viewers ! Les Streamers sont dans une équipe et les viewers sont dans une autre. <br> Nous recommandons d'activer les mots de passe dans les paramètres avant de commencer. </br>",
+            "SETTINGS_DESCRIPTION": "Modération, spectateurs et autres options",
+            "BACK_TO_PACK_DESCRIPTION": "Retour au menu des jeux",
+            "STREAMER_MODE": "Mode diffusion en direct",
+            "STREAMER_MODE_DESCRIPTION": "Jouez contre vos spectateurs ! Les personnes qui diffusent la partie forment une équipe, et leurs spectateurs en forment une autre.<br>Nous conseillons d'activer les mots de passe dans les paramètres avant de commencer.</br>",
             "SETTINGS_TITLE": "PARAMÈTRES",
             "CONNECTING": "Connexion aux services Jackbox Games",
             "CONNECTING_DELAY": "Cela prend un peu de temps...<br/>Vérifiez votre connexion internet.",
@@ -57,7 +53,7 @@
             "TO_CANCEL": "pour annuler",
             "TO_START_GAME": "pour commencer",
             "TO_CANCEL_GAME": "pour annuler",
-            "JOIN_AUDIENCE": "Rejoignez l'audience",
+            "JOIN_AUDIENCE": "Rejoindre les spectateurs",
             "PLAY_AGAIN_WITH": "REJOUER AVEC",
             "SAME_PLAYERS": "MÊMES JOUEURS",
             "LOBBY_OR": "OU",
@@ -68,65 +64,52 @@
             "LOBBY_STATUS_MESSAGE_COUNTDOWN": "Annuler",
             "LOBBY_STATUS_MESSAGE_WAITINGFORVIP": "En attente de {VIP} pour démarrer la partie",
             "LOBBY_STATUS_MESSAGE_WAITINGFORGAMEPAD": "En attente du lancement de la partie",
-
             "CONTROLLER_SIT_BACK": "Asseyez-vous et détendez-vous",
             "CONTROLLER_WAIT_FOR_PLAYERS": "ATTENDEZ LES AUTRES JOUEURS",
             "CONTROLLER_PRESS_EVERYBODYS_IN": "",
             "CONTROLLER_EVERYBODYS_IN": "<div>APPUYEZ QUAND</div><div>TOUT LE MONDE EST PRÊT</div>",
             "CONTROLLER_PRESS_CANCEL": "",
             "CONTROLLER_CANCEL": "<div>APPUYEZ POUR</div><div>ANNULER LE LANCEMENT</div>",
-            "CONTROLLER_POSTGAME_CHOICE": "ENVIE DE JOUER A NOUVEAU ?",
+            "CONTROLLER_POSTGAME_CHOICE": "ENVIE DE REJOUER ?",
             "CONTROLLER_SAME_PLAYERS": "MÊMES JOUEURS",
             "CONTROLLER_NEW_PLAYERS": "NOUVEAUX JOUEURS",
-
             "LOBBY_SETTINGS": "Paramètres",
             "LOBBY_SETTINGS_ICON_MAX": "MAX",
             "LOBBY_SETTINGS_ICON_MOD_PLURAL": "MODS",
             "LOBBY_SETTINGS_ICON_MOD_SINGULAR": "MOD",
-
             "MODERATION_TIMER_LABEL": "En attente de la modération",
-
             "GLOBAL_ROOM_CODE_LABEL": "Code du salon",
             "GLOBAL_ROOM_CODE_SIMPLE_LABEL": "Code du salon",
             "GLOBAL_ROOM_CODE_REMINDER_LABEL": "LaBox<br/>DeJack<br/>.fr",
-
             "FILTER_PLAYERNAME": "Filtrer les questions joueur",
             "FILTER_PLAYERNAME_DESCRIPTION": "Supprimez les questions qui incorporent les noms des joueurs.",
-
             "SURVEY_PROMPT_CHOICE_TEXT": "Choisissez votre %s réponse",
             "SURVEY_PROMPT_CHOICE_PLACE_0": "première",
             "SURVEY_PROMPT_CHOICE_PLACE_1": "seconde",
             "SURVEY_PROMPT_CHOICE_PLACE_2": "troisième",
             "SURVEY_PROMPT_CHOICE_PLACE_3": "quatrième",
             "SURVEY_PROMPT_CHOICE_PLACE_4": "cinquième",
-
             "RANKING_CHOICE_PROMPT": "Choisissez une réponse pour la question \n%s",
-
             "RANK_ORDINAL_ENDINGS": [
                 "er",
-                "nd",
-                "ème",
-                "ème",
-                "ème",
-                "ème",
-                "ème",
-                "ème"
+                "e",
+                "e",
+                "e",
+                "e",
+                "e",
+                "e",
+                "e"
             ],
-
             "DOOR_CHOICE_RANKING": "N°: %s",
-
             "RULESET_PROMPT_0_0": "Top 3",
             "RULESET_PROMPT_1_0": "2, 3 et 4",
             "RULESET_PROMPT_2": "De 8 à 1",
-
             "SKIP_TUTORIAL_INTERACTION_TEXT": "Passer le tutoriel ?",
             "SKIP_TUTORIAL_BUTTON_TEXT": "Passer",
-
-            "AUDIENCE_LABEL": "Audience",
-
+            "AUDIENCE_LABEL": "Spectateurs",
             "ROUND_MAP_WARNING_HEADING_WARNING": "Avertissement :",
-            "ROUND_MAP_WARNING_HEADING_CAUTION" : "Attention :",
-            "ROUND_MAP_WARNING_HEADING_BEWARE" : " Prudence :",
+            "ROUND_MAP_WARNING_HEADING_CAUTION": "Attention :",
+            "ROUND_MAP_WARNING_HEADING_BEWARE": " Prudence :",
             "ROUND_MAP_WARNING_TEXT_CAUTION": [
                 "Les petits monstres sont venimeux. Les grands monstres sont confiants",
                 "Cette ombre n'est peut-être pas la vôtre",
@@ -143,7 +126,7 @@
                 "Ce n'est pas votre mère en bas, croyez-moi.",
                 "Boire dans les graals est sitrictement interdit."
             ],
-            "ROUND_MAP_WARNING_TEXT_BEWARE" : [
+            "ROUND_MAP_WARNING_TEXT_BEWARE": [
                 "Les rochers normaux et les araignées des rochers sont identiques",
                 "Faites preuve de prudence",
                 "Sphinx particulièrement obtus aujourd'hui",
@@ -162,7 +145,7 @@
                 "Enfants.",
                 "Laisser tomber des miettes de pain pour retrouver son chemin ne fera qu'irriter les Goules à Miettes de Pain."
             ],
-            "ROUND_MAP_WARNING_TEXT_WARNING" : [
+            "ROUND_MAP_WARNING_TEXT_WARNING": [
                 "Il n'y a pas de \"Sud\" dans cette grotte, juste le \"Grand Nord\" et le \"Petit Nord\".",
                 "La Sorcière essaiera de faire des projets avec vous après votre évasion.",
                 "Une grotte divisée ne peut pas tenir. Alors faites attention où vous mettez les pieds.",
@@ -181,13 +164,13 @@
                 "Pas d'escapades, de courses ou de sabotages après les heures de travail.",
                 "Les trois têtes des chiens des cavernes doivent être tenues en laisse."
             ],
-            "ROUND_MAP_NOTE_TEXT" : [
+            "ROUND_MAP_NOTE_TEXT": [
                 "J'ai laissé plusieurs sangsues savoureuses pour vous. S'il vous plaît, partagez.",
                 "Les opinions sont comme les nombrils... Vous en aurez besoin pour vous échapper de la grotte !",
                 "Après le fiasco de la semaine dernière, tous les aventuriers ont perdu le privilège de la Grande Hache.",
                 "Je mangerai volontiers les torches que vous n'utilisez pas.",
                 "Il s'avère que le vrai trésor est tout cet or que j'ai.",
-                "Faites-moi savoir si vous voyez mon ami Jeff. Jeff est genre, un TAS d'os.", 
+                "Faites-moi savoir si vous voyez mon ami Jeff. Jeff est genre, un TAS d'os.",
                 "Les monstres sont mes enfants, mais ils sont aussi payés équitablement en tant qu'entrepreneurs indépendants,",
                 "Les fosses <u>sont</u> \"sans fond\", mais plus dans le sens du mimosa que dans celui de la mort par famine.",
                 "J'adore les classements. Par exemple, vous êtes tous à égalité pour \"mort\" et \"super mort\". Sympa !",
@@ -215,53 +198,199 @@
                 "Vous aimez les torches ? Je les ai fabriquées avec de vieilles échelles qui menaient à la surface !"
             ],
             "ROUND_MAP_ROOM_TITLES": [
-                [ "Grotte sucrée", "Mine acide", "Caverne très épicée" ],
-                [ "Grotte à basse pression", "Grotte à haute pression", "Cavenado" ],
-                [ "Mine d'entraînement", "Grotte d'entraînement", "Caverne de Carnegie" ],
-                [ "Grotte de la terreur", "Caverne effrayante", "Mine de l'interaction gênante" ],
-                [ "Mine de la dissidence", "Caverne du débat", "Caverne des cris" ],
-                [ "Tunnel de la première base", "Grotte de la deuxième base", "Caverne de la poignée de main"],
-                [ "Caverne de la tristesse", "Caverne du marchandage", " Gouffre de l'acceptation" ],
-                [ "Mine éclatante", "Caverne craquante", "Grotte explosive" ],
-                [ "Système d'histoires courtes", "Étroitures de nouvelles", "Atolls d'anthologie" ],
-                [ "Caverne de la Rage Routière", "Tunnel de la Tempête du Train", "Mines de la Folie du Monorail" ],
-                [ "Grotte du Bon", "Mine de la Brute", "Caverne du Truand" ],
-                [ "La Mine de Minuit", "Crète du crépuscule", "Souterrain du Soir" ],
-                [ "Grotte de la Bestie", "Mine de l'Amant", "Caverne de l'Ennemi" ],
-                [ "Grotte de la Secousse", "Caverne du Hochet", "Mine du Rouleau" ],
-                [ "Caverne du Ver", "Souterrain Vert", "Tunnel de Verre" ],
-                [ "Creux de l'amour", "Grotte du mariage", "Tunnel des poussettes" ],
-                [ "Creux législatif", "Mine exécutive", "Gouffre judiciaire" ],
-                [ "Grotte : La série originale", "Grotte: Next Generation", "Grotte : Le Retour du Roi" ],
-                [ "Gouffre du Ça", "Caverne du Moi", "Mine du Sur-moi"],
-                [ "Caverne de la Pierre", "Grotte du Papier", "Abîme des Ciseaux"],
-                [ "Creux de la Cabane de Paille", "Caverne de la Maison en Bâtons", "Cave du Manoir en Briques" ],
-                [ "Trou d'Athos", "Creux d'Aramis", "Fosse de Porthos" ],
-                [ "Crevasse du Bacon", "Ravin de la Laitue", "Grotte de la Tomate" ],
-                [ "Caverne Trop Chaude", "Gouffre Trop Froid", "Grotte Idéale" ],
-                [ "Grotte du Pâté", "Tunnel du Saucisson", "Caverne du Foie Gras" ],
-                [ "Caverne du Lever du Soleil", "Grotte du Coucher du Soleil", "Creux du Déjeuner Tardif" ],
-                [ "Cave du Mal Invisible", "Vide du Mal Inaudible", "Caverne du Mal Indescriptible" ],
-                [ "Creux du Paradis", "Ravin de l'Enfer", "Gouffre de Newark, New Jersey"],
-                [ "Abîme de l'Apéritif", "Grotte de l'Entrée", "Gouffre de l'Addition" ],
-                [ "Mine du jazz lisse", "Caverne du jazz glissant", "Gouffre du jazz moite" ],
-                [ "Creux du Rhume des Foins", "Mine de Pollen", "Mine d'Antihistaminiques" ],
-                [ "Mines des Araignées", "Cavernes des Corgis", "Mines des Araignées Partie II" ],
-                [ "Golfe du crépuscule", "Creux de l'Éclipse'", "Grotte de l'Aube Brisée" ],
-                [ "Trou de la Tarte", "Mine du citron vert", "Creux du 3.1415926535" ],
-                [ "Caverne Scalène", "Mine Isocèle", "Trou équilatéral" ],
-                [ "Première caverne", "Caverne Numéro Deux", "Caverne C" ],
-                [ "Mines de l'Accident", "Caverne de la Coïncidence", "Grotte du Pattern" ]
+                [
+                    "Grotte sucrée",
+                    "Mine acide",
+                    "Caverne très épicée"
+                ],
+                [
+                    "Grotte à basse pression",
+                    "Grotte à haute pression",
+                    "Cavenado"
+                ],
+                [
+                    "Mine d'entraînement",
+                    "Grotte d'entraînement",
+                    "Caverne de Carnegie"
+                ],
+                [
+                    "Grotte de la terreur",
+                    "Caverne effrayante",
+                    "Mine de l'interaction gênante"
+                ],
+                [
+                    "Mine de la dissidence",
+                    "Caverne du débat",
+                    "Caverne des cris"
+                ],
+                [
+                    "Tunnel de la première base",
+                    "Grotte de la deuxième base",
+                    "Caverne de la poignée de main"
+                ],
+                [
+                    "Caverne de la tristesse",
+                    "Caverne du marchandage",
+                    " Gouffre de l'acceptation"
+                ],
+                [
+                    "Mine éclatante",
+                    "Caverne craquante",
+                    "Grotte explosive"
+                ],
+                [
+                    "Système d'histoires courtes",
+                    "Étroitures de nouvelles",
+                    "Atolls d'anthologie"
+                ],
+                [
+                    "Caverne de la Rage Routière",
+                    "Tunnel de la Tempête du Train",
+                    "Mines de la Folie du Monorail"
+                ],
+                [
+                    "Grotte du Bon",
+                    "Mine de la Brute",
+                    "Caverne du Truand"
+                ],
+                [
+                    "La Mine de Minuit",
+                    "Crète du crépuscule",
+                    "Souterrain du Soir"
+                ],
+                [
+                    "Grotte de la Bestie",
+                    "Mine de l'Amant",
+                    "Caverne de l'Ennemi"
+                ],
+                [
+                    "Grotte de la Secousse",
+                    "Caverne du Hochet",
+                    "Mine du Rouleau"
+                ],
+                [
+                    "Caverne du Ver",
+                    "Souterrain Vert",
+                    "Tunnel de Verre"
+                ],
+                [
+                    "Creux de l'amour",
+                    "Grotte du mariage",
+                    "Tunnel des poussettes"
+                ],
+                [
+                    "Creux législatif",
+                    "Mine exécutive",
+                    "Gouffre judiciaire"
+                ],
+                [
+                    "Grotte : La série originale",
+                    "Grotte: Next Generation",
+                    "Grotte : Le Retour du Roi"
+                ],
+                [
+                    "Gouffre du Ça",
+                    "Caverne du Moi",
+                    "Mine du Sur-moi"
+                ],
+                [
+                    "Caverne de la Pierre",
+                    "Grotte du Papier",
+                    "Abîme des Ciseaux"
+                ],
+                [
+                    "Creux de la Cabane de Paille",
+                    "Caverne de la Maison en Bâtons",
+                    "Cave du Manoir en Briques"
+                ],
+                [
+                    "Trou d'Athos",
+                    "Creux d'Aramis",
+                    "Fosse de Porthos"
+                ],
+                [
+                    "Crevasse du Bacon",
+                    "Ravin de la Laitue",
+                    "Grotte de la Tomate"
+                ],
+                [
+                    "Caverne Trop Chaude",
+                    "Gouffre Trop Froid",
+                    "Grotte Idéale"
+                ],
+                [
+                    "Grotte du Pâté",
+                    "Tunnel du Saucisson",
+                    "Caverne du Foie Gras"
+                ],
+                [
+                    "Caverne du Lever du Soleil",
+                    "Grotte du Coucher du Soleil",
+                    "Creux du Déjeuner Tardif"
+                ],
+                [
+                    "Cave du Mal Invisible",
+                    "Vide du Mal Inaudible",
+                    "Caverne du Mal Indescriptible"
+                ],
+                [
+                    "Creux du Paradis",
+                    "Ravin de l'Enfer",
+                    "Gouffre de Newark, New Jersey"
+                ],
+                [
+                    "Abîme de l'Apéritif",
+                    "Grotte de l'Entrée",
+                    "Gouffre de l'Addition"
+                ],
+                [
+                    "Mine du jazz lisse",
+                    "Caverne du jazz glissant",
+                    "Gouffre du jazz moite"
+                ],
+                [
+                    "Creux du Rhume des Foins",
+                    "Mine de Pollen",
+                    "Mine d'Antihistaminiques"
+                ],
+                [
+                    "Mines des Araignées",
+                    "Cavernes des Corgis",
+                    "Mines des Araignées Partie II"
+                ],
+                [
+                    "Golfe du crépuscule",
+                    "Creux de l'Éclipse'",
+                    "Grotte de l'Aube Brisée"
+                ],
+                [
+                    "Trou de la Tarte",
+                    "Mine du citron vert",
+                    "Creux du 3.1415926535"
+                ],
+                [
+                    "Caverne Scalène",
+                    "Mine Isocèle",
+                    "Trou équilatéral"
+                ],
+                [
+                    "Première caverne",
+                    "Caverne Numéro Deux",
+                    "Caverne C"
+                ],
+                [
+                    "Mines de l'Accident",
+                    "Caverne de la Coïncidence",
+                    "Grotte du Pattern"
+                ]
             ],
             "ROUND_MAP_WELCOME": "Bienvenue !",
-
             "SURVEY_ROUND_HEADER": "Répondez au sondage",
             "TIMES_UP_MESSAGE_TEXT": "Temps écoulé !",
             "GAME_END_MESSAGE_TEXT": "Une réponse exacte termine la partie !",
-            "AUDIENCE_COUNT_TEXT": "audience de %s",
+            "AUDIENCE_COUNT_TEXT": "%s spectateurs",
             "AUDIENCE_REVEAL_PERCENT_GUESS_CORRECT": "%s%<br>DE L'AUDIENCE<br>ONT REPONDU<br>CORRECTEMENT",
             "AUDIENCE_REVEAL_PERCENT_GUESS_INCORRECT": "%s%<br>DE L'AUDIENCE<br>SE SONT<br>TROMPES",
-
             "TEXT_DESCRIPTION_PLAYER_JOINED_VIP": "%s a rejoint et est le VIP.",
             "TEXT_DESCRIPTION_PLAYER_JOINED": "%s a rejoint.",
             "TEXT_DESCRIPTION_PLAYER_CHOOSE_AVATAR": "%s a choisi son avatar",
@@ -269,55 +398,54 @@
             "TEXT_DESCRIPTION_LEFT_TEAM": "équipe de gauche",
             "TEXT_DESCRIPTION_RIGHT_TEAM": "équipe de droite",
             "TEXT_DESCRIPTION_PLAYER_NAMES_LIST": "%s sont dans %s et vont se battre contre %s de l'équipe %s",
-            "TEXT_DESCRIPTION_ROUND_RULES_0" : "Pour le premier tour, choisissez les 3 meilleures réponses",
-            "TEXT_DESCRIPTION_ROUND_RULES_1" : "Pour le deuxième tour, choisissez les deuxième, troisième et quatrième réponses les plus populaires",
-            "TEXT_DESCRIPTION_ROUND_RULES_2" : "Pour le troisième tour, trouvez toutes les réponses, de la moins populaire à la plus populaire, en commençant par la huitième",
+            "TEXT_DESCRIPTION_ROUND_RULES_0": "Pour le premier tour, choisissez les 3 meilleures réponses",
+            "TEXT_DESCRIPTION_ROUND_RULES_1": "Pour le deuxième tour, choisissez les deuxième, troisième et quatrième réponses les plus populaires",
+            "TEXT_DESCRIPTION_ROUND_RULES_2": "Pour le troisième tour, trouvez toutes les réponses, de la moins populaire à la plus populaire, en commençant par la huitième",
             "TEXT_DESCRIPTION_NUM_TORCHES": "%s a %s torches",
             "TEXT_DESCRIPTION_TEAM_CHOOSING": "L'équipe %s est en train de choisir une porte",
-            "TEXT_DESCRIPTION_REVEALED_SO_FAR_HEADER" : "Voici ce que nous savons",
-            "TEXT_DESCRIPTION_REVEALED_SO_FAR_RANKING" : "%s est classé #%s",
-            "TEXT_DESCRIPTION_TEAM_CHOICE" : "L'équipe %s a choisi %s",
-            "TEXT_DESCRIPTION_TEAM_CORRECT_CHOICE" : "L'équipe %s a raison et a gagné une torche !",
-            "TEXT_DESCRIPTION_TEAM_WRONG_CHOICE" : "L'équipe %s a tort !",
-            "TEXT_DESCRIPTION_TEAM_WRONG_CHOICE_TORCH_LOSS" : "L'équipe %s s'est trompée et a perdu une torche !",
-            "TEXT_DESCRIPTION_OPPOSING_TEAM_FINAL_CHANCE" : "L'équipe %s est en dernière chance. %s doit réussir pour gagner",
-            "TEXT_DESCRIPTION_GAME_END_TEAM_WIN" : "L'équipe %s a gagné ! L'équipe %s a perdu !",
-            "TEXT_DESCRIPTION_GAME_END_TEAM_TIE" : "L'équipe %s et l'équipe %s sont à égalité !",
-            "TEXT_DESCRIPTION_REVEAL" : "%s",
-
-            "CREDITS_THEME_0": "You had an itch to burgle a witch",
-            "CREDITS_THEME_1": "Now you’re in a trench that you just can’t ditch",
-            "CREDITS_THEME_2": "You’re fine, It's all mine",
-            "CREDITS_THEME_3": "In my dominion I need opinions",
-            "CREDITS_THEME_4": "The only way you’re gonna escape",
-            "CREDITS_THEME_5": "Is choose a door and see how it rates",
-            "CREDITS_THEME_6": "[SPOKEN] There's no gold...!",
-            "CREDITS_THEME_7": "[SUNG] But you can take polls",
-            "CREDITS_THEME_8": "You'll learn your lesson for faulty guessin'",
-            "CREDITS_THEME_9": "It's the Poll Mine",
-            "CREDITS_THEME_10": "Let’s survey it",
-            "CREDITS_THEME_11": "It's the Poll Mine",
-            "CREDITS_THEME_12": "Here's how we play it: ",
-            "CREDITS_THEME_13": "I'll give you the questions and the answers too...",
-            "CREDITS_THEME_14": "[SPOKEN] You're welcome.",
-            "CREDITS_THEME_15": "You pick the three that look best to you...",
-            "CREDITS_THEME_16": "[SPOKEN] Easy, huh?",
-            "CREDITS_THEME_17": "Determine their order and be very brave",
-            "CREDITS_THEME_18": "I’ll set you free as long as you don't cave",
-            "CREDITS_THEME_19": "Poll Mine",
-            "CREDITS_THEME_20": "Will you bend to trends or stand up to your friends?",
-            "CREDITS_THEME_21": "Poll Mine",
-            "CREDITS_THEME_22": "Dig deep to ascend and reach the end",
-            "CREDITS_THEME_23": "Poll Mine",
-            "CREDITS_THEME_24": "C'mon and say it",
-            "CREDITS_THEME_25": "It's the Poll Mine",
-            "CREDITS_THEME_26": "C'mon and play it",
-            "CREDITS_THEME_27": "It's the Poll Mine",
-            "CREDITS_THEME_28": "[EVIL LAUGH]"
+            "TEXT_DESCRIPTION_REVEALED_SO_FAR_HEADER": "Voici ce que nous savons",
+            "TEXT_DESCRIPTION_REVEALED_SO_FAR_RANKING": "%s est classé #%s",
+            "TEXT_DESCRIPTION_TEAM_CHOICE": "L'équipe %s a choisi %s",
+            "TEXT_DESCRIPTION_TEAM_CORRECT_CHOICE": "L'équipe %s a raison et a gagné une torche !",
+            "TEXT_DESCRIPTION_TEAM_WRONG_CHOICE": "L'équipe %s a tort !",
+            "TEXT_DESCRIPTION_TEAM_WRONG_CHOICE_TORCH_LOSS": "L'équipe %s s'est trompée et a perdu une torche !",
+            "TEXT_DESCRIPTION_OPPOSING_TEAM_FINAL_CHANCE": "L'équipe %s est en dernière chance. %s doit réussir pour gagner",
+            "TEXT_DESCRIPTION_GAME_END_TEAM_WIN": "L'équipe %s a gagné ! L'équipe %s a perdu !",
+            "TEXT_DESCRIPTION_GAME_END_TEAM_TIE": "L'équipe %s et l'équipe %s sont à égalité !",
+            "TEXT_DESCRIPTION_REVEAL": "%s",
+            "CREDITS_THEME_0": "Vous vouliez dépouiller une sorcière",
+            "CREDITS_THEME_1": "Vous voilà coincés au fond de ma tanière !",
+            "CREDITS_THEME_2": "Tout va bien… enfin, surtout pour moi !",
+            "CREDITS_THEME_3": "Dans mon royaume, je veux connaître vos choix.",
+            "CREDITS_THEME_4": "Pour retrouver votre liberté,",
+            "CREDITS_THEME_5": "Il faut choisir une porte et deviner les préférées.",
+            "CREDITS_THEME_6": "[PARLÉ] Il n'y a pas d'or ici !",
+            "CREDITS_THEME_7": "[CHANTÉ] Mais des sondages à remplir !",
+            "CREDITS_THEME_8": "Si vous devinez mal, vous apprendrez la leçon !",
+            "CREDITS_THEME_9": "C'est la Mine aux sondages !",
+            "CREDITS_THEME_10": "Allez, on vote !",
+            "CREDITS_THEME_11": "C'est la Mine aux sondages !",
+            "CREDITS_THEME_12": "Voici comment ça se passe :",
+            "CREDITS_THEME_13": "Je vous donne les questions et même les réponses…",
+            "CREDITS_THEME_14": "[PARLÉ] Ne me remerciez pas !",
+            "CREDITS_THEME_15": "Choisissez les trois réponses qui vous plaisent le plus…",
+            "CREDITS_THEME_16": "[PARLÉ] Facile, non ?",
+            "CREDITS_THEME_17": "Retrouvez leur classement et montrez-vous courageux,",
+            "CREDITS_THEME_18": "Je vous laisserai sortir, si vous tenez le coup !",
+            "CREDITS_THEME_19": "La Mine aux sondages !",
+            "CREDITS_THEME_20": "Suivrez-vous la tendance ou défendrez-vous vos préférences ?",
+            "CREDITS_THEME_21": "La Mine aux sondages !",
+            "CREDITS_THEME_22": "Creusez-vous la tête pour atteindre la sortie !",
+            "CREDITS_THEME_23": "La Mine aux sondages !",
+            "CREDITS_THEME_24": "Allez, dites-le !",
+            "CREDITS_THEME_25": "C'est la Mine aux sondages !",
+            "CREDITS_THEME_26": "Venez y jouer !",
+            "CREDITS_THEME_27": "C'est la Mine aux sondages !",
+            "CREDITS_THEME_28": "[RIRE DIABOLIQUE]"
         },
-    "fr": {},
-    "it": {},
-    "de": {},
-    "es": {}
-}
+        "fr": {},
+        "it": {},
+        "de": {},
+        "es": {}
+    }
 }
