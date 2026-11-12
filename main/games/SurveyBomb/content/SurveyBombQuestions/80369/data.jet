@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"false","n":"HasIntroAudio"},{"t":"A","v":"intro","n":"IntroAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"A","v":"question","n":"QuestionAudio","s":"Vous faites du stop à travers le pays. De qui refuseriez-vous une place en voiture ?"},{"t":"B","v":"false","n":"HasOutroAudio"},{"t":"A","v":"outro","n":"OutroAudio"}]}

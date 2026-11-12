@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"false","n":"HasIntroAudio"},{"t":"A","v":"intro","n":"IntroAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"A","v":"question","n":"QuestionAudio","s":"Avec laquelle de ces armes imaginaires êtes-vous certain de vous blesser ?"},{"t":"B","v":"false","n":"HasOutroAudio"},{"t":"A","v":"outro","n":"OutroAudio"}]}

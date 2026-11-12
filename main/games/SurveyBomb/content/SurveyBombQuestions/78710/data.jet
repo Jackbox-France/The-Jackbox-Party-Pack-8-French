@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"false","n":"HasIntroAudio"},{"t":"A","v":"intro","n":"IntroAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"A","v":"question","n":"QuestionAudio","s":"Hé, l'étudiant ! Améliore tes nouilles instantanées avec ce qui traîne dans ta cuisine !"},{"t":"B","v":"false","n":"HasOutroAudio"},{"t":"A","v":"outro","n":"OutroAudio"}]}

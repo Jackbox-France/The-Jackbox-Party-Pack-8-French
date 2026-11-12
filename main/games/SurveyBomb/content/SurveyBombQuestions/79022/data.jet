@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"false","n":"HasIntroAudio"},{"t":"A","v":"intro","n":"IntroAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"A","v":"question","n":"QuestionAudio","s":"Quelle épice mérite de régner sur tout le placard ?"},{"t":"B","v":"false","n":"HasOutroAudio"},{"t":"A","v":"outro","n":"OutroAudio"}]}

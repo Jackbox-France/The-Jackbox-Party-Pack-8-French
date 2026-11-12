@@ -57,13 +57,13 @@
   {
    "id": "80691",
    "isValid": "",
-   "prompt": "{{BLANK}} It.",
+   "prompt": "Tout pour {{BLANK}} !",
    "x": false
   },
   {
    "id": "80692",
    "isValid": "",
-   "prompt": "vous êtes {{BLANK}}.",
+   "prompt": "Tu es {{BLANK}}.",
    "x": false
   },
   {
@@ -99,19 +99,19 @@
   {
    "id": "80698",
    "isValid": "",
-   "prompt": "Occupe toi de {{BLANK}}.",
+   "prompt": "Occupe-toi de {{BLANK}}.",
    "x": false
   },
   {
    "id": "80699",
    "isValid": "",
-   "prompt": "Souviens toi de ton {{BLANK}}.",
+   "prompt": "Souviens-toi de {{BLANK}}.",
    "x": false
   },
   {
    "id": "80700",
    "isValid": "",
-   "prompt": "Arrète {{BLANK}}.",
+   "prompt": "Arrête {{BLANK}}.",
    "x": false
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "80702",
    "isValid": "",
-   "prompt": "N'aie pas peur {{BLANK}}.",
+   "prompt": "N'aie pas peur de {{BLANK}}.",
    "x": false
   },
   {
@@ -147,7 +147,7 @@
   {
    "id": "80707",
    "isValid": "",
-   "prompt": "{{BLANK}} Est Possible.",
+   "prompt": "Tout est possible avec {{BLANK}}.",
    "x": false
   },
   {
@@ -159,13 +159,13 @@
   {
    "id": "80710",
    "isValid": "",
-   "prompt": "Pense en dehors de {{BLANK}}.",
+   "prompt": "Sors du cadre : {{BLANK}} !",
    "x": false
   },
   {
    "id": "80711",
    "isValid": "",
-   "prompt": "Il n'y a pas de {{BLANK}} Dans EQUIPE.",
+   "prompt": "Il n'y a pas de « je » dans « équipe »… mais il y a {{BLANK}} !",
    "x": false
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "80716",
    "isValid": "",
-   "prompt": "{{BLANK}} Est tout.",
+   "prompt": "{{BLANK}}, c'est tout.",
    "x": false
   },
   {
@@ -327,13 +327,13 @@
   {
    "id": "82862",
    "isValid": "",
-   "prompt": "Right here. Right {{BLANK}}.",
+   "prompt": "Ici et maintenant : {{BLANK}}.",
    "x": false
   },
   {
    "id": "82863",
    "isValid": "",
-   "prompt": "Soit le {{BLANK}} de ton équipe.",
+   "prompt": "Fais briller ton équipe grâce à {{BLANK}}.",
    "x": false
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "82870",
    "isValid": "",
-   "prompt": "Ne te fache pas, deviens {{BLANK}}.",
+   "prompt": "Ne te fâche pas, deviens {{BLANK}}.",
    "x": false
   },
   {
@@ -429,7 +429,7 @@
   {
    "id": "83396",
    "isValid": "",
-   "prompt": "N'arrète jamais {{BLANK}}.",
+   "prompt": "N'arrête jamais {{BLANK}}.",
    "x": false
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "83398",
    "isValid": "",
-   "prompt": "Quatre-vingt pourcents du succès est {{BLANK}}.",
+   "prompt": "80 % du succès, c'est {{BLANK}}.",
    "x": false
   },
   {
@@ -453,13 +453,13 @@
   {
    "id": "84038",
    "isValid": "",
-   "prompt": "{{BLANK}} c'est pou les autres.",
+   "prompt": "{{BLANK}}, c'est réservé aux meilleurs.",
    "x": false
   },
   {
    "id": "84039",
    "isValid": "",
-   "prompt": "Force dans {{BLANK}}.",
+   "prompt": "Notre force, c'est {{BLANK}}.",
    "x": false
   },
   {

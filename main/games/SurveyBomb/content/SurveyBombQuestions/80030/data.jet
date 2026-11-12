@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"false","n":"HasIntroAudio"},{"t":"A","v":"intro","n":"IntroAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"A","v":"question","n":"QuestionAudio","s":"À laquelle de ces grandes questions aimeriez-vous surtout avoir une réponse ?"},{"t":"B","v":"false","n":"HasOutroAudio"},{"t":"A","v":"outro","n":"OutroAudio"}]}

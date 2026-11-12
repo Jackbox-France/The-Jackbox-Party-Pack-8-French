@@ -15,13 +15,13 @@
   {
    "id": "76182",
    "isValid": "",
-   "phrase": "Ici te regarde, gamin.",
+   "phrase": "À la tienne, petit !",
    "x": false
   },
   {
    "id": "76184",
    "isValid": "",
-   "phrase": "Il n'y a pas de lamentations au baby-foot! Comme dans d'autres sports, je ne peux pas le supporter.",
+   "phrase": "On ne pleure pas au baby-foot ! Pour les autres sports, je ne saurais dire.",
    "x": false
   },
   {
@@ -57,7 +57,7 @@
   {
    "id": "76190",
    "isValid": "",
-   "phrase": "C'est trop d'argent pour mon carnet de poche",
+   "phrase": "C'est trop cher pour mon portefeuille",
    "x": false
   },
   {
@@ -2335,6 +2335,12 @@
    "x": false
   },
   {
+   "id": "81987",
+   "isValid": "",
+   "phrase": "Ah, monsieur a retenu ses cours de français de sixième ! Faudrait grandir un peu.",
+   "x": false
+  },
+  {
    "id": "81988",
    "isValid": "",
    "phrase": "Ma jalousie est normale et rationnelle, et ne m'ébranlera pas de l'intérieur.",
@@ -2374,6 +2380,12 @@
    "id": "82027",
    "isValid": "",
    "phrase": "Yo, gars, je ne suis pas flatulent, c'est tous ces félins là-haut.",
+   "x": false
+  },
+  {
+   "id": "82029",
+   "isValid": "",
+   "phrase": "Alors, mon brave ! Une bien belle journée pour une petite bagarre, n'est-ce pas ?",
    "x": false
   },
   {
@@ -2625,7 +2637,7 @@
   {
    "id": "82219",
    "isValid": "",
-   "phrase": "Laissez-moi vous dire tout de suite qu'un BLT, c'est bien plus que trois ingrédients.",
+   "phrase": "Un sandwich bacon, salade et tomate, c'est bien plus que trois ingrédients. C'est une philosophie.",
    "x": false
   },
   {
@@ -2781,7 +2793,7 @@
   {
    "id": "82809",
    "isValid": "",
-   "phrase": "J'ai reçu un MBA honorifique. Master of Business Awesomeness. C'est exact, mon chou.",
+   "phrase": "J'ai décroché un MBA honorifique : Master du Boulot Absurde. Oui, ça en jette !",
    "x": false
   },
   {
@@ -3351,7 +3363,7 @@
   {
    "id": "84376",
    "isValid": "",
-   "phrase": "fruits, vegetables, grains: these are the demons i must slay",
+   "phrase": "Fruits, légumes, céréales : voilà les démons que je dois terrasser.",
    "x": false
   },
   {

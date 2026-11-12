@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasIntroAudio"},{"t":"A","v":"intro","n":"IntroAudio","s":"Un coup de tonnerre retentit !"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"A","v":"question","n":"QuestionAudio","s":"À votre instinct : qui a assassiné le comte dans ce luxueux manoir ?"},{"t":"B","v":"false","n":"HasOutroAudio"},{"t":"A","v":"outro","n":"OutroAudio"}]}

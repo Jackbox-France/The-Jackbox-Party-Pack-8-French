@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasIntroAudio"},{"t":"A","v":"intro","n":"IntroAudio","s":"Que les jeux de la faim commencent !"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"A","v":"question","n":"QuestionAudio","s":"Qui survivrait le plus longtemps dans les Hunger Games ?"},{"t":"B","v":"false","n":"HasOutroAudio"},{"t":"A","v":"outro","n":"OutroAudio"}]}

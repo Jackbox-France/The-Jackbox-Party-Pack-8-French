@@ -1,0 +1,220 @@
+{
+ "content": [
+  {
+   "id": "76463",
+   "isValid": "",
+   "phrase": "Je suis trop nul pour jouer, désolé :(",
+   "x": false
+  },
+  {
+   "id": "76464",
+   "isValid": "",
+   "phrase": "J'ai gâché la partie, je crois.",
+   "x": false
+  },
+  {
+   "id": "76465",
+   "isValid": "",
+   "phrase": "J'ai été distrait et j'ai oublié de faire une blague.",
+   "x": false
+  },
+  {
+   "id": "76466",
+   "isValid": "",
+   "phrase": "Cliquer sur des mots, c'est beaucoup trop difficile !",
+   "x": false
+  },
+  {
+   "id": "76467",
+   "isValid": "",
+   "phrase": "De toute façon, je ne voulais pas de points.",
+   "x": false
+  },
+  {
+   "id": "76469",
+   "isValid": "",
+   "phrase": "J'avais dit que je jouerais, mais j'ai menti.",
+   "x": false
+  },
+  {
+   "id": "76470",
+   "isValid": "",
+   "phrase": "Je vais répondre par une question : comment on joue, déjà ?",
+   "x": false
+  },
+  {
+   "id": "76471",
+   "isValid": "",
+   "phrase": "J'ai oublié de répondre, alors je vous fais une petite danse.",
+   "x": false
+  },
+  {
+   "id": "82997",
+   "isValid": "",
+   "phrase": "Ne choisissez pas ça, j'ai même pas joué !",
+   "x": false
+  },
+  {
+   "id": "82999",
+   "isValid": "",
+   "phrase": "Je n'ai rien écrit. Toutes mes plus sincères excuses.",
+   "x": false
+  },
+  {
+   "id": "83085",
+   "isValid": "",
+   "phrase": "Voici quelques mots offerts à la personne qui n'a pas joué.",
+   "x": false
+  },
+  {
+   "id": "83087",
+   "isValid": "",
+   "phrase": "J'ai perdu cette manche exprès. Bien sûr.",
+   "x": false
+  },
+  {
+   "id": "83092",
+   "isValid": "",
+   "phrase": "Je peux être drôle, hein. Juste pas pendant cette manche.",
+   "x": false
+  },
+  {
+   "id": "83095",
+   "isValid": "",
+   "phrase": "Oh non ! J'ai oublié de mettre des mots dans le jeu.",
+   "x": false
+  },
+  {
+   "id": "83910",
+   "isValid": "",
+   "phrase": "Moi nul au jeu ? Oui.",
+   "x": false
+  },
+  {
+   "id": "83915",
+   "isValid": "",
+   "phrase": "Il fallait cliquer sur le bouton. J'ai pas cliqué.",
+   "x": false
+  },
+  {
+   "id": "83918",
+   "isValid": "",
+   "phrase": "Oups, j'ai oublié de jouer.",
+   "x": false
+  },
+  {
+   "id": "83997",
+   "isValid": "",
+   "phrase": "Mauvais joueur. Aucune réponse à signaler.",
+   "x": false
+  },
+  {
+   "id": "84000",
+   "isValid": "",
+   "phrase": "Moi avoir arrêté de jouer. Voilà.",
+   "x": false
+  },
+  {
+   "id": "84348",
+   "isValid": "",
+   "phrase": "Votez pour l'autre réponse.",
+   "x": false
+  },
+  {
+   "id": "84349",
+   "isValid": "",
+   "phrase": "J'ai pas suivi les consignes.",
+   "x": false
+  },
+  {
+   "id": "84353",
+   "isValid": "",
+   "phrase": "Ne votez pas pour moi, j'ai tout raté.",
+   "x": false
+  },
+  {
+   "id": "84772",
+   "isValid": "",
+   "phrase": "Ha ha ha, moi pas joué !",
+   "x": false
+  },
+  {
+   "id": "84774",
+   "isValid": "",
+   "phrase": "Salut, c'est le jeu qui parle. Qu'est-ce qui est arrivé à ce joueur ?",
+   "x": false
+  },
+  {
+   "id": "84776",
+   "isValid": "",
+   "phrase": "Ah mince, j'ai rien créé du tout.",
+   "x": false
+  },
+  {
+   "id": "84777",
+   "isValid": "",
+   "phrase": "Bon, le jeu va répondre à ma place.",
+   "x": false
+  },
+  {
+   "id": "84778",
+   "isValid": "",
+   "phrase": "Vous n'aurez aucune réponse de ma part.",
+   "x": false
+  },
+  {
+   "id": "84874",
+   "isValid": "",
+   "phrase": "Mauvaise nouvelle : zéro réponse ici.",
+   "x": false
+  },
+  {
+   "id": "84876",
+   "isValid": "",
+   "phrase": "J'ai cassé le jeu. Oups.",
+   "x": false
+  },
+  {
+   "id": "84880",
+   "isValid": "",
+   "phrase": "Le temps est écoulé avant que je réponde.",
+   "x": false
+  },
+  {
+   "id": "84884",
+   "isValid": "",
+   "phrase": "J'ai fait une boulette. Pas de réponse.",
+   "x": false
+  },
+  {
+   "id": "84950",
+   "isValid": "",
+   "phrase": "J'avais un seul job… et je l'ai raté.",
+   "x": false
+  },
+  {
+   "id": "84952",
+   "isValid": "",
+   "phrase": "J'ai pas répondu, mais franchement, c'est pas si grave.",
+   "x": false
+  },
+  {
+   "id": "84954",
+   "isValid": "",
+   "phrase": "Honte à ce joueur qui n'a rien répondu !",
+   "x": false
+  },
+  {
+   "id": "84956",
+   "isValid": "",
+   "phrase": "J'ai rien écrit, et maintenant le jeu est fichu.",
+   "x": false
+  },
+  {
+   "id": "84958",
+   "isValid": "",
+   "phrase": "J'ai pas écrit de réponse. Huez-moi !",
+   "x": false
+  }
+ ]
+}

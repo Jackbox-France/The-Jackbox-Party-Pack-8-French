@@ -1,8 +1,8 @@
 {
-   "content":[
+   "content": [
       {
-         "prompt":"Votre formule de politesse préférée",
-         "choices":[
+         "prompt": "Votre formule de politesse préférée",
+         "choices": [
             "Accolade",
             "Poignée de main",
             "Tope-là",
@@ -11,28 +11,28 @@
          ]
       },
       {
-         "prompt":"Meilleurs ajouts à un chocolat chaud",
-         "choices":[
+         "prompt": "Meilleurs ajouts à un chocolat chaud",
+         "choices": [
             "Guimauves",
             "Crème fouettée",
             "Cannelle",
-            "Canne à sucre",
+            "Sucre d'orge",
             "Zeste d'orange"
          ]
       },
       {
-         "prompt":"Chapeaux les plus cool",
-         "choices":[
-            "Chapeau",
+         "prompt": "Les chapeaux les plus élégants",
+         "choices": [
+            "Haut-de-forme",
             "Bonnet",
-            "Fedora",
+            "Chapeau melon",
             "Béret",
             "Couronne"
          ]
       },
       {
-         "prompt":"Meilleures façons de fermer un pantalon",
-         "choices":[
+         "prompt": "Meilleures façons de fermer un pantalon",
+         "choices": [
             "Bouton",
             "Fermeture éclair",
             "Épingle à nourrice",
@@ -41,39 +41,39 @@
          ]
       },
       {
-         "prompt":"Couleurs de cheveux préférées",
-         "choices":[
-            "Blonde",
-            "Brunette",
+         "prompt": "Couleurs de cheveux préférées",
+         "choices": [
+            "Blond",
+            "Brun",
             "Noir de jais",
             "Gris",
             "Chauve"
          ]
       },
       {
-         "prompt":"Meilleurs outils de jardinage",
-         "choices":[
+         "prompt": "Meilleurs outils de jardinage",
+         "choices": [
             "Râteau",
             "Pelle",
-            "Cisaille",
+            "Cisailles",
             "Houe",
             "Tondeuse"
          ]
       },
       {
-         "prompt":"Meilleurs jouets pour bébé",
-         "choices":[
+         "prompt": "Meilleurs jouets pour bébé",
+         "choices": [
             "Hochet",
             "Blocs",
             "Ours en peluche",
             "Clés",
-            "Caillou cool"
+            "Un caillou bien pointu"
          ]
       },
       {
-         "prompt":"Meilleures choses sur lesquelles s'asseoir",
-         "choices":[
-            "Causeuse",
+         "prompt": "Meilleures choses sur lesquelles s'asseoir",
+         "choices": [
+            "Fauteuil en cuir",
             "Tabouret de bar",
             "Ballon de yoga",
             "Banc en bois",
@@ -81,8 +81,8 @@
          ]
       },
       {
-         "prompt":"Qu'est-ce qui est le plus collant",
-         "choices":[
+         "prompt": "Qu'est-ce qui est le plus collant ?",
+         "choices": [
             "Colle",
             "Miel",
             "Goudron",
@@ -91,19 +91,19 @@
          ]
       },
       {
-         "prompt":"Médecins les plus dignes de confiance",
-         "choices":[
-            "Dr. Evil",
-            "Dr. Oz",
-            "Dr. Strange",
-            "Dr. Seuss",
-            "Dr. Ruth"
+         "prompt": "Médecins les plus dignes de confiance",
+         "choices": [
+            "Docteur Denfer",
+            "Docteur Oz",
+            "Docteur Strange",
+            "Docteur Seuss",
+            "Docteur Ruth"
          ]
       },
       {
-         "prompt":"Les capitaines les plus héroïques",
-         "choices":[
-            "Cap'tain America",
+         "prompt": "Les capitaines les plus héroïques",
+         "choices": [
+            "Captain America",
             "Capitaine Marvel",
             "Capitaine Kirk",
             "Capitaine Planète",
@@ -111,18 +111,18 @@
          ]
       },
       {
-         "prompt":"Qu'est-ce qui vous fait rire ?",
-         "choices":[
+         "prompt": "Qu'est-ce qui vous fait rire ?",
+         "choices": [
             "Blagues sur les pets",
             "Batailles de tartes",
-            "Memes bizarres",
+            "Des mèmes absurdes",
             "Singeries de chats",
             "Jeux de mots"
          ]
       },
       {
-         "prompt":"Meilleures choses à pousser",
-         "choices":[
+         "prompt": "Meilleures choses à pousser",
+         "choices": [
             "Un bouton",
             "Une poussette",
             "Une balançoire",
@@ -131,8 +131,8 @@
          ]
       },
       {
-         "prompt":"Choses préférées à enflammer",
-         "choices":[
+         "prompt": "Choses préférées à enflammer",
+         "choices": [
             "Bougie",
             "Journal",
             "Pétard",
@@ -141,8 +141,8 @@
          ]
       },
       {
-         "prompt":"Pires utilisations de la sauce piquante",
-         "choices":[
+         "prompt": "Pires utilisations de la sauce piquante",
+         "choices": [
             "Dentifrice",
             "Shampooing",
             "Déodorant",
@@ -151,8 +151,8 @@
          ]
       },
       {
-         "prompt":"Les parties les plus froides de l'espace",
-         "choices":[
+         "prompt": "Les choses les plus cool de l'espace",
+         "choices": [
             "Météores",
             "Trous noirs",
             "Étoiles",

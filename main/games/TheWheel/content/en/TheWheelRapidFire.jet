@@ -47,7 +47,7 @@
                "value":"11"
             }
          ],
-         "category":"Factoïdes",
+         "category":"Anecdotes",
          "id":"76752",
          "isValid":"",
          "prompt":"Quelle substance est la plus chère au gramme ?",
@@ -61,51 +61,51 @@
          "answers":[
             {
                "text":"Mastiff",
-               "value":"230"
+               "value":"104"
             },
             {
                "text":"Saint Bernard",
-               "value":"180"
+               "value":"82"
             },
             {
                "text":"Dogue allemand",
-               "value":"175"
+               "value":"79"
             },
             {
                "text":"Terre-Neuve",
-               "value":"150"
+               "value":"68"
             },
             {
                "text":"Chien de Saint-Hubert",
-               "value":"110"
+               "value":"50"
             },
             {
                "text":"Doberman Pinscher",
-               "value":"100"
+               "value":"45"
             },
             {
                "text":"Golden Retriever",
-               "value":"75"
+               "value":"34"
             },
             {
                "text":"Shar-Peï",
-               "value":"60"
+               "value":"27"
             },
             {
                "text":"Welsh Corgi Pembroke",
-               "value":"30"
+               "value":"14"
             },
             {
                "text":"West Highland White Terrier",
-               "value":"20"
+               "value":"9"
             },
             {
                "text":"Griffon bruxellois",
-               "value":"10"
+               "value":"5"
             },
             {
                "text":"Chihuahua",
-               "value":"6"
+               "value":"3"
             }
          ],
          "category":"Animaux",
@@ -114,7 +114,7 @@
          "prompt":"Quelle race de chien est la plus lourde ?",
          "sort":"descending",
          "subtype":"le plus/le moins",
-         "unit":"(en livres)",
+         "unit":"(en kilogrammes, valeurs approximatives)",
          "us":false,
          "x":false
       },
@@ -161,7 +161,7 @@
                "value":"10"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "id":"76792",
          "isValid":"",
          "prompt":"Quelle ville française est la plus proche de Paris (à vol d'oiseau) ?",
@@ -499,56 +499,56 @@
          "answers":[
             {
                "text":"Crocodile d'eau salée",
-               "value":"3700"
+               "value":"255"
             },
             {
                "text":"Hippopotame",
-               "value":"1800"
+               "value":"124"
             },
             {
                "text":"Jaguar",
-               "value":"1500"
+               "value":"103"
             },
             {
                "text":"Gorille",
-               "value":"1300"
+               "value":"90"
             },
             {
                "text":"Ours polaire",
-               "value":"1200"
+               "value":"83"
             },
             {
                "text":"Hyène",
-               "value":"1100"
+               "value":"76"
             },
             {
                "text":"Tortue alligator",
-               "value":"1000"
+               "value":"69"
             },
             {
                "text":"Lion",
-               "value":"650"
+               "value":"45"
             },
             {
                "text":"Mastiff",
-               "value":"550"
+               "value":"38"
             },
             {
                "text":"Loup gris",
-               "value":"398"
+               "value":"27"
             },
             {
                "text":"Humain",
-               "value":"160"
+               "value":"11"
             }
          ],
          "category":"Animaux",
          "id":"77296",
          "isValid":"",
-         "prompt":"Quel animal a la plus grande force de morsure en livres par pouce carré ?",
+         "prompt":"Quel animal a la morsure la plus puissante ?",
          "sort":"descending",
          "subtype":"le plus/le moins",
-         "unit":"(en livres par pouce carré)",
+         "unit":"(en bars, valeurs approximatives)",
          "us":false,
          "x":false
       },
@@ -607,7 +607,7 @@
                "value":"13"
             }
          ],
-         "category":"Professions",
+         "category":"Métiers",
          "id":"78718",
          "isValid":"",
          "prompt":"Quel grade de l'armée de Terre est le plus haut ?",
@@ -717,7 +717,7 @@
                "value":"9"
             }
          ],
-         "category":"Professions",
+         "category":"Métiers",
          "id":"78721",
          "isValid":"",
          "prompt":"Quel rôle est le plus proche du sommet de la hiérarchie d'une salle d'auteurs de télévision ?",
@@ -774,7 +774,7 @@
                "value":"1957"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "id":"78723",
          "isValid":"",
          "prompt":"Quel pays a été admis le plus récemment dans l'Union Européeenne ?",
@@ -908,7 +908,7 @@
                "value":"1"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "id":"78775",
          "isValid":"",
          "prompt":"En 2020, quel pays avait une population plus élevée ?",
@@ -1463,44 +1463,44 @@
          "answers":[
             {
                "text":"Neptune",
-               "value":"12146"
+               "value":"19547"
             },
             {
                "text":"Uranus",
-               "value":"15233"
+               "value":"24515"
             },
             {
                "text":"Saturne",
-               "value":"21675"
+               "value":"34883"
             },
             {
                "text":"Jupiter",
-               "value":"29236"
+               "value":"47051"
             },
             {
                "text":"Mars",
-               "value":"53858"
+               "value":"86676"
             },
             {
                "text":"Terre",
-               "value":"66615"
+               "value":"107206"
             },
             {
                "text":"Vénus",
-               "value":"78337"
+               "value":"126071"
             },
             {
                "text":"Mercure",
-               "value":"107082"
+               "value":"172332"
             }
          ],
          "category":"Sciences et médecine",
          "id":"79042",
          "isValid":"",
-         "prompt":"Quelle planète a sa vitesse orbitale la plus lente ?",
+         "prompt":"Quelle planète tourne le plus lentement autour du Soleil ?",
          "sort":"ascending",
          "subtype":"le plus/le moins",
-         "unit":"(en miles par heure)",
+         "unit":"(en km/h, valeurs approximatives)",
          "us":false,
          "x":false
       },
@@ -1604,7 +1604,7 @@
                "value":"3"
             }
          ],
-         "category":"Factoïdes",
+         "category":"Anecdotes",
          "id":"79061",
          "isValid":"",
          "prompt":"En 2021, quelle ville française avait le plus de piscines municipales ?",
@@ -1807,7 +1807,7 @@
                "value":"13"
             }
          ],
-         "category":"Figures historiques",
+         "category":"Personnages historiques",
          "id":"79129",
          "isValid":"",
          "prompt":"Qui a été le plus récemment président de France ?",
@@ -2116,7 +2116,7 @@
                "value":"1943"
             },
             {
-               "text":"Liban",
+               "text":"Haïti",
                "value":"1804"
             }
          ],
@@ -2445,7 +2445,7 @@
                "value":"14"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "id":"83684",
          "isValid":"",
          "prompt":"Laquelle de ces villes est la plus proche du pôle Nord ?",
@@ -3124,7 +3124,7 @@
                "value":"13"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "id":"84270",
          "isValid":"",
          "prompt":"Quelle est la lettre la plus proche de M dans l'alphabet ?",
@@ -3189,7 +3189,7 @@
                "value":"0"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "id":"84272",
          "isValid":"",
          "prompt":"Quel est le site culturel ou monument célèbre dont la construction a été achevée le plus récemment ?",
@@ -3258,7 +3258,7 @@
                "value":"10"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "id":"84337",
          "isValid":"",
          "prompt":"Quel mot a le plus de lettres ?",
@@ -3567,7 +3567,7 @@
                "value":"2011"
             },
             {
-               "text":"Vigne",
+               "text":"Vine",
                "value":"2013"
             },
             {
@@ -3593,7 +3593,7 @@
             },
             {
                "text":"[i]Chansons pour les pieds[/i]",
-               "value":"2018"
+               "value":"2001"
             },
             {
                "text":"[i]Tournée 98 en passant[/i]",
@@ -3872,7 +3872,7 @@
                "value":"3"
             }
          ],
-         "category":"Films et télévision",
+         "category":"Cinéma et télévision",
          "id":"84658",
          "isValid":"",
          "prompt":"Quelle marque de tempo musical est la plus rapide ?",
@@ -4132,7 +4132,7 @@
                "value":"12"
             }
          ],
-         "category":"Figures historiques",
+         "category":"Personnages historiques",
          "id":"85202",
          "isValid":"",
          "prompt":"Qui est la plus récente Première Dame de France ?",
@@ -4327,7 +4327,7 @@
                "value":"1980"
             }
          ],
-         "category":"Figures historiques",
+         "category":"Personnages historiques",
          "id":"85449",
          "isValid":"",
          "prompt":"Quel compositeur célèbre est né le premier ?",
@@ -4388,7 +4388,7 @@
                "value":"12"
             }
          ],
-         "category":"Géographie et points de repères",
+         "category":"Géographie et monuments",
          "id":"85450",
          "isValid":"",
          "prompt":"Quelle ville de la France métropolitaine est la plus au sud ?",
@@ -4660,7 +4660,7 @@
                "value":"10"
             }
          ],
-         "category":"Professions",
+         "category":"Métiers",
          "id":"85637",
          "isValid":"",
          "prompt":"Lesquels de ces rôles sont les plus proches du sommet de la hiérarchie d'un hôpital ?",
@@ -4985,7 +4985,7 @@
                "value":"13"
             }
          ],
-         "category":"Figures historiques",
+         "category":"Personnages historiques",
          "id":"85759",
          "isValid":"",
          "prompt":"Parmi ces personnages historiques, quels sont ceux dont la taille est la plus proche de celle d'André le Géant (2,23 m) ?",
@@ -5326,7 +5326,7 @@
                "value":"685"
             }
          ],
-         "category":"Professions",
+         "category":"Métiers",
          "id":"85847",
          "isValid":"",
          "prompt":"En 2020, laquelle de ces industries employait le plus de personnes aux États-Unis ?",
@@ -5594,7 +5594,7 @@
                "value":"12"
             }
          ],
-         "category":"Calendrier/Vacances",
+         "category":"Calendrier et fêtes",
          "id":"85881",
          "isValid":"",
          "prompt":"Quel signe du zodiaque astrologique apparaît plus tôt dans l'année civile ?",
@@ -6004,7 +6004,7 @@
                "value":"16"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "id":"86044",
          "isValid":"",
          "prompt":"Quel type de personnalité Myers-Briggs vient en premier dans l'ORDRE ALPHABÉTIQUE ?",

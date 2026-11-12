@@ -72,7 +72,7 @@
                "text":"Argentine"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":false,
          "id":"76584",
          "isValid":"",
@@ -180,7 +180,18 @@
                   "Paques"
                ],
                "hint":"Pour celle-ci, vous mangez beaucoup de chocolats.",
-               "text":"Pâques"
+               "text":"Lundi de Pâques"
+            },
+            {
+               "altSpellings":[
+                  "8 mai",
+                  "Le 8 mai",
+                  "Fête de la victoire",
+                  "Victoire 1945",
+                  "Commémoration de la victoire du 8 mai 1945"
+               ],
+               "hint":"On commémore la fin de la Seconde Guerre mondiale en Europe.",
+               "text":"Victoire du 8 mai 1945"
             },
             {
                "altSpellings":[
@@ -203,7 +214,7 @@
                   "Pentecôte"
                ],
                "hint":"",
-               "text":"Lundi de pentecôte"
+               "text":"Lundi de Pentecôte"
             },
             {
                "altSpellings":[
@@ -215,7 +226,7 @@
             },
             {
                "altSpellings":[
-                  "14/06",
+                  "14/07",
                   "14 juillet",
                   "National",
                   "Nationale",
@@ -224,7 +235,7 @@
                   "Fête nationale"
                ],
                "hint":"",
-               "text":"La fête nationale"
+               "text":"Fête nationale du 14 juillet"
             },
             {
                "altSpellings":[
@@ -261,11 +272,11 @@
                "text":"Armistice"
             }
          ],
-         "category":"Calendrier/Vacances",
+         "category":"Calendrier et fêtes",
          "exactSpelling":false,
          "id":"76588",
          "isValid":"",
-         "prompt":"Quels sont les jours fériés en France ?",
+         "prompt":"Quels sont les jours fériés nationaux en France ?",
          "subtype":"name",
          "us":true,
          "x":false
@@ -320,24 +331,13 @@
                ],
                "hint":"C'est une petite bête",
                "text":"belette"
-            },
-            {
-               "altSpellings":[
-                  "humain",
-                  "homme",
-                  "homme",
-                  "humain",
-                  "humain"
-               ],
-               "hint":"De mon point de vue, il n'y a aucune différence entre un animal et Michao",
-               "text":"homme"
             }
          ],
          "category":"Musique",
          "exactSpelling":false,
          "id":"76590",
          "isValid":"",
-         "prompt":"Les 6 animaux mentionnés dans la chanson \"La jument de Michao\"",
+         "prompt":"Quels animaux sont cités dans la chanson \"La jument de Michao\" ?",
          "subtype":"name",
          "us":false,
          "x":false
@@ -409,7 +409,7 @@
                "text":"déterminant"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":false,
          "id":"76591",
          "isValid":"",
@@ -654,7 +654,7 @@
                "text":"Criss Cross"
             }
          ],
-         "category":"Factoïdes",
+         "category":"Anecdotes",
          "exactSpelling":true,
          "id":"77196",
          "isValid":"",
@@ -1579,7 +1579,7 @@
                "text":"kayak"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":true,
          "id":"77336",
          "isValid":"",
@@ -1675,7 +1675,7 @@
                "text":"Little Boo"
             }
          ],
-         "category":"Films et télévision",
+         "category":"Cinéma et télévision",
          "exactSpelling":true,
          "id":"77337",
          "isValid":"",
@@ -1764,7 +1764,7 @@
                "text":"Le Vent se lève"
             }
          ],
-         "category":"Cinéma et Télévision",
+         "category":"Cinéma et télévision",
          "exactSpelling":true,
          "id":"77338",
          "isValid":"",
@@ -2660,7 +2660,7 @@
                "text":"Épouvantail"
             }
          ],
-         "category":"Animation/Comics",
+         "category":"Animation et BD",
          "exactSpelling":false,
          "id":"78737",
          "isValid":"",
@@ -2728,7 +2728,7 @@
                "text":"commodités"
             }
          ],
-         "category":"Language/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":false,
          "id":"78745",
          "isValid":"",
@@ -2815,7 +2815,7 @@
                "text":"Merry"
             }
          ],
-         "category":"Cinéma et Télévision",
+         "category":"Cinéma et télévision",
          "exactSpelling":false,
          "id":"78747",
          "isValid":"",
@@ -2954,7 +2954,7 @@
                "text":"Eau gazeuse"
             }
          ],
-         "category":"Nourriture et Boissons",
+         "category":"Nourriture et boissons",
          "exactSpelling":false,
          "id":"79191",
          "isValid":"",
@@ -3001,7 +3001,7 @@
                "text":"Queens"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":false,
          "id":"79192",
          "isValid":"",
@@ -3144,7 +3144,7 @@
                "text":"Monaco"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":false,
          "id":"79220",
          "isValid":"",
@@ -3212,7 +3212,7 @@
                "text":"Orlando"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":false,
          "id":"79222",
          "isValid":"",
@@ -3558,7 +3558,7 @@
                "text":"Melchisédech"
             }
          ],
-         "category":"Nourriture et Boissons",
+         "category":"Nourriture et boissons",
          "exactSpelling":false,
          "id":"79420",
          "isValid":"",
@@ -3751,7 +3751,7 @@
                "text":"iPod"
             }
          ],
-         "category":"Factoïdes",
+         "category":"Anecdotes",
          "exactSpelling":false,
          "id":"79461",
          "isValid":"",
@@ -4324,7 +4324,7 @@
                "text":"ay"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":true,
          "id":"79613",
          "isValid":"",
@@ -4365,7 +4365,7 @@
                "text":"ex"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":true,
          "id":"79614",
          "isValid":"",
@@ -4407,7 +4407,7 @@
                "text":"genoux"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":true,
          "id":"79615",
          "isValid":"",
@@ -4481,7 +4481,7 @@
                "text":"voir des personnes mortes"
             }
          ],
-         "category":"Factoïdes",
+         "category":"Anecdotes",
          "exactSpelling":false,
          "id":"80249",
          "isValid":"",
@@ -4564,7 +4564,7 @@
                "text":"Nord-Pas-de-Calais"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":true,
          "id":"80323",
          "isValid":"",
@@ -4618,7 +4618,7 @@
                "text":"Maggie"
             }
          ],
-         "category":"Animation/Livres comiques",
+         "category":"Animation et BD",
          "exactSpelling":false,
          "id":"82672",
          "isValid":"",
@@ -4670,7 +4670,7 @@
                "text":"Liechtenstein"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":false,
          "id":"82674",
          "isValid":"",
@@ -4731,7 +4731,7 @@
                "text":"Timide"
             }
          ],
-         "category":"Films et télévision",
+         "category":"Cinéma et télévision",
          "exactSpelling":false,
          "id":"82695",
          "isValid":"",
@@ -4792,7 +4792,7 @@
                "text":"ou"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":true,
          "id":"82701",
          "isValid":"",
@@ -4853,7 +4853,7 @@
                "text":"ut"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":true,
          "id":"82702",
          "isValid":"",
@@ -4919,14 +4919,14 @@
             },
             {
                "altSpellings":[
-                  "François Mitterand",
+                  "François Mitterrand",
                   "François Mitteran",
                   "François",
                   "Mitteran",
                   "Mitterant"
                ],
-               "hint":"Cette personne a été présidente le plus longtemps lors du XXe siècle, avec 13 ans en son actif !",
-               "text":"Mitterand"
+               "hint":"Cette personne a été président de la République de 1981 à 1995, soit 14 ans.",
+               "text":"Mitterrand"
             },
             {
                "altSpellings":[
@@ -4940,7 +4940,7 @@
                "text":"Chirac"
             }
          ],
-         "category":"Figures historiques",
+         "category":"Personnages historiques",
          "exactSpelling":false,
          "id":"82707",
          "isValid":"",
@@ -5132,7 +5132,7 @@
                "text":"Oméga"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":true,
          "id":"83260",
          "isValid":"",
@@ -5363,7 +5363,7 @@
                "text":"Stockholm"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":true,
          "id":"83263",
          "isValid":"",
@@ -5562,7 +5562,7 @@
                "text":"Éducation musicale"
             }
          ],
-         "category":"Education",
+         "category":"Éducation",
          "exactSpelling":true,
          "id":"83267",
          "isValid":"",
@@ -5644,7 +5644,7 @@
                "text":"Palestine"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":false,
          "id":"83271",
          "isValid":"",
@@ -6106,7 +6106,7 @@
                "text":"Moselle"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":false,
          "id":"83328",
          "isValid":"",
@@ -6271,7 +6271,7 @@
                "text":"Pacifique"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":false,
          "id":"83335",
          "isValid":"",
@@ -6463,7 +6463,7 @@
                "text":"Supérieur"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":false,
          "id":"83340",
          "isValid":"",
@@ -6640,7 +6640,7 @@
                "text":"decem"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":true,
          "id":"83399",
          "isValid":"",
@@ -6726,7 +6726,7 @@
                "text":"Vésicule biliaire"
             }
          ],
-         "category":"Sciences",
+         "category":"Sciences et médecine",
          "exactSpelling":true,
          "id":"83404",
          "isValid":"",
@@ -6797,7 +6797,7 @@
                "text":"Christiane"
             }
          ],
-         "category":"Films et Télévision",
+         "category":"Cinéma et télévision",
          "exactSpelling":true,
          "id":"83441",
          "isValid":"",
@@ -6879,7 +6879,7 @@
                "text":"Nimbostratus"
             }
          ],
-         "category":"Langue/Mots/Grammaire",
+         "category":"Langue et grammaire",
          "exactSpelling":true,
          "id":"83445",
          "isValid":"",
@@ -7021,17 +7021,17 @@
                "altSpellings":[
                   "Guyane française"
                ],
-               "hint":"Cap Canaveral, ça vous dit un truc?",
+               "hint":"Le Centre spatial guyanais est situé à Kourou.",
                "text":"Guyane"
             },
             {
                "altSpellings":[
-                  "Saint Barthélémy",
-                  "St-Barthélémy",
-                  "St Barthélémy"
+                  "Saint Barthélemy",
+                  "St-Barthélemy",
+                  "St Barthélemy"
                ],
                "hint":"On aime bien sanctifier nos territoires, essayez de retrouver des saints.",
-               "text":"Saint-Barthélémy"
+               "text":"Saint-Barthélemy"
             },
             {
                "altSpellings":[
@@ -7065,7 +7065,7 @@
                "text":"Saint-Martin"
             }
          ],
-         "category":"Géographie et points de repère",
+         "category":"Géographie et monuments",
          "exactSpelling":true,
          "id":"86377",
          "isValid":"",
