@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasIntroAudio"},{"t":"A","v":"intro","n":"IntroAudio","s":"Mon nom est Caverne. Laverne Caverne…"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"A","v":"question","n":"QuestionAudio","s":"Quel film inédit de James Bond aimeriez-vous voir ?"},{"t":"B","v":"false","n":"HasOutroAudio"},{"t":"A","v":"outro","n":"OutroAudio"}]}
